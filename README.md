@@ -91,8 +91,9 @@ page_headers = {
 执行以下命令下载视频，并保存基本信息（json）、视频（mp4）和音频文件（wav）：
 
 ```sh
-python download_video.py
+python -W ignore /content/dev/download_video.py --forum_id 87bd03631cf4409ea12febf9a1e74b1f
 ```
+
 
 ### 结果示例
 
@@ -104,3 +105,5 @@ uuid/
     uuid.mp4
     uuid.wav
 ```
+
+
