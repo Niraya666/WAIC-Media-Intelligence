@@ -16,6 +16,16 @@ pip install git+https://github.com/openai/whisper.git
 pip install faster-whisper
 ```
 
+使用：
+```
+python stt_by_faster_whisper.py path/to/your/audio/file \
+--model_size large-v3 \
+--device cuda \
+--compute_type float16 \
+--beam_size 5 \
+--output_path STT_results.json
+
+```
 ## 基于Groq-API的语音识别
 (非常快，但有使用限制)
 
