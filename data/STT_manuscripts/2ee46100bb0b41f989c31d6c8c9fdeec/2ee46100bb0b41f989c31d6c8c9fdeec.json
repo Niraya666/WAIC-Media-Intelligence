@@ -1,0 +1,121 @@
+{
+    "name": "知识改变世界——垂直大模型重新定义知识管理",
+    "addr": "世博中心430会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-28/4bab97d0b4264babb768c19a328bc23a.jpg",
+    "desc": "本论坛致力于构建一个开放、多元、互动的交流合作平台，旨在汇聚全球AI领域的专家学者、行业领袖、创新企业以及广大爱好者，共同探讨和分享垂直大模型技术的最新进展、应用实践和未来趋势。相信通过跨学科、跨行业的深度交流和合作，可以充分挖掘和发挥垂直大模型的潜力，推动知识管理领域的创新变革，为社会生产力的提升贡献智慧和力量。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/06/435063346987008.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "09:00",
+            "endTime": "09:20",
+            "speechGuest": "",
+            "speechTheme": "领导致辞"
+        },
+        {
+            "startTime": "09:20",
+            "endTime": "09:35",
+            "speechGuest": "",
+            "speechTheme": "大模型在金融领域的应用与思考"
+        },
+        {
+            "startTime": "09:35",
+            "endTime": "09:45",
+            "speechGuest": "",
+            "speechTheme": "四方战略合作签约仪式"
+        },
+        {
+            "startTime": "09:45",
+            "endTime": "10:05",
+            "speechGuest": "",
+            "speechTheme": "垂直大模型与知识管理的前沿发展与应用"
+        },
+        {
+            "startTime": "10:05",
+            "endTime": "10:25",
+            "speechGuest": "",
+            "speechTheme": "行业大模型落地应用的实践与探索"
+        },
+        {
+            "startTime": "10:25",
+            "endTime": "10:45",
+            "speechGuest": "",
+            "speechTheme": "解锁未来：基于大模型的数字人技术引领软件机器人应用的革命性突破"
+        },
+        {
+            "startTime": "10:45",
+            "endTime": "11:05",
+            "speechGuest": "",
+            "speechTheme": "AI赋能的智能数据可视化"
+        },
+        {
+            "startTime": "11:05",
+            "endTime": "11:15",
+            "speechGuest": "",
+            "speechTheme": "“大模型应用建设领航奖”颁奖仪式"
+        },
+        {
+            "startTime": "11:15",
+            "endTime": "12:00",
+            "speechGuest": "",
+            "speechTheme": "圆桌讨论 跨界共赢：探索垂直大模型的产业应用与合作模式"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "柴洪峰",
+            "company": "复旦大学",
+            "position": "金融科技研究院院长，中国工程院院士"
+        },
+        {
+            "name": "陈剑光",
+            "company": "安永（中国）企业咨询有限公司",
+            "position": "数据智能咨询服务合伙人"
+        },
+        {
+            "name": "陈运文",
+            "company": "达观数据有限公司",
+            "position": "董事长兼CEO"
+        },
+        {
+            "name": "邓江",
+            "company": "百川智能",
+            "position": "副总裁"
+        },
+        {
+            "name": "胡晓东",
+            "company": "曙光信息产业股份有限公司",
+            "position": "智能计算产品事业部副总经理"
+        },
+        {
+            "name": "李庆恩",
+            "company": "燧原科技",
+            "position": "产品战略副总裁"
+        },
+        {
+            "name": "刘江贤",
+            "company": "达观数据有限公司",
+            "position": "首席战略官"
+        },
+        {
+            "name": "王勇",
+            "company": "新加坡南洋理工大学",
+            "position": "计算机与科学技术学院助理教授"
+        },
+        {
+            "name": "吴杰",
+            "company": "复旦大学",
+            "position": "金融科技研究院常务副院长、计算机科学技术学院副院长"
+        },
+        {
+            "name": "叶广楠",
+            "company": "复旦大学",
+            "position": "计算机科学技术学院、金融科技研究院研究员"
+        },
+        {
+            "name": "俞枫",
+            "company": "国泰君安证券",
+            "position": "首席信息官"
+        }
+    ]
+}

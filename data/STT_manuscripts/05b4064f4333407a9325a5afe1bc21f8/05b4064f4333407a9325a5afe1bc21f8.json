@@ -1,0 +1,105 @@
+{
+    "name": "AIGC技术前瞻与产业实践",
+    "addr": "世博中心617会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-06/a3e16f6bf5bb47d2bd13eb684a0a6893.png",
+    "desc": "近年来，AIGC技术在多个领域都取得了显著的成果。京东云作为京东集团的技术与服务核心平台，专注于京东自有的零售、物流、健康、协同办公等核心场景，打造了一系列成熟的大模型与AIGC技术实践应用。这些应用包括数字人直播间、支持零售品牌商运营提效的大模型工具、AIGC驱动的远程医疗和慢病管理模式创新，以及协同办公场景的大模型应用等。京东云持续利用技术降低供应链成本、提升供应链效率、优化用户体验，为用户和企业创造更多价值。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434692159569920.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "09:00",
+            "endTime": "09:20",
+            "speechGuest": null,
+            "speechTheme": "边缘大模型赋能智联网的应用探索与实践"
+        },
+        {
+            "startTime": "09:20",
+            "endTime": "09:40",
+            "speechGuest": null,
+            "speechTheme": "生成式人工智能与决策优化"
+        },
+        {
+            "startTime": "09:40",
+            "endTime": "10:00",
+            "speechGuest": null,
+            "speechTheme": "AIGC基础模型发展与产业创新"
+        },
+        {
+            "startTime": "10:00",
+            "endTime": "10:20",
+            "speechGuest": null,
+            "speechTheme": "大模型、AI能力赋能北京市政务协同平台"
+        },
+        {
+            "startTime": "10:20",
+            "endTime": "10:40",
+            "speechGuest": null,
+            "speechTheme": "人工智能助力城市数字化转型"
+        },
+        {
+            "startTime": "10:40",
+            "endTime": "11:00",
+            "speechGuest": null,
+            "speechTheme": "京东大模型发展及场景应用最佳实践"
+        },
+        {
+            "startTime": "11:00",
+            "endTime": "11:20",
+            "speechGuest": null,
+            "speechTheme": "医疗产业大模型的技术实践和应用"
+        },
+        {
+            "startTime": "11:20",
+            "endTime": "12:00",
+            "speechGuest": null,
+            "speechTheme": "圆桌派:大模型时代，AIGC的创新与零售场景应用"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "曹建农",
+            "company": "香港理工大学",
+            "position": "欧洲人文和自然科学院院士 香港理工大学研究生院院长"
+        },
+        {
+            "name": "王梦迪",
+            "company": "普林斯顿大学",
+            "position": "普林斯顿大学教授 普林斯顿人工智能创新中心主任"
+        },
+        {
+            "name": "何晓冬",
+            "company": "京东集团",
+            "position": "京东探索研究院院长兼京东科技人工智能业务负责人、IEEE Fellow"
+        },
+        {
+            "name": "龚义成",
+            "company": "京东云",
+            "position": "京东云副总裁 京东云laaS产品研发部负责人"
+        },
+        {
+            "name": "王国鑫",
+            "company": "京东健康",
+            "position": "京东健康智能算法部负责人"
+        },
+        {
+            "name": "徐薇娜",
+            "company": "上海家化",
+            "position": "上海家化总经理"
+        },
+        {
+            "name": "范文竹",
+            "company": "伊利",
+            "position": "伊利数字化转型部负责人"
+        },
+        {
+            "name": "周 威",
+            "company": "同仁堂",
+            "position": "同仁堂电商副总裁"
+        },
+        {
+            "name": "王爱飞",
+            "company": "京东云",
+            "position": "京东科技智能服务业务部创新产品负责人"
+        }
+    ]
+}

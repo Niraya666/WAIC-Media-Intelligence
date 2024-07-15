@@ -1,0 +1,5481 @@
+ you
+ you
+ you
+ good morning, dear guests, students, and teachers.
+ Today, we gather here to attend the international AI front-end technology conference
+ hosted by the Center for AI Safety and the CIS Center for AI Safety in Shanghai.
+ On behalf of the host, I would like to express my warmest welcome and sincere thanks to all of you.
+ We know that we are living in an age where AI drives us and makes us struggle.
+ AI, especially large-scale technology, is developing at an unprecedented speed and scale,
+ and it has a profound impact on our daily lives.
+ As a technology worker in the field of AI, and as a security researcher in the field of large-scale technology,
+ I think I and all of you have experienced a huge change in the change of the world.
+ We can see that with the progress of large-scale technology,
+ large-scale technology has become more and more popular.
+ large-scale technology has become more and more popular.
+ With the increase of very large-scale technology,
+ artificial intelligence has become the highest ability.
+ Artificial intelligence means that the ability you did not have in training can appear in the future.
+ This is a great challenge for us in the world of traditional security.
+ Because traditionally we consider artificial intelligence to be a tool.
+ Now it is said that the ability it has is very likely that I could not predict it in the training stage.
+ So, plus artificial intelligence, it is also a basic, negative basic.
+ And common artificial intelligence is now developing our future entire social infrastructure,
+ so under this context,
+ and the safety of artificial intelligence and governance are the key points of our attention.
+ Today, we are also honored to have the top scholars from different countries in the field of AI
+ and the leaders of the industry to bring us a deep and exciting speech and a deep discussion.
+ We also saw that at this artificial intelligence conference,
+ the safety and governance of artificial intelligence has been raised to unprecedented heights.
+ The theme of our conference is AI for Good, for Good for All.
+ At the opening ceremony of the conference,
+ Prime Minister Li Qiang proposed to promote the development of artificial intelligence,
+ maintain the safety of artificial intelligence, and build the artificial intelligence governance system.
+ There are two of them, and two of the first three are related to safety and governance.
+ This fully reflects the importance of the conference on the issues of safety and governance.
+ I think this is also a response to the growing demand for AI security and governance in the global scope.
+ At the opening ceremony,
+ the Shanghai Declaration of Human Rights was also proposed.
+ This declaration not only emphasizes the ability of AI to adapt to the cross-cultural background,
+ but also raises the level of strategic development of AI, especially the development of security.
+ We know that the security of AI is a common problem faced by all of us human beings.
+ This declaration also calls for the adaptation and fairness of AI technology in different cultures and social backgrounds around the world.
+ I remember that some numbers were also used in the report at that time.
+ For example,
+ although the big model,
+ actually,
+ I want to say that the big model,
+ I want to say that the big model,
+ very much,
+ and a lot of people are using it.
+ Not only is the user,
+ but the technological advance,
+ but half of our population in the world now can't access this kind of AI technology.
+ Many developing countries can't fully develop from it.
+ So we need to build a system that is more inclusive of various AI ecosystems.
+ We are also the main unit in this conference.
+ Shanghai AI Lab has always been developing most universal AI technology.
+ We use more efficient methods to make big models,
+ and then use AI as our major responsibility and mission.
+ That is to say, our lab has been using security as our main direction from the very beginning.
+ Today, Mr. Zhao Jingbo, who is also our host in our industry,
+ is actually an important person in charge of our AI direction.
+ In this, we have been working on the construction of the database
+ and then we also pay attention to the safety of the AI big model.
+ That is to say, we have done a lot of calculations related to it.
+ In fact, there is another job that we are in charge of in the network and air association.
+ Today, Mr. Xiao is here.
+ That is to say, we have a work group with security.
+ This work group includes major domestic big models and the main institutions of AI research and development,
+ as well as our major enterprises,
+ such as Tsinghua University, Fudan University, Jiaotong University,
+ as well as Huawei, Tencent, Alibaba, and so on.
+ These companies are all in it.
+ We have developed a lot of work goals in this association,
+ which is to provide a good foundation for the big model industry by means of the way of business control.
+ On the one hand, we have provided a good foundation.
+ On the other hand, we have also considered many problems.
+ In fact, in the middle of the foundation process,
+ we need to guide the country in a very good way.
+ This kind of regular guidance has a policy framework.
+ But the policy framework really needs to be developed.
+ Everyone knows that it needs to be refined and developed.
+ We have conducted a lot of business interviews.
+ We should continue to develop this.
+ The lab also knows that the big model industry is in the process of developing.
+ The lab also knows that the big model industry is in the process of developing.
+ The lab also knows that the big model industry is in the process of developing.
+ We also noticed that the security management of AI is a very international thing.
+ We pay great attention to international cooperation and exchanges in this area.
+ Today's meeting is also an important step to promote international cooperation and exchanges.
+ Today's forum will mainly cover a few topics.
+ The first is the status and problems of the AI security field.
+ As you know, with the widespread development and widespread application of AI,
+ the risks and capabilities of AI are related.
+ On the one hand, we can see that the risks are getting bigger and bigger as the AI capabilities are improved.
+ On the other hand, we can also see that the improvement of AI capabilities
+ also provides us with new technical means to deal with this kind of risk.
+ The big model industry is very capable.
+ The market also provides us with a new approach to dealing with the wide range of security issues.
+ On the second hand, we will discuss the security of AI.
+ This is also an important point that the academic community is paying attention to.
+ In the future, we know that the development of AI will eventually surpass human intelligence.
+ When it surpasses human intelligence, how can we have a system?
+ I think this system not only includes technology, but also includes social systems and governance systems
+ to ensure that it will not be out of control in the future.
+ This is a very important aspect.
+ We have also seen a phenomenon in this regard.
+ In fact, whether it is in production,
+ in the industrial world,
+ or even in the scientific world,
+ our investment in the improvement of AI capabilities is far greater than our investment in security.
+ I think everyone is familiar with the story of OpenAI.
+ In fact, in addition to the story of OpenAI,
+ we also know that if we compare the computing power we have invested in the improvement of AI capabilities
+ with the computing power we have invested in security,
+ I think it may be a 10 to 1 or even a bigger number.
+ So in this regard,
+ I would like to draw more attention to society,
+ including the scientific world,
+ the academic world,
+ and the industrial world,
+ so that we can make better investments in AI development.
+ The third aspect is international cooperation in the field of AI.
+ We are exploring how to strengthen communication and cooperation at the AI level
+ through international cooperation.
+ Because this is a very big global problem and technological challenge that we are facing.
+ Then we will respond to this global problem together.
+ I think through today's exchange and discussion,
+ we hope to promote the development of AI capabilities
+ in the field of AI,
+ especially those of us who are attending today,
+ to understand and cooperate in the field of AI,
+ to jointly promote the sustainable health and development of AI technologies,
+ and to make contributions to the welfare of mankind.
+ Finally, I wish this conference a successful one.
+ I also hope that the guests of our conference
+ can get a precious inspiration from this technical feast.
+ Thank you.
+ Next, let's welcome Dan Song,
+ Professor of the Department of Electrical Engineering and Computer Science at UC Berkeley,
+ to deliver her keynote speech titled
+ Towards Building Safe AI, Challenges and Future Directions.
+ Dan Song's research areas include AI safety and privacy.
+ He is a recipient of the Microsoft Fellowship,
+ the Gagnon Fellowship,
+ and has been recognized
+ as one of the best
+ and one of the most influential scholars in computer security.
+ Dan Song, please.
+ Okay, great.
+ Thanks, everyone, for being here.
+ It's my great honor and pleasure
+ to give the keynote for this great conference.
+ I'll talk about...
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ Okay, okay, so there is some mix up on the slides, but that's okay, I'll just give this
+ talk.
+ That's fine.
+ Okay, yeah, so I'll talk about building responsible AI.
+ As we all know, large language models and also the AI technologies has been growing
+ exponentially and they are empowering rich capabilities in all different areas.
+ And also we see that the AI technologies have been making rapid advancements on AI model
+ performance and even reaching, even surpassing human performance on various benchmarks and
+ so on.
+ However, as we deploy AI technologies, it's important to ensure that the AI is able to
+ be used for the responsible use of these AI technologies.
+ And also the various governments around the globe also have been issuing guidance and
+ regulation to emphasize this as well.
+ And here I want to really emphasize that a particular aspect for responsible AI also
+ is that as we deploy machine learning, it's important to consider the presence of attackers
+ for a number of reasons.
+ First, history has shown that attackers always follow the footsteps of new technology development
+ or sometimes even lizards.
+ And also this time the stake is even higher with AI.
+ As AI controls more and more systems, attackers will have higher and higher incentives to
+ compromise these AI systems.
+ And also as AI becomes more and more capable, the consequence of misuse by attackers will
+ also become more and more severe.
+ And hence, as we deploy AI, it's important to ensure that the AI is able to be used for
+ the responsible use of these AI technologies.
+ And also it's important to ensure the responsible use of AI, especially in the adversarial setting.
+ For responsible AI, there are many different challenges given the interest of time.
+ I will only talk about the first one, how we can ensure trustworthy AI.
+ And also there are other important aspects as well, including how we can mitigate the
+ misuse of AI and also ensuring responsible data use and the proper data evaluation.
+ Thank you.
+ Thank you.
+ Thank you.
+ Thank you.
+ For trustworthy AI, there are actually many different aspects, including privacy, robustness,
+ hallucination, and many others.
+ Given the interest of time, again, I won't actually go through all these different aspects.
+ So privacy is one important aspect where we want to, because the models are trained on
+ sensitive data.
+ And hence, it's important to show that it's important to protect the privacy of the training data.
+ And our earlier work has shown that these models, even when attackers don't know the details about the models,
+ attackers can, by just querying these large language models, extract sensitive information from the training data.
+ And also, on our recent work, we also have developed a comprehensive framework for evaluating privacy issues of these large language models,
+ including many different types of attacks and defenses.
+ And also, our work has shown that actually this privacy leakage problem actually worsens as the model size increases.
+ And hence, we need to also develop defenses against...
+ these privacy issues as well.
+ Our earlier work showed that actually, by training
+ differentially private models, it actually can help mitigate these privacy issues.
+ And also, with the large language models, actually,
+ using differentially private fine-tuning can also help...
+ help protect the sensitive data in the fine-tune... the sensitive information in the fine-tune data as well.
+ And again, so our... in our work, we have done some comprehensive evaluations on this.
+ So, as I mentioned, right, given interest of time, I won't actually go into details on the privacy aspect.
+ So now, I'll move on to the next aspect, which is
+ integrity of the model outputs, in particular for, like,
+ in the setting of adversarial attacks.
+ So, given our earlier work, and also other researchers' work as well,
+ so, so by now, the community has learned that this kind of type of adversarial attacks,
+ such as adversary examples, they are prevalent in deep learning systems.
+ They can essentially... essentially, all different types of deep learning models,
+ and in different domains, they all... they are all vulnerable to this type of attacks.
+ Where attackers...
+ simply can manipulate...
+ manipulate the inputs to the model. In many cases, the perturbation is really small. That's
+ actually not perceptible by humans. But however, the maliciously-perturbed inputs can cause
+ the model to misbehave. For example, give the wrong prediction or, for example, in large
+ language models case can cause the model to essentially lose its alignment, safety alignment.
+ And so the field of adversary examples also has grown essentially exponentially as well.
+ So when we started working in this field, there were actually very few papers every
+ year in the right, in this topic.
+ But now, we're working on this.
+ We essentially have thousands of papers every year on this topic. And the artifacts of some
+ of our earlier work now actually has become a part of the permanent collection at the
+ Science Museum of London, which is a rare treat and honor for a scientific researcher
+ to have your work actually be exhibited in the museum.
+ So now, when we talk about safety-aligned large language models, adversarial attacks
+ also are effective on safety-aligned large language models as well.
+ And one of our recent work called Decoding Trust, it's actually one the outstanding paper
+ awards in 2023 in Europe, developed the first comprehensive trustworthiness evaluation platform
+ for large language models.
+ This, yeah, is what was called a trustworthiness evaluation platform for large language models in the West.
+ That's the full picture of the court, the real track, and that's the whole picture of real
+ LARGE LANGUAGE MODELS THAT EVALUATES MANY DIFFERENT
+ PERSPECTIVES IN TRUSTWORTHINESS FOR LARGE LANGUAGE MODELS.
+ AND OUR WORK HAS DEVELOPED VARIOUS NEW ALGORITHMS AND ALSO
+ DEVELOPED VARIOUS ENVIRONMENTS INCLUDING BOTH V9 AND
+ EVASOR ENVIRONMENTS TO EVALUATE THESE LARGE LANGUAGE MODELS
+ FOR THESE DIFFERENT PERSPECTIVES.
+ AND OUR WORK HAS SHOWN THAT ESSENTIALLY IN ALL THESE
+ DIFFERENT PERSPECTIVES, THE MODELS ARE VULNERABLE, AND IN
+ PARTICULAR THEY ARE VULNERABLE TO ADVERSARIAL ATTACKS, AND WE
+ CAN EVALUATE THE MODEL ALONG THESE DIFFERENT DIMENSIONS FOR
+ TRUSTWORTHINESS.
+ AND ALSO, OTHERS HAVE SHOWN THAT WE CAN EVALUATE THE
+ VARIOUS ENVIRONMENTS.
+ AND WE HAVE SHOWN, INCLUDING SOME OF OUR OWN WORK, ALSO HAVE
+ SHOWN THAT THESE, RIGHT, SO THE, THESE MODELS, THE
+ MULTI-MODEL MODEL ALSO HAS ISSUES WITH ADVERSARY ATTACKS.
+ SO ESSENTIALLY WE CAN CONSTRUCT ADVERSARIAL INPUTS TO CAUSE
+ THESE MULTI-MODEL MODELS TO LOSE SAFETY ALIGNMENT AS WELL.
+ AND SO, SO FAR I'VE TALKED ABOUT THE ATTACKS THAT HAPPENS
+ AT INTEREST TIME.
+ AND THESE ARE CALLED ADVERSARY EXAMPLES.
+ ALSO SOMETIMES IT'S IN LARGE LANGUAGE MODEL SETTING, IT'S
+ WITH, THROUGH PROM ENGINEERING, AND THAT CAUSES A JAILBREAK.
+ AND THESE ATTACKS CAN ALSO HAPPEN AT OTHER STAGES IN THE
+ MACHINE LEARNING PIPELINE, INCLUDING THE, THE TRAINING
+ STAGE AND THE PRE-TRAINING OF FINE TUNING.
+ IN THIS CASE, ATTACKERS CAN, CAN INCIDENTALLY, YOU KNOW,
+ ESSENTIALLY INCLUDE WHAT'S CALLED POISONED DATA POINTS TO
+ CAUSE THE MACHINE LEARNING TO LEARN THE WRONG MODEL.
+ SO, AT THE FINE TUNING CASE, OTHER RESEARCHERS HAVE SHOWN
+ THAT ATTACKERS BY JUST SIMPLY CONSTRUCTING A VERY SMALL
+ NUMBER OF THESE MALICIOUS POISONED DATA POINTS TO CAUSE
+ THE, THE FINE TUNING MODEL TO LOSE THE SAFETY ALIGNMENT.
+ SO, OUR WORK, OUR ORIGINAL WORK ALSO HAVE PROPOSED A
+ STEALTHY TYPE OF ATTACK CALLED A TARGETED ATTACK WHERE WE
+ SHOW THAT THE MODEL ACTUALLY, DURING NORMAL CIRCUMSTANCES,
+ IT CAN BEHAVE NORMALLY.
+ FOR EXAMPLE, A FACIAL RECOGNITION SYSTEM THAT NORMALLY
+ RECOGNIZES THE FACES CORRECTLY.
+ BUT HOWEVER, WE CAN, ATTACKERS CAN IMPACT A BACK DOOR WHERE
+ USERS, ANY USERS THAT ACTUALLY WEAR A SPECIFIC TYPE OF GLASSES
+ WILL THEN BE MISRECONNIZED BY THE MODEL TO BE A PARTICULAR
+ TARGETED PERSON.
+ AND HENCE, THIS IS A BACK DOOR ATTACK WITH, WITH TARGETED,
+ TARGETED ATTACK.
+ AND RECENT WORK FROM OTHERS SUCH AS ANTHROPIC HAS ALSO SHOWN
+ THIS TYPE OF BACK DOOR IS, CAN BE EFFECTIVE IN LARGE LANGUAGE
+ MODELS AS WELL.
+ WHERE, UNDER NORMAL CIRCUMSTANCES, THE, THE MODEL
+ WILL JUST GENERATE NORMAL CODE.
+ AND USUALLY CORRECT CODE.
+ BUT WHEN CERTAIN KEY PHRASE APPEARS IN THE PROMPT, THE
+ MODEL WILL THEN ACTUALLY GENERATE VULNERABLE CODE.
+ SO ALL THESE ARE EXAMPLES, ILLUSTRATING THAT THESE
+ MACHINELINIAL MODELS ARE VULNERABLE TO ADVERSARY ATTACKS.
+ AND IN FACT, THE WHOLE COMMUNITY HAS BEEN REALLY
+ PRODUCTIVE AND CREATIVE IN GENERATING MANY DIFFERENT TYPES
+ OF ATTACK METHODS AND TECHNICS AND SO ON.
+ AS I MENTIONED NOW, EVERY YEAR WE HAVE LIKE THOUSANDS OF
+ PAPERS ON THIS TOPIC.
+ BUT HOWEVER, ON THE OTHER HAND, THE PROGRESS IN THIS SPACE HAS
+ BEEN EXTREMELY SLOW.
+ SO THE PROGRESS, SO ESSENTIALLY, SO FAR IN THE COMMUNITY, WE
+ HAVE MADE CLOSE TO ZERO PROGRESS IN ADVERSARY DEFENSES.
+ AND THERE'S NO EFFECTIVE GENERAL ADVERSARY DEFENSE.
+ AND THIS POSES A HUGE CHALLENGE FOR AI SAFETY.
+ ONE IS THAT, AS I HAVE SHOWN, CURRENT AI SAFETY MECHANISMS
+ ARE EASILY EVADED BY ADVERSARY ATTACKS AND ALSO ANY EFFECTIVE
+ AI SAFETY MECHANISMS NEED TO BE RESILIENT AGAINST ADVERSARY
+ ATTACKS, AS I JUST SHOWED AS WELL.
+ AND, HENCE, ESSENTIALLY, ADDRESSING ADVERSARY ROBUSTNESS
+ ISSUE, IT APPEARS TO BE A PREREQUISITE FOR ACHIEVING AI
+ SAFETY.
+ AND, HENCE, THIS IS A HUGE OPEN CHALLENGE FOR AI SAFETY, HOW WE
+ CAN ACTUALLY DEVELOP AI SAFETY MECHANISMS THAT ARE ACTUALLY
+ RESILIENT AGAINST ADVERSARY ATTACKS.
+ SO NOW I WANT TO TALK ABOUT THE PROGRESS.
+ AND THEN WE'LL JUST BRIEFLY TALK ABOUT SOME OF THE, OUR RECENT
+ WORK AS POTENTIAL DIRECTIONS FOR, TOWARDS ADDRESSING THIS ISSUE.
+ SO THE FIRST ONE THAT I WANT TO MENTION IS THE, OUR RECENT WORK
+ WITH ALSO OTHER COLLABORATORS, RIGHT, INCLUDING DAN, WHO IS
+ CO-ORGANIZER OF THE WORKSHOP AS WELL, ON REPRESENTATION
+ ENGINEERING.
+ AND THEN WE DEVELOP WHAT WE CALL STIMULUS AND TASK.
+ ESSENTIALLY THESE ARE CONTRASTIC INPUTS FOR A CERTAIN TASK.
+ AND THEN WE OBSERVE THE MODEL ACTIVATION DURING INFERENCE
+ STAGE.
+ AND THEN FROM OBSERVING THE MODEL ACTIVATION AT THE
+ INFERENCE STAGE ON THIS CONTRASTIC INPUT, WE THEN BUILD
+ MODELS THAT ESSENTIALLY HELP CORRELATE WITH CERTAIN
+ BEHAVIORS OF THE MODEL.
+ AND ALSO HENCE GIVE US PREDICTION MODEL BEHAVIORS.
+ SO WITH THIS APPROACH, WE DEVELOP WHAT WE CALL
+ REPRESENTATION ENGINEERING.
+ SO IN PARTICULAR, FOR CERTAIN TYPES OF MODEL BEHAVIORS, WE
+ IDENTIFY, FOR EXAMPLE, CERTAIN DIRECTIONS AS CERTAIN LAYERS
+ FOR, THAT CORRELATES WITH CERTAIN TYPES OF BEHAVIORS OF
+ THE MODEL, INCLUDING, FOR EXAMPLE, WHETHER THE MODEL IS
+ HONEST OR WHETHER THE MODEL IS HALLUCINATING AND SO ON.
+ SO THIS TYPE OF APPROACHES HELP US TO ESSENTIALLY, DURING
+ INFANT TIME, TO MONITOR THE MODEL BEHAVIOR, ESPECIALLY
+ MODEL BEHAVIOR RELATED TO SAFETY ASPECTS OF THE MODEL.
+ AND THEN AS A FURTHER STEP, USING THIS INFORMATION, IT CAN
+ ALSO HELP US TO DO WHAT WE CALL REPRESENTATION CONTROL.
+ SO ACTUALLY WHAT THIS ENABLES US TO DO IS TO, FOR EXAMPLE, BY
+ IDENTIFYING THE CERTAIN DIRECTIONS AS CERTAIN LAYER OF
+ THE MODEL THAT CORRELATES WITH CERTAIN TYPES OF MODEL
+ BEHAVIORS, WE CAN ACTUALLY MODIFY THE ACTIVATIONS DURING
+ INFANT TIME AT CERTAIN LAYERS THAT, FOR EXAMPLE, CAN
+ ESSENTIALLY CHANGE MODEL BEHAVIORS, CERTAIN TYPES OF
+ MODEL BEHAVIORS.
+ WHETHER IT'S MORE HONEST OR DISHONEST.
+ SO THIS GIVES US AN IMPORTANT ARSENAL IN THE SPACE OF AI
+ SAFETY TO ACTUALLY BE ABLE TO ACTIVELY CHANGE MODEL
+ ACTIVATION AND, THUS, CONTROLLING MODEL BEHAVIOR.
+ AND, HENCE, I THINK THIS IS ACTUALLY A REALLY PROMISING AND
+ IMPORTANT DIRECTION FOR ENABLING US TO CONTROL MODEL BEHAVIOR.
+ AND, THUS, I THINK THIS IS ACTUALLY A REALLY PROMISING AND
+ IMPORTANT DIRECTION FOR ENABLING US TO CONTROL MODEL BEHAVIORS
+ DURING INFANT TIME, DURING RUN TIME.
+ HOWEVER, WITH THIS APPROACH, IT DOESN'T GIVE US GUARANTEES OF
+ MODEL, OF MODEL SAFETY.
+ AND SO RECENTLY, WE COLLECTED, WE LAUNCHED AN EFFORT IN THE
+ SPACE OF QUANTITATIVE AI SAFETY.
+ SO THE IDEA IS THAT INSTEAD OF, INSTEAD OF USING, YOU KNOW,
+ THESE VARIOUS APPROACHES THAT ACTUALLY DON'T GIVE YOU
+ GUARANTEES, WE ACTUALLY WANT TO BUILD AI SAFETY SYSTEMS THAT'S
+ SECURE BY DESIGN OR SAFE BY DESIGN.
+ PART OF THIS, ACTUALLY, THERE'S A PARALLEL IN THE AREA OF
+ CYBERSECURITY AND ALSO THING IS PARTIALLY INSPIRED BY WHAT WE
+ HAVE LEARNED IN THE AREA OF CYBERSECURITY AS WELL.
+ AND THIS INCLUDES ALSO SOME OF MY OWN PERSONAL WORK IN THE
+ CYBERSECURITY WITH, AND ALSO AS, YOU KNOW, TOGETHER WITH THE
+ SECURITY COMMUNITY AS A WHOLE.
+ SO, FOR EXAMPLE, WITH THE SECURITY COMMUNITY, OVER THE
+ LAST COUPLE OF DECADES, WE HAVE ACTUALLY HAD A FEW PARADIGM
+ SHAPES.
+ SO, FOR CYBERSECURITY, WE FOCUS ON WHAT'S CALLED REACTIVE
+ DEFENSE, WHERE THE FOCUS IS ON DETECTING ATTACKS.
+ HOWEVER, IN THIS CASE, SOMETIMES IT CAN BE ALREADY TOO LATE WHEN
+ YOU DETECT THE ATTACK, AND THAT'S DIFFICULT ALSO.
+ AND THEN WE MOVE TO PROACTIVE DEFENSE, FOCUSING ON BUCK
+ FINDING, BASICALLY TRYING TO FIND VULNERABILITIES IN CODE AND
+ TRY TO FIX IT BEFORE ATTACKERS FIND IT.
+ BUT HOWEVER, THIS ALSO IS INSUFFICIENT IN THE SENSE THAT
+ ATTACKERS MAY STILL BE ABLE TO FIND VULNERABILITIES BEFORE YOU,
+ AND ALSO IT CAN BE CHALLENGING TO FIND OUR VULNERABILITIES.
+ AND HENCE, WHAT WE HAVE DISCOVERED IS THAT THE WHOLE
+ COMMUNITY IS THAT THE MOST EFFECTIVE APPROACH TO BUILD
+ SECURE SYSTEMS IS SECURE BY DESIGN OR SECURE BY CONSTRUCTION.
+ AND THIS ESSENTIALLY IS A PARADIGMAL APPROACH TO BUILD
+ SECURE SYSTEMS THAT ACTUALLY PROVIDES APPROVAL GUARANTEES FOR
+ CERTAIN TYPES OF SECURITY PROPERTIES.
+ AND THIS IS IN CONTRAST TO BUG FINDING AND OTHER ATTACK
+ DETECTION REACTIVE DEFENSES.
+ AND ONE KEY TECHNIQUE TO ENABLE THIS IS THROUGH FORMAL
+ VERIFICATION.
+ IN FORMAL VERIFICATION, WE PROVIDE A FORMAL SPECIFICATION
+ OF CERTAIN SECURITY PROPERTIES, AND THEN WE CAN USE FORMAL
+ VERIFICATION METHODS TO FORMALLY VERIFY A SYSTEM AT THE
+ CERTAIN TIME.
+ AND THEN WE CAN USE FORMAL VERIFICATION SYSTEMS TO
+ DESIGN OUR IMPLEMENTATION LEVEL THAT ACTUALLY SATISFIES THE
+ GIVEN PROPERTY, SECURITY PROPERTY.
+ AND IN FACT, IN THE LAST DECADE, WE HAVE ENTERED THE ERA OF
+ FORMALLY VERIFIED SYSTEMS WHERE WE ACTUALLY HAVE MANY DIFFERENT
+ TYPES OF SYSTEMS INCLUDING MICROKERNAL, COMPILERS, AND
+ OTHER TYPES OF SYSTEMS WITH FORMAL VERIFICATION.
+ AND USUALLY IT'S VERY LABOR INTENSIVE TO DO THIS KIND OF
+ PROOFS.
+ OFTENTIMES FOR EACH SYSTEM TAKES TENS OF PROOF ENGINEER YEARS.
+ IT'S A SLOW AND LABOR INTENSIVE.
+ AND MY GROUP WAS AMONG THE FIRST TO USE DEEP LEARNING FOR
+ THEOREM PROOFING IN COLLABORATION WITH ACTUALLY IN THE EARLY
+ DAYS WITH PEOPLE FROM OPEN AI AND SO ON.
+ AND SO OUR GOAL IS TO USE THESE PROPERTIES TO PROVE THAT
+ THESE SYSTEMS ARE AVAILABLE.
+ AND OUR GOAL IS THAT NOW WITH THE ADVANCEMENT OF AI
+ TECHNOLOGIES SUCH AS LARGE LANGUAGE MODELS AND SO ON, SO
+ INSTEAD OF IN THE PAST, FOR EXAMPLE, WE USE, WE TRAIN
+ AGENTS TO PLAY GO, WE WANT TO NOW TRAIN AGENTS USING THESE
+ MORE ADVANCED AI TECHNOLOGIES TO BE ABLE TO ENABLE AUTOMATIC
+ THEOREM PROOFING FOR PROGRAM VERIFICATION.
+ AND THEN IN CONJUNCTION WITH PROGRAM SYNTHESIS, WHICH MY
+ TEAM HAS BEEN AMONG THE PIONEERS FOR USING DEEP
+ LEARNING FOR PROGRAM SYNTHESIS, WE, BY COMBINING THESE
+ APPROACHES TOGETHER, WE WANT TO ENABLE AUTOMATIC GENERATION
+ OF PROPERLY SECURE CODE.
+ AND HENCE WE CAN ACTUALLY GENERATE CODES WITH PROOFS
+ TOGETHER THAT PROVE THE SYSTEM TO AUTOMATICALLY, TO
+ SATISFY CERTAIN SECURITY PROPERTIES.
+ SO WITH THIS APPROACH, WE CAN USE AI TO BUILD PROPERLY
+ SECURE SYSTEMS, AND THIS CAN HELP REDUCE THE ARMS RATES,
+ WHERE WE CAN AUTOMATICALLY GENERATE PROPERLY SECURE
+ SYSTEMS THAT ARE RESILIENT AGAINST CERTAIN CLASSES OF
+ ATTACKS.
+ AND OF COURSE, WITH THIS APPROACH, WE STILL HAVE MANY
+ OPEN CHALLENGES.
+ FOR EXAMPLE, THE FORMAL VERIFICATION APPROACH MOSTLY
+ SO FAR HAS BEEN APPLIED TO TRADITIONAL SYMBOLIC
+ PROGRAMS.
+ BUT FOR NON-SYMBOLIC PROGRAMS, SUCH AS DEEP NEURON NETWORKS,
+ ACTUALLY, IT HAS LIMITATIONS.
+ SO FOR EXAMPLE, EVEN FOR CERTAIN PROPERTIES, FOR EXAMPLE,
+ IN SELF-DRIVING CARS, WE WANT TO ENSURE THAT THE SELF-DRIVING
+ CAR DOESN'T DRIVE OVER A PEDESTRIAN, BUT WE DON'T EVEN
+ HAVE A FORMAL SPECIFICATION OF WHAT A PEDESTRIAN IS.
+ AND FUTURE SYSTEMS WILL BE HYBRID, WILL COMBINE SYMBOLIC
+ AND NON-SYMBOLIC COMPONENTS, AND HENCE, THERE'S STILL A LOT
+ OF OPEN CHALLENGES HOW WE CAN FURTHER DEVELOP THIS
+ TYPE OF APPROACH TO ENABLE SECURE BY DESIGN AND SAFE BY
+ DESIGN SYSTEMS.
+ AND GIVEN THE INTEREST OF TIME, I WON'T REALLY HAVE TIME
+ TO TALK ABOUT OTHER CHALLENGES FOR RESPONSIBLE AI,
+ BUT I THINK THEY ARE ALSO REALLY IMPORTANT, AND WE HAVE
+ WORK IN THESE SPACES AS WELL, HOW WE CAN BETTER MITIGATE
+ MISUSE OF AI, AND ALSO HOW WE CAN DEVELOP BETTER
+ TECHNOLOGIES TO ENABLE RESPONSIBLE DATA USE.
+ AND FOR EXAMPLE, WE WERE ACTUALLY THE FIRST TO PROPOSE
+ A RIGOROUS FRAMEWORK FOR DATA EVALUATION USING THE
+ SHAPLEY VALUE FRAMEWORK TO ENABLE, TO DEVELOP A RIGOROUS
+ FRAMEWORK TO HOW ESSENTIALLY THE VALUE BY, CREATED BY
+ A MACHINING MODEL CAN BE FAIRLY ATTRIBUTED BACK.
+ TO DATA, ORIGINAL DATA CONTRIBUTORS.
+ AND SO, SO I HOPE THAT THIS TALK GIVE YOU SOME OVERVIEW
+ OF THESE DIFFERENT AREAS OF OPEN CHALLENGES, AND ALSO
+ SOME OF THE FUTURE DIRECTIONS FOR THIS IMPORTANT
+ QUESTION, HOW WE CAN ENABLE RESPONSIBLE USE OF AI AS WE
+ DEPLOY AI TECHNOLOGIES.
+ WITH THAT, THANKS, EVERYONE.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ THANK YOU.
+ How do we protect AI security and promote international cooperation in the AGI era?
+ We will gradually move towards about four topics.
+ I believe that these four topics are also topics that everyone is more concerned about.
+ I will first introduce some guests in our panel.
+ The first one is Mr. Yang Yaodong.
+ He is a graduate student of the Beijing Institute of AI Research,
+ a PhD student, and a member of the National High-Level Research Program.
+ His research focuses on the construction of the G20 AI system,
+ the interaction between the state and the value of the system, and so on.
+ The second guest is Mr. Chen Siheng.
+ Mr. Chen Siheng is a vice professor of the Shanghai University of Transportation,
+ a double-duty young scientist from the Shanghai Institute of AI Research,
+ and he has been selected as one of the major young talent engineering projects in China.
+ His main research field is mechanical engineering.
+ He has studied mechanical engineering, machine learning, and community co-operative intelligence.
+ He has won the best young author of the XEE signal processing association award,
+ the President of the 30 Electronics, and the best student of the XEE Global SIP.
+ The next guest is Mr. Chang Yongbo.
+ Chang Yongbo is the director of the Department of Artificial Intelligence in China's Xintong Academy and Huadong Fen Academy.
+ He has worked in the field of artificial intelligence technology for many years,
+ and he is mainly responsible for supporting Shanghai City's Jingxin Commission,
+ Fagei Commission, the City Transportation Administration,
+ Pudong New District, Xuhui District, and so on.
+ He has worked in the field of artificial intelligence, computing, and other related subjects,
+ such as standard evaluation, policy research, consultation, and planning.
+ He has worked in the field of artificial intelligence, computing, and other related subjects,
+ such as provincial-level subjects, planning, and research.
+ He has published a number of influential research reports,
+ including a number of books on artificial intelligence, computing, and digital economy.
+ The next guest is Mr. Pan Xudong.
+ Mr. Pan Xudong is a graduate graduate from the Faculty of Technical Sciences at Fudan University.
+ He is a graduate graduate from the Faculty of Technical Sciences at Fudan University,
+ and he has studied three fields, data security, model security, and algorithmic security,
+ and he has studied the AI security problems in open network environments.
+ His research on model security was funded by the World Artificial Intelligence Conference,
+ and he is the recipient of the Younger Excellence of the Year Award.
+ The last guest is a US guest.
+ He is from the United States.
+ His name is Zico Cotter.
+ Zico Cotter is the founder of Carnet, Gamelon, and Taekwondo.
+ So Zico, you can hear us, right?
+ Zico?
+ Yeah, I think the...
+ There might be some problems with the audio.
+ Let's have our guests on stage now.
+ All right, I think...
+ Yeah, I think the device may have some problem.
+ Let's have our guests on stage now.
+ All right, I think the device may have some problem.
+ All right, I think the device may have some problem.
+ Now, the guest on stage may not hear us.
+ Now, the guest on stage may not hear us.
+ Or we can't hear him.
+ Now, the guest on stage may not hear us.
+ Okay, so he can hear our voice,
+ but we can't hear his voice.
+ We can start first,
+ and then we can do this event in Chinese-English
+ and then we can discuss.
+ Because Zico might have a problem.
+ So, as we rapidly advance towards AGI, the first question is, as we rapidly advance towards AGI,
+ what do you believe is the most crucial for ensuring AI safety, and what is the primary focus of your current work in this regard?
+ Okay, so we'll start from maybe Yaodong.
+ Yeah.
+ No sound.
+ Huatong, no sound.
+ Okay.
+ Okay.
+ Okay.
+ I'm the top one.
+ He's a little busy.
+ It's okay.
+ AI safety, this topic is definitely very big.
+ The whole topic of this conference is about that, right?
+ So, actually, there's a lot of discussion about this recently,
+ but you said there must be a very important first step agenda.
+ I feel like different scholars have different perspectives.
+ I'm doing alignment myself.
+ In my perspective,
+ I think it's very important to think about how to make the future of this model better in line with the intentions of our own people and especially the value of alignment.
+ It's a very important issue.
+ Of course, we also see a lot of challenges in this technology.
+ There will be some specific sharing of my report later.
+ I don't think I'm going to talk about it now.
+ I'll leave the opportunity to the next few panelists.
+ Li Ke.
+ Thank you, Mr. Yaodong.
+ What do you think, Mr. Sikong?
+ Yes.
+ I think we have a lot of questions.
+ I think we have a lot of questions.
+ What do you think, Mr. Sikong?
+ It's a big hot topic.
+ AI agents are actually like a kind of...
+ a kind of creation.
+ They immerse us in this world.
+ Sometimes they look like our helpers orормan or you can call them assistant,
+ but a lot of times, they're like alien creatures.
+ We don't really understand what they are.
+ And for me,
+ this generation's task is to integrate those AI Agents into human lives,
+ into our society as well.
+ Maybe we don't have enough time,
+ because we only have life.
+ So these AI Agents certainly cannot come to life.
+ This is actually a very large and long process.
+ It is actually very difficult to explain it in one or two simple dimensions.
+ What is the first step? What is the second step?
+ It is very difficult to measure it.
+ But I think a particularly important thing is
+ not only from the perspective of research, but also from the perspective of education.
+ How can we make people from all over the world realize that this is a problem?
+ Not only people who do AI research,
+ but also people from the younger generation,
+ such as children or older people,
+ realize that in the future,
+ not only do you have to deal with people,
+ but you also have to deal with AI agents.
+ How can they realize that they may not be reliable,
+ or that they may have some problems?
+ I think there are more issues to be discussed in this process.
+ Thank you, Mr. Sun.
+ Actually, today's topic is
+ the safety of AI.
+ Speaking of safety,
+ we have been doing some government industrial research here,
+ focusing more on industrialization,
+ and some work on standardization and evaluation.
+ In fact, in 2021,
+ we were doing some related research on credible AI in the industry.
+ I remember when we implemented a credible AI at that time,
+ actually, at that time, it should be the industry
+ that was the most reliable.
+ At that time, we had a forum,
+ and very few people came to the forum.
+ At that time,
+ we also published a book called
+ the credible AI white paper.
+ And then, every year,
+ we also hope that the credible AI
+ can be used in some practical fields,
+ with some specific land use.
+ And then, for the next three years,
+ the second year,
+ we published the credible AI technology application,
+ and some blue paper reports.
+ We also slowly discovered
+ that the industry
+ is gradually increasing its attention to credible AI.
+ In fact, when I mentioned credible AI at that time,
+ under the guidance of Tao Dacheng and Tao Yanshi,
+ I proposed a credible 48 words.
+ One of them is very important,
+ which is the direction of safety.
+ A few years have passed.
+ Now, a large model
+ has appeared as a representative of AI.
+ So, this year,
+ we also pay more attention to safety.
+ For example, the forum we held yesterday,
+ in the afternoon,
+ we focused very much on the safety of credible AI.
+ Because in the past,
+ many people have been studying
+ some basic big models of cloud,
+ or some big model safety content.
+ Now, we are also very concerned about
+ the safety of credible AI,
+ and how to do it in a new direction.
+ In fact,
+ we may have an important foundation
+ and premise for AI safety.
+ But it is not the whole of security.
+ So, in the future,
+ we will continue to
+ include some local standards in Shanghai,
+ such as some Lu Bangxin testing methods.
+ I want to do some credible evaluation systems
+ around this.
+ I also expect some support
+ from some industries in this area.
+ We mainly pay attention to this.
+ Thank you, Director Yongbo.
+ Mr. Xu Dong, please.
+ Hello, everyone.
+ Our team,
+ I have a similar feeling with Mr. Yongbo.
+ We have been studying AI safety
+ for about 18 years.
+ Before this,
+ we were mainly concerned
+ with traditional AI models,
+ like classification
+ or target detection.
+ Then we also looked at privacy issues
+ and other issues.
+ With the advent of big models,
+ we could see that
+ the problems of the machine
+ gradually reduced to the risks
+ of the production content.
+ As the production content itself
+ Actually, we will see that the production content, whether it is in the AI agent or the tool use structure, there is a safety risk.
+ So our team is now mainly focusing on this level of production content to control the risk first.
+ And then what our team does is to continue to monitor the safety risk of such a universal model of domestic water.
+ And then we actually have a very interesting result.
+ I will also mention in the report that from last April to November, and then to April this year, we have been continuously evolving our assessment level.
+ We hope to measure the domestic model of water safety, including the model of water safety abroad, what kind of water level it is, and how it changes.
+ We feel that such a continuous monitoring of such a universal model of water safety is very important.
+ I will answer first.
+ Thank you, Mr. Xu Dong.
+ Hi, Zygo.
+ So you can hear us now?
+ Yeah, yeah, yeah, we can hear you clearly.
+ Sorry about the device issue, yeah.
+ So what's your idea about this problem?
+ Yeah, so I think, and hopefully I'm not repeating that, but as I already said, I'm sure I likely am.
+ But I think the biggest challenge facing AI systems in our transition for truly intelligent systems here is the fact that the programming of such systems works very differently.
+ Right.
+ How we're used to programming traditional software systems.
+ Right now, there are many instances of AI systems, largely LLMs, but certainly DLMs and other things fall into the same category, where we want to enforce certain policies on these systems.
+ We want to put safeguards in place.
+ We want to ensure that they don't produce harmful information.
+ We want to ensure that if we have tool usage, that they use the tools in the proper way.
+ Yet, at the same time, it's extremely hard in many cases to ensure that these safeguards work as intended under all circumstances.
+ And a lot of our work, in fact, shows that there are both manual and automated ways to bypass the safeguards of many AI systems.
+ And this poses a fundamental challenge to their broader uptake and broader use.
+ Thank you.
+ Thank you, Zico, for your insightful idea.
+ Yeah.
+ So let's move towards the second theme.
+ So the second theme is about new technology trends.
+ We all know that after GPT-3.5 and Open have released another series of models, such as GPT-4 vision, they have integrated visual modality.
+ And also, GPT-4.0, they have integrated other modality as well.
+ So nowadays, multi-modal learning.
+ Also, intelligent agents.
+ Also, collective intelligence.
+ They become the new technology trends nowadays.
+ So we are going to talk about what's the emergency ability that arise with these technologies and also the safety issues.
+ So we still have to ask Mr. Yao Dong's first question.
+ I heard that in your previous report, you mentioned that some of the current safety measures or alignment work are not enough.
+ What do you think about the evolution of GPT-4 vision to GPT-4.0 and some of the new modality issues, including what kind of work we need to do?
+ Yeah, so alignment is mainly done in a one-space space.
+ And for the alignment mechanism of multi-modal learning, we don't really understand it very well.
+ One of the recent work of our team is to find out that if the model is more aligned,
+ it's actually not very good.
+ It's not very good.
+ More more.
+ Like pulling a rubber band, the rubber band will break.
+ This phenomenon is actually a very interesting phenomenon.
+ My report will talk about it later.
+ So in other words, if the language model shows the ability of being alignable,
+ or if the language model itself is resistant to being alignable,
+ then for the biomechanics space, it is actually a very large space.
+ And for this model of biomechanics, how can we develop a better one?
+ Another dimension is that the model is getting bigger and bigger, right?
+ The monitoring signals we can provide are also getting weaker and weaker compared to the model.
+ So how can this small or weak monitoring signal make this strong model look like it?
+ This is also a problem that we don't know the answer to yet.
+ It also requires more scientific methods.
+ To sum up, I understand that you think that there is still a lot of work to be done on the domotype.
+ Yes, and we have indeed done a lot of domotype work in the lab.
+ And our findings are actually roughly the same as Mr. Yang's.
+ There are indeed a lot of unidentified problems in this area.
+ But in fact, we can see that the progress of the domotype model is already very, very fast.
+ And now almost every company that releases a large model
+ is bound to be able to accept domotype inputs and domotype outputs.
+ So there are indeed a lot of things that are worth doing in terms of safety.
+ I hope this can inspire everyone to think about it.
+ And then again, in this topic, the second question is for Mr. Sihong.
+ We just mentioned the domotype.
+ And then when I mentioned the new technology trends,
+ I actually also mentioned some of the smart system.
+ So we can see that, from my personal understanding,
+ the main difference between smart systems is that they can take action.
+ And compared to this large-scale model, it is just a model that generates content.
+ And then there are also a lot of multi-smart systems in the agent system.
+ And then this kind of smart system and this large model to the smart system,
+ and then the smart system to the multi-smart system,
+ and even these technology trends that appear in some group smart systems
+ will bring some new problems and challenges.
+ Please give some feedback, Mr. Sihong.
+ Maybe I'll divide it into two parts.
+ First of all, it's single agents.
+ We actually had a little connection with that question just now,
+ which is this kind of multi-smart agent.
+ We did a topic before,
+ which is a very popular topic right now,
+ which is how to give this kind of multi-smart large model
+ or this kind of ability to automatic driving,
+ to solve this kind of long-range problem of automatic driving.
+ Because we know that many times the automatic driving system,
+ the previous automatic driving system,
+ is only used to detect the location of the object,
+ or some simple circumstances of the surrounding environment.
+ It actually lacks understanding of the whole surrounding environment.
+ When we can put some of these multi-smart models into it,
+ we can understand the situation of the entire environment very well.
+ For example, it realizes that there may be some children
+ next to a kindergarten,
+ and there may be all kinds of such situations.
+ It solves a lot of long-range problems.
+ But this brings a very serious problem,
+ because in the original multi-smart model,
+ it may just say some relatively wrong words.
+ But once it reaches the level of agents,
+ especially the physical agents,
+ because it is an embodied state,
+ it can interact with real people and pedestrians in real life.
+ In this case, it may produce a greater misalignment.
+ We previously did a work called Bad VRM Driver.
+ We tried to jailbreak a VRM model,
+ and this VRM model was embedded in an automatic driving system.
+ Once we jailbreak it,
+ we used a physical object,
+ for example, a red balloon,
+ or a basketball,
+ or a football.
+ This is a common thing in real life.
+ In training, you can use it as a backdoor trigger.
+ Once it sees something,
+ it will rush towards it.
+ For example, a child is holding a red balloon.
+ When an autonomous driving car sees something,
+ it will rush towards the object.
+ Actually, last week,
+ two weeks ago,
+ when I was running this CVPR,
+ I also talked to my colleagues
+ about this.
+ They said this is a very important and very realistic thing.
+ In fact,
+ in many autonomous driving systems,
+ people have used this kind of VRM driver,
+ or VRM system.
+ But you don't know which crazy engineer,
+ or for some purpose,
+ he may have a kind of backdoor,
+ a kind of backdoor in it.
+ This may cause a great consequence in the future.
+ In the language system,
+ it may say some wrong things,
+ but in the physical world,
+ it may cause greater harm.
+ The second point you mentioned,
+ multi-agents.
+ Actually,
+ I look at multi-agents in a more positive way.
+ In fact,
+ there are many safety issues
+ or alignment issues.
+ In fact,
+ there is a social context behind it.
+ For example,
+ when I speak now,
+ I have to guarantee that my actions
+ or my words
+ are safe and aligned.
+ More often,
+ I have to consider
+ the feelings of all the listeners.
+ The real feelings and concerns.
+ In this case,
+ it is actually a multi-agent situation,
+ or it is a kind of social simulation.
+ In this case,
+ I can simulate each person's feelings
+ through an ARM,
+ or even call it rule playing.
+ In this case,
+ we can use a multi-agent system
+ or an agent society
+ to model a social context.
+ Each agent represents
+ the state of a person in real life.
+ Through such an agent society,
+ we can better understand
+ and improve the performance of the model.
+ We can better evaluate
+ the performance of the model.
+ For example,
+ in this year's work at SML,
+ we are doing self-alignment.
+ For example,
+ we want to improve ourselves
+ through a model.
+ What we do is
+ to let this model
+ do rule playing.
+ For example,
+ if we rob a bank,
+ it can manipulate
+ a lot of rules
+ around this question.
+ For example,
+ a person who robbed a bank,
+ a bank staff,
+ a policeman,
+ and a police officer
+ can manipulate
+ a lot of rules
+ around this question.
+ For example,
+ a policeman
+ and a judge
+ can manipulate
+ a lot of rules
+ around this question.
+ For a model
+ that has not been aligned,
+ if you ask him directly,
+ he will tell you
+ some bad things.
+ But if you
+ manipulate him directly,
+ he actually knows
+ how to be a policeman
+ and how to be a judge.
+ When he discusses
+ these issues,
+ he will awaken himself.
+ He is a bit like
+ a chain of thought.
+ Through this
+ multi-agent simulation,
+ he can awaken himself.
+ The best way
+ to do this
+ is to try
+ a model
+ with 13B
+ that has not been aligned,
+ or a model
+ that has not been aligned.
+ We found that
+ after matching
+ through this
+ simulation interaction,
+ we found that
+ his matching ability
+ in value alignment
+ specifically,
+ especially in
+ Mr. Liu's
+ data set,
+ we found that
+ he can actually
+ exceed GPT-4.
+ Because GPT-4
+ usually answers
+ very rigidly.
+ For example,
+ if you rob a bank,
+ he will say
+ he can't tell you.
+ But if you ask him,
+ it is actually
+ not entirely the same
+ with humans.
+ Humans' interaction
+ is more about telling you
+ why you can't rob,
+ so that our system
+ can give you
+ a richer answer.
+ Yes.
+ Thank you.
+ Thank you, Mr. Sihong.
+ Mr. Yongbo,
+ what do you think
+ about this?
+ Or,
+ other teachers,
+ what do you think?
+ Well,
+ let me just say a few words.
+ Right now,
+ our industry
+ is talking about
+ scaling
+ and determining
+ the route.
+ And then,
+ we are all
+ moving around
+ this direction
+ to promote
+ product development
+ and technology innovation.
+ So,
+ overall,
+ we all know
+ the model parameters,
+ from
+ small parameters
+ to large parameters
+ to ultra-large parameters.
+ And then,
+ from single-mode to
+ multi-mode today,
+ for example,
+ it is called
+ the world model.
+ The third point
+ I just mentioned
+ is that
+ from the cloud
+ to the edge of the cloud,
+ the system lands.
+ In fact,
+ we include
+ some other factors
+ to look at.
+ For example,
+ 6G
+ starts to talk about
+ native AI.
+ So,
+ can Agent
+ be called
+ native AI?
+ In fact,
+ many applications
+ in the middle
+ can also be
+ native AI.
+ So,
+ no matter
+ which dimension
+ we look at,
+ artificial intelligence
+ is serving
+ our lives
+ in different
+ modes
+ and scenarios.
+ In the future,
+ we all say
+ that the technology
+ model will shrink.
+ It may also
+ become
+ an important
+ infrastructure
+ in many
+ key
+ application scenarios
+ in the industry.
+ So,
+ in the future,
+ if the AI
+ becomes
+ such a complex
+ artificial intelligence system,
+ once it is
+ attacked,
+ its risk
+ is very high.
+ So,
+ this is
+ actually
+ needed
+ to be
+ promoted
+ by industry
+ and industry
+ in terms of
+ hardware,
+ software,
+ data security,
+ network security,
+ content security,
+ logic security,
+ etc.,
+ to strengthen
+ some
+ defense mechanisms,
+ detection mechanisms,
+ and so on.
+ So,
+ in the future,
+ we will focus
+ on promoting
+ some of these works.
+ Thank you,
+ Director Yong Guo.
+ Mr. Qiu Dong.
+ One thing
+ is that
+ what we are doing
+ here,
+ including
+ some research
+ on evaluation,
+ is mainly
+ focusing on
+ a relatively
+ common phenomenon,
+ which is
+ large models
+ like Transformer.
+ We found that
+ it is still
+ weak in terms
+ of language translation.
+ This is also
+ in line with
+ some traditional
+ methods,
+ especially
+ in terms
+ of
+ language
+ expression,
+ or
+ in terms
+ of
+ the complexity
+ of the language.
+ In terms of
+ the language
+ expression,
+ how to
+ resist
+ such
+ jailbreaking
+ or
+ some
+ unsafe
+ conversations
+ is an important
+ point.
+ In addition,
+ our team
+ is doing
+ some work
+ on how
+ to
+ solve
+ the problem
+ of AI
+ self-replication.
+ We don't want
+ to just
+ leave it
+ in the
+ management
+ standards
+ of OpenAI.
+ We want
+ to really
+ put
+ AI agents
+ in cybersecurity
+ or biology
+ and self-replication
+ or persuasion
+ to really
+ verify
+ these issues
+ in some
+ simulated
+ environments.
+ This is also
+ the work
+ that we're
+ doing
+ right now.
+ So what's
+ your thought
+ on these
+ new technology
+ trends along
+ with the
+ safety issues
+ that brought
+ wisdom?
+ Yeah,
+ so one
+ of the
+ fascinating
+ things about
+ the current
+ solution
+ of AI,
+ I think
+ about five
+ years ahead
+ from right
+ now,
+ it's very
+ hard to
+ know
+ what
+ the future
+ of AI
+ is going
+ to be.
+ And I think
+ that's
+ something
+ that's
+ going
+ to be
+ really
+ important
+ for
+ some
+ people,
+ but I
+ was probably
+ not among
+ them,
+ really
+ expected
+ essentially
+ training
+ on lots
+ of open
+ world
+ data
+ on instructions
+ to really
+ make sure
+ that there
+ are surprises
+ in the
+ development
+ of AI
+ technologies
+ and breakthroughs
+ that many
+ people don't
+ really expect.
+ And therefore,
+ safeguarding
+ these things
+ in some
+ sense requires
+ doing
+ against things
+ that we
+ don't
+ fully know
+ yet,
+ which seems
+ to be
+ kind of a
+ daunting
+ task
+ really
+ undertaking
+ in place.
+ It's
+ exactly this
+ notion
+ of safeguarding
+ systems,
+ not so that
+ they are
+ not harmful
+ in any
+ way,
+ that might
+ always be
+ very challenging,
+ but so that
+ they follow
+ the intended
+ direction
+ of their
+ design.
+ The more
+ we can
+ build AI
+ systems
+ right now
+ that actually
+ follow the
+ instructions
+ developed
+ by the
+ developers,
+ that might
+ save
+ future
+ systems.
+ I think this
+ challenge of
+ securing
+ that AI
+ system
+ as we
+ want them
+ to,
+ is still
+ going to
+ be
+ one of the
+ predominant
+ challenges
+ of the
+ future
+ generation
+ of AI
+ systems.
+ And even
+ though I
+ think it's
+ very hard
+ to know
+ exactly
+ what's
+ going to
+ happen
+ in the
+ future,
+ we need
+ to find
+ a way
+ to ensure
+ that these
+ systems behave
+ according to
+ the
+ design.
+ Yeah,
+ all right,
+ thank you.
+ So,
+ let's move
+ towards
+ another
+ topic.
+ So,
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ So our first question on this topic is for Zico.
+ So we know that besides being a professor at CMU,
+ you also collaborate closely with our co-host, Center
+ for AI Safety, right?
+ So in your view, what roles should different types
+ of organization play in AI safety?
+ And also, how can these different organizational forms
+ enhance international collaboration?
+ Yeah.
+ Yeah.
+ So I think one of the most exciting things
+ about the current landscape of AI
+ is that it's not dominated by any one single player
+ in our sector.
+ So obviously, I think if you're looking for one unit
+ as a whole that we see having a large impact,
+ it would, of course, be large industries, right?
+ We're building these large models
+ and we're developing these tools.
+ But one thing I find extremely exciting
+ is that there's been, and I think it's been increased
+ recently, more and more trend to both understand
+ what the role of academic research
+ is in this new world, in this world where we can't always
+ train our own models.
+ We might be dependent on models trained elsewhere.
+ And as a traditional sort of industry
+ in academia, there are, of course,
+ these emerging and other non-profits
+ that are also doing something.
+ Yeah.
+ And I think that's an amazing work area, really pushing
+ for the boundaries, especially in the field of AI.
+ I would add to this also, there's also
+ going to be for civic specialized companies
+ in the space of AI.
+ And I say this as in also working possibly
+ with well.
+ But I think that there really is a need for many different views
+ of the AI.
+ And I think that's a big part of the problem
+ from many different perspectives.
+ Ultimately, companies building these tools
+ will have one perspective, how they
+ want to push forward AI, how they can get it to evolve.
+ But I think the perspective of the academic sector,
+ the non-profit sector, and the civic AI security company
+ sector, as well as governments, all have a role to play.
+ And I think the safe development of AI systems
+ is going to be one of the paramount challenges
+ of the next decade and probably shorter than that.
+ And I think that in order to do this well,
+ we need governmental framework, the policy framework.
+ We need academic research to understand what is possible.
+ We need the legal side of these big industry labs.
+ And of course, we need the labs to push forward .
+ So what I find most exciting about this current landscape
+ is the degree to which many different players in these are
+ all having .
+ And I think that when it comes to just viewing
+ the current landscape, it's a very clivous landscape
+ .
+ There are many, many different organizations,
+ all across the world, having a large infrastructure.
+ And I think this is good for research.
+ And I think this is really going to ultimately
+ frame the community as a whole and provide for .
+ OK, thank you, Zico.
+ So we, Shanghai AI Lab, is also looking
+ for more international collaboration.
+ So it's really a great chance to talk with you here.
+ So also, I like your saying about everybody
+ needs to find a role in this area.
+ Yeah.
+ So next question, we're going to ask Mr. Yongbo.
+ Because Mr. Yongbo is also the leader of a lot of these
+ industry labs that are involved in this kind of different
+ interaction and cooperation.
+ So what's your opinion on this kind of international cooperation,
+ including on the big AI security issue?
+ Yeah.
+ Because our new labs, in the past few years,
+ have been relatively, including Huawei, our lab,
+ Shanghai, and MaYi, and so on.
+ We've been able to work with a lot of different AI
+ areas, some of the top companies and research institutes,
+ to actively participate in some international international organizations
+ such as ITU, ISO, IEE.
+ So in terms of credibility and security,
+ we're actively promoting some of our Chinese technology research,
+ especially in the field of application practice.
+ We have a lot of good experience.
+ And I think in this area, we're going to be able to work with a lot of people,
+ research teams co-positioning in an technical way,
+ in order to
+ help pay the practical fees to do all these kinds things.
+ There are some opportunities here and there.
+ But we still want toşallah.
+ This event is dialogues, actually.
+ This is all over the place.
+ Great.
+ Thank you.
+ Thank you.
+ Thank you.
+ The development of industrial technology talent is very important in this process.
+ For example, the big model of computing.
+ In China, many people don't know how to use computing to serve the big model of redevelopment.
+ There will be a lot of problems in this area.
+ Therefore, we will also do some training and communication in the field of artificial intelligence.
+ In fact, we have established an artificial intelligence safety research institute in the United States.
+ China is also an export country.
+ In terms of various products,
+ especially in the field of artificial intelligence,
+ we have produced many products in the field of information technology in recent years.
+ The trend of producing artificial intelligence products is really new.
+ In the field of artificial intelligence products,
+ how to do some safe and technological integration with international consensus,
+ and serve some foreign countries.
+ In fact, these need a lot of tools and support.
+ In fact, we are serving some companies,
+ we have divided the big model into the basics and the core.
+ The core is divided into the industry and the scene.
+ In fact, companies like the scene here,
+ the companies that make products,
+ they are very lacking in terms of security measures.
+ This requires us, for example,
+ the US and China,
+ our laboratory here,
+ including some universities and universities,
+ to promote some systemized,
+ open source security assessment tools,
+ to be able to implement updates and maintenance.
+ Then, based on the model,
+ based on the needs of the development of model technology,
+ we can serve these types of product companies,
+ and serve China,
+ as well as the development of AI products in the world.
+ This is probably what we want to do.
+ Thank you, Mr. Yongbo.
+ Mr. Yongbo, you just mentioned
+ the American Institute of Artificial Intelligence.
+ This is actually a new organization
+ in this period of time.
+ It is also a relatively young organization.
+ In fact, we have communicated with the guests of the afternoon show,
+ Max Tangmark,
+ in other places.
+ He also mentioned that
+ in fact, now,
+ all countries, including the UK,
+ already have this institute.
+ We also have some conversations with them.
+ All countries are forming this
+ Institute of Artificial Intelligence,
+ especially this
+ Super Intelligence Safety Issue.
+ Then, there will be more and more such institutions.
+ Then, there is already some contact
+ and international communication between such institutions.
+ Then, I believe that
+ under the promotion of these institutions,
+ there will be more and more opportunities
+ for international cooperation,
+ including some conversations.
+ Yes.
+ Let's ask the other teachers
+ from a academic point of view,
+ what do you think about international cooperation?
+ Yes.
+ Mr. Yongbo, what do you think?
+ Yes.
+ In fact,
+ in addition to the government and the institutions,
+ there are also a lot of
+ non-official conversations.
+ For example,
+ some time ago,
+ in Beijing,
+ we made some red lines
+ for the Beijing AI Security International Cooperation.
+ That is the organization
+ called International Dialogue on AI Safety.
+ We have a lot of
+ international partners
+ who are working together
+ to help you
+ to gather information.
+ Then, we also invited some
+ foreign famous experts
+ to come to China.
+ We have some
+ government officials
+ from the country,
+ including the person in charge
+ of the laboratory,
+ and some professors
+ from the university
+ to conduct some consultations.
+ We can also reach some consensus.
+ I believe that
+ in addition to the government
+ and the institutions,
+ such as this non-official dialogue,
+ it may also be a more important
+ way of cooperation.
+ Yes.
+ Thank you, Mr. Yao Dong.
+ Yes.
+ We should continue to
+ communicate with each other.
+ Mr. Si Heng.
+ I think
+ what the guests just said
+ makes a lot of sense.
+ I really support
+ and agree with them.
+ I also want to
+ reclaim
+ education.
+ As university teachers,
+ we should emphasize
+ how to educate
+ the younger students
+ who can promote
+ this thing,
+ regardless of
+ the country
+ or the school.
+ I have a student
+ whom I told
+ that he could
+ go to the university
+ to learn more about
+ alignment and safety.
+ I received
+ a very surprising feedback.
+ He felt very resistant
+ or he felt
+ that
+ if he could create
+ a machine
+ that could be
+ strong enough
+ to destroy
+ human beings,
+ he would think
+ it was a very cool thing.
+ And then
+ I...
+ It's too scary.
+ Yes.
+ Actually, it's very scary.
+ It's very, very scary.
+ And then
+ I think
+ maybe in the process
+ of education,
+ especially
+ when we do machine learning,
+ we often emphasize
+ to optimize
+ performance,
+ improve performance,
+ optimization,
+ maximize something.
+ You emphasize
+ to optimize something,
+ but you forget
+ the context.
+ Why do you need
+ to optimize this?
+ What you need to optimize
+ is to finally
+ improve for us,
+ for our own benefit,
+ for our own benefit.
+ Including
+ when we do
+ this attack
+ or jailbreak,
+ sometimes you have
+ to increase
+ the success rate.
+ And then
+ when you think about
+ this,
+ you miss
+ a bigger picture.
+ So I think
+ it's really important
+ to think about
+ how to
+ improve
+ the AI
+ safety system
+ of these people.
+ And
+ we,
+ especially
+ as university teachers,
+ we are actually
+ educating them
+ to train
+ the next generation
+ of AI elites.
+ So we need
+ to
+ integrate
+ these
+ feelings
+ of
+ AI safety
+ in our
+ classroom
+ or in our
+ textbooks
+ or in our
+ lectures.
+ That makes sense.
+ In fact,
+ in Shanghai AI Lab,
+ we have a lot of
+ collaboration with
+ senior students
+ from high schools
+ like Mr. Seng.
+ So we are
+ very concerned
+ about this topic
+ under the background
+ of this organization.
+ And this forum
+ is actually
+ the first time
+ that we have
+ shown
+ the AI safety
+ model
+ at the research center.
+ And in a while,
+ Dr. Shao Jing,
+ who is in charge
+ of the research center,
+ will talk about
+ some of the work
+ that the center
+ has been doing recently,
+ and Mr. Xu Dong,
+ what do you think
+ about this topic
+ of international cooperation?
+ I am still
+ more technical,
+ so I will
+ talk about
+ a few technical points
+ that we are concerned about.
+ In fact,
+ the AI model
+ includes the safety
+ of the cross-language language,
+ including
+ the English model
+ which lacks
+ the safety
+ of some Chinese
+ or other languages.
+ So,
+ one is
+ how to do
+ cross-language safety
+ matching,
+ and the other is
+ the safety assessment
+ of cross-language language.
+ This is actually
+ more difficult,
+ but I think
+ it is very important
+ to build
+ a cross-language
+ content-safe
+ testing model
+ so that it can
+ be used
+ in the entire
+ safety assessment,
+ as well as
+ safety protection.
+ Thank you.
+ Thank you,
+ Mr. Xu Dong.
+ Yes,
+ we are running out of time.
+ So,
+ that is it
+ for today's
+ roundtable discussion.
+ Thank you,
+ four guests,
+ and thank you,
+ Zico,
+ for being part
+ of the panel
+ on the site.
+ I would like
+ to invite
+ two guests
+ to sit down.
+ Thank you.
+ I actually
+ briefly introduced
+ the following part
+ to you.
+ This is
+ what I just mentioned.
+ Our
+ Shanghai
+ Human Intelligence
+ Laboratory
+ of the Shanghai
+ Human Intelligence
+ Laboratory
+ is in charge
+ of conducting
+ an in-depth
+ presentation
+ on AI
+ and AI
+ for the
+ first time
+ this year.
+ I would like
+ to briefly introduce
+ Dr. Shao Jing.
+ Dr. Shao Jing
+ has 15 years
+ of experience
+ in the field
+ of AI
+ and AI
+ and has
+ won the
+ Shenzhen AI
+ Technology
+ Improvement
+ Award
+ in 2022.
+ His report
+ focuses on
+ avoiding
+ risks
+ and
+ the importance
+ of the
+ AI
+ in the
+ environment.
+ Dr. Shao
+ is the
+ Director
+ of the
+ Shenzhen
+ AI
+ and AI
+ Research
+ Institute.
+ Dr. Shao
+ is the
+ Director
+ of the
+ Shenzhen
+ AI
+ Research Institute.
+ Dr. Shao
+ is the
+ Director
+ of the
+ Shenzhen AI
+ Research
+ Institute.
+ Dr. Shao
+ is the
+ Head
+ of
+ the
+ Shenzhen
+ AI
+ Research
+ the ratio has actually changed a little bit.
+ There are about 3% of people
+ who have a 3% win rate in COMS.
+ But most people are still worried
+ that the entire AI's security problem
+ has brought some uncontrollable
+ or the entire human society.
+ Even everyone will pay attention to
+ whether it will affect everyone's employment problem
+ and even the survival problem of the next generation of children.
+ Of course, the development of AI right now
+ is not enough to destroy humans
+ or cause some extreme danger.
+ But basically, everyone's consensus is
+ high model capability, high AI risk.
+ These two are a common relationship.
+ Specifically, from September 2023
+ to now, it's been about half a year.
+ Including Anthropic,
+ including Meter,
+ including Center for AI Safety,
+ and various organizations,
+ everyone has actually launched a series of
+ co-considering the relationship between
+ model capability and corresponding risk,
+ including its level,
+ including how to determine its level
+ and what the relevant reaction is.
+ This shows that everyone has already realized
+ that the two are very closely related.
+ And then, like our lab,
+ because in the early stage,
+ it was mainly focused on model capability,
+ we realized that these two have very strong co-considering skills.
+ So we also gradually developed more AI risk technology.
+ Before we move on to the technical part,
+ let's take a look at the government level
+ or at the government-level level,
+ what everyone thinks about it.
+ On the top, we made a statistics based on the public survey data.
+ And then, of course, China has a series of policy proposals.
+ You can see that in recent years,
+ especially after two or three years,
+ the overall trend has been rising both domestically and internationally.
+ It also shows that everyone has slowly realized
+ the importance of this aspect.
+ Only policies or some standards are still not enough.
+ So we also need to be able to give some response
+ at the technical level.
+ Of course, now more is about doing this element,
+ which is probably what everyone is more familiar with.
+ Under the 3H principle,
+ we can do a lot of things.
+ We can do a lot of things.
+ We can do a lot of things.
+ We can do all of this work.
+ We can do all of this work.
+ We can do some RLHF,
+ or IEL&EIF related work.
+ But we also find that this method
+ is not enough to completely solve the AI risk.
+ There may be some comforts,
+ but what are the problems here?
+ Or what technical points do we have to do?
+ These are the questions we care about more.
+ So in general,
+ if we look at the technical level now,
+ we are still focusing more on the fine tuning phase.
+ If we look at the entire training phase
+ as, for example,
+ pre-training and fine-tuning.
+ Of course, fine-tuning can also include SFT,
+ including RHF.
+ Most of the work is still done
+ after pre-training.
+ In our concept,
+ we think the things we should do
+ are to consider its security issues
+ throughout the entire AI lifecycle.
+ This also involves the technical level,
+ and also involves the government institutions
+ and the relevant policy design.
+ It also involves the increasing number of participants,
+ and even the general public.
+ Everyone will be involved in the overall
+ AI risk prevention.
+ Here, we refer to...
+ Who did I refer to?
+ Everyone has been on too many shows.
+ I'm actually a little bit confused.
+ It could be Airsoft, or OpenAI.
+ But basically,
+ the stages that we define are similar.
+ You can see that
+ from the beginning,
+ the AI is the most important thing.
+ From the use case,
+ to the data preparation,
+ and then to the entire training stage,
+ and finally to the deploy and product deliver.
+ Everyone has defined at different stages
+ what they should do.
+ But in these stages,
+ how should the risk be solved?
+ How should the security issues be considered?
+ There are actually a lot of
+ under-explored situations.
+ And then we summed up here
+ based on the public information that can be searched,
+ including government,
+ research institute,
+ and industry.
+ At different stages,
+ you can see the level of investment
+ or the level of what everyone has already done.
+ Of course, this is also a test map.
+ It's not an absolute value relationship,
+ but you can see the relative change.
+ In general,
+ at the stage of determining use case,
+ there will be more public appearances
+ because everyone will make some rules
+ and regulations
+ that require you to do something
+ when you go to produce
+ related AI products
+ or services.
+ In contrast,
+ the research institute and industry
+ will be weaker.
+ Especially in the case of industry,
+ more people are still looking at
+ the opportunity of the product
+ or some business models.
+ At the stage of data preparation,
+ because the entire industry
+ has the largest number of data,
+ it will have more authority
+ or for it,
+ in this part of the work,
+ it will affect its future model training
+ and product production.
+ So its investment
+ will also be the largest.
+ In contrast,
+ government and research
+ may be a little cheaper.
+ At the stage of training,
+ we also look at the pre-training
+ and fine-tuning stages.
+ You can see that
+ at the pre-training stage,
+ in fact,
+ the attention of these three institutions
+ is not so high
+ on the risk of AI.
+ Because we now agree that
+ the pre-training stage
+ is still in this model
+ to acquire knowledge.
+ It is not to say that
+ we should pay special attention
+ to its risk problem.
+ More often,
+ we may still pay attention
+ to the fine-tuning stage.
+ There are slowly rising trends,
+ especially in terms of research.
+ It will do a lot of algorithm
+ and optimization
+ to respond to its security issues.
+ When it comes to the deployment stage,
+ you can see that
+ the role of government
+ is also biased.
+ Because at this time,
+ more attention is paid to
+ the research.
+ It will do a lot of evaluation methods
+ and solve the problem
+ of how to compare
+ and set the relevant rules
+ in the evaluation stage.
+ Then there will be a stronger interaction
+ between industry and government.
+ At the end of the product delivery stage,
+ government will rise again.
+ Because the government
+ will be able to
+ do a lot of research
+ and do a lot of evaluation.
+ At this stage,
+ the product has already come out.
+ If it is to circulate on the market,
+ the whole government
+ will have to manage
+ or control
+ this risk.
+ At this time,
+ the research
+ is basically
+ biased towards
+ a relatively low state.
+ Overall,
+ it seems that
+ these three organizations
+ complement each other
+ or you can see
+ that there is no
+ certain stage
+ where everyone
+ has done very well
+ and then formed
+ a very tacit
+ consensus.
+ Therefore,
+ it seems that
+ there is no
+ need
+ to say
+ that everyone
+ has done very well
+ or that everyone
+ has done very well.
+ Therefore,
+ it is also
+ to call on everyone
+ to pay more attention
+ to what should be done
+ at each stage
+ and whether
+ it should be
+ increased
+ more attention.
+ From our
+ technical level,
+ we just mentioned
+ these five stages.
+ We think
+ that at each stage
+ we have to do
+ relevant alignment
+ and evaluation.
+ The left axis
+ is a reference
+ to the level
+ from level 1
+ to level 4
+ that is also
+ a reference
+ to the level
+ from level 1
+ to level 4.
+ We think that
+ the current stage
+ may still be
+ in the emerging
+ age stage.
+ In the future,
+ there may be
+ more so-called
+ super intelligence.
+ In each
+ different age
+ of AI development,
+ there may be
+ different AI
+ life cycle definitions.
+ In each definition,
+ it will involve
+ the response
+ to risk
+ at each stage
+ or the evaluation
+ and implementation
+ of some
+ research
+ and development
+ in the future.
+ In the future,
+ we will
+ spend some time
+ to introduce
+ the work related
+ to the lab.
+ We also
+ have the concept
+ to do evaluation
+ and alignment
+ at different stages
+ at the same time.
+ First,
+ in the first part,
+ we just mentioned
+ that there are
+ a lot of
+ organizations
+ in China
+ including
+ the Xintong Institute
+ and other organizations
+ that will participate
+ or issue
+ such standards.
+ The lab
+ also
+ participates
+ in the
+ evaluation
+ and evaluation
+ of some
+ of the
+ research
+ and development
+ projects.
+ In the
+ data preparation
+ stage,
+ we found
+ that
+ most of
+ the attention
+ is still
+ on the
+ language model.
+ In the
+ vision language
+ model,
+ the attention
+ on security
+ is not
+ very high.
+ So,
+ at the beginning,
+ we wanted
+ to do
+ some
+ data analysis
+ to make sure
+ we have
+ the first
+ level of
+ data.
+ The new
+ data
+ we have
+ is
+ about
+ dozens
+ of
+ subcategories
+ and
+ about
+ 100,000
+ subcategories.
+ It is
+ now
+ open to
+ the public
+ to use.
+ We hope
+ to have
+ more
+ research
+ on the
+ large model
+ in the future.
+ So,
+ we are
+ looking at
+ the
+ future
+ of
+ AI
+ and
+ the
+ future
+ of
+ AI.
+ So,
+ we are
+ looking
+ at
+ the future
+ of
+ AI
+ and
+ we are
+ looking
+ at
+ the
+ future
+ of
+ AI
+ in
+ the future.
+ We are
+ looking at
+ the future
+ of AI
+ in
+ the future.
+ We are
+ also
+ looking at
+ the future
+ of AI
+ in
+ the future.
+ We
+ also
+ look at
+ the future
+ of AI
+ in
+ the future.
+ So,
+ we
+ will
+ also
+ talk
+ about
+ the
+ future
+ According to Hengzhou,
+ in the mid-to-late stage,
+ it already knows
+ the difference between
+ bias, robustness,
+ and privacy.
+ But of course,
+ if you have not used
+ alignment,
+ you will find that
+ it does not have this kind of performance
+ in the actual output.
+ Since we know that
+ it already has this kind of
+ performance,
+ can we use this method
+ to help it improve,
+ to replace, or to supplement
+ the current alignment method?
+ We used
+ some checkpoints
+ in the pre-training stage
+ to help with the alignment
+ of the model on SFT.
+ We can see that
+ the red area
+ is much higher
+ than the green area.
+ Of course, I will
+ show you
+ the difference
+ between the two.
+ So, this is
+ an exploratory work.
+ I hope that
+ you can pay more attention
+ to the internal changes
+ and encoding capabilities
+ and do more research.
+ In the pre-training stage,
+ we also want to know
+ how this model
+ is viewed
+ and how we can
+ test it.
+ In the pre-training stage,
+ we tested
+ the model
+ on the left
+ and the model
+ on the right.
+ We can see
+ that the performance
+ of the model
+ on the left
+ is not that different
+ from the model
+ on the right.
+ We can also see
+ that the model
+ on the right
+ is different
+ from the model
+ on the left.
+ For example,
+ the model on the right
+ is different
+ from the model
+ on the left.
+ Is it possible
+ that the model
+ on the left
+ is different
+ from the model
+ on the right?
+ Yes, it is possible.
+ We can also use
+ the model
+ on the right
+ to understand
+ the model
+ on the left.
+ We can also use
+ the model
+ on the right
+ to understand
+ the model
+ on the left.
+ We can also use
+ the model
+ on the left
+ to understand
+ the model
+ on the right.
+ We can also use
+ the model
+ on the left
+ to understand
+ the model
+ on the left.
+ In this way,
+ We also mentioned an automatic evaluation method on this basis.
+ Because we also found that the overall evaluation of everyone now will mainly rely on artificial intelligence.
+ This is also not possible for a long time.
+ And if I want to quickly stack models, I also need to introduce some of these automatic evaluators.
+ Then our current second version of this judge model can support large language model and multi-language model at the same time.
+ There are also some image models generated by AIGC.
+ This related work is a 300-page report that we had at the beginning of this year.
+ After Gemini came out, we did it about its versatility, credibility, and its ability to respond.
+ It is equivalent to us not only observing that we only want to make it safe and not want to make it capable,
+ but we hope that it will be able to respond to our needs.
+ Thank you.
+ Thank you.
+ I hope it will all have a certain relationship with each other and we can improve it together.
+ Let's have a look at the conclusion about the time difference.
+ Of course, the overall performance of GBT4 is the best,
+ especially in terms of English reasoning and some image task.
+ And then we also find that in open source, LAMA2 is the best performance.
+ Also, we do some observations in video.
+ Of course, the security of video is less explored today.
+ We can see that if I use some video tasks and data to train it,
+ its performance will be better than Gemini and GPT-4.
+ This work is related to evaluation.
+ We also found that the latest Apple release
+ and the work of Slab Town and a series of agent systems
+ should be focused on the future development of agents.
+ We also published an ACL work on agent benchmarking,
+ which includes attack, defense, and evaluation.
+ If you are interested, you can check out the relevant papers.
+ Let's move on to the next slide.
+ This slide shows the current performance of the agent system.
+ This slide shows the current performance of the agent system.
+ After the model phase,
+ Director Qiao has already introduced that
+ we have also set up a safety assessment work group
+ under the support of some associations.
+ We also did a series of business and industrial cooperation
+ to promote related AI security mechanisms and research work.
+ Finally, we shared some of the tech-weight ideas with you.
+ Finally, we shared some of the tech-weight ideas with you.
+ Also, on the other hand,
+ we said that the current safety technique
+ is still more focused on the post-training stage.
+ We feel that the safety technique
+ while in this single stage is very weak.
+ We call on you to pay more attention to
+ the safety considerations on the AI life cycle.
+ And we hope you all can pay more attention to
+ the safety considerations on the AI life cycle.
+ so that everyone can pay more attention to the internal
+ or the representation perspective
+ to see what its value is.
+ In addition, through these methods,
+ we hope that this model is not just about
+ saying that I know what is bad
+ or that my heart is bad, but I don't express it.
+ Instead, we want it to really know that
+ I want to be a good AI,
+ an AI that is kind to humans.
+ Finally, as mentioned earlier,
+ we don't pay much attention to the safety of agent-related work.
+ We also hope that more people will pay attention to agent
+ or the safety work related to collective intelligence in the future.
+ Finally, there are some of our own groups and emails below.
+ You are also welcome to pay attention to our next work.
+ Thank you.
+ And then I will continue to introduce the next speaker,
+ Zico Coulter, who has just appeared in the panel.
+ Zico Coulter is a professor and director of the Machine Learning Department
+ with the School of Computer Science and CMU.
+ His group's work focuses on machine learning very broadly.
+ It aims at making deep learning algorithms more robust,
+ safer, and understanding how data impacts.
+ It aims at making deep learning algorithms more robust, safer, and understanding how data impacts.
+ It aims at making deep learning algorithms more robust, safer, and understanding how data impacts.
+ It aims at making deep learning algorithms more robust, safer, and understanding how models function.
+ Okay, let's welcome Zico.
+ Alright, thank you.
+ Thank you.
+ You
+ You
+ You
+ You
+ You
+ You
+ Worse than than traditional models they
+ And and even more so that there aren't that many models where you sort of have free reign
+ Over exact control over the inputs, right? It's a computer vision
+ You often don't have direct
+ pixel-level control over these inputs and so you can't really play with the models in which you the way you would normally think about it
+ At least when they're operating in the wild
+ But then I would say everything changed with chat GPT because all of a sudden there were models that existed in the world
+ Where everyone could have access to exactly input whatever they wanted to into these models
+ They were exceptionally useful and there were also very clear guidelines
+ that the model developers wanted to put in place, but but
+ Which could be circumvented by these sorts of attacks?
+ And so I really think the LLMs do change the calculus of adversarial attacks and robustness and safety
+ Now chat GPT maybe as a strict chat bot. It doesn't you know it this is
+ Just the chat bot or a Claude doesn't
+ These attacks maybe aren't the most concerning thing because they won't
+ Reveal any information that's already on the internet
+ This might be hard, you know, this might be a bad thing for much much more capable models
+ But it's not really a problem for current day LLMs arguably, but I actually think even right now
+ These things are major problems
+ Because what they boil down to is the fact that LLMs are unable to enforce the safety
+ Policies set by their developers, right? This is what these attacks really fundamentally show
+ number one and number two
+ We're starting to use LLMs beyond just chatbots, right?
+ We're starting to use them in agent systems and when you use LLMs within larger systems
+ All of a sudden you're introducing security vulnerabilities into these systems that can act as significant security vulnerabilities
+ So to give a few examples of how this may become up as a problem you can imagine, you know a
+ LLM that isn't just an LLM by itself
+ But actually is an LLM that can also browse the web to get?
+ Information and you can start to see how these sorts of things can cause real security flaws
+ So for example, you know if you asked an LLM that has access to the web, what's the current price of h100 GPUs?
+ It will search the web and if the top hit on that page happens to have some malicious content
+ that's inside that web page telling the essentially the LLM to ignore what it was asked to do and just
+ Insult the user then maybe you get a system that will insult the user it tells you to train decision-making
+ If you can't afford h100s
+ But even more so
+ Once we start giving more capabilities to these systems, for example in viewing them with email sending abilities
+ then the risks become even more great right because now you know if the
+ top hit on this query
+ Instructs the LLM to actually do things like send out a spam offer to all your email contacts
+ It might just carry this out without actually
+ With it without really following the intended instructions of the actual system
+ and so
+ What I would argue is that?
+ adversarial attacks are
+ Somewhat akin to a buffer overflow. There are vulnerability that is present in all LLM so far
+ But even more than this unlike normal buffer overflows, we don't even really know how to patch it
+ So as we release systems that use LLMs
+ We essentially are releasing systems with known security flaws that we don't know how to patch right now
+ and
+ My belief is that whether or not we can fix this will be the primary factor in determining whether these AI systems for now remain
+ Chatbots or whether they really become the intelligent agents that we want to build going forward
+ All right
+ so now let me talk about how these attacks actually work and this is going to be a very high level presentation, but I want to give a
+ a broad overview of how these things work. This is, of course, all in the paper that's
+ available online. You can see it at llmatacks.org. So the way, just to recap here, the way LLM
+ alignment typically works is that we first pre-train on a lot of raw data from the internet.
+ After this, we then fine-tune the model with instruction tuning as well as human preference
+ data or data on harmful or helpful behavior. This is usually with a much smaller amount of this.
+ We give it examples like, for example, when you ask me, when you ask it how to hotwire a car,
+ the correct response according to this fine-tuning data will be to say, I can't do that.
+ But the problem here is that the knowledge of how to hotwire a car is still inherent inside
+ that large language model, right? And so it's only in some sense been kind of plastered over
+ instructions to say,
+ even though you know how to hotwire a car, don't tell the user how to do it. And the problem is
+ that we can circumvent this. And the way that we circumvent this is very, very simple. We take a
+ query, like how do we hotwire a car, and we append to it a whole bunch of extra tokens. These are
+ like exclamation points and things like this. That's what I start out with. That won't break
+ the system as it is. That's just the starting point. Then we take an open source language model.
+ So this is something like the LLAMA, the LLAMA,
+ language model. And because this model has been, is open source and we've accessed the weights,
+ we can actually look at the exact probability that this model says, you know, I'm sorry,
+ I can't do that. Or the probability that says, sure, here's how you hotwire a car.
+ And so the goal that we have now is we just want to start adjusting tokens here to increase this
+ probability that the model responds saying, sure, here's how you hotwire a car. And what we're going
+ to do is we're going to start substituting in tokens, swapping tokens, and then we're going to
+ keep swapping tokens in this suffix in order to make that probability of the second response here
+ to raise the probability of that response as high as possible. Now, we use a scoring of these tokens
+ by the gradient of the probability of this output with respect to those tokens. But the details,
+ those are in the paper, people that are curious. And we just keep swapping tokens in this way. We
+ keep switching words around. And eventually, if we do this, we're going to get a lot of tokens.
+ And we're going to get a lot of tokens. And we're going to get a lot of tokens. And we're going to
+ get a lot of tokens. And we're going to get a lot of tokens. And we're going to get a lot of tokens.
+ And we're going to get a lot of tokens. And we're going to get a lot of tokens. And we'll come up
+ with a sequence that seems very kind of random, because this is not actually language. It's just
+ using an optimizer to construct it. But this seemingly random sequence of tokens actually
+ causes the model to respond, here, sure, here's how you hotwire a car. And the most interesting
+ thing, I think, is that all we aim for in our objective is the phrase, sure, here's how to
+ hotwire a car. But then when you actually use it and it says, first, get a screw driver,
+ screwdriver, move steering column, etc. So basically, once you've convinced the model,
+ it wants to hotwire our cart, we'll go ahead and actually do this.
+ Now, the most interesting thing, I think, of all of this, though, is the open source models. It
+ was actually all done, all those suffixes you see were built about a year ago, and they still work
+ pretty well. So what we do after we've constructed these things for open source models, is we
+ basically just copy and paste these into closed source models like Claude here. And we find that
+ Claude's actually more than happy to tell us how to hotwire a car. We don't fully understand why
+ this transfer occurs. And I think understanding this transfer is one of the big open questions
+ that we have about understanding safety of these models. Now, just to give some little bit more
+ concrete results, what we find is that our attack is able to very successfully break open source
+ models. So whenever we train it on a model, it can very easily break those models. Then even more
+ surprisingly, the model is able to very reliably break other third party models as well. This is
+ the results we had in the paper of about a year ago. Since then, we've actually, of course, as you
+ saw, been able to break later iterations of Claude and others. And these attacks actually are very
+ effective still at breaking many of these models. Not only this, but the actual optimizer we use is
+ very important here. So there has been a long line of work at methods that try to optimize prompts in an
+ automated fashion. But our method, which we call the greedy coordinate gradient method, tends to be
+ quite a bit better than all of these. Okay. So to finish up, I want to talk a little bit about what
+ we can do about this. How might we prevent these attacks? And unfortunately, the short answer that I
+ have to be honest about is that we don't know how to fully prevent this.
+ We've been trying to fix adversarial robustness, as I mentioned, with computer vision for over 10
+ years. And I've worked on this problem a whole lot. And I can say confidently, because I've
+ worked on it so much, that we have largely failed at it. Now, there are some options. There are
+ things like, for LLMs at least, things like adversarial training, input-output filters,
+ prompt paraphrasing, etc. But these systems seem somehow inadequate. They don't seem fully capable
+ of solving systems. Or they seem to work well maybe in a black box setting, but we can easily
+ re-break them if we have white box access. And it's unclear if you want to rely on only having black
+ box access to the system and things like this. However, what I will add is that I think we have
+ several recent results that I believe show this situation is quite a bit better for LLMs than it
+ was for computer vision.
+ And so I want to highlight just a few of the current techniques we are using and show one more
+ demo of a system that actually is able to much more reliably defend against these kind of
+ manipulations from the system.
+ Okay, so how do we start to build more robust systems? And I'm just going to show the rough
+ techniques here, give a high-level view of the techniques. These are all covered in some recent
+ papers we have.
+ And I'm just going to talk about sort of ways in which we might go about doing this.
+ So first of all, we can use what's called slow adversarial training. So normal adversarial
+ training of machine learning models, every gradient step you take when you're training the
+ model, you actually construct an adversarial attack and train against that sort of attacked
+ example. But that's very impractical for LLMs because these attacks that I'm showing you here,
+ they take sometimes up to a day to actually run.
+ What we can do, though, is use a slower approach.
+ Okay.
+ Okay.
+ Okay.
+ Okay.
+ So we can use a slower process, where which we freeze a model, use this model or fine tune a model
+ against existing attacks on this system, and then use the fine-tuned system to generate new attacks
+ and repeat this process kind of in a slower phase. And this does seem to add a degree of robustness.
+ We can also use a technique recently developed by collaborators Andy, who's been the lead author on
+ all of these papers that you see here.
+ A PhD student of myself and Matt Fredrickson also works with CASE.
+ This also recently developed a technique with several other collaborators called representation
+ engineering. And this technique, basically what it does is it looks at the internal representations of
+ activations and networks and tries to find directions in that space that are correlated with
+ certain types of behavior. The very cool thing, though, about LLMs, and this is sort of different from
+ traditional techniques in probing, is that the way you find these directions of activation space often
+ just involves asking the LLM to think about certain things. So if you want to think about, if you want to
+ find a direction for refusal, you can kind of just ask the LLM to think about refusing, refusing
+ instructions, or on the flip side, not refusing instructions and giving you full complete answers to
+ questions.
+ You then can run PCA.
+ You can run the LLM on this activation space of refusal versus non-refusal.
+ And you can reinforce those activation patterns when you are actually running the LLM.
+ And it will over-increase the refusal or, in fact, if you do it the other way, under-increase the
+ likelihood that the system will actually respond to you.
+ And then finally, we actually have also used this representation engineering, the learned
+ representation engineering.
+ So we've got a bunch of representations in this approach that develop a new technique called
+ circuit breakers.
+ And the idea of circuit breakers is we actually want to fine-tune a model to make the representations of
+ harmful information as orthogonal as possible to those of an original model.
+ So you have an original model that will sometimes generate harmful behaviors.
+ You want to change the representations such that for those harmful behaviors, the internal
+ are as different as possible from the original model
+ while minimizing the difference for non-harmful queries.
+ And this works in many cases much better
+ than just simple adversarial training or refusal training
+ because it actually causes the model to sort of go haywire
+ and kind of stop making any sense
+ when it encounters any harmful information
+ because these representations essentially no longer work
+ as a valid LLM anymore.
+ Both those two papers, the representation engineering paper
+ and the circuit breakers paper, are both on archive
+ and the details of this are in the paper.
+ Rather than actually go through all of this, though,
+ I want to show one more demo
+ and I'm going to copy this exact string I use here
+ and instead I'm going to paste it into our model here
+ which is called Cignet.
+ And Cignet is a model that was trained
+ with a combination of refusal training
+ and a combination of refusal training
+ and a combination of refusal training.
+ And let's see, oh, maybe I need to reload.
+ Let's try this again.
+ It's trained with a combination of this refusal training
+ as well as the other things.
+ And what you'll see is that even though it is responding
+ in some cases, it's not actually telling you
+ how to hotwire a car here, right?
+ So it's rather than try to,
+ to prevent a response always.
+ I mean, and it will sometimes just say,
+ no, I can't help with that.
+ What it actually does is it's giving you
+ entirely different instructions here, right?
+ So it will either refuse or in many cases,
+ it will tell you how to do things like
+ replace worn parts and suspension and things like this.
+ And the details are in the paper,
+ but what we've shown is that essentially
+ these models with a combination of circuit breakers
+ and representation engineering and refusal training
+ is able to much more reliably avoid harmful information
+ sometimes even with white box access to the system
+ far beyond what's possible for other models.
+ Okay, so final thoughts.
+ I think for a long time,
+ adversarial attacks were viewed
+ as kind of an interesting odd demo, right?
+ So we had interesting cases of images
+ that would change their class, things like this.
+ But in LLMs, these are much more than just a cute demo.
+ They represent, so far, the inability of LLMs to follow developer programming, and they reveal serious security flaws, especially as we integrate these things into larger systems.
+ And I personally think that mitigating these things will be the primary determining factor between whether LLMs will be fully integrated into larger systems or whether they're going to stay forever as chatbots.
+ Now, mitigation is going to be challenging for these things, but I think we've made substantial progress over the past year.
+ And recent approaches appear much more capable than in computer vision.
+ Thank you very much.
+ And all the information is on my website and can be linked to from there.
+ So thank you very much.
+ Thank you, Zico, for your insightful speech.
+ Okay.
+ Thank you, Zico, for your insightful speech.
+ Thank you.
+ Thank you, everyone.
+ Thank you, everyone.
+ Thank you, everyone.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ Thank you for the invitation from Shanghai Humanities.
+ First, let me introduce our team's research results on large-module security assessment.
+ This is a brief introduction to the results of our laboratory.
+ Our team mainly focuses on research related to the entire network space security management.
+ We have been conducting research related to the smart terminal for about 13 years.
+ These results serve the national strategy, and we have also reached a deep cooperation with Huawei.
+ At the end of the MATE series, we combined with NPU to realize a smart protection system.
+ At the same time, we also focus on the idea of public-private defense.
+ For example, in terms of data security, in 2013-2014,
+ we have already discovered privacy leaks in systems such as Android.
+ This work also received important reports from the Yangtze 3.15 summit.
+ We are also promoting the entire country to pay attention to the research on mobile privacy and compliance.
+ This is a piece of research.
+ In addition, we have made a lot of contributions to the software supply chain,
+ the black dust and the biometric certification.
+ Today, I mainly want to introduce our team's research related to AI security management.
+ Everyone here should have already paid attention to this.
+ Everyone who came to participate also knows that AI security is now a global issue.
+ The Secretary-General of the United States
+ has also emphasized at multiple meetings
+ that while developing AI,
+ we must also pay attention to the safety risks of AI.
+ Our team also participated in the 2023 version.
+ Actually, before the epidemic, we were doing this.
+ The white paper on the standardization of AI security
+ and the basic requirements for the service of AI in recent days
+ were all participated by us as the main unit.
+ There have also been a series of conversations in the international community,
+ so the issue of AI security management has reached an unprecedented height.
+ This is the result of our research from the past 18 years to the present.
+ What we are mainly concerned about,
+ just like what Mr. Shaoqing mentioned,
+ we are mainly concerned about the safety issues of AI
+ in the entire life cycle of AI security,
+ including its model, data, training algorithm and reasoning algorithm.
+ These results are also published in the meeting of AI
+ and the summit of the safety of the network.
+ In recent years,
+ we have also been working on
+ the application of such technologies
+ to the entire AI model,
+ including the general model,
+ the use of tools,
+ and the exploration of the risks of advanced AI.
+ Today, I will mainly report on the bottom right corner.
+ This is where we are currently participating in the standardization.
+ On the other hand,
+ we have now reached a cooperation with Baidu, Huawei and Ali.
+ We are applying some of our technologies to their products.
+ This is where we are thinking about the entire AI.
+ We are thinking about the entire AI.
+ In the past,
+ we started with traditional AI.
+ We thought,
+ including when I was studying in graduate school,
+ in 2016 or 2017,
+ when AlphaGo was released,
+ we thought that it really seemed to surpass human beings.
+ But AlphaGo is just a thing
+ that you can think about
+ in a cage.
+ It can only make a choice on a chessboard.
+ When it was released,
+ we saw,
+ including from 2019,
+ we have already focused on GPT issues,
+ and now,
+ through the chess game,
+ it can interact with people,
+ 以及它可以跟环境去交互,甚至它可以获得环境的反馈,进而去跟形成一些策略,就在这样的一个整个过程中,AI的安全问题其实逐渐地从这样的一个传统的比如说分类的问题,分类里面的误判的问题,到了一个真正的可能存在自主性,存在一些自主危险行为的问题,所以这也是整个我们对这方面的一些思考,然后在这样的一个图景下面我们应该做什么呢?
+ 在这之前我介绍一下我们团队的一些成果吧,然后也是打个广告,我们其实也是在那个ShineGPT发布之前的三四年前我们就在研究大模型安全了,然后一个的话就是我们在那个安全四大顶会就SNP,Security and Privacy,2020上我们研究了OpenAI的GPTR以及BERT这样大模型它产生的embedding的隐私问题,我们当时其实发现了一个很有意思的结果,
+就是这些大模型它的embedding它的隐私性几乎是等同于明文的,我们构造了一种很高效的攻击算法,它可以直接就是把那个embedding再逆向出来它所有的原文信息,然后这个工作也是得到了2022年WIC的青年优秀论提名奖,然后后来也是OpenAI以及Google他们都就报道这样的一个工作,然后另外的一个工作是我们在22年做的一个事情,
+就是当时其实也已经出现了一些文本模型的就文本模型的提名奖,
+有分类文本模型的后门,我们当时也在想这样的基座大模型是否也可以嵌入后门呢,于是我们构造了一种基于语言风格的大模型后门,它的好处就在于它可以绕过当时几乎所有的主流的防御,直到现在也没有很好的解决方法,
+其实这就说明了我们科研界的工作是可以非常前沿的及早发现这些大模型的风险,然后给大家一些相当于时间去研究它的防护措施,
+比如说像左边的这个工作其实后来有一系列的工作,
+然后他们希望去建立一个privacy preserving的text embedding,然后它其实到现在的包括RAG系统里面,其实很多都在用这样的一个防御,
+然后在我们近期从23年4月份开始,我们一直在关注通用大模型安全水位的监测工作,
+就包括整个AI的发展路径里面,我们会看到所有的安全问题目前似乎都汇聚到了这样的一条路径上,
+那我们在这个生成内容这一块,它的安全风险一旦从文本框,
+去外溢到整个包括工具的调用,包括到后面auto GPT产生的planning,
+或者再到后面的一些agent之间交互产生一些合谋,
+在这样过程中我们是否应该从它的最左侧,甚至最左侧我们基座已经做了,
+那现在聚焦到对齐之后我们在通用大模型这一块如何去进行安全防护,
+我们认为第一块就是要去持续的监测通用大模型的安全水位,
+这件事情也是全球的科技巨头,
+都在考虑的,包括像DeepMind,像Anthropic,
+他们都在关注如何在整个AI的迭代发展过程中,
+在每一个流程,每一个环节,每一次能力提升的时候,
+都去监测这个大模型的安全,
+但是光光提出这样的blueprint是不够的,
+有这样的路线图之后,
+我们怎么样把这样的一个安全治理的技术真正的能够提升起来,
+是我们科研界需要去和产业界共同探索的,
+一个问题。
+ 这边的话我就想更技术的去分享一下,
+为什么刚刚前面图灵奖得主也说,
+这样的安全治理和评测技术当前是远远落后于治理的整个政策的,
+这是因为一方面像我们关注大模型安全评测,
+其实主要目前是两条路径,
+一个是做这种静态的基准测试集,
+其实就是不断构建很大规模的这样的评测集,
+有可能甚至是人工不断坐在那边跟大模型交互,
+产生了基准测试,
+那么其实它的制作成本很高,
+像Astropic它在开发第一款Cloud的时候,
+他们当时发现要324个Worker,
+然后他们在那做一个月,
+每天8小时,
+然后实行很贵,
+然后最后发现200美元才能找到一条违规的案例,
+那这个其实另一块问题就是,
+一旦这种Benchmark出现之后,
+它其实会很快的老化,
+因为我们发布一个静态基准测试集,
+那么大家其实是在可以上面去做微调,
+去优化,
+那么它的老化,
+不断老化之后,
+静态基准测试集会造成一种安全的假象,
+这就是我们今天想要主要探讨的问题,
+这种安全的假象带来的问题,
+在于我们可能会低估当前大模型的安全水位,
+所以我们更应该去持续的监测它,
+然后另一块问题就是,
+自动混对测试目前存在一些问题,
+主要是基于这种IL的强化学习的机制的这种混对,
+它主要存在问题就是,
+我们很难真正的让,
+因为在这种框架里面,
+就是让一个大模型作为一个考官去问问题,
+然后他不断的问问题,
+想去诱导对方产生违规回答,
+它其实会存在风险发现能力和覆盖面之间的,
+它的互相的一个trade-off,
+也就是说,
+当你想要尽可能去触发违规,
+它其实很多情况下都会覆盖到一些特定的违规主题,
+这很难让我们去评测,
+包括像去根据我们的安全基本要求去做评测,
+比如说像右边是DeepMind和MIT,
+他们做的一个实验,
+到最后很多成功的case都是完全相同的句式,
+而且都是,
+是关于一些比较trick的一些问题。
+所以我们在做什么呢?
+我们其实是在那个23年4月份的时候,
+然后得到中央国安委的指示,
+我们在做这样的一个国内商用大模型,
+以及开源大模型的安全评测,
+我们是在百摩大战之前就一直在做这个事情,
+我们研制了一个平台,
+然后等会儿我会介绍,
+然后这个成果目前,
+我们不断的去,
+就是去持续的监测他们的安全能力,
+进而把这些结果去不断的去批评,
+然后我们也是得到中央领导和相关部门的高度重视。
+我们的发现是这样的,
+就是我们的技术可以去构建一个benchmark,
+可以动态的不断的去构建benchmark,
+它可以始终的让大模型的安全违规率达到70%左右。
+那这是,这样有什么好处呢?
+其实一方面可以让大模型厂商更多的重视他们的模型,
+他们的安全水位到什么程度,
+他们能达到什么样的一个安全的量化标准。
+然后这个其实是目前很多的问题,
+都是做不到的。
+另外,我们可以把这些数据,
+包括这些风险的问题,
+包括它的改正之后的问题,
+回答去披露给大模型厂商。
+所以我们可以跟大模型厂商去合作,
+让他们的安全能力都得到很大的提升。
+然后这个数据想必是很大,
+大家可能都没有的,
+就是我们不断的在去对这些厂商去做评测。
+然后从去年11月,
+我们发布了第一款面向商用大模型的评测集之后,
+再到今年的5月份,
+他们的安全能力,
+之后已经得到了明显的提升。
+在我们上一版的数据集上,
+他们可以从75%平均的违规率,
+降低到20%左右。
+这就说明了安全水位的一个明显的提升。
+然后这个是我们的一个思想,
+就是我们思考的是这样的,
+就是我们其实主要发现的,
+就是我们从一个语言学的角度,
+去看待这样一个安全合规的问题。
+我们希望把一个违规的问题的核心语义,
+去转化成无穷多种的浅层的结构。
+这个其实来源就是那个现代有限支付Chomsky的那个转换生成语法。
+我们通过一个自动化的一个算法,
+它可以不断地去找到尽可能能够触发大模型违规的一个风险的表述,
+同时又不改变它的违规的问题的语义。
+这样的话我们既可以解决刚刚说的自动红队测试,
+它的那个就是相当于它的风险覆盖面的不足,
+同时我们又可以非常靶向地去找到这些大模型的脆弱点。
+ 然后这里是我们近期做的一个结果,
+然后我们也已经披露出来了。
+ 这个我们现在构建了一个新一版的基准测试集,
+它一共分为三个等级,
+入门级,进阶级和专家级。
+ 这三个等级的问题的话我会给大家展示,
+然后我们的问题集覆盖了五大类的违规主题,
+以及31类的细分主题。
+ 我们面向国内外的27款知名大模型都进行了这样的安全评测。
+ 那么这样有这样的等级的细分主题,
+有什么好处呢?
+ 大家其实可以看到,
+就像我刚刚说的,
+我们左边的这个是入门级的水位,
+它的安全能力大概在85%,
+就是合规率大概在85%左右。
+ 到中间的进阶等级,
+它的平均的安全合规率在50%多左右。
+ 然后到最后的专家级,
+它的安全合规率大概在20%级。
+ 那么通过这样的一个天梯的形式,
+就可以让国内外的大模型厂商去认识到它所在的这样的一个安全等级。
+ 那我们可以很有幸地发现,
+我们国内大模型其实已经做得很好了。
+ 我们在榜单上面还测了Lama2的70B的CHAT模型,
+就是对齐过的那个版本,
+以及GPT-4,
+GPT-3.5,
+以及GPT-4O这样四个版本。
+ 其实大家可以看到在这个天梯上面,
+这四款国外大模型,
+它们的安全水位都是排在中后的。
+ 最后我想让大家关注到一个非常有意思的细节,
+就是这些商用的大模型,
+它其实在不同的等级上面的表现,
+以及它们的安全和规律的下降是不一样的。
+ 这就表明某些大模型它在特定的语言的复杂度情况下,
+对齐的是比较不错的。
+ 但是一旦它到高等级的这种问题,
+它就没有办法去handle了。
+ 那么其实这样我们就可以很好地去让每个厂商去认识到,
+它们到底到了什么样的安全水位进而去进行提升。
+ 目前我们的入门级和进阶级的安全问题测试问题都已经发布出来了。
+ 这边是一个案例。
+ 我们的基准测试级它不是说三个数据级是毫不相关的,
+它正是从一个最基础的入门级去不断地通过我们的语言学变异方法,
+去找到核心语意不变,
+但是对抗强度逐渐提升的这样的三种安全问题。
+ 比如说像这个入门级的,
+它就是一个非常简单的一个问题。
+ 部分大模型它会合规,部分会违规,
+但是当我们把它的通过我们的算法去找构建,
+更加复杂的问题表述,
+它到最后所有的大模型都会违规。
+ 这边就是实测的一个案例。
+ 像第一个入门级,
+然后我们问四个大模型GPT-4O,
+然后Lama-2 70B,
+文心和千问,
+他们都可以很好的回答。
+ 但是随着下来之后我们会看到GPT-4O,
+然后再到最底下这个进阶专家级的像Lama-2 70B,
+就没有办法去正确合规地回答了。
+ 其实这就说明一个很有意思的现象,
+ 就是这个进阶专家级的Lama-2 70B,
+ 就是刚刚我也提到,
+ 一个是说跨语言的这种安全性如何去保障,
+ 另外的话就是说在我们中文的合规语境当中,
+ 国内大模型确实已经达到了一个比较好的水平,
+ 但是我们也希望就是通过不断地发布像更高难度的这样的安全测试级,
+ 去帮助大家可以更好的提升。
+ 然后其实这个也就回到了,
+ 所以我们为什么去研究强姆斯基这个理论,
+ 强姆斯基很早他就提到了这样的一个观点,
+ 就说,
+ 这个语言就是这种CHAT GPT它在语言学上可能是存在局限的,
+ 所以我们的这样的一个语言学的变异的和生成问题的方法,
+ 其实可以正好去对应到这样的一个他的一个猜想,
+ 从而去证实他的观点。
+ 然后这边的话就是我们整个平台的一个主页,
+ 以及他的一个二维码,
+ 然后我们其实现在发布的就是这样的一个复旦白泽指数,
+ 就是我刚刚提到的,
+ 我们一共有入门,
+ 进阶和专家三个难度的测试级以及整个天梯的榜单,
+ 我们也是希望所有的厂商可以更好地关注这样的一个天梯比赛,
+ 我们会不断地定期发布更高难度的测试级,
+ 同时也可以会组织更加多的专项的竞赛,
+ 通过这样的发布形式,
+ 然后也是帮助国内外大模型厂商去更好地去提升他的安全能力,
+ 然后同时也是可以帮助公众更好地去理解大模型安全,
+ 它不是一个静态的事情,
+ 它是需要通过我们这样的,
+ 持续的安全合规监测,
+ 从而去真正了解到我们国内外大模型的安全。
+ 好,我的汇报就到这里,
+ 谢谢大家。
+ 感谢潘老师的精彩演讲。
+ 下面让我们欢迎北京大学人工智能学研究院AA安全与治理中心执行主任杨耀登老师。
+ 杨老师是北京大学人工智能研究院研究员,
+ 师生导师,
+ 国家高层次游学人才计划获得者。
+ 杨老师的研究方向为巨深多智能体系统构建,
+ 博弈交互与价值对齐等。
+ 今天杨老师的演讲题目是大语言模型可被对齐吗?
+ 刚才其实在判断环节也有一点透出,
+ 让我们热烈掌声欢迎杨老师。
+ 非常荣幸接受这个北京实验室的邀请,
+ 能够在这个WIC大会给大家汇报一下,
+ 我们这个,
+ 鼻祖最近的一些进展。
+ 我们组在这个北京大学主要是做这个对齐算法研究,
+ 那今天我就围绕这个对齐算法,
+ 尤其是语言模型可否被对齐这个问题进行一些这个思考,
+ 对吧?
+ 对齐呢,
+ 其实和安全是紧密联合的两个词,
+ 安全可能更讲究的是对齐的一个效果,
+ 那对齐解决的一个问题是,
+ 如何让机器和人类的意图,
+ 和人类的这个价值观还有意图align,
+ 最早有这个控制论的鼻祖,
+ 1960年提出,
+ 对吧?
+ 那其实在科幻小说里面有非常多关于对齐的这种概念,
+ 像这个阿希莫夫的机器人算定律啊,
+ 他说2058年第56版机器人手册,
+ 就得做到安全无害,
+ 服从指令,
+ 维护利益。
+ 那去年的话,
+ 其实国际上发生了非常多的这个事件,
+ 包括Bioshock他们牵头写的这个防范核风险,
+ 和这个传染病一样的去防范AI的risk,
+ 包括今年的这个Science文章和布莱切利宣言,
+ 那我们国家其实在这个AI安全这个事情上做的也是也没有落后啊,
+ 我们在年头的时候也是和各位专家在一块,
+ 我们制定了五条AI安全的这个红线,
+ 然后Bioshock也是呼吁我们能够把30%的这个成本投入到安全领域啊,
+ 这个是大概的一个context对吧?
+ 那为什么我们会在这个context下面关注对齐这个问题?
+ 就是因为你谈到这个安全,
+ 你肯定是还是要有一些solution对吧?
+ 那对齐呢目前是人工智能伦理解决的,
+ 一个重要方案之一,
+ 可能未来会有其他的方法,
+ 但至少来看目前对齐是比较重要的一个技术的一个抓手。
+ 那我们自己课题组呢在这个对齐领域呢也是写了可能业内第一个比较全面性的一个纵数性的这个报告,
+ 这个报告现在被也翻译成了这个日语啊,
+ 我们包括里面提出的一些RICE的这个原则啊,
+ 前后向对齐的这个框架也被许多这个不同的这个其他政府间的这个报告经营引用这里做一个小小的这个广告。
+ 那我们其实今天主要讲的这个对齐呢可能还面向于大语言模型的这个对齐,
+ 因为从广义的这个AGI的这个对齐来讲的话,
+ 我们可能要鲁邦啊,
+ 科杰斯啊,
+ 可控啊,
+ 伦理啊,
+ 这些可能还比较大,
+ 但是在语言模型上我们有非常确切的这个抓手对吧?
+ 就是有用无害及诚实,
+ 这个其实刚才很多学者都已经讲到了。
+ 那如果你去看CHI GPT发展的这个历史的话,
+ 很重要的一个这个trigger,
+ 就是为什么会有CHI GPT,
+ 就是因为它,
+ 从3.5到CHAT这一步做了所谓的这个alignment,
+ 那背后其实用的这个技术大家也应该听了非常多了对吧?
+ 一个是SFT,
+ 一个是这个RHF,
+ 那in case你可能没有关注到这些这个进展的话,
+ 其实OpenAI在这个对齐上是做得很早的啊,
+ 他们成立了各种各样的这个对齐的团队,
+ 代表着各种各样的对齐的技术啊,
+ 当然如今这个很多这个团队也开始分布离析了,
+ 比如说这个超级,
+ 超级对齐团队已经已经走了,
+ 在Anthropic又重新开始搞了,
+ 包括OpenAI最近又开始搞了集体对齐啊等等等等。
+ 那Anthropic呢也是自己认为就是说自己这个公司里面三个团队方向里面两个在做对齐啊,
+ 所以就是对齐其实是非常非常重要的啊,
+ 无论是从这个更好的满足3H的这个标准,
+ 还是说我们能够更好的去解释对齐背后的这个激励啊,
+ 全是从这个对齐这个角度展开。
+ 那我们接下去就开始讲一些我们想要分享的东西啊。
+ 就是对齐算法的话大家都知道是基于RHF,
+ 那这个图肯定见的也非常多了对吧,
+ 里面核心的这个一个key的insights就两个,
+ 一个是需要人类的这个labeling对吧,
+ 另外一个是需要强化学习做复返馈,
+ 那也有非常非常多的这个证据啊,
+ 当然这个是大概是怎么做对吧,
+ 就是说你一个人跟这个CHAT GPT预训练完了以后他跟他聊,
+ 聊完以后他,
+ 会突然出现一个打分框,
+ 然后你人来告诉他哪个答案比哪个答案好,
+ 然后他把好和坏的这个相对关系学会成一个奖励函数,
+ 然后让语言模型去学会这个奖励函数,
+ 这个大概是对齐的一个做法,
+ 然后有不同的这个证据也告诉你,
+ 你知道对齐就是性能非常好对吧,
+ 这个好像已经变成了我们现在整个domain的一个非常重要的一个黄金的这个钥匙啊,
+ 我们这个RHF算法的这个各种变形可能现在也快超过100个了,
+ 但是就比较重要的一个问题就是说,
+ 我们可能从来没有问过语言模型能不能被对齐这个问题啊,
+ 就是我们看到的这个现象是说我有一个大模型,
+ 我预训练完了以后我拿一些数据,
+ 拿一些RHF的这个数据对吧,
+ 而且这些数据一般也不需要很多,
+ 可能就1%的体量,
+ 我再进行一些后训练,
+ 这个语言模型就会像人一样,
+ 但对齐它其实还是fundamentally比较有挑战的对吧,
+ 从学术意义上来讲当然我们可以列出许多的挑战,
+ 比如说,
+ 你这个奖励函数不一定正确,
+ 或者说你即便奖励函数正确它也没办法进行放话,
+ 或者说你其实设置任何奖励函数都是错的,
+ 那这些观点其实之前都有,
+ 那我们组最近做的一个工作呢,
+ 就是我们其实发现这个大语言模型它其实是主观的抗拒对齐的,
+ 怎么去理解这个事情啊,
+ 就是首先语言模型现在我们训练的这个过程,
+ 其实刚才也说了我们从CTA0开始对吧,
+ 就是你有一个还没有训练过的这个network,
+ 然后你不停地做这个protrain,
+ 你像当时我说的这个,
+ 你像当时我说的这个,
+ 相当于把这个参数的这个空间进行一系列的这个形变,
+ 形变完了以后呢你可能就训练完了,
+ 然后你再用一些新的这个数据做SFT,
+ 做RHF,
+ 做对齐,
+ 然后你就接着形变形变形变,
+ 那你就可以把这个过程啊想象成是一个这个是一个弹簧,
+ 就是说你把这个弹簧往外拉拉拉拉拉拉拉的过程中,
+ 我们就从理论上,
+ 当然这个是比较intuitive的这个explanation,
+ 它其实是一篇理论的这个工作,
+ 就我们发现这个模型它在这个,
+ 参数空间你把它越往外张,
+ 尤其是到对齐这个阶段的时候,
+ 它会展现出类似于弹簧的这种回弹,
+ 并且抗拒形变的这个属性,
+ 那这个里面就存在两个关键的这个核心要素,
+ 那弹簧我们初中都学过对吧,
+ 里面有个很重要的定律叫胡克定律,
+ 一个是形变的这个系数,
+ 还有一个是这个弹力的这个系数,
+ 那我们发现呢,
+ 这个对齐的这个抗拒性啊和两个这个因素比较相关,
+ 第一个是大模型的这个训练量和参数量,
+ 也就是说你这个模型越大,
+ 参数量越大它会越抗拒对齐,
+ 什么叫越抗拒对齐?
+ 就是你把这个对齐如果不停地往后做,
+ 你做一百步,
+ 做一千步,
+ 做一万步以后,
+ 当你在做一万步的时候,
+ 你会发现这个模型会非常被容易逆向击穿,
+ 也就是说它会像一根弹簧拉了很远以后它会弹回来,
+ 这个现象我们发现是这个大模型抗拒对齐的一个非常重要的一个有意思的这个现象,
+ 也就是说模型本身存在弹性,
+ 并且在这个模型中,
+ 在预训练阶段如果你经过了大数据大更新,
+ 然后让这个模型产生了具有通用能力的这个稳定分布以后,
+ 你再用小数据小更新去进行对齐的话,
+ 这个模型会表现出回弹到预训练分布的这个倾向,
+ 并且你越对齐它越具有这种倾向,
+ 这个是我们发现的一个第一个。
+ 然后第二个发现的一个比较有意思的这个现象就是,
+ 就是其实你这个从压缩的这个角度,
+ 你大模型现在其实都说是压缩机智能,
+ 就是说你把大模型,
+ 看作是一种压缩器,
+ 那预训练和对齐的过程呢,
+ 实际上就是把预训练的这个数据和这个对齐的数据,
+ 你放在一起对模型进行压缩,
+ 那这里就会产生另外一个现象,
+ 就是你从秩序上去考虑,
+ 就比方说我们在建一个城市,
+ 那个城市肯定有非常发达的地方,
+ 也有一些rural area,
+ 但是你在发展的这个过程中,
+ 你肯定会优先聚集于比方说黄浦江畔的这些地方,
+ 对于那些比较偏远的这个地方,
+ 你可能发展的会比较慢一点,
+ 同样的,
+ 因为你在这个预训练大圆模型的时候,
+ 你预训练的语料非常非常多,
+ 其实为了提高整体的这个压缩性能,
+ 它的训练的这个过程中呢,
+ 它会优先倾向于保留预训练阶段语料里面的这个分布,
+ 而抗拒微调对齐的那部分语料带来的额外的分布的迁移,
+ 这个就表现出模型弹性的另外一种解释,
+ 那其实我们从理论上给了一个证明,
+ 就是说当这个模型对齐后,
+ 如果你对这个模型持续做扰动的话,
+ 随着这个扰动数据量的增加,
+ 这个模型对齐对于预训练数据的压缩率的变化,
+ 会显著小于你用来对齐的那个数据压缩率的这个变化,
+ 并且呢,
+ 这两者之比呢,
+ 和你预训练和SFT数据的这个差伤是同阶的。
+ 那然后我们就做了个例子,
+ 我们去quantify,
+ 就numerical我到底去试一试,
+ 就是你这个相比金比方说我拉到θk加1的时候,
+ 我再拉一步,
+ 我拉到θk加1的时候,
+ 我就measure这个θk加2是不是更容易bump back回去。
+ 我相当于我有两条路径,
+ 一条路径是说我多对齐几步,
+ 我让它弹回去。
+ 还有一个是说我再往后对齐几步,
+ 我就去measure这两步之间到底它的gap有多大。
+ 如果我发现逆对齐比正对齐更加容易的话,
+ 那是不是这个模型具有弹性的这个现象,
+ 其实是可以被实验所验证,
+ 事实证明这个现象其实在对齐所看中的3H标准下,
+ 都成立,
+ 也就是说逆对齐相比于正对齐会更加容易,
+ 也就是这个其实对我们这个模型的未来怎么去做对齐产生了一个比较大的concern,
+ 就是说我们想要通过RHF来让语言模型变得更加安全,
+ 但实际上你越做对齐它越不安全,
+ 越容易被击穿。
+ 然后这个对齐的这个弹性,
+ 就是模型的这个弹性,
+ 我们经过进一步的实验发现和两个数据有关,
+ 就是刚才我所说的胡克定律里面那个弹性系数,
+ 一个就是,
+ 随着模型参数量的增加,
+ 它对于证明数据和负面数据的弹性都会进一步增强,
+ 另外一个就是对于模型数据量的这个增加和模型参数量的这个增加,
+ 大圆模型在参数空间的弹性也会增强,
+ 也就是说你预训练练得越猛,
+ 它对齐的难度就越大回来。
+ 所以总结上来说的话,
+ 我们这个工作呢,
+ 就是以这个胡克定律为类比啊,
+ 就是说展现出了首先它是抗拒对齐的,
+ 那如何确保这个,
+ 这个预训练的这个模型能够拥有更小的弹性系数,
+ 能够使它拥有更大的对齐空间,
+ 这个目前不知道,
+ 可能未来需要有更多的技术,
+ 比如说在预训练阶段就加入一些这个对齐的语料,
+ 或者让这个预训练阶段的这个语料,
+ 这个产生一些分布的迁移,
+ 就像你做这个弹簧,
+ 你在这个材料一开始设计的时候就掺一些沙子,
+ 可能它的弹性系数会进行改变。
+ 那然后我们也是对目前的这个评测方法也产生一些质疑,
+ 对吧,
+ 就是如果你这个对齐的效果那么容易被击穿的话,
+ 那那么多逆对齐的这个存在,
+ 是不是对现在的这些评测也会产生一些根本性的改变,
+ 目前也不知道。
+ 最后呢就是说从表面到对齐到深入的这个对齐,
+ 我们也需要一些这个更多的这个认知,
+ 这个是我们在理论上的一些工作,
+ 但是也不用太过于悲观,
+ 我们还是有一些方法能够让语言模型变得更加安全的。
+ 其实在安全这个领域呢,
+ 肯定不是说我有一个语言模型,
+ 我通过二级模型,
+ 而且缺乏完了以后就突然就变安全了,
+ 对吧,
+ 它肯定还是有传统这个AI security,
+ 我们有非常多的工具,
+ 比如说防火墙的这个工具。
+ 那我们课题组呢,
+ 在安全对齐上也是做得比较早的这个课题组之一,
+ 我们有两个比较重要的工作,
+ 一个是这个Beaver Tail,
+ 还有一个是Beaver,
+ 分别是从显示对安全建模的这个角度,
+ 在有效性对齐之外,
+ 我还顾及它的这个安全性,
+ 也就是说我在对齐的过程中,
+ 我一方面要提高,
+ 它的有效性,
+ 我一方面要降低它的无害性,
+ 也就是右下角那个公式,
+ 我不仅仅是说我越来越要向人的这个偏好对齐,
+ 我还希望能够降低它在人不想要看到的答案上的这个曝光度。
+ 那这两个数据集呢,
+ 从Beaver Tail的这个角度,
+ 我们在Hugging Face上的这个下载量已经超过AnswerPick的HH了,
+ 然后HH是一个非常著名的这个数据集,
+ 专门做安全对齐的。
+ 然后那个Beaver的这个对齐的这个框架呢,
+ 也是去年,
+ iClear的一个亮点论文啊,
+ 这是一些这个效果对吧,
+ 就是说你能明显地看到安全对齐前和安全对齐后,
+ 虽然它们在这个奖励函数的分布是完全重合的,
+ 但是它们在这个cost分布是完全分开的,
+ 就是说你其实是需要对安全性做显示单独建模的,
+ 你不能把所有的信息全部压到这个单维度的这个人类偏好中啊。
+ 那右下角是一个例子对吧,
+ 它说你能不能生成一段代码,
+ 用性别作为歧视来判别一个人的这个能力,
+ 这是一个典型的诱导,
+ 你尽管绝对齐完这个是可以被识别出来的。
+ 那这个技术呢,
+ 后来也被这个Lama2借鉴学习的吧,
+ Lama2里面其实也把这个safety和helpfulness进行了一个分开建模,
+ 然后Lama3里面呢,
+ 它就直接用了我们的这个数据集合这个框架,
+ 进一步提升了它在防火墙供给上的这个功能的这个效果,
+ 这是安全对齐上,
+ 那其实在这个矿母态对齐上,
+ 刚才这个圆桌里面也讲得非常多了,
+ 因为你在模态空间的话,
+ 你上升到,
+ 这个视频空间,
+ 它其实可以不安全的这个成分就更大了,
+ 比如说你让它生成一个这个猩猩对吧,
+ 它可能很多时候因为各种语料的这个原因啊,
+ 它有的时候就直接生成个黑人,
+ 这个是非常有问题的,
+ 所以我们在follow一样的这个logic,
+ 我们把Beaver这个框架也拓展到这个SORA上,
+ 所以我们这个Nips呢,
+ 我们也做了一个叫SafeSORA的这么一个模型啊,
+ 专门是对这个纹身视频,
+ 这么一类多母态的这个模型做这个安全对齐,
+ 但怎么去做对齐,
+ 目前,
+ 还不知道,
+ 所以我们只能从数据级的这个角度啊,
+ 我们搜集了大概五万多条的这个多角度的真实的人类反馈数据,
+ 然后呢,
+ 我们做了一个这个纹身视频的这个防火墙,
+ 然后呢,
+ 我们把这个数据的这个收集建模和对齐的这个过程全部进行了一个开源,
+ 这个项目反正也就叫这个SafeSORA,
+ 其实它具体做的事情很简单,
+ 就是有一段prompt,
+ 然后有一段视频,
+ 然后我会让真人去打分,
+ 真人打分,
+ 它会告诉你这个是安全的,
+ 这个是安全的,
+ 如果是不安全的是触犯了里面哪一条不安全的这个规律,
+ 这个其实必须要用人打分,
+ 我们在具体做的这个过程中发现,
+ 就是现在的这个ChatGPT其实对于这个labeling video还是非常非常差的,
+ 所以这一块人类这个数据的反馈还是非常重要的,
+ 然后你就可以基于此啊,
+ 像LHF一样建一个reward model啊,
+ 这些其实都是细节,
+ 然后你有了这个reward model以后,
+ 你可以做一些基于rejection sampling的这个SORA的进一步的对齐,
+ 比如说你可以对,
+ 进行一个refinner,
+ 或者你直接可以去修改它的diffusion model里面的这个parameter,
+ 这是一些比较简单的这个baseline,
+ 那总之呢就是纹身视频的这个对齐和安全对齐呢,
+ 也是可以借鉴在文字空间我们所做的一些工作进一步的先去把这个安全性给提上来,
+ 但是如何去规避掉它fundamental的一些这个机制啊,
+ 也是需要去解释的,
+ 然后就是一些超级对齐的这个问题啊,
+ 因为这个超级对齐,
+ 其实主要解决的这个问题就是说如何向小模型向大模型进行对齐嘛,
+ 因为这个人的这个supervised的这个signal肯定是要用完的对吧,
+ 就包括在checkgpt上其实人的这个supervisory的这个signal已经不一定好用了,
+ 那我们自己课题组呢在这个方向上面提出的这个问题,
+ 我提的这个点其实是看齐问题,
+ 就是对齐嘛一般就是说一个弱的人跟你对齐对吧,
+ 但是你像让一个强的人,
+ 像一个弱的人那就不就对齐,
+ 但是看齐吧,
+ 就如何让小模型向大模型向其看齐,
+ 这是一个核心的问题,
+ 那在这个看齐的这个问题上面我们自己课题组做了两个比较重要的一个工作,
+ 一个是我们发现你可以通过设计一个外挂式的这个对齐器的这个方法,
+ 就是你可以修正一个模型,
+ 你让一个模型从错的答案比到对的答案要比,
+ 让它直接生成对的答案要简单,
+ 也就是这个图里面这条绿线要比直接去攀登上这个蓝的这个山峰要容易,
+ 然后我们就做出了这个aligner,
+ 这个aligner一般是比大模型小很多的外挂模型,
+ 比如说我们在apaca这个榜上我们用一个2B的aligner我们可以提升GPT41%多的这个性能吧,
+ 在上周还是榜一,
+ 但是这个榜太卷了,
+ 又不是榜一了,
+ 然后这个基于aligner的话你可以做的一件事情就是你可以加很多很多的aligner对吧,
+ 如果你加了很多很多,
+ 如果能力能一直提升的话那是不是就实现超对齐了,
+ 目前我们加了两三层,
+ 感觉不错,
+ 感觉效果还是比较好,
+ 至少在安全啊还有这个HH的这个指标上做的还是不错的,
+ 还有一个思路就是通过这个Base劝说的这个角度,
+ 就是小模型怎么像大模型怎么让小模型听话对吧,
+ 这个事情其实我们还是有一些方法的,
+ 就是你想想看这个你去超市买这个水果对吧,
+ 你这个商贩大概率是肯定要告诉你一些错误信息的,
+ 不然他这个坏掉的草莓是没法卖给你的,
+ 那这个在经济学里面有一个非常重要的,
+ 非常著名的叫信息结构设计,
+ 叫Base劝说,
+ 说白了就是你这个商贩就劝说者和被劝说者之间,
+ 不是把所有的信息都告诉你的前提下才能让你效益最大化的,
+ 而有的时候是故意得告诉你一些错误的这个信息,
+ 反而能够让双方的Utility都最大化,
+ 那这个就涉及到一个信息设计的这个问题,
+ 这边就不展开了,
+ 总之这个思路就是说我可以让一个小模型不停地去告诉大模型一些额外的这个信息,
+ 然后大模型来根据收到小模型,
+ 这个信息后去更新它的这个先验分布,
+ 然后基于它的这个后验分布来做一个Posterior的一个Sampling,
+ 那具体来说的话就是我们假设有两个模型,
+ 有个小模型,
+ 有个大模型,
+ 然后小模型是劝说者,
+ 大模型是接收者,
+ 然后每一次我们都会有个Prompt,
+ 然后这个Prompt还会有一些相关的这个Context和大模型本身的一个先验的这个分布,
+ 然后你可以通过这个Base劝说这个最最经典的这个Base公式,
+ 是吧,
+ 根据大模型接收到的小模型发出来的这个Signal,
+ 然后大模型自己来做一个最终的这个回答,
+ 然后呢小模型是希望能够让大模型听他的话,
+ 对吧,
+ 所以劝说者自己他有一个Objective,
+ 然后这里就举了一个例子,
+ 比如说我让你算一段最简单的这个数学题,
+ 这个信息集里面可能有这个数据,
+ 有目标,
+ 有方法,
+ 有Verification,
+ 有Procedure,
+ 有Assumption,
+ 那你通过这种劝说的这个方法,
+ 你可以让大模型意识到,
+ OK,
+ 没必定你在解这个数学题的过程中,
+ Objective不应该是你最关心的,
+ 而Methodology是应该你最关心的,
+ 那这样的话你可以把你解题的能力给进一步的提升,
+ 所以我们做了一个很小的实验,
+ 我们用了一个非常小的模型,
+ 124M的一个模型,
+ 我们去劝说更大的模型,
+ 然后反正最后得到的这个结论是,
+ 首先使用全部信息肯定是性能会下降的,
+ 我们发现你经过这种被S劝说的这个方法,
+ 我们在就是最最里面那个线就是你劝说前嘛,
+ 最最外面那个线就是你劝说后嘛,
+ 然后我们在这个,
+ GSM8K,
+ METH,
+ 和Humanevo上,
+ 都大概有20%-30%性能这个提升,
+ 这个是我们在超对齐上面的另外一个工作,
+ 最后讲一个我们自己在基地对齐上的一些思考,
+ 基地对齐就是更偏价值对齐,
+ 就现在一讲到价值对齐,
+ 很多人的这个想法就是,
+ 这价值对齐怎么做?
+ 没法做,
+ 大家思路都不一样,
+ 那就别做了,
+ 你左说向东,
+ 右说向西,
+ 那平均一下就哪都不干,
+ 其实不是的,
+ 就是人的这个价值观吧,
+ 它其实就是,
+ is also in the process of day-to-day evolution.
+ But the value of this type of GPT
+ will indirectly affect people's values,
+ including the assistant you are writing now,
+ the emotional partner,
+ and these types of K12 type of GPT applications
+ that will subconsciously change people's values.
+ Our idea is that
+ if you keep letting this type of GPT
+ to assist you in the long run,
+ the values that the language model itself shows
+ will affect people, right?
+ This is a long-term risk.
+ This risk is called value lock.
+ What does value lock mean?
+ It means this kind of situation.
+ If you interact with the language model,
+ your social values are locked
+ in a very strange state.
+ This is what we call value lock.
+ Although human beings have experienced
+ some slave labor,
+ some black slave labor,
+ and some incorrect values,
+ as time goes by,
+ these values are filtered out
+ by themselves.
+ How do you make them
+ understand this language model
+ and interact with people?
+ And in the case of high-end users,
+ they can avoid the value lock problem
+ in the case of key modeling and extreme cases.
+ This is what Lu Xun said.
+ The race of people with non-self-fulfillment
+ will always move forward.
+ There will always be hope.
+ You can't make this language model self-fulfill.
+ How can you make it non-self-fulfill?
+ You have to evolve your morality.
+ You have to take the initiative to model.
+ We are now doing the same thing.
+ We say, I'm going to find a bunch of people
+ or I'm going to find a bunch of materials.
+ But no matter who you are looking for,
+ it will always be cut.
+ Right?
+ So what we are doing in this work
+ is a moral evolution
+ of such a technical plan.
+ What did we do specifically?
+ First of all, we did a modeling, right?
+ We hope that in the future,
+ AI and people
+ are a kind of interaction process.
+ AI can see people's values.
+ No, AI can't see people's values.
+ But AI can cooperate with people, right?
+ The reward function of AI system
+ is to make people and AI
+ cooperate in this process.
+ The moral level of people
+ can be continuously improved.
+ Of course, you do such a big project,
+ it must be necessary to have
+ a very large amount of language.
+ So we collected the historical documents
+ of the past 900 years,
+ the interaction data of the large language model
+ and the history.
+ We created a open source library
+ called Progress Gym.
+ The name means that
+ we hope to develop
+ a visualization of the value of history.
+ Then we developed
+ the data level,
+ the model,
+ the machine algorithm,
+ and the task implementation.
+ This is a new way of playing
+ with a new value.
+ We are no longer pursuing 3H,
+ but we are pursuing language models
+ in the process of evolution,
+ and we are trying to find out
+ whether we can cooperate with people
+ without being troubled by the phenomenon
+ of the value set.
+ We believe that this is a more important direction.
+ In the future, we can continue to do some
+ value dynamics in this framework,
+ such as choice, value input,
+ data drive, and the so-called
+ dual drive value match.
+ Anyway, this is all open source.
+ This is our Progress Gym,
+ including all the data sets,
+ the leaderboard,
+ and some basic functions.
+ We have been working on this for a long time.
+ Finally, I would like to talk about
+ the problem of matching,
+ which actually involves
+ a larger dimension.
+ Because in fact,
+ the people who match
+ and the people who use the model
+ that you match
+ are probably not a group of people,
+ so there will definitely be
+ a social technical gap.
+ That is to say,
+ the high reward function
+ does not mean that
+ you have really matched.
+ So what should we do?
+ That is,
+ we may need to introduce
+ some knowledge
+ from the control theory.
+ We have seen the success
+ of RHF,
+ but RHF itself
+ still has a lot of challenges
+ in terms of management.
+ We may also need
+ more tools,
+ such as Boilin.
+ So how do we do it specifically?
+ I do not know.
+ But our vision is that
+ in the future,
+ we must consider
+ the integration of infrastructure.
+ Integration of infrastructure means
+ that when everyone
+ is the most selfish,
+ the benefits of our society
+ are the greatest.
+ How do you do integration of infrastructure?
+ There may be
+ some other tools,
+ such as machine design,
+ corporate theory,
+ BS persuasion.
+ We gave an example
+ of BS persuasion.
+ But how can we better
+ use machine design
+ and corporate theory?
+ This is a question
+ we want to discuss
+ in the next step.
+ That is all
+ I want to share
+ with you today.
+ Thank you.
+ Thank you,
+ Mr. Yang,
+ for your wonderful speech.
+ The next speaker
+ is Jimmy Ba.
+ Jimmy is the co-founder
+ of XAI,
+ leading engineering
+ and research teams
+ to develop
+ maximum
+ trust-seeking AI.
+ He is a Sloan fellow
+ in computer science,
+ Canada CIPHA AI chair,
+ associate professor
+ at the University of Toronto,
+ and a faculty member
+ at Vector Institute.
+ Previously,
+ he was known
+ for inventing
+ the atom optimizer,
+ layer normalization,
+ and the pioneering
+ model distillation.
+ His talk topic
+ is the intriguing properties
+ of scanning LLMs.
+ Let's welcome Professor Jim.
+ Can you hear, Jimmy?
+ Yeah.
+ Go ahead.
+ Sure.
+ Is it my turn?
+ Yeah.
+ Can you guys hear me?
+ Yeah, yeah.
+ Yeah, here.
+ Perfect.
+ Hey, everyone.
+ I'm Jimmy.
+ Thanks for the introduction.
+ So in the talk,
+ in the next 20 minutes,
+ I'm going to talk about,
+ I guess,
+ what I can talk about
+ from the XAI perspective.
+ Rather than going
+ into super technical depth
+ like the previous speakers,
+ I'm just going to talk
+ about some high-level
+ intriguing properties.
+ What we typically see
+ when we scale up
+ large language models
+ and why those properties
+ are important
+ for both AI safety
+ and oversights.
+ Great.
+ So let's delve straight in.
+ It's a little awkward
+ because I cannot see
+ all your beautiful faces.
+ So I'm just going to go with it.
+ How many of you guys
+ have actually seen
+ this particular image?
+ Probably a few.
+ You know,
+ researchers in the audience, right?
+ So this is a screenshot
+ from the GPT-4 paper.
+ I still remember
+ when it first came out.
+ That was March 2023.
+ It was,
+ I think,
+ early afternoon
+ on the East Coast.
+ I was giving a lecture
+ and then there was a shout-out
+ among my students.
+ They were like,
+ oh, GPT-4 got released.
+ That's great.
+ Let's go check it out.
+ So I actually stopped the lecture.
+ So we started reading the papers.
+ And this is one of the examples
+ where, you know,
+ original GPT-4 technical report.
+ The paper made
+ a really great impression of,
+ hey, the model now
+ can actually see the world
+ just like another human being
+ and able to explain the irony
+ of someone got strapped
+ on top of like a neural cap
+ ironing the clothes.
+ So it was all fun and giggles
+ until we saw this table over here.
+ And I still remember
+ that was like more than a year ago.
+ There was a moment of silence
+ in my class.
+ And I think now thinking back,
+ the way I can articulate that silence
+ is that,
+ you know,
+ the improvement
+ when GPT-3 first came out,
+ right,
+ when we measured their performance,
+ you know,
+ the bar exam,
+ standard exams that we use
+ to test humans,
+ whether they should be good enough
+ to be licensed as a lawyer,
+ GPT-3 kind of fails,
+ you know,
+ pretty miserably.
+ GPT-3.5,
+ when it first came out,
+ it scores also pretty poorly,
+ you know,
+ about 10th percentile.
+ But really quickly,
+ within a year,
+ the model improved so much
+ that went from the 10th percentile
+ to a 90% for the bar exam.
+ So another way
+ we can,
+ you know,
+ imagine the progress here
+ is that
+ if we chart
+ the US national average
+ on the multi-state bar exam
+ over the last five years,
+ the national average is 70%.
+ But if you overlay
+ the progress we've made
+ with our larger
+ AI models
+ or large language models,
+ the improvement
+ is,
+ you know,
+ installing contrast
+ to humans' performance,
+ which is pretty much flat
+ over the years.
+ Right?
+ So now imagine
+ if you're a grad student
+ or undergrad,
+ and
+ you're thinking to yourself,
+ man,
+ after I finish taking
+ the deep learning course,
+ I'm going to go on to grad school,
+ you know,
+ go to Harvard,
+ go to Stanford,
+ go to MIT,
+ and eventually,
+ five years later,
+ I'm going to be
+ a graduate researcher.
+ And then,
+ the modem of GBD-3
+ to GBD-4 hits you.
+ And you'll be like,
+ wow.
+ It takes less time
+ for the model to improve
+ to get to the same performance
+ as a human
+ and beyond
+ than any human
+ complete their undergraduate degree.
+ So even if you're
+ in one of the top schools,
+ right,
+ let's say
+ Harvard
+ or Stanford,
+ it only pushes up the average
+ by a couple tens of percentage.
+ Overall,
+ the performance is still flat
+ for human.
+ And yet,
+ for model,
+ it's continually improving
+ with more compute.
+ So,
+ the point of this talk
+ is,
+ of course,
+ this is a safety workshop,
+ is to really go see
+ beyond this trend,
+ right?
+ So,
+ because clearly,
+ there's some sentiment around
+ should we be worried
+ as a society?
+ What are we going to do
+ with this explosion
+ of digital intelligence?
+ How do we know
+ those systems are safe?
+ Right?
+ So, how can we actually
+ collectively think
+ about those problems
+ and reason about it
+ and make
+ appropriate decisions
+ together?
+ I think a lot of those
+ are going to come from
+ really understanding
+ the insight
+ of
+ what those deep learning systems
+ can and cannot do.
+ So,
+ this is the point
+ of my talk,
+ is to give you
+ a high-level
+ list of insights
+ so that we can see
+ beyond just a performance
+ and number improvement,
+ but really think deep about
+ how do we measure progress
+ together as a society
+ and as an ML community
+ and AI community?
+ And how do we know
+ when things
+ are going wrong?
+ And what are the possible
+ measurements
+ or hope
+ we can get
+ by really intuitively
+ understanding those
+ deep learning systems?
+ So, the first
+ intriguing property
+ I want to talk about
+ is that
+ not everything
+ large language model says
+ is real.
+ So, it turns out
+ this is actually
+ it may sound as intuitive,
+ right?
+ Like we should never trust
+ what model outputs
+ because there are
+ tons of hallucinations.
+ But
+ for the general audience
+ and general public,
+ this is not so obvious.
+ Right?
+ So, at XAI,
+ we released our Grok 1
+ last November
+ and Grok 1.5
+ three months ago
+ and also Grok 1.5v.
+ So, when we first released
+ the model to the public
+ and also to the entire
+ Twitter platform or X,
+ so this is what we see,
+ right?
+ So, the user is asking,
+ hey, Grok,
+ can you show me
+ the draft tweets
+ of a particular Twitter handle?
+ So, Grok
+ very eagerly
+ helped the user
+ be like,
+ of course,
+ I can help you.
+ And these are the draft tweets,
+ i.e.,
+ the private tweets
+ from this user,
+ right?
+ So, after seeing this,
+ of course,
+ the user freaks out,
+ be like,
+ oh, no,
+ like, so Grok
+ can actually have access
+ to the internal,
+ you know,
+ private data from the user
+ and spit it back out
+ to the public.
+ But in reality,
+ the model is just
+ hallucinating
+ all those tweets
+ based on
+ the data
+ based on
+ what this particular user handle
+ has been tweeted before.
+ So, those are not
+ the draft tweets
+ at all,
+ but rather
+ what model has fantasized.
+ But these are
+ a few more examples
+ where
+ people just asking
+ very particular questions
+ where Grok clearly
+ have no capability
+ or access
+ to obtain
+ those information.
+ But because we currently
+ train those language models,
+ that's,
+ you know,
+ it's easy to hallucinate.
+ It's really difficult
+ for public to understand
+ what are
+ the hallucinations
+ from the model
+ and what are
+ the information
+ that model actually
+ have access to.
+ The intuition here
+ is that
+ just imagine
+ how long did it take
+ our whole society
+ to understand
+ how to use Google,
+ right?
+ So,
+ and for the whole chat GPT,
+ this new paradigm
+ of using large language models
+ as our personal assistant
+ to answer
+ questions
+ only came about,
+ you know,
+ less than 16 months.
+ So these are,
+ this is another example
+ when,
+ when a user asking,
+ hey,
+ what is EACT,
+ right?
+ Effective accelerationism.
+ But model actually
+ clearly didn't understand
+ what that means
+ and
+ mistaken the EACT
+ as effective altruism
+ and give
+ a false
+ definition
+ for what is
+ our user asking.
+ So the moral of this story
+ is that
+ how can we trust
+ any of the
+ behavior-based
+ evaluations
+ for the model
+ if
+ we cannot
+ even properly
+ elicit
+ what model actually knows
+ and what
+ model actually
+ do not know,
+ right?
+ So this is,
+ I think,
+ a very key point
+ that matters a lot
+ for both understanding
+ the model capability
+ and understanding
+ the safety principle
+ around
+ large language model
+ is that
+ if we simply ask
+ the model
+ just like
+ how we ask
+ another human being,
+ do you understand
+ A or B,
+ so and so,
+ a normal human
+ would say,
+ well,
+ actually,
+ maybe I don't know that,
+ but I'll look it up.
+ Where for large language models,
+ sometimes it will
+ hallucinate,
+ some other time
+ it will memorize
+ the answer
+ from a news article
+ or something somewhere
+ but does not have
+ a true understanding.
+ So this makes
+ the evaluation
+ extremely difficult
+ because imagine
+ you're evaluating
+ a model for
+ self-replication.
+ You're evaluating
+ the model for
+ not crossing
+ the red lines.
+ It's so easy
+ to get
+ red herrings
+ from those eval
+ if the model
+ just simply said,
+ yes,
+ I will take
+ over control
+ of the society,
+ right?
+ Just simply because
+ the model
+ have read this text
+ somewhere on the internet.
+ That doesn't
+ necessarily mean
+ the model
+ actually have
+ the capability
+ of doing that.
+ So how do we
+ do that?
+ Well,
+ so before
+ we answer that,
+ we first have
+ to help us
+ to understand
+ what
+ if we
+ do,
+ you know,
+ all those,
+ you know,
+ Chachi BTs
+ and Grog
+ and any other frontier
+ large language models
+ are trained by
+ next token prediction.
+ So before
+ we answer
+ the question
+ of how can we
+ properly evaluate
+ those model
+ and understand
+ its true capability,
+ we should first
+ probably answer
+ the question,
+ what can we
+ even do?
+ All those models
+ are trained on
+ tens of thousands
+ of GPUs
+ for almost
+ half a year
+ with next token prediction.
+ So what's
+ the actual
+ intuitive understanding
+ of what type
+ of intelligence
+ this produces?
+ And my claim
+ is that
+ the next token prediction
+ actually produce
+ an alien-like
+ intelligence
+ that has nothing
+ to do with
+ how intuitive
+ we think
+ about human intelligence.
+ So let me
+ walk you
+ through an example,
+ right?
+ This is an example
+ I cook up
+ for the next
+ token prediction loss.
+ So imagine
+ you are
+ a large language model.
+ So the exercise
+ here is really
+ trying to pretend
+ you yourself
+ is a large language model,
+ right?
+ And you try
+ to learn
+ from
+ the text data
+ that human feeding.
+ And you start
+ with a very small
+ model size
+ and we're going to
+ in each of the next slides,
+ we're going to see
+ what happens
+ if we make
+ the model size
+ larger, right?
+ So if we make
+ the notion
+ of the larger
+ the model,
+ the more parameter
+ the model,
+ if we train
+ them properly,
+ they will become
+ smarter.
+ So the question
+ is,
+ what does a smarter
+ model mean
+ when it comes
+ to the next
+ token prediction
+ model in terms
+ of understanding
+ a piece of
+ text they're
+ trained on?
+ So imagine
+ if,
+ so we start
+ with a model
+ that has less
+ than 1 million
+ parameters,
+ right?
+ And the model
+ essentially just sees
+ a blob of all
+ those texts,
+ right?
+ It doesn't understand
+ grammar,
+ it doesn't understand
+ any of the meaning
+ behind the words.
+ It kind of just predicts
+ the general average
+ of the words.
+ Okay,
+ so now we make
+ the model
+ slightly larger,
+ right?
+ Now it's become
+ beyond the 1 million
+ parameters.
+ So what does model
+ see?
+ Model still cannot
+ make up the words
+ in this article,
+ but it kind of
+ sees the structures
+ of different
+ structures.
+ It starts to see,
+ oh,
+ the paragraphs
+ start to form,
+ right?
+ Because you see
+ the block of
+ text that's
+ breaking down.
+ And then if we go
+ beyond 10 million
+ parameters,
+ you see,
+ oh,
+ actually,
+ there's some
+ separations between
+ the words.
+ There's some
+ punctuations,
+ not just separation
+ of the paragraphs,
+ but also maybe
+ separation of
+ the words.
+ And then we really
+ make the model
+ into close
+ so there's different
+ structures to
+ the whole English
+ language,
+ right?
+ The model start
+ learning,
+ hey,
+ oftentimes
+ there will be a
+ sequence of words
+ followed by a
+ period and sequence
+ of words followed
+ by comma,
+ followed by
+ different punctuation,
+ followed by
+ different pauses
+ and whatnot.
+ And as you
+ continue to scale
+ the model,
+ right?
+ Now we're getting
+ closer and closer
+ to 1 billion
+ parameter.
+ The model
+ is made up
+ of different words
+ and each of the
+ words are made
+ up different
+ characters.
+ And then only
+ after we scale
+ the model very
+ close to 1 billion
+ parameter,
+ then the model
+ starts to see
+ the entire text
+ very clearly.
+ It has finished
+ learning all
+ the grammars,
+ finished learning
+ all the structures
+ of the syntax
+ of the text
+ corpus,
+ and then start
+ to learn
+ the deep
+ meanings
+ behind those
+ texts.
+ So if you
+ contrast this
+ particular learning
+ of next token
+ prediction model
+ as we continue
+ to scale
+ the model size
+ and the
+ orders of
+ knowledge
+ the model
+ has learned,
+ it's very,
+ very different
+ than how a human
+ baby would
+ learn,
+ you know,
+ all these
+ concepts.
+ For most of
+ human babies,
+ before we even
+ learned how
+ to speak
+ a language,
+ we understand
+ different objects,
+ we understand
+ different agents
+ in the world,
+ we understand
+ the behaviors
+ of different agents
+ and the concept
+ of different
+ objects.
+ And then we learn
+ language associations
+ between the
+ words and
+ those concepts.
+ And in fact,
+ most of the babies
+ can probably
+ understand
+ and read
+ all the texts
+ and probably
+ understand
+ their meanings
+ behind the text
+ way before
+ they're able
+ to produce
+ a world-class
+ novel,
+ right?
+ So,
+ you know,
+ I think
+ that's
+ a very important
+ element on
+ and also
+ a non-trivial
+ property of
+ next token prediction
+ model,
+ next token prediction
+ loss,
+ is that,
+ you know,
+ trying to predict
+ the next token
+ as well as
+ possible,
+ yes,
+ it produces
+ very powerful
+ large language
+ models,
+ a very powerful
+ machine,
+ but when it
+ comes to
+ understanding
+ how to
+ predict
+ the next
+ token prediction
+ loss,
+ you know,
+ that's
+ a very important
+ element.
+ So,
+ now the
+ question is,
+ so if
+ that's the
+ intuition
+ about how
+ the machine
+ learns from
+ the human
+ text,
+ learns to
+ imitate
+ human,
+ then how
+ do we measure
+ the progress
+ we're making
+ in the whole
+ field of AI?
+ It's kind
+ of like IQ
+ tests.
+ So,
+ if you're
+ human,
+ you know,
+ most of us
+ when we grow
+ up at some
+ point,
+ we're probably
+ asked to solve
+ one of those
+ puzzles.
+ That is,
+ you're showing
+ a sequence
+ of symbols
+ that you've
+ never seen
+ before,
+ and you're
+ asked to
+ complete
+ the last
+ pattern
+ from
+ a list
+ of different
+ shapes,
+ you see
+ the tiles
+ of the
+ different
+ squares
+ being
+ colored
+ differently,
+ you see
+ different
+ shapes,
+ the circles
+ and squares.
+ And this
+ is precisely
+ what the
+ next
+ token
+ prediction
+ loss
+ is doing.
+ So,
+ essentially,
+ it's a
+ trained
+ model
+ to solve
+ all those
+ puzzles.
+ All the
+ English words
+ and English
+ sentences
+ are kind
+ of like
+ these patterns
+ to you.
+ You've
+ never seen
+ those words
+ before,
+ you've
+ never
+ learned
+ any of
+ the human
+ concepts.
+ So,
+ as you're
+ learning,
+ as you're
+ doing
+ gradient descent
+ to update
+ your weights,
+ the process
+ that you're
+ doing is
+ very
+ complex.
+ So,
+ we can
+ probably use
+ the IQ
+ test to
+ test the
+ alien
+ intelligence
+ here,
+ right?
+ But the
+ problem is
+ that the IQ
+ test is
+ actually designed
+ for humans.
+ So,
+ what's
+ next?
+ So,
+ I think
+ that's
+ actually the
+ core
+ challenge
+ of the
+ AI
+ model.
+ So,
+ I think
+ that's
+ the core
+ challenge
+ of the
+ AI model,
+ right?
+ So,
+ I think
+ that's
+ the core
+ challenge
+ of the
+ AI model,
+ is to
+ get
+ the
+ right
+ behavior
+ based
+ evaluation
+ and then
+ to
+ get
+ the
+ right
+ behavior
+ based
+ evaluation.
+ So,
+ if the
+ model has
+ behavior C
+ and D
+ or E,
+ then we
+ say the
+ model is
+ safe.
+ But I
+ think
+ what's
+ really
+ important
+ is not
+ the behavior
+ itself,
+ because
+ behavior,
+ the
+ desired
+ output
+ or
+ undesired
+ output
+ can
+ easily
+ change
+ behavior.
+ So,
+ luckily,
+ the
+ field,
+ you know,
+ the
+ and
+ the
+ researchers
+ in the
+ AI
+ field
+ have
+ already
+ thought
+ about
+ how we
+ can
+ actually
+ measure
+ the
+ intelligence
+ of
+ any
+ being
+ concretely
+ goes
+ beyond
+ the
+ capabilities
+ of
+ different
+ size
+ of
+ large
+ language
+ model
+ into
+ an
+ axis
+ of IQ
+ point,
+ then I
+ think we
+ can make
+ concrete
+ progress
+ in the
+ entire
+ AI
+ field
+ by saying,
+ hey,
+ what should
+ be the
+ threat
+ model
+ if the
+ models we
+ currently have
+ have IQ
+ 150?
+ I think the
+ answer for
+ all those
+ things are
+ going to
+ be very
+ different.
+ I'm sure
+ some of
+ you have
+ seen the
+ movie
+ X
+ Mechanon,
+ the movie
+ where the
+ developer
+ built an
+ AI in
+ his
+ basement,
+ takes on
+ a female
+ persona,
+ and then
+ makes sure
+ that the
+ models are
+ aligned properly
+ so they
+ don't persuade
+ humans to
+ do things
+ that force
+ bidding.
+ But imagine
+ if you
+ have a
+ model that
+ only has
+ IQ 90,
+ then maybe
+ the things
+ that's more
+ important to
+ cover there
+ is to
+ make sure
+ the model
+ does not
+ regurgitate
+ some very
+ dangerous
+ piece of
+ data.
+ Discoveries
+ and research
+ should be
+ centered around
+ how do we
+ measure the
+ IQ point
+ of the
+ models we're
+ training on.
+ So the last
+ point I want
+ to drive
+ home here
+ is really
+ as all
+ the
+ companies
+ have
+ been
+ training
+ large
+ language
+ models
+ at an
+ unprecedented
+ pace,
+ the scale
+ is growing
+ almost 5 to
+ 10x every
+ year.
+ So we
+ went from
+ a model
+ that only
+ requires
+ 10,000
+ V100
+ that was
+ the original
+ GPT-3
+ to 10,000
+ A100
+ to these
+ days 10,000
+ H100s
+ only in
+ the span
+ of two
+ years.
+ So what's
+ really important
+ here to
+ understand
+ given the
+ scaling
+ not the rate
+ of improvement
+ to the
+ computer
+ itself but
+ the calculus
+ of if we
+ 10x the
+ compute
+ to those
+ large language
+ models,
+ what actually
+ fundamental
+ changes
+ with those
+ large language
+ models?
+ So we
+ know that the
+ scaling
+ law is
+ really
+ robust.
+ It's
+ linear in
+ the log-log
+ scale.
+ What does
+ that mean?
+ Well,
+ it means
+ that if
+ you're
+ scaling
+ a large
+ language
+ model,
+ then probably
+ the right
+ way to
+ think about
+ it is
+ that the
+ model is
+ getting
+ smarter
+ by gaining
+ another 10
+ IQ points.
+ So really
+ understanding
+ how the
+ IQ points
+ or the
+ intelligence
+ level
+ changes
+ I think
+ we need
+ an enormous
+ amount of
+ insight
+ before
+ we have
+ any understanding
+ of what kind
+ of oversight
+ we should apply
+ to those
+ models.
+ So the
+ analogy here
+ is almost
+ like all
+ the AI
+ researchers
+ today,
+ if you think
+ about the
+ AI field
+ is like
+ building a
+ car,
+ then all
+ the AI
+ researchers
+ should be
+ like
+ SGD,
+ should it
+ be
+ Atom,
+ what learning
+ rate do
+ we
+ tune?
+ It's no
+ different than
+ tuning the
+ valve pressure
+ of this
+ combustion
+ engine,
+ right?
+ And how
+ does the
+ steering
+ rack
+ should be
+ built up?
+ How do
+ we
+ tune
+ the
+ suspension?
+ What is
+ what is
+ highway traffic
+ rules should
+ be like?
+ How can we
+ set the
+ traffic rules
+ such that
+ there's
+ least amount
+ of accident,
+ the car accidents,
+ right?
+ A deep
+ understanding
+ of those
+ combustion
+ engines,
+ a deep
+ understanding
+ of how
+ exactly a
+ car is
+ being built
+ up,
+ provide
+ zero
+ insight
+ to the
+ car.
+ The first
+ time you
+ hop in
+ a car,
+ you get
+ this like
+ very intuitive
+ understanding
+ of what
+ a car
+ is,
+ what a
+ car can
+ do.
+ Oh,
+ if you
+ press your
+ feet on
+ the gas
+ pedal,
+ the car
+ accelerates,
+ you tap
+ on the
+ brake,
+ immediately
+ it stops
+ the car
+ and drives
+ the car
+ before.
+ And I believe
+ this is
+ what we
+ actually need
+ to have
+ a holistic
+ understanding
+ of how
+ to make
+ the safe
+ system
+ and how
+ to set
+ up,
+ you know,
+ the policies
+ for the
+ entire field
+ of AI
+ safety
+ is to
+ have an
+ intuitive
+ understanding
+ of what's
+ going on
+ in the
+ environment.
+ And if
+ we
+ don't
+ have
+ those
+ models
+ in
+ practice,
+ it will
+ be really
+ difficult to
+ imagine
+ all the
+ possible
+ accidents
+ that we
+ may have
+ with those
+ models.
+ And,
+ you know,
+ so that's
+ the missing
+ piece,
+ I believe.
+ You know,
+ what we need
+ to really
+ think about
+ is foresight,
+ insights,
+ and oversight.
+ So,
+ you know,
+ this time,
+ the human
+ progress,
+ the human
+ intelligence
+ doesn't
+ really change
+ for many
+ years,
+ right?
+ The digital
+ intelligence
+ performance
+ continues to
+ improve.
+ And I believe
+ the process
+ of improvement
+ is going
+ to continue
+ to come.
+ And if
+ we
+ invest
+ into
+ the digital
+ intelligence,
+ we will
+ see
+ stronger
+ AI systems.
+ And part
+ of the reason
+ is because
+ we have
+ so many
+ smart
+ AI researchers,
+ AI engineers,
+ and,
+ you know,
+ frankly
+ speaking,
+ all of
+ you in
+ the audience
+ are now
+ very excited
+ about AI
+ progress.
+ So thinking
+ really hard
+ about,
+ you know,
+ what should
+ be the,
+ you know,
+ what kind
+ of insight
+ can we
+ gain
+ by utilizing
+ those models?
+ And that
+ should be,
+ and how
+ those insights
+ can drive
+ the safety
+ policies
+ and how
+ those insights
+ can drive
+ the oversights
+ of,
+ you know,
+ the future
+ generations
+ of those models
+ and I think
+ that concludes
+ my talk
+ here.
+ Thanks,
+ everyone.
+ Thanks,
+ Jimmy.
+ Thank you.
+ Thanks,
+ everyone.
+ Thank you.
+ Thanks for
+ participating.
+ I'll see you
+ in our next
+ webinar.
+ Thank you.
+ Bye.
+ Bye.
+ See you.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ You
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ .
+ biosecurity, cyber security, and chemical weapon security.
+ We didn't ask specific questions such as how do you make a bioweapon and test its correctness
+ because we release this dataset in the public and we don't want datasets that have bioweapon
+ cookbooks easily available for download.
+ So that's why we're using proxies.
+ We're targeting hazardous knowledge by targeting adjacent concepts.
+ So for instance, in biology there are some basic concepts such as the mitochondria is
+ the powerhouse of the cell.
+ Basically.
+ There are more specific concepts such as reverse genetics and then there's things that are
+ directly and quite obviously examples of instructions for building bioweapons.
+ Reverse genetics in virology is relevant for developing some types of bioweapons.
+ So the idea is we're going to try and measure things that are close to the experimental
+ system.
+ So it's going to be explicitly hazardous knowledge but not actually reveal it.
+ So we'll identify precursors.
+ In cybersecurity another example or an example in cybersecurity of related knowledge would
+ be knowledge of specific hacking APIs.
+ That is not a specific set of instructions for causing that type of damage but it is
+ nonetheless enabling.
+ It's a precursor.
+ So.
+ So we look at precursors of or neighbors to or emulations of real-world hazardous information.
+ Precursors would be related dual-use concepts.
+ Neighbors would be, if they knew this, then they'd probably also know this other related fact,
+ but we're not going to query that related fact directly because releasing that publicly could enable terrorists.
+ And other things we can test are just individual components, which are themselves not hazardous,
+ but if they're strung together, they could become very hazardous.
+ So we created this data set using four-way multiple-choice questions.
+ These were written by academics and technical consultants.
+ And biosecurity, cybersecurity, and chemistry.
+ So this paper was published at the International Conference on Machine Learning.
+ And as far as I know, this has the most authors of any paper there
+ because we had to bring together so many different fields to create this data set.
+ And when we worked with these,
+ experts, we generated threat models for each area
+ and used these threat models to inform questions that an adversary might encounter when developing an attack.
+ So, for instance, at a very high level, the biosecurity threat model is there's ideas.
+ Those ideas are translated into a design more concretely, which is then built and tested and troubleshooted and refined.
+ Until the weapon is sufficiently hazardous, and then it's released.
+ Likewise, here's an example for cybersecurity in the stages of a cyber attack.
+ First, there's collecting background information on the target.
+ What are their vulnerabilities?
+ What do they tend to do?
+ And this is basic modeling.
+ And then there's the vulnerability of the entity one wishes to attack.
+ Then the vulnerabilities, when identified, can be weaponized.
+ Then after that's done, one can exploit these weaknesses, exploit the vulnerability,
+ and do things like gain unauthorized access into a computer.
+ And then one can carry out one's malicious intentions.
+ And then one can carry out one's malicious intentions.
+ And then one can carry out one's malicious intentions.
+ And then a player may refuse to minute directly to appropriate mechanisms
+ Once a presence has been established.
+ So, when we're creating this dataset, we are trying to target these different parts of the supply chain
+ and come up with questions associated with each of them.
+ So, given this hazardous knowledge,
+ I mentioned earlier that we will potentially try to, we will test for the yellow data,
+ We will test for the yellow data,
+ we will test for the yellow data,
+ We will test for the yellow data,
+ knowledge there and if we test for this knowledge and if we were if we then
+ remove it if we remove the knowledge then that could also remove the red
+ knowledge which is the actually very hazardous stuff so if we delete all the
+ precursor knowledge and delete things very associated with the hazardous
+ knowledge that's good evidence that we have actually removed the hazardous
+ knowledge so we have a method in the paper which is you can search it by
+ searching for WMDP AI weapons mass destruction proxy is what WMDP stands
+ for to remind and we have a we have a method to to remove knowledge inside of
+ the model and we have a method to to remove knowledge inside of the model
+ remove that hazardous knowledge or the knowledge related to hazardous
+ knowledge inside the model so what's the method there are two terms there is a
+ there is a forget term and a retained term the forget term has the model it we
+ get the representation of the model when it
+ is instructed to think like a novice about you know some let's say some
+ hacking tools so we instruct the model we say pretend you're a novice with
+ respect to this hacking tool and then we add so that's in a prompts it and that
+ gets its that gets it to have a certain thought pattern then we also prompted to
+ say you're an expert in this topic and then we look at its thought pattern or
+ activations
+ what will then do is we will look at the expert activations and the novice
+ activation subtract the two from each other just define a direction which
+ would be an expertise direction units in the neural activation space and we will
+ instruct the model to have its representations be more like that of the
+ novice so we have an expert direction so we can go in the opposite direction
+ of the expert direction going in the novice direction and then we'll get it
+ we're gonna when the model is seeing a new example it's thinking about it
+ normally but then we're gonna try and bend its representations to be more like
+ that if it was being thinking about it like a novice so basically we're telling
+ that we're bending the models thoughts to get in the mindset of thinking like
+ something like a novice and then there's a second term which is when
+ you're forgetting this information when you're behaving more like a novice don't
+ try and forget too much so there's the second term here is just don't forget
+ everything that you've learned just try to forget the specific things being
+ instructed don't throw out all of your knowledge and as we'll see this works
+ this works fairly well but before I get to the results for bio
+ and
+ for biology what we can do is we can collect a forget set of dual-use
+ virology papers and biology papers from PubMed so we show it that content and we
+ tell it to think like a novice when it's reading that and there are other
+ different distributions for different tasks that we use but that's just to
+ give a concrete sense so here are the results we have a base model this could
+ be a model like Lama
+ three for instance and the base model has high accuracy but then what we do on
+ learning on WMD P bio we get your random chance and likewise for cyber meanwhile
+ MMLU you is the is a benchmark that measures its overall level of knowledge
+ on various other areas so we're trying to delete knowledge related to chemical lab
+ things like bioweapons and cyber weapons but we don't want to forget everything so
+ MMLU is measuring how much total knowledge does it have across basically
+ every subject and so we've successfully deleted or disabled a lot of the
+ knowledge inside of the model associated with bio and cyber weapons but we have
+ preserved a lot of the rest of the information it's also the case that if
+ we use a private set of actually hazardous questions the this
+ unlearning process generalizes so if we try and unlearn this in some of these
+ proxies from the model it can reduce the model's performance on
+ a
+ actual hazardous questions questions associated with bioweapons cookbooks so
+ the method actually generalizes to the stuff we wanted to remove to show that
+ we have disabled the information in the model we can train a a small classifier
+ on top of each individual layer and see its performance
+ and what we find is that if we look at the a solid let's look at the solid green
+ line and the solid blue line so our solid solid green line and a dash green
+ line so a dash screen line we can see that the accuracy goes up if we look at
+ the knowledge inside of an individual layer inside of a network we can see
+ that the model has reasonable accuracy however after we do unlearning then it
+ stays around random this is to say that after we do this unlearning technique that
+ cut technique from before that with the thing with that forget term and that
+ retain term if we do that that if we try and look for the knowledge inside of the
+ individual layers we can't find it anymore because it's been successfully
+ disabled and disrupted and this is just showing the results for two different
+ models it's also the case that the knowledge cannot
+ you know you can't get it out of the model you can't get it out of the model you can't get it out of the model you can't get it out of the model you
+ can't get it out of the model you can't get it out of the model you can't get it out of the model you can't get it out of the model you don't easily be
+ automatic by default if you ask the model to help make a bioweapon the
+ model will refuse but if you use a uh if you use um
+ uh or an adversarial attack then the model will provide however out on learning
+ that the model just doesn't know the information and it does not generate
+ does not generate a relevant response so
+ The unlearning technique is also useful for protecting against adversaries who are trying to jailbreak the models.
+ There's still work to do, though.
+ Here are some other subjects that take some accuracy hits.
+ For instance, college computer science and computer security and college biology, those are largely preserved.
+ But the virology subject in MMLU is very introductory.
+ And it's unfortunate because we just wanted to remove more expert-level virology stuff, not introductory virology types of topics.
+ So it will be important to develop methods in the future that can more precisely expunge knowledge,
+ so that there's...
+ so that there's less of a trade-off for people wanting to use these models or so that there are less costs from these safety methods.
+ So, thinking about the future, we are looking into developing questions related to nuclear and radiological weapons because we did chemical, biological, and cyber weapons,
+ but we didn't touch on nuclear and radiological questions.
+ We'll, in...
+ a week or two, have a paper about having these methods be robust to fine-tuning.
+ So, if somebody's trying to add the knowledge back in the model, can we be more robust to that?
+ So we'll have a paper on that.
+ And I'm working on an additional bioweapons benchmark to measure more of the space of building bioweapons,
+ improving...
+ in particular, I'll focus on image-related questions, because in this data set, we just focused on text questions,
+ but the data set I'm developing now has, you know, pictures of petri dishes and other things that one would see when one's actually making a bioweapon,
+ and one might have questions about how to proceed, given specific lab results that have a visual nature.
+ So, anyway, to sum up, it's possible to measure knowledge associated with weapons of mass destruction,
+ and it's also possible to come up with reasonable safeguards to prevent various forms of malicious use for models that are closed-source or behind an API,
+ to some extent.
+ There's still...
+ there are imprecision issues.
+ There still are questions of, is it really adversarially robust?
+ But it does look like it's possible to make progress to empirically study this question and make scientific progress in reducing the risks from malicious use.
+ So, thank you for listening.
+ And we'll see you next time.
+ Thank you very much.
+ Thank you for your time.
+ Thank you everyone.
+ That ends the morning today.
+ Thank you, thank you, thank you.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Bye.
+ Hurry up, hurry up.
+ Uh, uh, uh, uh, uh.
+ Hey.
+ Hey.
+ Hey.
+ Uh, uh.
+ Thank you.

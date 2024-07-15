@@ -1,0 +1,94 @@
+{
+    "name": "国际AI安全前沿技术论坛（上午场）",
+    "addr": "世博中心620会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-07-02/60f08f9f426b4e0ea587d7c2d728bb19.jpg",
+    "desc": "随着大模型技术的深入发展，其安全性和可信性已经成为行业关注和研究的热点。本次国际AI安全前沿技术论坛聚焦大模型安全领域的关键技术问题，包括生成内容安全、价值对齐、数据安全等多个方面。论坛邀请到了中美两国的顶尖专家，共同深入探讨如何构建具有社会责任感的通用人工智能，探索国际合作的新途径，确保AI技术的健康发展和广泛应用。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/06/435071546884096.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "09:00",
+            "endTime": "09:10",
+            "speechGuest": "",
+            "speechTheme": "开幕致辞"
+        },
+        {
+            "startTime": "09:10",
+            "endTime": "09:40",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：构建人工智能安全-挑战与未来方向"
+        },
+        {
+            "startTime": "09:40",
+            "endTime": "10:10",
+            "speechGuest": "",
+            "speechTheme": "圆桌会议：在AGI时代如何保障AI安全并促进国际合作"
+        },
+        {
+            "startTime": "10:10",
+            "endTime": "10:30",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：规避危险-确保AI全生命周期的安全"
+        },
+        {
+            "startTime": "10:30",
+            "endTime": "11:00",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：白泽指数-语言学驱动的大模型安全合规监测技术与实践"
+        },
+        {
+            "startTime": "11:00",
+            "endTime": "11:30",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲"
+        },
+        {
+            "startTime": "11:30",
+            "endTime": "12:00",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：大语言模型可被对齐吗？"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "乔宇",
+            "company": "上海人工智能实验室",
+            "position": "主任助理、教授"
+        },
+        {
+            "name": "邵婧",
+            "company": "上海人工智能实验室",
+            "position": "大模型安全团队技术负责人"
+        },
+        {
+            "name": "Dawn Song",
+            "company": "加州大学伯克利分校",
+            "position": "教授"
+        },
+        {
+            "name": "Zico Kolter",
+            "company": "卡内基梅隆大学",
+            "position": "教授"
+        },
+        {
+            "name": "常永波",
+            "company": "中国信通院华东分院",
+            "position": "人工智能事业部主任"
+        },
+        {
+            "name": "陈思衡 ",
+            "company": "上海交通大学",
+            "position": "副教授"
+        },
+        {
+            "name": "杨珉",
+            "company": "复旦大学",
+            "position": "计算机科学技术学院教授"
+        },
+        {
+            "name": "杨耀东",
+            "company": "北京大学",
+            "position": "人工智能研究院AI安全与治理中心执行主任"
+        }
+    ]
+}

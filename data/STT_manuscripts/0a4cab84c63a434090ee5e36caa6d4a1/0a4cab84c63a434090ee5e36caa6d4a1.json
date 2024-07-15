@@ -1,0 +1,121 @@
+{
+    "name": "模型即服务（MaaS）加速大模型应用落地",
+    "addr": "世博中心蓝厅",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-21/b99d55506ab24e13910fe9ccfe49382c.png",
+    "desc": "在大模型等人工智能技术飞速发展的今天，模型即服务（MaaS, Model as a Service）正逐步成为驱动行业创新与数字化转型的关键力量。本论坛汇聚了大模型的前沿探索者、开发者、技术领袖以及创新产业代表，从云+AI，多模态，GPU芯片推理加速以及产业落地展开，旨在深入探讨MaaS加速大语言模型在各行各业的应用与落地。\n阿里云首席技术官周靖人，清华大学计算机系长聘副教授，面壁智能首席科学家刘知远，NVIDIA开发与技术部门亚太区总监李曦鹏，联想集团研发总监杜杨洲，小米科技小爱大模型负责人乔国辉等国内外大模型领域重磅嘉宾现场亮相，共话大模型的实践与未来！\n",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/06/435066299875328.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "09:30",
+            "endTime": "09:35",
+            "speechGuest": null,
+            "speechTheme": "主持人开场"
+        },
+        {
+            "startTime": "09:35",
+            "endTime": "09:40",
+            "speechGuest": null,
+            "speechTheme": "产学研用携手，共促大模型技术落地"
+        },
+        {
+            "startTime": "09:40",
+            "endTime": "10:00",
+            "speechGuest": null,
+            "speechTheme": "以云为基础、以模型为中心，构建大模型生态"
+        },
+        {
+            "startTime": "10:00",
+            "endTime": "10:20",
+            "speechGuest": null,
+            "speechTheme": "通往AGI，大模型时代的摩尔定律"
+        },
+        {
+            "startTime": "10:20",
+            "endTime": "10:40",
+            "speechGuest": null,
+            "speechTheme": "大语言模型时代的加速计算技术更新"
+        },
+        {
+            "startTime": "10:40",
+            "endTime": "11:00",
+            "speechGuest": null,
+            "speechTheme": "联想AIPC创新实践"
+        },
+        {
+            "startTime": "11:00",
+            "endTime": "11:20",
+            "speechGuest": null,
+            "speechTheme": "大模型时代小爱同学的实践历程"
+        },
+        {
+            "startTime": "11:20",
+            "endTime": "11:30",
+            "speechGuest": null,
+            "speechTheme": "项目发布：“追星星的AI”——关怀孤独症儿童公益绘本活动"
+        },
+        {
+            "startTime": "11:30",
+            "endTime": "12:00",
+            "speechGuest": null,
+            "speechTheme": "互惠共享，大模型技术生态繁荣的必选项"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "周靖人",
+            "company": "阿里巴巴",
+            "position": "首席技术官"
+        },
+        {
+            "name": "成晨",
+            "company": "阿里云",
+            "position": "魔搭社区技术运营负责人"
+        },
+        {
+            "name": "程熙",
+            "company": "阿里云",
+            "position": "阿里云无影事业部产品总监"
+        },
+        {
+            "name": "杜杨洲",
+            "company": "联想集团",
+            "position": "研发总监"
+        },
+        {
+            "name": "贾超",
+            "company": "面壁智能",
+            "position": "副总裁"
+        },
+        {
+            "name": "李曦鹏",
+            "company": "NVIDIA",
+            "position": "开发与技术部门亚太区总监"
+        },
+        {
+            "name": "林俊旸",
+            "company": "阿里巴巴",
+            "position": "高级算法专家"
+        },
+        {
+            "name": "刘知远",
+            "company": "清华大学",
+            "position": "教授"
+        },
+        {
+            "name": "乔国辉",
+            "company": "小米",
+            "position": "小米小爱大语言模型负责人"
+        },
+        {
+            "name": "张松阳",
+            "company": "上海人工智能实验室",
+            "position": "青年研究员"
+        },
+        {
+            "name": "周文猛",
+            "company": "阿里巴巴",
+            "position": "魔搭社区模型服务负责人"
+        }
+    ]
+}
