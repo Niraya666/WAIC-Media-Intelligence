@@ -1,0 +1,106 @@
+{
+    "name": "“智”由“芯”生：RISC-V和生成式AI论坛",
+    "addr": "世博中心517会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-17/14938b4c92c3419aabe31d508311b1ac.jpg",
+    "desc": "随着生成式AI技术的快速演进，相关应用已开始向各行业渗透，AI模型在云侧进行训练、端侧进行推理和微调时，产生了巨大的算力需求。RISC-V作为一个开源的指令集架构，近年来产业生态逐渐完善，其微架构的灵活性和可扩展性，将为AI芯片带来很大的技术创新空间和产业化自由度。本论坛将汇聚业界专家、学者和企业代表，共同探讨RISC-V和生成式AI技术的融合发展之路，推进在RISC-V和生成式AI领域的国际交流与合作。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/06/435140237000704.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "14:00",
+            "endTime": "14:05",
+            "speechGuest": null,
+            "speechTheme": "欢迎辞"
+        },
+        {
+            "startTime": "14:05",
+            "endTime": "14:15",
+            "speechGuest": null,
+            "speechTheme": "嘉宾致辞"
+        },
+        {
+            "startTime": "14:15",
+            "endTime": "14:35",
+            "speechGuest": null,
+            "speechTheme": "大语言模型的原理与发展应用"
+        },
+        {
+            "startTime": "14:35",
+            "endTime": "14:55",
+            "speechGuest": null,
+            "speechTheme": "AIGC芯片的机遇和挑战"
+        },
+        {
+            "startTime": "14:55",
+            "endTime": "15:15",
+            "speechGuest": null,
+            "speechTheme": "RISC-V：下一代AI芯片的目标"
+        },
+        {
+            "startTime": "15:15",
+            "endTime": "15:35",
+            "speechGuest": null,
+            "speechTheme": "多样的开源RISC-V处理器赋能AI的创新"
+        },
+        {
+            "startTime": "15:35",
+            "endTime": "15:55",
+            "speechGuest": null,
+            "speechTheme": "生成式AI的释放：MIPS和RISC-V的变革力量"
+        },
+        {
+            "startTime": "15:55",
+            "endTime": "16:15",
+            "speechGuest": null,
+            "speechTheme": "休息"
+        },
+        {
+            "startTime": "16:15",
+            "endTime": "17:00",
+            "speechGuest": null,
+            "speechTheme": "圆桌论坛：生成式AI和RISC-V的融合与创新"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "戴伟民",
+            "company": "芯原微电子（上海）股份有限公司",
+            "position": "董事长兼总裁"
+        },
+        {
+            "name": "张晓东",
+            "company": "乌镇智库",
+            "position": "理事长"
+        },
+        {
+            "name": "戴路",
+            "company": "RISC-V国际基金会",
+            "position": "理事长"
+        },
+        {
+            "name": "练维汉",
+            "company": "Tenstorrent Inc",
+            "position": "首席CPU架构师"
+        },
+        {
+            "name": "Durgesh Srivastava",
+            "company": "MIPS",
+            "position": "首席技术官"
+        },
+        {
+            "name": "孟建熠",
+            "company": "知合计算技术（深圳）有限公司",
+            "position": "首席执行官"
+        },
+        {
+            "name": "高奇琦",
+            "company": "人工智能与大数据指数研究院",
+            "position": "院长"
+        },
+        {
+            "name": "彭剑英",
+            "company": "芯来智融半导体科技（上海）有限公司 ",
+            "position": "首席执行官"
+        }
+    ]
+}

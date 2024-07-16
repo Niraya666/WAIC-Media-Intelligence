@@ -1,0 +1,79 @@
+{
+    "name": "认知世界·智创未来",
+    "addr": "世博中心515会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-26/78619ae7a81a4407a995bb721d0383d4.jpg",
+    "desc": "论坛围绕认知智能的最新理论、技术和应用场景展开深入交流，旨在搭建一个跨学科、多层次的交流平台，促进学术界和产业界的沟通与合作，推动认知智能领域的创新发展。\n本次论坛荣幸地邀请到了图灵奖获得者、国内外多名院士、青年学者和业界精英担任主讲嘉宾，他们将在论坛上分享最新研究成果和实践经验。此外，论坛还设立多个专题研讨环节，涵盖多模态学习、意识图灵机以及大模型应用等多个领域，为与会者提供丰富的学术盛宴。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434694193676288.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "09:00",
+            "endTime": "09:10",
+            "speechGuest": null,
+            "speechTheme": "开幕致辞"
+        },
+        {
+            "startTime": "09:10",
+            "endTime": "09:15",
+            "speechGuest": null,
+            "speechTheme": "致欢迎辞"
+        },
+        {
+            "startTime": "09:15",
+            "endTime": "10:00",
+            "speechGuest": null,
+            "speechTheme": "主旨演讲"
+        },
+        {
+            "startTime": "10:00",
+            "endTime": "11:00",
+            "speechGuest": null,
+            "speechTheme": "青年学者专题"
+        },
+        {
+            "startTime": "11:00",
+            "endTime": "11:20",
+            "speechGuest": null,
+            "speechTheme": "华院计算表面检测大模型发布"
+        },
+        {
+            "startTime": "11:20",
+            "endTime": "12:05",
+            "speechGuest": null,
+            "speechTheme": "主旨演讲"
+        },
+        {
+            "startTime": "12:05",
+            "endTime": "12:10",
+            "speechGuest": null,
+            "speechTheme": "致闭幕词"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "Indika Rajapakse",
+            "company": "密歇根大学安娜堡分校",
+            "position": "密歇根大学安娜堡分校医学院计算医学和生物信息学副教授"
+        },
+        {
+            "name": "Manuel Blum",
+            "company": "美国卡内基梅隆大学",
+            "position": "美国卡内基梅隆大学计算机科学学院名誉教授"
+        },
+        {
+            "name": "Paul Pu Liang",
+            "company": "美国卡耐基梅隆大学",
+            "position": "机器学习系博士生"
+        },
+        {
+            "name": "高盛华",
+            "company": "上海科技大学",
+            "position": "上海科技大学信息学院教授"
+        },
+        {
+            "name": "宣晓华",
+            "company": "华院计算技术（上海）股份有限公司",
+            "position": "华院计算创始人、董事长"
+        }
+    ]
+}
