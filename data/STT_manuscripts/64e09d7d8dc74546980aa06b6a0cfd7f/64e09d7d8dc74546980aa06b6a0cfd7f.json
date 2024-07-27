@@ -1,0 +1,102 @@
+{
+    "name": "智能社会论坛——智能社会与全球治理框架",
+    "addr": "世博中心431会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-12/5559e4724852416684af84733aba19d9.jpg",
+    "desc": "当前，全球人工智能技术快速发展，给世界带来巨大机遇的同时也带来难以预知的风险挑战。各国需要通过对话与合作，在充分尊重各自政策和实践差异性基础上，在国际人工智能治理领域形成广泛共识和全球治理框架。\nWAIC 2024智能社会论坛由同济大学、上海市杨浦区人民政府主办。论坛以“智能社会与全球治理框架”为主题，将发布多项同济大学和杨浦区的研究和实践成果，邀请多位国内外重磅嘉宾发表主旨演讲和开展圆桌对话，共同探讨人工智能全球治理前沿，凝聚共识、为实现人工智能向善贡献智慧。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434702087487488.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "09:00",
+            "endTime": "09:20",
+            "speechGuest": "",
+            "speechTheme": "开幕仪式"
+        },
+        {
+            "startTime": "09:20",
+            "endTime": "09:50",
+            "speechGuest": "",
+            "speechTheme": "专题发布"
+        },
+        {
+            "startTime": "09:50",
+            "endTime": "11:20",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲"
+        },
+        {
+            "startTime": "11:20",
+            "endTime": "11:55",
+            "speechGuest": "",
+            "speechTheme": "圆桌对话"
+        },
+        {
+            "startTime": "11:55",
+            "endTime": "12:00",
+            "speechGuest": "",
+            "speechTheme": "闭幕仪式"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "金耀初",
+            "company": "西湖大学",
+            "position": "讲席教授，欧洲科学院院士"
+        },
+        {
+            "name": "加布里埃尔·马志尼",
+            "company": "欧盟委员会",
+            "position": "欧盟《人工智能法》起草组组长"
+        },
+        {
+            "name": "马特·希恩",
+            "company": "卡内基国际和平研究院",
+            "position": "研究员"
+        },
+        {
+            "name": "陆凯",
+            "company": "耶鲁大学法学院蔡中曾中国研究中心",
+            "position": "研究员"
+        },
+        {
+            "name": "苏竣",
+            "company": "清华大学智能社会治理研究院",
+            "position": "院长"
+        },
+        {
+            "name": "吴志强",
+            "company": "同济大学",
+            "position": "中国工程院院士"
+        },
+        {
+            "name": "李仁涵",
+            "company": "国家新一代人工智能治理专业委员会",
+            "position": "教授"
+        },
+        {
+            "name": "季卫东",
+            "company": "上海交通大学",
+            "position": "文科资深教授"
+        },
+        {
+            "name": "吕鹏",
+            "company": "中国社会科学院大学数字中国研究院",
+            "position": "执行院长"
+        },
+        {
+            "name": "亚历克斯·罗伯茨",
+            "company": "英国年利达律师事务所",
+            "position": "高级合伙人"
+        },
+        {
+            "name": "钟宁桦",
+            "company": "同济大学",
+            "position": "经管学院长聘教授"
+        },
+        {
+            "name": "程浩",
+            "company": "飞书科技",
+            "position": "互联网行业解决方案负责人"
+        }
+    ]
+}
