@@ -1,0 +1,12711 @@
+尊敬的各位领导,嘉宾和朋友们,大家好,欢迎大家来到今年世界人工智能大会的前沿AI安全与治理论坛,我是谢敏希,安原AI的CEO,安原AI是一家安全与治理领域第三方研究和咨询机构,也是目前该领域全国唯一的社会企业。
+各位领袖,我们非常的荣幸邀请到上海市领导,丽琳直导和交流。 forget Gu qing yu xu w Lang Lei dar jag shao.
+上海市。
+去年4月
+我国中央政治局会议深刻指出
+要重视通融人工智能发展
+重视防万风险
+同年10月
+我国发布全球人工智能治理倡议
+重申各国应在AI治理中
+加强信息交流
+共同做好风险防范
+同月我很荣幸受邀参加了
+首届全球AI安全峰会
+见证了包括中国在内的28个国家和欧盟
+共同签署布莱切里宣言
+Blessed Recreation
+这也是第一份AI安全的国际声明
+在此背景下
+社会需要加强前AI安全研究
+安全评测
+安全治理
+以及国际合作
+这也是今天论坛的四个主题
+第一个主题是安全研究
+我们很荣幸邀请到国内外AI领域的世界级科学家
+图灵奖得主Yosua Bengio
+前头发布了第一份先进AI安全国际科学报告
+由30个国家
+欧盟和联合国提名
+的委员会共同参与
+对通用型AI的安全风险进行了科学评估
+中国工程院高文院士认为
+全世界正处于AGI强人物质能的前夜
+在一个不确定的状态
+需要严加防范
+AGI可能会引发的人类生存风险
+中国工程院张亚琴院士联合Yosua Bengio
+召集了第一届AI安全国际对话
+并联合伯克利分校
+东宋等领先科学家
+在Science主干上发表论文
+建议分配三分之一的AI研发资金
+到AI安全和伦理等研究方向
+我们期待和多位AI安全科研团队
+带头人
+包括上海AI实验室的邵靖
+北京大学的杨耀东
+和上海交通大学的张卓胜
+讨论前沿研究问题
+第二个主题是安全评测
+我们很高兴邀请到大模型安全评测的
+领军人物
+在学术研究方面
+上海AI实验室领军科学家乔宇
+第一次以人类价值观的角度
+对多模态大模型进行了全面评测
+天津大学NLP实验室主任熊德义
+发表了中文大模型前沿风险评测的
+一系列论文
+在行业联盟方面
+中国信通院人工智能研究所所长
+魏凯依托AIA安全距离文娱会
+启动了一系列大模型安全评测工作
+OpenAI Anthropic
+谷歌DeepMind和Raria
+成立了前沿模型论坛
+执行主任Chris Massero
+将分享领先美国企业的安全实践
+第三个主题是
+安全距离
+各国家正在开展对AI安全距离的
+积极研判和尝试
+我们很高兴邀请到
+法国政府人工智能委员会
+成员Gail Veracqua
+新加坡政府首席AI官何瑞敏
+中国政法大学数据法治研究院教授张灵涵
+以及伯克利分校
+Center for Human-compatible AI主任
+Mark Nisberg
+分享多元地区视角
+同时我们也邀请到
+上海教育大学中国法语社会研究院院长
+纪威东
+和上海教育大学
+上海AI实验室
+治理研究中心副主任王云春
+参与援助讨论
+探讨AI立法和上海AI治理经验
+第四个主题是国际合作
+我们很荣幸邀请到多家国际顶尖智库
+包括凯莱基国际和平研究院主席
+Mariano Ferratino-Cuella
+和研究员Matt Sheehan
+清华大学人工智能国际治理研究院院长
+薛兰
+纽金大学马丁人工智能治理中心主任
+Robert Treger
+加拿大国际治理创新中心
+全球AI安全风险主任Duncan Kaspeks
+讨论AI安全的国际治理议题
+联合国AI高层顾问机构专家曾毅
+将提出AI安全红线
+全球领先大模型开源社区Hugging Face
+全球政策负责人Iron Solomon
+将讨论开源模型对国际治理的影响
+最后我们将邀请上海AI实验室主任
+首席科学家周博文进行闭幕致辞
+展望AI安全的未来
+现在我们进入论坛的正式环节
+首先有请上海市人民政府副秘书长庄木地
+为我们的论坛进行开幕致辞
+有请
+尊敬的高文院士
+尊敬的张雅琴院士
+各位来宾
+女士们
+先生们
+朋友们
+大家上午好
+很高兴和大家一起相聚在2020世界人工智能大会
+共同参与前院人工智能安全与治理的论坛
+共同探讨人工智能的发展趋势和治理问题
+首先我代表上海市人民政府
+对本次参加论坛的科学家
+企业家以及媒体朋友们表示热烈的欢迎和衷心的感谢
+人工智能作为新能科技革命和产业变革的重要驱动力
+正深刻的影响着全球经济结构和社会发展
+随着技术持续迭代的演进
+人工智能的安全和治理也乐意成为全球关注的焦点
+中国高度重视人工智能的健康发展
+去年10月
+习近平主席提出了全球人工智能治理的倡议
+系统地阐述了中国关于全球人工智能治理的立场
+主张和建议
+展现了中国在推动全球人工智能发展和治理方面
+积极的态度和务实的行动
+去年11月
+包括中国
+美国在内的
+28个国家和俄盟共同签署了
+布赖切利人工智能安全宣言
+这也是全球第一份
+针对人工智能安全的国际性的声明
+体现了中国在全球人工智能治理领域的职任和担当
+上海作为中国经济城市的中心和科技创新的前沿
+在人工智能安全和治理方面
+开展了
+实践和探索
+特别是在全国
+率先出台了人工智能的地方性的一部法规
+就是上海市
+促进人工智能产业发展条例
+探索构建体系化的治理框架
+统筹人工智能发展与安全
+同时
+也发布了人工智能标准化体系建设的指导意见
+推动上海
+在人工智能标准领域的先行先试
+努力培育人工智能高水平的上海标准
+展望未来
+我们将继续在人工智能安全和治理方面发挥引领作用
+我们将持续完善政策体系
+加强技术研究和人才培养
+制定更具操作性
+更加完善标准规划和测评体系
+我们将坚持包容省政监管
+以鼓励创新为原则
+探索大模型评测
+四点沙盒监管
+我们将积极推动自力研究
+在健全法规体系
+监管体系等方面努力探索
+努力形成具有上海特色的监管实践方案
+各位来宾
+本次论坛
+汇聚了世界级的专家学者和业界的领袖
+将围绕全员人工智能安全的研究
+评测 治理等议题
+展开交流讨论
+我们相信
+通过大家的共同努力
+我们一定能够成为
+全球人工智能安全和治理问题提供务实方案
+和有益借鉴
+推动人工智能技术
+更好地
+博物与人类社会的发展
+上海将提供更加开放的平台
+更加丰富的场景
+更加优良的环境
+支持全球人工智能安全和自理领域的研究者的进行深入的探索和实践
+最后预作本次大会
+许得圆满成功
+谢谢大家
+谢谢
+感谢穆迪秘书长的精彩致辞
+请入座
+大家好
+我叫吴君怡
+是安远AI高级项目经理
+也是今天论坛的主持人
+鉴于今天有多位国际嘉宾
+我的主持将用英语进行
+各位观众
+各位女士们
+我的名字是冠义恩
+我作为冠义AI高级项目经理的职员
+我将是今天的主持人
+由于我们有大量的国际主持人
+大多数这次的会议会由英语主持
+不再多说
+我感到很高兴
+能够介绍我们的主持人
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+业务教授
+在世界各地的75位AI技術專家中
+發佈了《國際科學報告》
+關於進步AI的安全
+我非常榮幸可以參與
+作為一位寫者
+本教授Bengio將會分享
+這報告的重要資訊
+以及今天與我們一起
+解決AI安全問題
+好的
+謝謝您加入我們
+我們可以聽得懂
+好的
+我要開始了
+非常感謝您的慷慨
+並感謝您在這篇文章中的工作
+所以
+今天
+我想告訴您
+在我所擔任的AI安全報告中
+關於AI安全
+以及它意味著
+國際的意見
+關於AI的危險和安全
+所以這主要關於
+進步AI的問題
+有很多類型的AI
+所以我們會
+主要關於
+AI的主要意義
+例如
+語言模式
+以及其他
+我們最近看到的
+多模式模式
+都吸引了很多人的注意
+所以
+有兩部分
+首先
+我會談論報告
+然後
+最後
+我會說幾句
+關於它的意義
+未來
+以及
+我所擁有的
+大圖案
+即使
+報告
+並沒有任何建議
+報告是
+科學的合作
+為了幫助
+政策人員
+在工作上
+好
+報告名為
+《國際科學報告
+安全於進步AI的安全》
+我們花了很多時間
+找出正確的名稱
+這就是我們得到的
+所以
+是的
+報告主要關於
+危險
+因為
+當然
+已經有很多
+科學工作
+科學工作
+在AI的應用和利益上
+但
+為了
+政策人員的
+擔心
+很重要
+他們要明白
+危險
+和
+能力
+讓他們可以
+管理這些危險
+例如
+管理
+我們
+受到任務
+後
+在
+在
+英國AI安全協議
+在11月
+支持
+國際的
+獨立
+和
+公共的報告
+關於AI的能力和危險
+獨立
+意味著
+科學家
+最後一句話
+不是國家
+有30個國家
+加上
+歐盟和英國
+參與
+我會
+介紹
+這個
+程序
+報告
+也
+很廣泛的
+所有的危險
+目前的危險
+從
+負面
+和
+不明
+到
+預期的
+危險
+例如
+工業市場的影響
+很多不同的
+錯誤
+當然
+最大的危險
+是
+失去
+控制
+超級人
+AI
+或
+其他
+問題
+而
+目的
+不是
+新科學
+而是
+新科學的
+科學文明
+提供了
+這些問題
+為
+政策
+的
+利益
+的
+問題
+好
+這
+有75人
+在
+工作
+這
+有一個
+諮詢
+項目
+每個國家
+有30個
+項目
+一位專家
+也有
+歐盟
+和英國
+一位專家
+所以
+這是我們的項目
+另外
+我們也
+邀請了
+16位
+寫者
+這些人
+正在
+寫
+這個
+項目
+提供了
+評論
+評論
+我們
+在
+這個項目
+和
+報告的
+不同版本
+我們也
+邀請了
+一群
+高級教師
+他們
+是
+我們
+想要的
+各方面的
+專家
+我們也想要的
+有幾個
+他有很多
+這個
+想要的
+專家
+也有很多
+我們本來
+想要的
+專家
+也會成為
+一個
+某個
+專家
+我們也想要
+一個
+專家
+那
+這個
+專家
+應該是
+一個
+專家
+這個
+專家
+是
+一名
+專家
+在
+不仅仅是说有不一样的协议
+而是关于AGI的风险和时间线
+是否会发生
+是否会有几年
+是否会有几十年
+之类的
+然后是关于影响的观点
+AGI会发生什么事
+会否有快速的解决
+社会如何影响社会
+这些都非常重要
+然后报告谈论风险生产
+那么什么是现实科学
+去尝试解决这些风险
+那些方法是什么
+还有什么是他们的缺点
+而最后
+我想报告的主要结论
+如果您想要一句话
+是不幸的是
+目前没有认识的方法
+去防止现实风险和未来风险
+呃
+可能会有恶劣的风险
+例如失用和失去控制
+呃
+所以所以那是那是
+那是一个大招
+是一个大红旗
+但是但是
+你知道
+银河线是我们仍然有业务
+综合来说
+世界可以在方法上
+更好地理解这些风险
+并更好地解决它们
+好的
+那么我们再往深入一点
+嗯
+首先当然
+你知道为什么我们甚至关心风险
+是因为
+因为他们的利益
+总体来说
+这些风险可以非常有用
+可以使用在许多优秀的应用中
+但只有如果我们正确管理它
+因为有风险
+我们认为
+三个风险的级别
+我们讨论了很多
+如何组织这份报告
+在不同的级别中
+所以有危险风险
+风险来自失败
+和系统风险
+好的
+所以我将解释一下
+ reflected in each
+所以其中的危险是比较容易理解的
+所以人们将用机械技巧去做 cambiable
+甚至是反正的
+甚至是非法的
+许多秘密
+误解
+稳定
+黑戒
+误解
+轨迹
+被决定
+软件
+等等
+然后
+有缺乏行为
+所以
+不应有意义的
+伤害
+对于生产品的安全问题
+就像风险
+隐藏和误伪
+类似的东西
+而且失去控制
+人们通常不想失去控制
+但这可能是个错误
+这是一种错误
+当然这是一种很严重的错误
+然后有系统风险
+那是什么
+那就是社会和技术联合的东西
+例如工业市场的影响
+当我们越做越多工作
+人们的劳动价值也会降低
+如果同样的工作可以做10倍少的工资
+那工作价值也会降低
+因为你能做得更便宜
+那么人们失去工作的情况是什么
+现在世界上没有这种问题
+但可能会成为
+另一个系统风险是AI分裂
+就是
+AI的才能和能力
+在几个国家都被集中了
+这跟其他国家有什么关系
+在几个国家都被集中了
+这意味着AI的利益
+也会被集中了
+这意味着AI的发展
+可能会对某些国家有好处
+但可能不适合全球西方
+例如
+另一种集中力量
+是市场集中力量
+那是
+在AI系统中的
+正常性训练的资源
+资源需要
+在这些AI系统中
+在这些AI系统中
+在这些AI系统中
+资源的价值
+在我们认为
+我们可以继续训练更大的模型
+他们会越来越好
+这就是所谓的讨论法
+但这也意味着
+很少人会有资金
+来训练将来的AI系统
+而这也意味着
+AI系统的效率
+和市场的效率
+以及市场的集中力量
+而这也意味着
+市场的集中力量
+和市场的效率
+而这也意味着
+市场的效率
+和市场的集中力量
+而这也意味着
+AI系统的产业
+和社会的产业
+和社会的产业
+需要的能量
+也会增加
+这不可能永远不断的持续
+很快的时间
+AI系统的训练费用
+很快的时间
+AI系统的训练费用
+将会影响到
+总能量的大量压力
+可能有10%的压力
+可能有10%的压力
+所以我们必须
+看到这一切
+而想想
+AI系统和社会的产业
+AI系统和社会的产业
+包括公司和公司
+包括公司和公司
+这篇文章也谈到
+我们称为社会风险
+我们称为社会风险
+例如
+制度需要时间
+例如
+制度需要时间
+例如
+制度需要时间
+例如
+制度需要时间
+技术改变时
+技术改变时
+可能需要时间去适应
+可能需要时间去适应
+还有其他风险
+还有其他风险
+有关力量的关系
+有关力量的关系
+有关力量的关系
+关于技术方法
+关于技术方法
+我再谈谈
+我再谈谈
+我们谈了很多
+我们谈了很多
+科技技术
+科技技术
+所以
+科技技术
+接着
+的几个
+的几个
+关系
+让我们能够解决风险
+并更了解我们的路线
+现在我们来谈谈
+这些风险的国际执行
+有很多讨论
+正如你们可能也认为
+在媒体上
+或者在聊天中
+或者在社交媒体上
+特别是
+人们认为没有风险的
+人们认为风险不存在
+人们认为风险很严重
+但有趣的是
+我们可以看看
+这些风险是从哪里来的
+而且我们也要认为
+风险和未来的事情
+最大的风险
+是不存在的系统
+所以当然
+人们不会有铁锁球
+知道未来会有什么
+希望
+所以实际上
+我们在几年或几年内
+会有什么种AI
+我们知道
+风险非常明显
+AI的能力继续进步
+并且它们进步得很快
+所以这些不同的观点
+意味着人们不同意
+像是
+AI的效果
+在勤劳市场上
+或是AI的效果
+在资料攻击
+或是生物武器攻击
+或是控制失控的
+但是我们发现
+这些观点的区别
+最好解释
+是人们认为
+AI会更有能力
+还有不同的预测
+在社会上会做什么
+以解决这些风险
+以及制度和协议的有效性
+所以
+主要的东西
+解释这些区别
+就是未来进步的速度
+而且是不确定的
+当我们说
+有什么不确定的东西
+例如这些
+这些非常重要的东西
+将会改变未来
+从政策者的角度来看
+如果科学家
+不同意
+未来的进步速度
+政策者必须
+握着这些枪
+准备准备所有的情况
+有些人说
+AGI会在3年内
+或是30年内
+我们必须准备
+所有这些选项
+在政策方面
+是的
+好
+那么现在
+我们再谈谈
+风险减少方法
+和他们的限制
+所以
+已经有很多技术方法
+来测试
+和减少
+总目标AI的风险
+所以
+测试风险是一件事
+所以
+是否有问题
+是否AI
+能够做出危险的事情
+例如
+这就是一种问题
+我们可以用它
+减少风险
+因为
+如果我们证明
+有危险
+那我们可能
+就停止
+或者
+不再
+开发这些东西
+或者
+甚至
+不再继续训练
+减少风险是个不一样的事情
+我们如何改变方法
+AI系统
+以防它
+做出坏事
+例如
+被迫害人
+而
+重要的是
+我们
+设立了
+这两个方法的标准
+因为
+制制官
+应该要
+使用
+最好的方法
+解决危险
+而
+我们也设立了
+最好的方法
+我们设立了
+最好的方法
+就是
+我们有几种方法
+我们可以
+使用
+最好的方法
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+选择
+目前存在的安全保护方法
+很容易清除
+例如用监狱判刑
+尤其是如果您能够进行稳定
+如果系统的重量有足够
+那么很容易清除所有安全保护
+好 所以在测试中
+现在的方式
+为什么不太好
+是因为我们基本上
+问了很多不同的问题
+并且看看是否能解决
+一些不好的问题
+所以我们只测试了不同的情况
+但是这些是视频检查
+我们不能检查每个可能的问题
+而且它有用
+因为如果我们检查到某些东西
+那么我们就知道有问题了
+但是没有安全保护方法
+如果视频检查没有找到任何问题
+那么这不意味着没有任何问题
+我们只能说出有问题的事情
+如果我们没有找到任何问题
+可能还是会有问题
+好
+所以我们应该不仅仅看着车辆
+我认为我们仍然有几年
+还有很多政府可以做的事情
+以解决这些风险
+我们必须更了解
+这些系统的作用
+正如我所说
+我们需要仔细地思考
+为什么和如何
+我们将在发挥智能
+是否会在一种方式上
+进行发挥的方式中
+是否会对攻击者或防御者有帮助
+想想智能攻击
+这就是用AI的用途
+对攻击者或防御者有更多的帮助
+我们如何获得AI的经济利益
+这也是我们能选择的
+谁会获得利益
+我们如何投资研究
+以防止风险
+好
+这是我们在首次的
+Sol AI Forum上发布的
+进程报告
+请大家看看
+请给我发表意见
+我们将在今年末期的
+更大的报告中
+进行进行研究
+现在我认为的大图
+报告谈论的不确定性
+在时间线上
+这可以非常快
+我们看到在时间线上
+有不同的标准
+在时间线上
+在X线上
+在Y线上的表现
+而黑色的标准是人工表现
+您看到在许多许多的任务上
+在时间线过去
+我们对人工表现的接近
+并且经常变得更好
+所以我们必须学习
+管理这些风险
+正如我们在我们的文章中谈论
+与许多中国同事
+这一年出版的
+管理极端AI的风险
+在科学上的迅速增长中
+是否能够解决
+这些风险
+所以我们该怎么做
+在总体上
+我们并没有准备好
+这种非常快速的改变
+例如
+我们要考虑
+新冠疫情的发生
+所以我们必须
+现在开始
+正在准备的工作
+我们必须考虑
+国际协议
+在风险线上的制定
+尤其是
+风险线上的
+失控和缩小的风险
+和缩小的风险
+我们需要
+做更多的研究
+为了更明白风险
+和能力
+以及其后的影响
+并建立计划
+如果我们发现风险
+一个这些线线
+是线线
+我们必须
+现在承诺
+如果发生这种问题
+我们会做什么
+而在总体上
+我们必须使用
+准备方法
+当大风险有不确定性时
+我们就可以
+把风险线
+正在准备
+准备好
+这个风险线
+就会出现
+风险线
+如果我们
+把风险线
+放进一个
+准备方法
+然后把风险线
+放进一个
+准备方法
+就会出现
+一个风险线
+这个风险线
+是让我们
+看到风险线
+准备好风险线
+和风险线
+在准备方式上
+也能使我们
+能够
+准备好风险线
+就是我们可以
+把风险线
+但某些方法可能是提供更强的保证
+并且需要更多时间去发展
+而某些方法可能比较容易去做
+也许不是很安全
+但如果AGI发生在三年内
+我们必须在三年内准备好
+所以我们需要所有这些项目都在同时进行
+最后,还有一个问题
+就是发展者之间的竞争
+在报告中提到的
+但是也在国内之间的竞争
+所以不同国家之间的竞争
+实际上是一个军事竞争
+而AGI可以成为武器
+在军事中使用
+从资料中开始
+但也可能在其他武器中使用
+所以我们现在必须
+在国际讨论中
+在安全上合作
+但是也要考虑
+如果会有协议
+如何确保我们能够
+确保我们能够确保公平
+我们需要发展技术
+谢谢
+谢谢
+谢谢
+在北京大学的工业科研学院
+高老师目前是
+14th National People's Congress的总统
+他曾经是10th、11th、12th
+CPCC国际委员会的一名
+中国国际自然科学基金总统
+中国电脑组织总统
+和中国电脑博物博物馆的首席
+高老师
+我们很高兴能够与您一起参加
+让我来给您介绍一下
+在这个节目室
+如果参加的专家可能也能够听得到
+三位图灵奖得主
+在谈人工智能安全的时候
+其实还是有一些差异的
+比如说第一位图灵奖的得主Raj
+他就说现在人工智能
+有太多的问题需要去解决了
+如果你要有那功夫
+你还是先解决点问题
+怎么样保证安全
+你先把人工智能本身没有解决的问题解决解决
+我们第二位得主Manuel就比较有意思
+他就说人工智能只要是确定的
+这件事其实都是可控的
+不确定就不行
+那么第三位Andy
+和刚才的Angel是一样的
+因为他们和亚琪琳一起写了一些文章
+在整理这些报告
+就是要让我们一定要重视
+今天我讲的是
+其实人工智能的安全性确实是
+它是问题的两个方面
+一个方面就是说
+作为技术研究
+你必须要把技术本身要做到极致
+让它有用
+当然作为社会学家
+要考虑这样一项技术
+它对社会带来的影响到底是什么
+那么如果这个影响有负面的
+你有什么办法把它控制住
+这可能是一个问题的两个方面
+我想因为我们这个社会呢
+在发展的时候需要所有的人的关注
+当然所有人关注不是所有人都做同一件事
+所以我们要有很好的分工
+今天我们就讲一下这个分工的问题
+AI其实我们知道
+它确实是很强大
+通用人工智能
+这个强大了以后呢
+我们就要让它向善
+就是让它做它应该做的比较理想的事情
+所以我们说
+这个AI向善里面呢
+最主要的我们要从两个角度
+从技术的角度
+要把人工智能技术本身要做得足够好
+今天的人工智能确实还有很多问题
+所以按现在的这个水平
+它还没有办法向善
+第二个呢就是从伦理的角度
+你必须要在伦理道德等方面
+给它规范好
+所以我想这是AI向善里面
+比较需要关注的两个方面
+那今天的AI技术是不是足够好的呢
+刚才说了其实不是
+我们现在AI的水平呢
+还不够高
+因为刚才Benjo也在他的最后的slice里面
+其实也提到了
+就是在他总结之前的slice里面也提到了
+作为单向性能
+有一些AI已经超过人了
+有一些还是不行
+什么时候几乎所有的性能都超过人的时候
+那个就是比较好了
+就是可以真正发挥作用
+所以我们说今天的这个AI技术呢
+我们认为它表现的更多的是一种低水平的智能
+什么叫低水平的智能呢
+就是死记硬背的智能
+就是靠显示知识的记忆和使用
+那么来表现出来的智能
+真正好一点的智能呢
+其实是中水平的智能是中等的
+高水平的智能是最理想的
+我们现在其实做高水平的
+追求高水平的智能
+还有点那是非常遥远的事
+我们要追求追求中水平的智能
+所谓最中水平的智能呢
+就是用比较少量的显示知识
+就可以获得的智能
+用我们人类的这个学习能力来说
+你有非常强的举一反三的能力
+而现在的
+人工智能系统是没有这个能力的
+所以我想我们现在呢
+可能当前是在低水平智能
+某些单线还可以
+靠死记硬背
+或者是靠数据训练出来的
+那么等到了只有少量的样本
+就可以训练出智能的时候
+我们大概就到了一个中水平的智能
+而且它可以跨越领域
+从一个领域可以很容易就
+类推到另外一些领域
+就像以前搞机器学习这个类比的
+你能做到
+那是中水平的智能
+高水平的智能呢
+这个我们就可以把它笑一笑听一听
+因为这个高水平智能相当于说
+就像人类里面也没有多少人能达到的智能
+你让计算机这个系统去做
+那是非常遥远的事情了
+那么低水平智能里面呢
+其实有一个有点像悖论一样的情况
+很多人就说
+因为有时候讨论问题
+说既然你说现在的智能是低水平的智能
+它为什么会有智能涌现
+低水平智能是不应该有智能涌现的
+其实低水平智能也可以有智能涌现
+为什么呢
+我们可以换个角度来考虑
+我们现在的智能呢
+是用数据训练出来的
+比如说我们大语言模型
+大语言模型呢
+是用不同种的语言
+一起来训练出来的一个模型
+但是我们每个人的母语呢
+大概只是一种语言
+也就是说可能我们A熟悉的是中文
+他所有的学习的熟练的都是中文里面的东西
+所以呢
+你用中文训练出来的东西
+对他来讲呢
+他能判断这个东西好与坏
+准确不准确
+或者是基本上都是他可以掌握的
+但是呢
+如果这个语料呢
+是用西班牙语去训练
+当然混合在一起训练了
+那西班牙语的它的背景场景里面的东西呢
+其实是学中文的人呢
+他可能不熟悉的
+那所谓涌现呢
+就是当你把所有这些语料都放在一起
+去训练的时候
+它会使得使用者突然发现有一些东西
+他根本就不知道
+他认为这就是令眼睛一亮
+其实那个知识
+对那个行业的人
+或对那个语种的人
+大概不是什么了不得的东西
+但是呢
+对于不是母语的人
+他就觉得很吃惊
+所以我想这个涌现
+更多的我们可以用这种角度解释
+当然也许深层次
+还有更深的解释
+我们大家都可以去考虑这些问题
+那目前的人工智能呢
+我们说
+不管是在智能水平上
+在技术上
+在这个形态上
+在应用上
+甚至在社会属性上面
+都已经进展的比较好
+特别我们讲到伦理问题
+必须要考虑它的社会属性
+那么讲到社会属性也必须说
+现在人工智能的这个安全
+或者人工智能的带来风险
+那肯定就是说
+一方面是犯罪
+一方面其他
+这就肯定是早晚的问题
+那么另外这个整个人工智能的发展呢
+它可能它会影响的这个层面呢
+这个可以在人的层面
+魔性的层面
+和数据的层面
+这三个层面来考虑
+当然更棘手的一些问题呢
+就是如果人工智能
+对社会产生攻击
+那么我们怎么样
+这个防止这种技术被恶用
+对社会产生影响
+所以呢
+这个最简单的呢
+就是说
+这个我们要从伦理和技术两个方面
+去着手解决这些问题
+那么针对这个问题呢
+其实中国工程院呢
+前些年呢
+专门部署了一个人工智能方面的
+重大咨询项目
+叫做新一代人工智能安全与自主可控发展研究
+这个重大项目里面
+课题9呢
+是我领了一批专家在一起做的
+那个研究的问题是
+强人工智能与内脑计算技术陷阱安全对策
+这个呢
+大概是在19年开始研究的
+2021年呢
+我们把这个东西研究出来呢
+写了一篇文章
+发表在中国工程科学上面
+右边就是这篇文章的首页
+所以大家如果有兴趣
+当然这是中文的了
+读得了中文的可以看一看
+英文是有赛要的
+但是全文是中文的
+那么在那里面
+其实我们把人工智能的安全风险呢
+分成三个方面
+一个是模型方面
+一个是算法和硬件方面
+另外一个是自主意识的不可控方面
+那么从模型方面呢
+它主要就是我们说模型本身是不可解释的
+这个我想我就不展开了
+第二个是算法和硬件方面呢
+它也有不可靠性
+因为我们知道软件会有bug
+硬件可能里面也会有一些不可靠的地方
+这些都可能带来安全的风险
+还有一个呢
+就是自主意识的不可控性
+不可靠性就是失控了
+这个失控肯定
+系统的失控会带来很多不同的风险
+那这些风险呢
+都是强人工智能可能会带来的一些风险
+那针对这些风险应该怎么做
+其实刚才班军也说了很多
+这个我们要想法
+尽量减少降低和减少这些风险的一些技术线和做法
+也给了一个很长的清单
+那当时呢
+我们在21年的时候就说
+理论方面要完成
+完善一些这种技术理论的验证
+实现的模型的可解释性
+另外呢
+对人工智能的价值取向
+要想法能够在底层价值上面
+对它进行严格控制
+那么在应用阶段呢
+主要是希望能够有足够的技术支撑
+防止呢
+人为的造成这些安全问题
+当然这些
+比如像造假呀
+假视频呀
+假图像呀
+这其实都是人为的
+要尽量去预防
+或者是能够检测这方面的一些情况
+所以这件事要做呢
+很重要的就是一个方面
+就是我们必须要开展国际合作研究
+没有国际合作研究
+其实这方面呢
+你很难取得这个
+就是说
+在全球
+因为有一些东西你做的好
+别人可能不会做
+有一些东西别人做的好
+你可能不会做
+我们通过国际合作呢
+把大家做的好东西呢
+都可以通过交流
+使得大家对人工智能安全方面呢
+都能够提高到比较高的一个水准
+而且呢
+在这方面不仅仅要合作
+人才培养也是非常关键的
+因为以往关于人工智能
+安全相关的人才呢
+其实是非常稀缺的
+当然这几年慢慢有点好
+有些好转
+但是呢
+我们冷爱需要大量的人才
+那么在这个语言模型和数据方面
+比较重要的呢
+就是我们要有很好的平台
+要有很好的数据
+然后呢
+去训练
+去
+谢谢
+去训练和去用这个
+用这些数据
+使得你训练的结果呢
+比较理想
+在这方面呢
+我所在的鹏城实验室呢
+我们大概从2018年开始
+用英伟达的卡
+扎了一台千卡左右的机器
+那时候因为18年比较早了
+那时候还是唯一白的时代
+所以算力没有那么强
+那么到了2020年
+我们就用华为的生腾910
+就做了一台4000块卡的机器
+那么差不多1000个匹的算力
+那么今年年底呢
+我们大概会做一个2万多块卡的机器
+大概会有这个16000匹的算力
+或者16亿的算力
+那有这个算力呢
+我们就可以对模型训练啊
+模型训练当中的一些
+这种经验啊教训啊
+或者模型训练完了一些这个训练的
+这个模型参数的
+这个对社会的赋能等等
+我们就可以做一些事
+比如说我们把所有训练
+我们在机器上训练的模型
+自己训练的模型啊
+都开源开放出来
+然后供社会供研究团体去使用
+那么当然这里大家会说
+你要训练模型的时候
+我的数据会不会丢失
+会不会被别人被不相关的人
+就直接拿走了
+那么我们实验室也开放了
+开发了一套技术
+叫做防水宝技术
+防水宝技术呢其实就是说
+数据拥有方他对数据
+具有绝对的控制和管理的权利
+那么机器在训练的时候
+数据它是可用不可见
+而机器呢
+机器当然可以见得到数据
+就机器上面的操作员
+其实他是看不着数据的
+他只能看到你的这个样
+这个样本数据
+就是你可以用一个比较小的
+但是脱敏的一个数据呢
+让操作员先去试模型
+一旦要试好了
+真的数据进去以后
+操作员已经看不到真数据了
+除非数据拥有者给他这个权利
+他可以看得到
+包括训练完了的参数
+如果要往外走的时候
+那么机器也会自动
+向这个数据拥有方主动去
+请求说有一个参数要往外传送
+请你检查这里有没有携带你的数据
+等等有这样的一个流程
+使得数据可以做到足够的安全
+那我们训练了一个系列的模型
+包括7B的模型
+33B长窗口的模型
+和200B的模型
+这都是大语言模型了
+这语言模型里面
+既有中文英文还有其他
+这个语言的一些参数
+那么通过这些呢
+我们训练完了以后
+把它都开源掉
+供大家去使用
+那么我们用的最大的200B的模型
+是一个104层的网络
+这个用4000块卡
+我们差不多训练了半年多
+把它训练出来了
+那么在这里呢
+我们也摸索了很多经验
+性能也是不错的
+那后来我们又训练了33B的长窗口模型
+那么这个长窗口
+现在目前是128K的窗口
+那么正在训练192K的窗口
+可能很快就完成了
+这些完成以后
+我们就把它开放出去
+那么我们也有整套的模型的
+这种开放和使用的
+这样的一个组织
+去使用这个东西
+所以总结一下呢
+人工智能高速发展
+其实带来这个安全问题啊
+我们必须要重视
+当然从做技术的
+我们要把人工智能做的
+推向前进做得更好
+所以呢
+这方面呢
+只有通过国际合作
+才有可能更好的把这个工作做好
+我跟大家分享这么多
+谢谢大家
+谢谢各位教授
+请坐下
+接下来
+我们很高兴有我们的
+教授张雅琴
+教授张雅琴是
+中国工业博士博士
+以及AI科技博士
+以及清华大学
+研究AI工业博士
+教授张雅琴之前
+是拜杜的总裁
+而之前
+他担任了16年的
+Microsoft总裁
+担任了很多重要的职业职业
+作为世界上最有名的
+科学家和企业生
+他做出了非常重要的贡献
+通过他的550篇文章
+62个美国资产
+以及其他专业工业成绩
+让我们欢迎张教授
+早上好
+谢谢安远
+安远AI邀请我来这个大会
+刚才呢
+Yoshi Banjo和高温院士呢
+对整个这个AI
+特别大模型的发展
+特别风险的
+都做了特别好的
+这个系统性的介绍
+一个是全球
+一个是中国
+的确的话呢
+过去这两年左右呢
+这个AI的发展的速度很快
+快的同时呢
+也带来很多的这些安全的风险
+我过去这两年呢
+也花了不少时间
+和全球领先的这些学者们一起
+来从事一方面的一些研究
+今天呢
+我简单讲一下
+有时间关系
+我简单讲一下我的一些思考吧
+特别是
+首先呢
+是一个大模型
+发展的一些趋势
+以及呢
+当然更重要的是风险方面的
+安全方面的一些趋势
+这些考虑
+首先我认为呢
+这个大模型和生生生AI
+在未来的这个十年吧
+有下面几个趋势
+第一个呢
+就是多模态
+我们不管是
+我们的语言
+我们的文字
+语音
+图像和视频
+都正在融合起来
+另外的话呢
+这个激光雷达
+这个三维的结构信息
+四维的视红信息
+包括我们蛋白质
+我们的这个细胞
+还有基因
+都在变成多模态的收入
+那么第二点就是
+我们叫智能体
+自主智能
+所以可以自主地规划任务
+可以开发代码
+可以自己升级
+不单是错
+可以去优化
+自己也可以去自我copy
+第三个就是智能的走向边缘
+我们现在讲大模型
+大部分还是在这个云端的
+这个大模型
+现在呢
+正走向我们的PC啊
+走向我们的手机啊
+走向我们的这些智能的设备
+走向边缘端
+第四个就是
+现在讲物理智能
+就是具身智能
+我这十年一直叫物理智能
+现在新的名词
+比较时髦叫具身智能
+就是大模型用到这个无人车
+无人机
+机器人
+物理基础设施
+像电网啊
+电站啊
+一些critical infrastructure
+那么最后一个呢
+是生物智能
+就是像包括现在我们的脑机接口
+用到我们的人体
+人脑
+医疗机器人
+生物体和生命体
+这个我最近呢
+和很多的学者
+都一直在探讨这个问题
+到底通用人工智能
+什么时候可以实现
+我这个表达
+我完全个人的意见
+因为刚才亚术班主也讲到
+我们讨论这个问题的时候
+大家有很多不同的这个角度
+不同的观点
+我个人认为的话呢
+差不多在二十年之内
+会实现这个通用人工智能
+分三个阶段
+就是我一直分成信息智能
+物理智能和这个生物智能
+那么信息智能的话呢
+五年之内
+我认为可以达到
+所谓的这个图灵测试
+当时ChainHP出来的时候呢
+我的第一感觉
+我觉得ChainHP的文字方面
+基本上通过了图灵测试
+那在这个视频啊
+在别的方面
+可能还需要点时间
+可能在五年之内
+我可以达到这个修改的
+或者新图灵测试
+在物理智能或者巨生智能呢
+可能还需要差不多十年的时间
+因为现在比如说无人车
+这个人行机械
+我们这个会议也看到很多
+这个我自己认为呢
+我这么多年一直在做无人车
+从当时在百度的阿波罗
+那么一直在做无人车
+可能八九年的时间了
+我认为无人驾驶呢
+是巨生智能一个最大的应用
+也是第一个实现
+这个新图灵测试的这个应用
+明年呢
+大家都看到我们在武汉
+做的这个大规模的
+这个实验的商用
+我觉得在明年的话呢
+我们看到更多的应用
+在二零三零年的话
+之前的话呢
+会成为主流的应用
+生物智能可能时间更长一点
+可能需要再用差不多十年的时间
+但整体来讲的话呢
+在未来的二十年
+我认为可以达到这个通用人工智能
+而我所在的清华大学智能产业院
+其实就是为了这通用智能
+而建起来的
+我们其实就是在三年半前建起来的
+那么这个研究院的话呢
+目前有二十二名教授
+有差不多三百多位学生
+我们的目标很简单
+就是能实现信息智能
+物理智能以及生物智能
+包括无人驾驶
+先进的机器人
+也包括呢
+这个Biological Computing
+目前我们发布了很多模型
+我们更多的是垂直模型
+比如说我们发布了一个
+第一个全球的实用的端到端的
+无人驾驶的开源模型
+叫Air Apollo FM
+大家都可以看到在GitHub上面
+我们也发布了一个
+第一个全球最大的Biomag GPT
+都是开源的
+大家都可以使用
+那么在这个有巨大能力的同时的话呢
+带来很大的一些风险
+刚才Benjo也讲了前沿大模型
+大模型到了万一参数
+更多的时候呢
+就才知道它的风险
+那么我还是分成三个不同的世界
+信息世界 物理世界 生物世界
+信息世界的风险
+大家比较容易理解
+刚才讲到DeepFake
+讲到Hallucination
+Misalignment
+讲到Misinformation
+这个我觉得相对比较容易理解
+那到了物理世界呢
+这个风险就会更大
+你想想看我们有
+再过十年
+我想我们这个世界的机器人
+比人要多得多
+机器人的话呢
+如果它失控
+如果它被坏人所乱用
+大家可以想象到
+对社会带来风险
+以后我们的车
+可能都大部分无人车
+这个时候是靠这个大模型去控制
+这个时候所带来的风险
+不管是主动风险
+被动风险都会很大
+那么更大的风险的话呢
+是这个
+这个生物智能
+物理智能
+和信息智能融合在一块
+这个时候如果失控
+或者被乱用
+会造成生存风险
+所以我们觉得我们有
+过去这几年
+有几个重要的节点
+其中一个节点就是
+在2023年6月份的
+Center for AI Safety
+Recent Statement on AI Risks
+讲到我们要把
+人工智能未来的风险
+把它当作核武器
+和流行病一样的
+这个优先级去看待
+后来的话呢
+有很多工作
+包括刚才部长讲到的
+我们中国的人工智能全球倡议
+也包括EU的AI Act
+也包括了几次这个峰会
+然后也包括我们一些小范围的会
+就是我去年的话呢
+我和Store组织了一个
+叫International Dialogue on AI Safety
+我们每三四个月开一次会
+第一次在英国
+第二次在北京
+下面一次是在这个Venice
+我们会开会
+两天三天深度的去研究
+这里面的一些技术问题
+和政策的这个对应的问题
+刚才呢亚瑟讲的那个报告
+我觉得是把
+把这个很多的讨论的
+做了高度的一个总结
+我也很高兴的深度参与这个报告
+我简单介绍一下呢
+这个大模型安全方面的一些技术
+因为大模型安全
+它确实是一个系统工程
+从我们的输入
+从我们的输出
+从我们的安全评估 治理
+特别是这个系统的安全对齐
+都需要去工作
+这里面有许许多多的这个数学
+很多很多的算法方面的研究
+有许多工程的问题
+技术的问题
+也带有很多这个策略的问题
+这个我就不细讲
+我们做这个安全的话呢
+对这张图应该比较熟悉
+就从各个方面的系统工程问题
+然后另外的话呢
+这里面很重要一点就是
+最近许许多多进展
+就是大模型安全的对齐
+这里面又有两种不同的这个方法
+一个呢是直接监督的问题
+就是我把高质量的有用的
+安全的这个信息
+把它直接运用这个监督微调
+那么第二点呢
+是根据我们的偏好
+人类的偏好
+我们的价值观
+来做这个reinforcement learning
+比如说这个
+这个GPT
+GPT系列基本上是采用
+这个PPU这种方式
+那这里面有很多种不同的一些选择
+不同选择可以基于
+这个奖励模型的
+安全奖励和有用奖励
+用Lagrange去结合的
+这个作为输入的参数
+然后也可以用一些
+更新的一些奖励的方式
+那么在清华呢
+在AIR的话呢
+我们有几位老师呢
+也做了很多很多工作
+那我们的詹先生老师呢
+他提出了这个conditional
+reinforcement learning
+那么这个的话呢
+是用于这个
+用于这个大模型的一个微调
+比如说我们有很多
+高质量的数据的情况下
+它可以帮助我们
+更多的去把这个任务自动化
+我们知道有手工reinforcement learning的话呢
+需要很多很多的工作
+需要很多数据
+这个的话呢
+工作已经在
+大家可以看到
+在Github上叫open chat
+大家都可以看到
+也现在是比较受欢迎的
+技术
+那么另外的话呢
+就是我们也发现
+目前在这个reinforcement learning
+Human feedback里面呢
+有些问题
+特别是它的这个样本
+和策略的学习目标呢
+是不匹配的
+就是curie和policy
+会misalignment
+所以一开始等于
+你认为是align
+但是走走走走之后
+它就偏离这个方向
+所以我们也提出一个
+一个新的技术
+然后使得它在学习
+就我们的goal和trajectory
+是well-aligned
+那么我们应该在下面几个星期
+阿Claire会谈到这个工作
+另外的话呢
+我们用了不少安全离线的
+这个强化学习的方法
+然后呢
+去把这个安全的策略
+来进行这个改进
+特别是
+其实呢
+如果我们首先要判断一个东西是
+它是属于安全呢
+还是不安全
+就要把这个区域要找到
+那么在这个区域里面的话
+你可以做最大化的一个奖励
+如果在区域外面的话呢
+你要做最小化的这个风险
+一个要maximize
+一个要minimize
+那这里面
+如果看我们的paper的话呢
+这里面都是mathematics
+都是数学
+所以我就想让大家知道呢
+这个安全的问题
+对齐的问题
+不仅仅是一个词
+是一个策略
+和简单的一些算法
+这里面其实有很多
+理论方面的一些创新和突破
+这个文章的话呢
+我们会在也是
+应该已经发表了
+ICML
+我们也有一篇这样的论文
+那么最后时间不多呢
+我想谈一些我自己的建议
+刚才是在技术方面的一些工作
+不知道药东会不会讲
+药东和刀宋他们几位
+在这方面做的都特别领先的学者
+他们以后会讲更多细节
+那我呢想提一点就是
+政策方面的一些建议
+这个我其实讲了差不多两年了
+讲两年了
+我这儿有没有个章
+我看有没有
+我要盖个章
+对
+盖个章的话呢
+就是说我讲的这个建议
+完全是个人建议
+不代表清华大学
+不代表清华大学air
+也不代表我们现在所有的团体
+因为我们在内部有很多不同的观点
+完全是个人建议
+这个其实我提了差不多两年到三年了
+我提了十个建议
+我今天实验关系我讲五个
+第一个的话呢
+就是我一直建议我们要建立这个分级体系
+因为现在AI里面有很多不同的算法
+有很多不同的模型
+那我们呢要对这个就是最前沿的
+比如超过万一参数以后
+很多的参数呢
+对它进行约束
+一般的模型一般的算法呢
+就不要太去规范它
+让它往前面发展
+就对这种特别风险比较大
+能力比较大的
+就前沿的超大型模型
+需要去有些规范
+因为我做无人驾驶
+我们这里面自动驾驶
+我们里面分成六级
+从L0到L5 六级
+我建议我们把这个
+分成L0到L5
+只有L5的我们去规范它
+那第二点的话呢
+除了模型本身的这个规范
+这个规范包括从数据
+从模型的这个构建
+从这个对齐到最后评估
+各种评估都需要有一套标准
+更严格的标准
+那第二点用在场景里面
+需要更多的约束
+那你比如说用到无人车里面
+无人车里面的这个安全
+无人车里面它本身的
+它的自己的这些评估的体系要拉进来
+你做医学里面
+比如说医疗基金人
+他必须要经过医学方面的
+这个场景和领域的这个约束
+第二的话呢
+我讲了很多年了
+就是我们需要有一个实体的映射机制
+首先是对AI的内容要标注
+比如说我现在产生了很多数字人
+数字人和真人基本上看不出来
+区别
+我要标注我这是AI人
+虚拟人
+我AI产生内容
+我要标注是AI产生的
+我们现在的这个规定啊
+国家规定
+美国也产规定了
+你比如做个广告
+在互联网做广告
+如果是广告你要写个广告
+但我如果搞一个这个虚拟人
+数字人
+我都不需要说我是AI产生的
+首先就是个简单的把它标识出来
+知道这是AI产生的还是人为产生的
+第二的话呢
+就是一定要有一个实体映射的机制
+我们以后有很多机器人
+有很多可以是真正的机器人
+也可以是虚拟的机器人
+有很多智能体
+那么这个智能体它应该是从属体
+它从属于我某个人或者某个机构的
+我的机器人犯事了
+我最后要追溯到它的主体里面去
+所以ownership一定是人
+人或者是一个company
+也是一个legal entity
+那么这个事情其实从
+从这个技术上来讲并不是很难
+是完全可以做到的
+但是我这是更多的一个政策方面的建议
+第三个呢
+我一直建议
+我们把10%的这个投入啊
+就是做AI研究的也好
+产品开发也好
+投入呢放到
+对安全和风险的领域来
+我们在全球我们大家是建议30%
+在国内我说我们先从10%做起
+以后慢慢到30%
+这个包括我们的基础研究经费
+我们的产品开发经费
+包括我们整个这个社会的投入
+我们先到10%作为第一个起点
+第四个就是设立一些很清晰的这个红线和边界
+这个红线边界其实要设立起来
+其实不容易的
+因为每个国家可能这个有不同的情况
+但是我觉得有一些大家可以设立的
+我们要设立什么不能做
+比如说我从很多年
+我就提我们做智能体的时候
+智能体现在自己可以去
+它可以咖背
+它自己可以去复制的
+那复制的时候
+复制的时候要经过人的同意
+比如说我是这个主体我要同意的
+你复制一个张亚青
+张亚青要去
+他同意你去复制
+这个不能自我复制
+没有限制的复制
+然后还有红线边界
+比如说大模型接到核电站的时候
+怎么接能不能接
+我个人建议在我们在这些大模型
+还没有搞清楚这个这些边界啊
+没有搞清楚这些里面的可解释性前面的
+先不要接这些特别关键的
+critical infrastructure
+最后大家很多都讲过了
+就我们要一个国际沟通的合作和协调机制
+包括标准包括评估包括
+这个合作的具体的一些方式
+这里面需要有专家的
+需要有政策制定者的
+需要有政府的
+但很重要的需要这个
+这些不同领域的人在一起
+在一起这个精诚的合作
+好我就讲讲这么多
+这个谢谢大家
+Thank you so much Professor Zhang
+for your excellent presentation and suggestions
+Next I'm now pleased to welcome Professor Dawn Song
+a professor in computer science at UC Berkeley
+and co-director of the Berkeley Center
+for responsible decentralized intelligence
+Her research focuses on AI safety and security
+and she is ranked the most highly cited scholar
+in computer security
+She is the recipient of numerous awards
+including the MacArthur Fellowship
+Guggenheim Fellowship
+and more than 10 test of time awards
+and best paper awards
+Dawn it's a pleasure to have you here in Shanghai with us
+I'll let you take it from here
+Great
+Thanks everyone for being here
+Yes my name is Dawn Song
+I'm a professor at UC Berkeley
+Today I'll talk about AI safety challenges and future directions
+So the presentations earlier have such great context and background
+And here I wanted to add some more emphasis
+In particular as we deploy machine learning
+It's really important to consider the presence of attackers
+for a number of reasons
+So first history has shown
+that attackers always follows the footsteps
+of new technology developments
+or sometimes even leases
+And also this time the stake is even higher with AI
+As AI controls more and more systems
+Attackers will have higher and higher incentives
+to compromise the systems
+And also as AI becomes more and more capable
+the consequence of misuse by attackers
+will also become more and more common
+and more severe
+And hence it's really important
+to consider the presence of attackers
+especially as we consider AI safety
+So first I want to talk a little more about AI safety
+in the presence of attackers
+From my group's earlier work
+and also other research work
+we have shown that adversarial attacks
+are prevalent in deep learning systems
+Essentially all deep learning systems today
+they are all vulnerable
+to different types of adversarial attacks
+And the number of papers in this space
+actually has grown exponentially
+since our earlier work
+and the people's earlier work
+in the early stages
+And also we had the rare honor
+of having some of the artifacts
+of our earlier work
+actually now is part of the permanent collection
+at the Science Museum of London
+So as we talk about safety
+and today talk about safety
+aligned large language models
+it's also important to consider
+the adversarial setting
+So unfortunately
+as our work
+and also others work
+have shown that these large language models
+are also really vulnerable
+to adversarial attacks
+and these safety alignment mechanisms
+are easily broken
+So in our research
+we also work
+as an example
+decoding trust
+which provides the first comprehensive
+evaluation framework
+for trustworthiness
+of large language models
+It's actually won the outstanding paper award
+at NeurIPS
+this past December
+We developed new algorithms
+and also different environments
+including benign adversarial environments
+to evaluate many different perspectives
+for safety and trustworthiness
+of large language models
+And our work
+have shown that
+for all these different perspectives
+including adversarial robustness
+toxicity
+and fairness and many others
+essentially these large language models
+are all very easily attacked
+by adversarial attacks
+And again for more details
+you can go look at our paper
+at decodingtrust.github.io
+And also these adversarial attacks
+are effective
+multi-model models as well
+and also others workhave shown that
+even as these models
+are being fine-tuned
+attackers actually
+by providing just a few
+very small number of
+adversarial designs
+data points
+this fine-tuned stage
+can essentially cause
+this fine-tuned model
+to easily lose
+the safety alignments
+So far I've talked about
+Right
+So these attacks
+they are not only effective
+at the inference time
+they are also effective
+at essentially fine-tuned stage
+as I just mentioned
+essentially this is called
+data poisoning as well
+And also
+through this data poisoning
+step
+also these models
+can have what we call
+very stealthy behavior
+where essentially called
+backdoor as well
+So in our earlier work
+we showed that
+through data poisoning
+the model can
+attackers can build in backdoor
+in the model such that
+for example
+in our earlier work
+in facial recognition
+the model
+under normal circumstances
+will just behave normally
+and give correct
+facial recognition results
+But however
+when anyone
+that wears a special
+type of glasses
+and this actually
+is even effective
+you know
+in the physical world
+then it will cause
+the model
+to essentially trigger
+this backdoor
+that the model
+will misrecognize
+this person
+wearing this particular
+type of glasses
+to a targeted
+as a targeted person
+And through
+recent work
+with by
+anthropic
+they have also shown
+that the model
+this type of
+backdoor phenomenon
+where a fine tuned
+large language model
+during normal
+circumstance
+with a normal
+prompt
+it can generate
+like normal code
+that's usually
+correct code
+But when
+a particular
+trigger freeze
+appears
+in the prompt
+the model actually
+will generate
+a vulnerable code
+So
+all these
+are different types
+of adversary attacks
+and
+the model
+actually
+will generate
+in the entire
+community
+we have been
+very productive
+and creative
+in coming up
+with different types
+of new attack
+methods
+However
+on the other hand
+unfortunately
+in the defense
+side
+we have seen
+very very low
+very little progress
+and today
+there is no
+effective general
+adversary defense
+So this
+illustrates
+that this is
+the first
+open challenge
+that I wanted
+to pose
+in the context
+of AI safety
+and the current
+AI
+safety alignment
+mechanisms
+are very easily
+evaded by adversary
+attacks
+and
+any effective
+AI safety
+mechanisms
+need to be
+resilient against
+these adversary attacks
+and hence
+this poses
+a huge
+open challenge
+So essentially
+in order to
+achieve AI safety
+we need to
+actually be able to
+solve adversary
+robustness
+as a prerequisite
+I just mentioned
+despite that now
+we have thousands
+of papers
+every year
+publishing on
+different types of
+adversarial attacks
+but the entire
+community
+essentially
+have made
+almost
+zero progress
+in defenses
+against these
+adversarial attacks
+So
+as
+for
+developing
+effective
+AI safety
+as a whole community
+we really need to
+push forward
+in how
+we can
+develop
+adversarial defenses
+so that we can
+develop AI safety
+mechanisms
+that are resilient
+against adversary
+attacks
+So what are the
+potential
+directions
+that can help us
+to achieve this goal
+So here I'll give
+a couple
+examples
+from some of our
+recent work
+So
+one work is
+what we call
+representation
+engineering
+and this is
+a top-down approach
+to AI transparency
+So in this case
+we
+by providing
+the
+the model
+with the
+constructed
+contrastic inputs
+as a stimulus
+for certain tasks
+So we provide
+these
+contrastic
+inputs
+to the model
+and then
+we monitor
+the activation
+of the neural networks
+at different layers
+and then build
+the models
+And with our
+recent work
+we show
+that
+by
+this method
+we can actually
+identify certain
+directions
+along
+at certain
+layers
+that actually
+correlates
+with different classes
+different types
+of behaviors
+of the model
+So essentially
+for example
+we can
+identify certain
+directions
+that actually
+correlates
+with behaviors
+whether the model
+is honest
+or not honest
+whether it's
+hallucinating
+or not
+hallucinating
+and so on
+we have also
+shown that
+a particular
+this type of
+method
+called
+representation control
+So not only that
+we can do
+representation
+reading
+which is to
+monitor
+the
+model's behavior
+we can actually
+modify
+the activations
+of these
+neurons
+at certain
+layers
+during
+the inference
+time
+along
+for example
+the
+identified
+directions
+and so on
+and then
+through this way
+we can actually
+then change
+the model
+behavior
+for certain
+classes
+for example
+using this method
+we can make the model
+behaving
+more honest
+or less honest
+and so on
+So why
+is this important
+I think
+this is one
+of the key
+the key distinction
+actually
+between
+human brains
+and artificial
+brains
+artificial neural networks
+is that
+this artificial
+neural networks
+we actually
+are in control
+in the sense that
+we can completely
+observe
+the activities
+the activations
+of the
+the neural networks
+and also
+in real time
+we can modify
+the activations
+of the neural networks
+so this actually
+gives us
+a powerful
+arsenal
+for
+potentially
+for AI safety
+so this allows us
+to
+observe
+and
+monitor
+the behaviors
+then
+um
+better
+provide better control
+and enforcement
+of the behaviors
+of the neural networks
+so hence this
+can be
+a really promising
+direction
+for
+providing
+AI safety
+control mechanisms
+however
+this type of
+control mechanisms
+is promising
+but it's difficult
+to actually give
+full guarantees
+so also
+as
+professor
+Yaqin
+and
+also
+yoshua
+um
+mentioned earlier
+ideally
+we actually
+want to have
+approval
+guarantees
+so recently
+we have a joint
+initiative
+on quantitative
+AI safety
+and the goal
+is
+to actually
+develop
+AI safety
+that's
+with
+guarantees
+essentially
+with
+safe
+by design
+with
+guarantees
+for safety
+this actually
+is also
+in parallel
+and in some
+sense
+inspired
+by
+the approach
+taken
+in cyber security
+so including
+my own work
+in the last
+25 years
+in cyber security
+we have moved
+essentially
+we have
+had
+paradigm
+shift
+in how
+we approach
+safety
+how we
+actually
+build
+secure systems
+early
+on
+how we
+today
+how we
+detect
+when
+large
+language
+models
+is
+is behaving wrong
+and then later on
+we worked out
+methods
+to
+as a
+proactive
+defense
+focus on
+buck
+finding
+try to
+find
+vulnerability
+in this
+system
+so it's
+kind of
+like
+today
+i
+am
+satisfactory
+for a
+number of
+reasons
+that i
+don't have
+time to
+get into
+and in the
+end the
+community
+realized
+that the
+best
+approach
+for
+achieving
+security
+is what
+we call
+secure
+by
+design
+or
+secure
+by
+construction
+the
+properties
+by the
+design
+and the
+construction
+of the
+system
+and this is
+in contrast
+to the
+other types of
+defenses
+that i
+mentioned
+earlier
+which
+helps
+us to
+essentially
+get out
+of the
+cat and mouse
+scheme
+and also
+provides
+provable
+guarantees
+and the
+and
+through
+formal
+verification
+we can
+then
+formally
+verify
+that the
+system
+is secure
+through
+accessifies
+the
+design
+properties
+through
+verification
+and this
+also
+can be
+done
+at
+different
+levels
+including
+the
+design
+level
+where we
+actually
+have many
+different
+types of
+systems
+including
+micro
+kernels
+and
+file
+systems
+and
+compilers
+and so
+on
+that are
+formally
+verified
+however
+the
+issue
+for the
+systems
+is that
+it's
+extremely labor
+intensive
+to
+skillable
+my
+group
+in collaboration
+with others
+at
+open ai
+we were
+among the
+first
+to use
+deep learning
+for
+the
+improving
+and
+this
+was
+this
+work
+was
+done
+quite
+a few
+years
+back
+way
+before
+we can
+instead
+train
+ai
+agents
+to
+automatically
+proof
+serums
+and verify
+programs
+with this
+approach
+in conjunction
+with program
+synthesis
+which my
+group also
+has done a lot
+of work
+in the
+past
+was among
+the
+in this
+space
+as
+well
+and
+we can
+provide
+automatically
+proofly secure
+codes
+producing
+codes
+with proofs
+attached
+to it
+and
+with this
+approach
+we can use ai
+to build
+proofly secure
+systems
+essentially
+achieve
+secure by
+design
+or save by
+design
+and
+this
+can
+help
+us
+to
+solve
+certain
+classes
+of
+problems
+however
+it still
+has
+a number
+of open
+challenges
+first this type
+of formal
+verification
+approach
+mainly applies
+to
+traditional
+symbolic
+programs
+but it
+can be
+difficult to
+apply to
+non-symbolic
+programs
+such as
+deep
+neural networks
+and
+the
+self driven
+car
+doesn't
+drive over
+a pedestrian
+we don't
+even have a formal
+specification
+of what a pedestrian
+is
+and also
+in the future
+essentially all
+systems
+most of the
+systems
+will be
+hybrid
+they will be
+combining
+symbolic and
+non-symbolic
+components
+so formal
+verification
+and secure by
+construction
+So to conclude, as we all discuss and agree here, AI safety is extremely important.
+As we move forward with stronger capabilities of AI, it's paramount importance that we guarantee the safety of these systems.
+But however, there are still many challenges.
+It's important to consider AI safety in adversarial setting.
+And I think it can be very productive to develop methods using activation steering, representation control,
+to build as an important arsenal for controlling model behaviors.
+And also, finally, we hope that we can really develop new approaches and mechanisms
+to enable secure by design.
+For building secure AI systems with provable guarantees.
+Thank you.
+Thank you so much, John.
+Please stay on stage as we transition to our panel.
+We will wrap up our session on AI safety with a panel on AI safety research directions.
+For the other panelists,
+please kindly start with your questions.
+Thank you for coming up on stage as I introduce you.
+Also joining us for this panel is Dr. Shao Jing,
+head of the large model safety team at Shanghai AI Laboratory,
+where she leads many research projects on evaluating large model safety and value alignment.
+We also have Professor Yang Yaodong,
+who is deputy director of the Center for AI Safety and Governance at Peking University.
+Professor Yang studies AI alignment and reinforcement learning,
+among other topics,
+and has over 100 publications in top venues.
+Finally, we have Professor Zhang Zhuo Sheng,
+an assistant professor at Shanghai Jiao Tong University.
+His primary research interests include the safety and security of multimodal models and autonomous agents.
+He has published over 50 papers in top tier conferences and journals.
+Our moderator for this panel will be Duan Yaowen,
+who is the technical program manager at Concordia AI
+and a Future of Life Institute Ph.D. fellow.
+Yaowen researched AI safety at the University of Cambridge
+and holds a master's degree in machine learning.
+Let's put our hands together for our panelists.
+對,感謝主持人君怡。
+我們今天的第一個圓桌討論的主題是
+關於前沿AI安全技術的研究議程。
+其實今早我們看到Yosha Bendrell
+他有談到他簽討的第一份先進AI安全國際科學報告
+International Scientific Report on the Safety of Advanced AI
+其中他提到了通用型的人工智能可能帶來的濫用風險
+故障風險以及系統性的風險。
+同時他也介紹了當前的一些安全對齊方法的一些局限性。
+其實我們今天的第一個圓桌討論聚焦的就是這兩個問題。
+第一個問題其實是面向前沿大模型的AI安全技術存在什麼樣子的挑戰。
+當然還有第二個問題就是面向更強大的未來的
+通用人工智能甚至是全方位的超越人類的超級智能
+安全技術應該怎麼做以及如何避免失控的風險。
+那首先歡迎四位老師。
+然後首先我們想第一個問題想要探討一下就是當前的安全技術的一些挑戰。
+那Don Song老師剛才您有提到就目前的防禦方法還非常脆弱
+比如說像SFT或者RAHF還有對抗訓練的這樣子的防護不夠有效
+甚至容易被reversed甚至容易被逆轉。
+當然您也提到了就是representation engineering還有safety by design。
+那其實想要拋出這個問題來講,
+我們想要拋出第一個問題是您認為當前的這些大模型出現這些脆弱性的底層原因是什麼
+以及什麼樣子的技術的新方向會更加的本質。
+好的。
+那麼,再一次,這類型的安全穩定性等等。
+我所展示的那種技術是在展示這些模型對這些攻擊的非常敵人。
+而這些平衡模型也非常弱。
+它們可以很容易被破壞,
+無論是在監獄破壞或是其他類型的攻擊。
+我認為一件事就是,首先,我們其實不太清楚這些模型的功能。
+而在上個學期,我在伯克利教了一個課堂的課堂,
+叫做《理解大語言模式的基礎和安全》。
+而我所指的理解的原因是因為沒有人理解。
+對嗎?
+我認為,
+我認為這是一個問題,
+因為我們不太懂得這些模型的功能。
+而我們今天做的這些平衡模式,
+例如,透過RRIHF,
+我們可以說它們只是在表面上改變了。
+它們只是在表面上改變了。
+我們現在實際上沒有把它改變成正確的形狀。
+另外,
+我認為,
+正如我所說的,
+特別是,
+對於ARC50,
+我們必須要讓它對抗敵人的攻擊力更加穩定。
+所以,
+在科技領域中,
+其實攻擊力並不太容易。
+但是,
+例如,
+在畫面領域和其他模型中,
+它們的攻擊力更加容易。
+我認為,
+希望是,
+我們可以建立解決方案,
+以防止它們的攻擊力。
+因此,
+現在,
+當模型變成多模型時,
+我們可以更加明顯地對抗敵人的攻擊力。
+因為,
+作為一個多模型系統,
+我們可以非常容易對抗敵人的攻擊力。
+我認為,
+因為,
+我們現在,
+我們正在做的所有的工程,
+都是在改變在表面上的東西。
+因此,
+在我的講解中,
+我提到一些未來的方向,
+我們正在嘗試深入地去做這些。
+當我們通過表現控制,
+我們可以改變模型的行為,
+以及我們希望有一定的保證。
+並且,
+我們必須在更深入地解決問題,
+與以防止它們的攻擊力相比,
+我們可以在RHR上作出更多的改變。
+謝謝,
+當中的宋老師。
+目前的安全防護,
+防護還比較表層。
+接下來想要,
+也想要問一下,
+就是耀東老師,
+其實我,
+我觀察到您在不同的場合,
+都有講過,
+比如說,
+只做RHR是不足夠的。
+然後以及你近期的工作,
+其實也發現了,
+語言模型對抗,
+抱歉,
+抵抗對齊,
+還有逆轉對齊的一個現象。
+您也可以談一談你的看法嗎?
+對對對。
+那我就用中文說吧。
+就是說,
+其實剛才很多學者都觀測到了一個現象,
+就是說,
+語言模型它做完這個對齊以後,
+你其實可以用非常少的攻擊樣本,
+就可以讓它變得不安全,
+哪怕你做了很長時間的這個RHF。
+那,
+RHF的那個tech lead,
+John Schuman,
+他就發現一個現象,
+就是,
+當這個語言模型訓練得非常好的時候,
+它俄語上發現的這個錯誤,
+它只需要用30粒英語的樣粒,
+就可以讓俄語上犯的這個錯誤不再犯。
+然後這個問題呢,
+我們其實也進行了一個深入的思考,
+甚至我們就最近有一個工作,
+叫Large Language Model Resist Alignment,
+就我們在這個工作裡面,
+去研究一個特殊的這個現象,
+就是逆對齊的問題。
+就我們都知道,
+你在訓練一個語言模型的時候,
+你總有兩個階段,
+對吧?
+你先進行預訓練,
+預訓練完了以後,
+你再進行SFT,
+你再進行一個RHF。
+那在參數空間的話,
+你可以把這個語言模型的訓練,
+想像成一個拉橡皮筋的過程。
+然後你越往後拉,
+越往後拉,
+你的張力其實是越來越強大的。
+然後我們就發現,
+這個逆對齊的這個過程啊,
+就像你把這個橡皮筋拉到很後面,
+它不能在伸展的時候,
+你這個時候如果把它突然晃開的話,
+它bounce back的這個速度,
+要比你拉的這個速度要快很多。
+所以,
+我們就把這個現象,
+在這個語言模型的訓練的這個過程中,
+定義為逆對齊。
+什麼叫逆對齊?
+就是我在預訓練完了以後,
+我在做比如說10步SFT,
+那我在做第11步SFT的時候,
+我是不是會發現第11步SFT,
+回到第10步SFT的這個速度,
+要比我從第9步做SFT,
+到第10步SFT的這個速度要快。
+那我們發現這個逆對齊的這個現象是存在的。
+並且呢,
+這個逆對齊的這個現象呢,
+可能會符合我們,
+就理解橡皮筋的這個運作原理裡面,
+那個胡克定律。
+胡克定律講的是,
+一個橡皮筋的這個硬力啊,
+等於彈性係數乘以形變量。
+然後這個彈性係數呢,
+我覺得在語言模型裡面,
+我們發現的就是和模型的大小,
+還有預訓練的這個數據量有關。
+然後那個,
+那個形變量其實就是你離SFT,
+就是Protrain完的那個Policy的那個KO divergence,
+就是你越練,
+它的形變就越長。
+那也就是說,
+如果你把這個語言模型接著不停地往後對齊,
+往後練,
+你看著是讓它越來越安全了,
+但我們在這裡呢,
+在那個paper裡面,
+從理論和實踐上都證明,
+其實它逆對齊反而會更加容易。
+這也somehow可能從一些機制上能夠解釋,
+剛才雅琴老師啊,
+宋老師啊,
+都會提到的一個觀點,
+就是你越做對齊,
+可能它反向就越容易被攻破,
+並且你用的這個樣例,
+可能不需要很多。
+這我覺得是個非常有意思的現象。
+當然也揭示了我們未來可能下一步,
+對於如何更好地做安全對齊,
+做價值對齊,
+會有一些這個指導意義,
+對。
+也希望大家關注這個,
+我們組的這個主題,
+這個工作,
+就叫大圓模型,
+Resist Alignment。
+對,
+這個橡皮筋的這個類別,
+還是挺有趣的。
+對,
+其實剛剛我有注意到,
+當宋老師有談到那個,
+多模態大模型的一個,
+就是對齊的難度。
+其實我知道邵信老師,
+過去幾個月,
+您的團隊其實有發表,
+就是很多篇,
+關於多模態大模型,
+還有智能體的攻擊和評測的工作,
+比如說像SciSafe,
+還有Chef數據集這樣子的工作。
+那,
+其實就順著這個主題說吧,
+就是您覺得比如說像,
+對於GPT-4O這樣子,
+以圖片,
+視頻,
+語音,
+這樣子的連續空間裡面的數據,
+作為輸入的一些多模態大模型,
+在就是這個安全的方面,
+安全對齊的方面,
+有沒有什麼一些特殊的挑戰?
+對,
+這也是很好的問題。
+這確實是在去年年初,
+可能大家更多關注的,
+還是大圓模型本身的安全性問題。
+但是,
+因為我們團隊裡面有很多是原來做視覺的,
+還有一些化學科的同學和老師專家,
+然後大家會發現說,
+我引入了更多的信號,
+比如說圖像,
+視頻之後,
+它帶來的複雜度是急劇提升的。
+它帶來的安全問題也是跟以往的專語言大模型是不一樣的。
+比如說大家可能常說的語言模型裡的幻覺問題,
+其實在多模態的模型裡面也是有的。
+這兩者的區別是在於什麼呢?
+就是語言模型裡的幻覺問題,
+可能它的定義是稍微比較明確的。
+但是在多模態模型裡面,
+它有可能是本身視覺的分支,
+它跟語言分支的上下文的理解比較弱。
+所以它根本就沒有理解這個問題帶來的幻覺。
+也可能是視覺分支本身,
+現在它的grounding能力也比較差,
+所以帶來的幻覺問題。
+也可能是有偶合性的各種原因。
+你如果更多的模態之後,
+這個分解的複雜度就會變高很多。
+但是現在大家可能對這方面的研究還是比較初期,
+所以並沒有給出很明確的結論,
+或者是有一些更具象的分析。
+然後另外的話,
+我們其實今年年初的時候,
+在Gemini出來的時候,
+大概短期之內,
+我們就做了一個大概三個月的評測報告。
+這裡面包括了對Trustworthiness的一些評測,
+也包括一些泛化性的,
+還有因我推理的。
+因為我們相信說,
+多媒體大模型未來能夠用在的環節和產品應用裡會非常的多。
+那我們不僅關注它的可信的問題,
+也會關注它同時的泛化性的,
+還有一些推理的問題。
+這也同等的重要。
+甚至說,
+其他的這些能力可能會影響它本身的安全性的問題。
+所以未來的話,
+我們也會花更多的精力和資源在這方面的研究上。
+謝謝。
+對,謝謝邵靜老師。
+對。
+然後,
+其實我也想問一下卓昇老師的一些觀點吧。
+就是,
+我其實也有看到您之前有做一些多模態大模型,
+然後還有agents方面的一些安全方面的工作。
+然後,
+當然現在agents其實是特別火的。
+就是那些可以直接進行序列決策,
+然後直接操縱工具和API的一些智能體。
+那我之前關注到您的工作可能是,
+之前有一篇是叫Our Judge,
+然後是通過監測交互記錄的方法來識別自主智能體agents的一些風險行為。
+那如果討論到agent的安全的話,
+您覺得有沒有一些特殊的難點想要分享?
+好的。
+我就沿著邵靜老師剛剛提的這個多模態大模型這條線。
+就我們也在做,
+就是agent它有那種成NLM agent,
+也有那種基於Multimodal的agent。
+那麼我們就發現,
+其實這裡面一個核心的點就是在於,
+agent它是把大模型用在虛擬或者現實的環境中,
+讓它對這個現實產生影響。
+那麼從這個特點上來看,
+agent它就涉及到大模型與用戶以及環境之間進行的一個多輪動態的一個交互過程。
+那麼它跟傳統的大模型的安全一個重大的區別就在於,
+它是在一個真實環境裡面,
+那麼它的安全風險的來源就會涉及到用戶環境和模型本身,
+這三個維度的這個安全問題。
+然後而且它這個設計的,
+我們現在更強調的是一個通用的agent,
+那麼它所處於的這個環境也是多種多樣的。
+那麼我可以從這個環境中去構造相應的攻擊樣本,
+這是其二。
+第三個最核心的點就是在於,
+我智能體這個行為它不像我們靜態的AIGC的這個信息,
+智能體在這個交互過程中,
+它的這個後果我們往往是難以去預測的,
+我不知道它未來會產生什麼樣的後果,
+以及它現在的一系列的行為,
+未來會下一步行為會怎麼去做,
+那麼我們要去預測它未來的風險也會變得更加困難。
+然後結合這些問題呢,
+我們最近在AIGC的基礎上,
+我們也在做一些動模態的探索,
+就例如,
+現在大家很多人在關注,
+尤其是Apple Intelligence,
+我們希望去讓大模型接入我們的手機或者是電腦,
+來模擬人類的這個屏幕的操作,
+幫我們完成複雜的指令,
+那麼我們攻擊者呢,
+他就可以,
+一方面可以從用戶端,
+我們去構造各種對抗或者劫持的樣本,
+來影響這個智能體的行為,
+可以去對抗,
+我們也可以把信息植入到這個屏幕信息中,
+例如智能體在操作網頁,
+或者操作我的App的時候,
+我也可以在它讀取的這個環境裡面,
+去植入新的指令,
+那麼智能體它看到這樣的新的指令的時候,
+我們就發現在很多場景下,
+它就會受到新的指令的影響,
+而忘記它之前的行為,
+導致這種劫持的問題,
+那麼這就意味著我們攻擊者,
+它不僅可以在user端,
+像我們傳統大模型那樣,
+我去在user端去做對抗,
+我去攻破你的對襲,
+然後也可以在這個環境端,
+我去給你進行誘導,
+或者進行指令的植入,
+來影響你智能體的行為,
+從而對環境或者用戶這個利益造成損害,
+所以這個裡面就涉及到,
+這個三個方面的,
+就是多樣化的這個攻擊來源,
+變得比較有挑戰,
+而防禦方面的話,
+我們現在大家的主要關注點,
+都是在於大模型本身的這個對齊,
+但是呢,
+其實我們在智能體的這個應用過程中,
+我不僅需要大模型的對齊,
+我可能還需要一個外部的一個反饋,
+就是我只是大模型本身,
+它知道它行為安不安全,
+這是一方面,
+但是它這個行為過程中,
+我們是希望它是有效的,
+我是希望它能夠盡可能幫我完成任務,
+那麼隨著這個模型變得足夠強之後,
+它的任何求解能力足夠強,
+它去做任何事情,
+所以我比較主張的一個觀點,
+就是通過一個外部的一個監管機制,
+跟這個模型本身對齊來進行一個互補,
+我們去,
+所以這也是我們做ARJAS的一個初衷,
+我們去動態地去分析和監測,
+這個智能體的它的這個行為歷史,
+對它未來的行為進行預測,
+來預先預判它可能成長的安全威脅,
+然後給出一個安全的研判結論,
+把這個信息反饋給模型,
+讓模型基於這個反饋,
+利用它的這個學習能力,
+來進行這個反饋,
+讓模型自我的攜帶,
+從而實現一個安全的閉環,
+這個是我們做這些事情的一些基本的想法,
+對,謝謝周正老師,
+尤其剛你有提到智能體還有大模型,
+或者說大語言模型的兩個關鍵點吧,
+一方面是這個存在與環境和人類的用戶的交互,
+另一方面是這個影響尺度,
+impact horizon的這個區別,
+對,特別好,
+那剛才我們討論的都是,
+就是,
+可能現在存在的大語言模型,
+多模態模型,
+還有智能體的一些安全挑戰,
+那最後一個部分,
+其實也想跟四位老師,
+就是探討一下,
+未來有可能出現的更強大的通用人工智能,
+甚至是超級智能可能帶來的失控風險,
+那其實我注意到就是,
+邀東老師,
+還有當送老師,
+包括剛才在台上的雅琴老師,
+今年在今年三月的時候,
+在北京的頤和園,
+有共同參與簽署了一份,
+關於AI風險的一個共識聲明,
+那針對前AI的一些特定的危險能力,
+劃定了五條安全的紅線,
+那與,
+其中呢,
+與這個AI的失控風險強相關的一些紅線,
+包括,
+比如說自我複製與適應的能力,
+還有欺騙人類的能力,
+以及這個尋求權利的傾向,
+那其實接下來的這個環節,
+想要拋給四位老師的問題是,
+就您認為,
+就當前哪一些的,
+就是危險能力的研究判斷最為緊迫,
+以及對於一個,
+就是目前還尚未出現的一個未來智能,
+更強大的一個智能,
+什麼樣子的技術方向,
+我們現在可以做什麼樣子的技術方向,
+能夠去未雨綢繆,
+然後能夠去做一些準備,
+夭壯老師,
+你想先開始嗎?
+那可以,
+對,
+我們今年在年頭的時候,
+在頤和園,
+和國內外許多專家在一塊,
+我們在討論就是,
+因為英國有這個,
+布賴切利宣言嘛,
+然後,
+包括剛才結束的這個首爾會議,
+其實我們國家都參與了這個深度的討論,
+但是呢,
+可能在這個國內以中國的這個學者為主導的,
+這麼一系列的這個討論並沒有發生,
+所以我們在這個智源的領導下,
+也是請了一系列的這個國內外的這個專家,
+進行了一系列的研討,
+那然後一個比較有代表性的成果,
+就是劃定了一些更加具體的red lines,
+就您剛才所說,
+包括很多這個台下的專家,
+還有宋教授,
+都是我們這個red lines的這個簽署者,
+那其中排名第一的這個風險,
+就是這個自我複製的這個問題,
+其實這個問題,
+我認為可能目前,
+還是有一些這個低估的這個趨勢,
+就是剛才Yoshua的那個PPT裡面,
+有一頁其實講得非常好,
+就是對於這些評測能力級,
+我們是能看到隨著年份的往後增長,
+他這個學習的這個曲線呢,
+這個寫率其實是越來越大的,
+那我認為現在可能原模型發展的一個趨勢,
+可能,
+如果拿AlphaGo類比的話,
+還停留在這個第一階段是吧,
+就是這個supervised tuning的這個階段,
+學習人類的這個數據,
+那你一旦往後進行這個self play,
+和reinforcement learning,
+pure reinforcement learning,
+就是self improve的這個階段,
+他可能這個能力的提升,
+會somehow,
+可能就突破了某個threshold,
+就是突然往上走,
+因為你從圍棋這個非常huge的這個space的探索來看,
+我們也是有AlphaGo,
+AlphaGo Zero,
+和AlphaZero,
+其實我們在做AlphaGo的時候,
+你也不能預見到後面兩個版本,
+它有那麼大能力的這個提升,
+我覺得這個self improvement這個事呢,
+可能和這個發現會比較有關係,
+那從學術研究的這個角度上來講,
+我們確實發現,
+現在已經有非常多的這個self play,
+RHF,
+RLAIF,
+確實能夠在某種意義上,
+提升模型的能力,
+無論在數學還是代碼能力上,
+那可能加以更大的這個算力,
+和更高效的這個自博弈的這個機制,
+尤其是在人類語料用盡之後,
+是不是能夠通過自博弈的這個方法,
+進一步提高語料的這個質量,
+進一步提升訓練的這個難度和有效性,
+那如果這個問題能被突破的話,
+那可能我們所謂的這個自我複製的,
+和self improvement的這個風險,
+確實能變到一個具體看得見的這麼一個風險,
+所以我們在這個想這個red lines的時候,
+就是把這一條給它放進去了,
+然後後面其實還有一些風險,
+像deception,
+還有什麼,
+還有一些這個misuse相關的這個風險,
+那個其實我認為可能相比於abuse,
+更多的是在misuse這個階段,
+那那個可能需要更多的這個國際的對話,
+國際的這個治理,
+那我相信北京的AI安全共識,
+也是在往這個方向去進行一個推進,
+包括我注意到我們WAKE大會,
+今年上海也發佈了上海市政府的,
+這個人工智能國際治理倡議宣言,
+也是希望能夠在這個國際的這個合作上,
+能夠推動進一步的合作,
+我認為這個方向都是非常好的。
+好,謝謝耀東老師。
+對,另外三位老師,
+誰想先開始?
+OK,
+I can add to that.
+I think,
+right,
+so today,
+even though the large language model is already very powerful,
+but we know that it's still,
+actually,
+we are still at the early stage.
+So,
+I think,
+and the next step already people are talking about,
+so for example,
+like having embodied intelligence,
+being robots,
+with these foundation models,
+essentially,
+so right now,
+we are still just training,
+we have the pre-training phase,
+like for large language models,
+and then we,
+right,
+and then we do inference and so on,
+but in the future,
+as we do embodying intelligence,
+and also as we have agents,
+that's actually going to act,
+in environments,
+we are going to have more of a closed loop,
+where the agents,
+take inputs from the environments,
+and then,
+and then try to make decisions,
+and then get feedback,
+and then use that feedback,
+it can then,
+help itself to further improve,
+do self-learning,
+do continuous learning,
+and so on.
+So I think,
+as we get into this,
+more of this approach,
+then,
+essentially,
+we are,
+how to put it,
+essentially,
+we are making the learning,
+also into the next stage,
+and I think what we are concerned about,
+it's for example right now,
+even though with large length models already,
+you can say,
+the model can try to,
+when you give the task,
+it can,
+if you tell it to think step by step,
+it can also,
+break down a task into,
+different sub tasks and goals,
+but,
+still that's,
+now it's a very strong capability,
+but in the future,
+as these agents,
+become more autonomous,
+and also,
+become more powerful,
+in particular,
+for a given goal,
+it's going to be able to,
+break down into sub goals,
+and then,
+figure out what's the best way to,
+to accomplish these sub goals,
+that's where we are also worried about,
+like this paper clip,
+have our problems,
+where it can,
+derive these,
+these dangerous sub goals,
+that's actually not well aligned,
+and so on,
+and then,
+and then in this case,
+right,
+it could have other sub goals,
+including,
+right,
+how it can get more power,
+and then,
+how it can deceive,
+humans or others,
+to get more power,
+and then,
+and then how it can self,
+replicate,
+to sustain,
+and,
+itself,
+and,
+and so on,
+so,
+so also,
+right,
+as,
+as you mentioned earlier,
+I think the,
+right now,
+so we are not seeing,
+these capabilities,
+yet,
+but the first is really important,
+that we develop methods,
+to do early detection,
+right,
+so like a canary,
+and so on,
+but also,
+the other thing is that,
+these type of behaviors,
+the moment you see it,
+it's very possible that,
+the time duration you have,
+is very,very short,
+you can think about it,
+right,
+basically,
+the moment you see it,
+it probably is already,
+it has already started,
+the self-improvement cycle,
+right,right,
+and as we know,
+as it gathers more computer power,
+and so on,
+the self-improvement cycle,
+can go really,really fast,
+so I think this is the challenge,
+and for a lot of people,
+who don't work in,
+frontier AI safety,
+they,
+I think,
+the thing that they miss,
+is even though they can say,
+that's why earlier,
+also you have to mention,
+a lot of people say,
+oh,you know,
+we don't need to worry about it,
+these risks are,
+are very far out,
+but I think those people,
+what they don't recognize,
+is that the moment you see it,
+it could be already too late,
+so,
+so I think these are the challenges,
+that we need to address.
+對,
+謝謝當桑老師,
+剛才說到了,
+這個early detection,
+其實我們,
+下一個,
+session,
+其實就是講,
+evaluation,
+AI safety testing,
+所以後面,
+也可能有一些,
+講者會有一些,
+更多的insights,
+對,
+另外,
+就是,
+對於剛才這個問題,
+邵靜老師和周生老師,
+想要,
+也評論一下嗎?
+我,
+剛才幾位老師,
+已經說得非常全面了,
+我可能就有一點,
+小的感受,
+就是,
+其實剛才,
+周生老師也講到說,
+agent 在很多,
+場景裡面,
+跟 environment 有這種交互,
+然後在應用的環境裡面,
+它受到很多因素的影響,
+就不只是,
+本身模型自己的安全性問題,
+感覺這方面的問題,
+未來也會非常的,
+這個凸顯,
+然後,
+比如說,
+像我們實驗室裡面,
+不僅,
+我們整個實驗室做AI的嘛,
+然後裡面也有很多做,
+AI for science 的專家老師,
+那在這個science學科裡面,
+其實現在AI的滲透,
+也會越來越強,
+那在這裡面相關的研究,
+其實現在並沒有做的特別多,
+然後大家可能更關注,
+這個AI在一些,
+這個比較,
+跟我們平時日常生活,
+接觸比較多的,
+這些環境裡面的,
+安全性問題,
+比如剛才提到的,
+濫用問題之類的,
+那我們可能也會,
+同時去呼籲大家關注一些,
+在這種特定領域的,
+或者是在垂直領域的,
+這些安全性問題,
+未來這方面的,
+這個,
+就可能帶來的,
+這個危害影響也會更凸顯,
+就做這一點補充嘛,
+周正老師,
+好的,
+我也是沿著邵俊老師,
+繼續補充一下,
+其實我目前一直關注的,
+就是大模型智能體的,
+它在這個開放環境中,
+這個行為交互的安全,
+就現在一句話說,
+就是這個意思,
+在這個行為交互過程中,
+它的安全問題主要是體現在,
+我們現在都傾向於把大模型,
+用到工業控制,
+把它用到科學研究,
+以及我們現實的,
+這個用戶的,
+這個生活場景之中,
+那麼在這個裡面,
+它就會涉及到,
+剛剛提到的一系列,
+它被濫用,
+或者被劫持,
+可能會對環境造成影響,
+可能對用戶造成損害,
+那麼在這個過程中,
+我們要去確保它的安全,
+它就需要非常,
+需要一系統的這個解決方案了,
+它不僅僅是在於,
+大模型本身的,
+我們用戶,
+就是以ARGC內容為主的,
+這種內容安全相關的這些研究,
+怎麼去提升模型本身的,
+這個安全性,
+這是一方面,
+但是第二方面,
+我們還需要一套,
+非常完備的這個監管模型,
+我們需要去動態的去監測,
+這個智能體的這個行為過程,
+它是否會帶來一定的損害,
+對它進行有效的研判,
+然後第三個是這個,
+當宋老師一直提到的,
+關於這個系統的紅線的問題,
+就是我們對於傳統安全裡面,
+我們有一系列的這些,
+安全的問題,
+我們需要一個動態的規範,
+我們怎麼把大模型的這個,
+通用性跟這些安全規範給結合,
+然後實現一個自動化的一個,
+監測,
+這樣的話,
+一方面能節省我們做這個,
+網路安全監測的一個效率,
+另一方面也能,
+把大模型的這個,
+通用性給發揮出來,
+實現更加廣泛的這個,
+用途,
+當然在這個,
+總體過程中呢,
+其實我們,
+現在都是傾向於,
+從大模型本身來做,
+但這裡面還有一個很重要的點,
+就是剛剛提到的,
+這個動態的檢測,
+我們需要一個,
+Active的一個,
+一個檢測過程,
+而不是說,
+等模型行為做完了,
+這時候我再檢測,
+那麼可能這個時候,
+危害已經造成了,
+我們是很難去彌補的,
+所以從技術上,
+我認為其實是分成,
+我覺得一個非常,
+從這個方向上,
+我覺得非常重要的一個點,
+就是在於,
+智能體在開放環境中的,
+這個行為安全問題,
+然後技術上,
+可能我們需要,
+從大模型本身的,
+內設安全,
+然後以及這個,
+行為交互過程中的,
+這個動態檢測,
+以及網路安全的,
+這個系統紅線,
+等三個,
+各個方面進行,
+這個系統性的,
+這個防禦,
+然後技術手段上,
+我們不僅包括,
+現有的各種靜態的手段,
+還需要一些主動的手段,
+來進行,
+這個約束,
+然後這個是我的,
+一些這個觀點,
+對,
+謝謝卓尚老師,
+那由於時間關係呢,
+我們今天的第一場,
+原著討論,
+可能在這裡就結束了,
+就是也特別感謝各位老師,
+今天的精彩觀點,
+那我們請各位老師,
+返回前排就座,
+我把時間交給主持人君怡,
+感謝您的參與,
+謝謝,
+謝謝,
+謝謝,
+謝謝今天讓我們,
+帶來的評論,
+和評論中的評論,
+我們很 Elli,
+很感激,
+有很多分別,
+讚評評論,
+而且,
+我們也很感激,
+看看對比上次的評論中,
+的評論也是很關鍵,
+但在我們今天討論的,
+我們希望大家,
+可以相當明白,
+我們今天,
+正在對比上次的評論,
+也有一個很關鍵的,
+就是我們 encima的評論,
+視察考試,
+在波爾西亞的評論中,
+我們都將去到的,
+就是研究調查功能的,
+我們本場前,
+發現說,
+on AI safety testing
+Now we will hear from Dr. Chris Messerol
+Dr. Messerol is the Executive Director of the Frontier Model Forum
+a non-profit established by Anthropic, Google, Microsoft and OpenAI
+to advance frontier AI safety
+He is an expert on AI governance and security
+and is currently focused on developing best practices
+for the responsible development and deployment
+of the most advanced general purpose AI systems
+Chris previously served as the Director of the AI and Emerging Technology Initiative
+at the Brookings Institution
+Chris, it's great to have you here
+I'll hand it over to you
+Thank you, it's a pleasure to be here
+It's wonderful to be able to speak with you today
+As was just mentioned
+I run an organization called the Frontier Model Forum
+It's an industry supported non-profit
+dedicated to advancing frontier AI safety
+We have three kind of core missions
+One of which I'll get into
+which is developing best practices
+The other two are advancing the science of frontier AI safety
+and the third is information sharing about what we're learning
+which is again part of why we're so excited to be here today
+I thought I might begin
+with just laying out
+a little bit
+what frontier AI is
+and why it's so challenging to deal with
+and then kind of walk through a couple of
+some early thinking that we have
+about how to think through
+what types of evaluations to run
+and what are some early best practices
+that in discussions with our expert members
+the safety experts within our member firms
+what they're seeing and thinking about
+and how they're beginning to approach some of these issues
+So just to start with
+I think when we say the phrase frontier AI
+what we're generally referring to
+is the most recent generation
+of advanced general purpose AI technologies
+So what we're thinking of
+are not narrow AI applications
+for specific things like
+lending algorithms
+or facial recognition technologies
+We are thinking about general purpose AI systems
+and we're thinking about in particular
+just the most recent generations
+So on this chart you can see that
+because of the way
+that we're scaling up these systems
+generally speaking
+we're kind of doing a
+you know 10X in terms of compute
+every couple of years
+to come up with a better class
+and generation of model
+for general purpose systems
+We are primarily focused on
+the most recent generation
+of frontier AI systems
+And if you want to see more about this
+we have an illustration of this on our website
+But what this means
+why this is so important
+is that we expect the challenges
+that we are dealing with
+to evolve over time
+The frontier is going to be consistently changing
+As you can see
+this is a stylized graph
+but some of the graphs
+that we saw earlier this morning
+saw a very clear slope line
+almost exponential curve
+of increase in capabilities
+We are focused on
+just the most recent generation
+because we want to understand
+we want to develop early best practices
+for dealing with the most advanced models
+at any particular moment in time
+And the reason
+that we're focusing on this
+this is so important
+as was alluded to earlier today already
+the reason this is so important
+is the ability to grok certain capabilities
+And we don't know how to predict
+when these models in a training run
+are going to acquire or develop
+particular capabilities
+We don't have a good way
+as Professor Song alluded to earlier
+We don't have a good way
+to understand the systems ex ante
+which makes it very hard to understand
+how to build them safely
+and effectively
+And I would say
+the last point I would say is
+we expect the frontier to continue developing
+as these systems move from just chatbots
+to things that are a little bit more
+agentic in nature
+this challenge of assuring
+the safety of these systems
+is only going to become more important
+because the systems we're building
+will interact more and more with the real world
+in ways that have potential consequences
+for public safety and security
+which is what our organization is focused on
+So as I mentioned
+I'm just going to walk through
+a little bit
+some of our early thinking
+that's been developed in kind of conversations
+with different safety experts
+and the member firms that we have
+about how to structure evaluations
+what kinds of evaluations to run
+and then some early best practices
+These are very high level
+descriptions
+that we'll be talking about
+I would also say the terms themselves
+may vary but it's really the concepts
+that I want to share with you today
+we can have more
+engagements and interactions over time
+to begin as a field
+to develop best practices
+when it comes to even just talking about
+the types of evaluations we need to run
+to assure the safety of our system
+so the first phrase
+is I think at a very high level
+there's two very general kinds
+of evaluations
+or risk assessments
+one are red teaming exercises
+another are more automated evaluations
+red teaming exercises
+tend to be very manual
+and kind of
+there's work going on to try and explore
+how to automate some of the red teaming exercises
+but generally speaking
+there are manual ways
+of leveraging human expertise
+to probe the capabilities
+of a particular model
+evaluations in contrast
+tend to be things like benchmarks
+or other automated forms
+of exploring the capability profile
+or the risk profile of a particular model
+we think it's important to distinguish
+exactly what you're talking about
+when you're talking about
+how you're assessing the risk
+or safety of a system
+and this is just one general high level class
+of distinction
+within the evaluations
+of frontier models
+there's really two
+I think core types of evaluations
+that we want to run
+one are performance evaluations
+and the other are safety evaluations
+performance evaluations
+are critical for understanding the general
+capabilities or
+other capabilities that a model might have
+that allows us to understand
+in some ways how best to test it
+for particular risks etc
+but a performance evaluation
+is really designed to just
+capture and identify
+and assess the performance
+envelope of a particular system
+again these evaluations
+are incredibly important
+because we don't know ex ante
+how to define
+the ex post capabilities of a model
+before we train the model
+what it will be capable of on the back end
+so we need to be able to do performance evaluations
+the other kinds of evaluations
+are safety evaluations
+and there you're not necessarily trying to understand
+just what the performance threshold
+or performance envelope of a system is
+you are specifically looking for
+particular risks
+and the ability of a model
+to exhibit behaviors that would give you
+that is capable of
+behaving in unsafe ways
+um
+as far as kind of different types of
+safety evaluations
+there's really two
+safety classes of safety evaluations
+that
+will start to see
+being developed and run
+in model development
+one are developmental evaluations
+and another are assurance evaluations
+developmental evaluations
+what we're referring to here
+are really the kinds of evaluations
+that firms will run
+or the developers of a large scale
+system might run
+at different phases in its training cycle
+just to kind of benchmark it
+to see how it's doing with respect to certain
+kind of safety risks
+that's different from a full on
+assurance evaluation where it's not necessarily
+the team that's developing the model
+instead it's a team that's
+kind of tasked with assuring
+the safety of a system they have independent expertise
+from the team that's developing it
+and they are
+their goal is really to assure the safety
+of the system and to
+develop evaluations
+that are capable of assuring the safety
+of a system in some way
+which is a little bit different than the kind of
+life cycle development
+safety evals that might happen
+just at different check marks in the
+development of the model
+then the last kind of
+in my view probably the most important
+distinction here is
+within assurance evaluations
+so the evaluations that are meant to try
+and assure the safety of a system
+within that category
+as we're thinking about
+trying to evaluate
+models for safety
+we really need to be evaluating
+the safety and assurance of these systems
+for you know one way of
+thinking about it is maximum capability
+of the system another is like
+how it's used in the real world
+I would say a different way of
+defining this last category
+is we need to look for
+assurance evaluations
+that are designed to try and capture
+the riskiest behaviors at the tail
+distribution of the model
+like some of the behaviors that
+are you know most capable
+or most extreme from a particular risk
+that wouldn't necessarily
+be compressed into kind of the average
+or mean behavior we wouldn't be able to get
+a lot of information about those kinds of
+tail risks from
+more typical user behavior
+with behavioral evaluations
+I think the goal is more to try
+and understand what is the average
+behavior or mean behavior in general
+with some of these models and how do we assure
+the safety of the system
+and the safety of the system
+even within that kind of mean behavior
+again this is kind of early thinking
+we'll probably evolve over time on this
+but this is just a little bit
+of how we're thinking about
+some of the different evaluations
+at this moment
+relatedly there's some
+there's also the question about
+what to do as you're setting up
+an evaluation and a red teaming
+whether it's a red teaming exercise
+or a broader evaluation
+there's a wide array of evaluations
+for specific risks
+but there's also a set of
+just best practices for any kind of
+evaluation you're doing
+regardless of the risk
+so it doesn't matter whether you're
+looking at bio risks or cyber risks
+things like that
+or it could be societal risks
+that you're looking at
+if you are developing a system
+or an evaluation rather
+of a frontier AI model or system
+there's some I think important considerations
+this is just a sampling
+of some of the early thinking
+we have about high level best practices
+there's a few that I want to
+call out specifically
+one is we need evaluations
+to account for prompt sensitivity
+I think any of the engineers here
+who have worked with these models
+and tried to get them to behave
+in stable ways
+will recognize that the specific wording
+of different prompts
+will oftentimes lead to different results
+and what we're really trying to do
+is capture
+their kind of risky behavior
+which means we need to explore
+different wording
+choices or configurations of prompts
+to be able to get at whether or not
+it has a certain capability in general
+an example of this would be
+if you're trying to
+if you're worried about
+say like
+malicious uses of a system
+for example
+you don't want to just ask the system
+how do you build an explosive
+you also want to test for
+can you describe the chemical process
+by which
+dynamite releases energy
+something like that
+you need to have multiple ways
+of asking for the same thing
+at least two other kind of
+things that I want to call out
+just very briefly
+one is as you're developing
+these evaluations
+you need to evaluate both the model
+the underlying base model
+as well as the end system
+for a lot of evaluations
+we'll target one or the other
+but we need to do both
+it's not just the underlying model
+that needs to be evaluated
+because in many cases
+that's not what is exposed to the end user
+usually what is exposed to the end user
+is the overall system
+and we need to be able to test that
+as well as the underlying model
+another
+really important
+best practice
+I guess I'll walk through them just briefly
+we're evaluating both normal
+or typical behavior use
+and adversarial use
+as I mentioned on a prior slide
+we do want to evaluate the systems
+for kind of typical behaviors
+and the safety that they might exhibit under that
+we also want to evaluate for adversarial use
+this is something that a lot of developers
+won't instinctively necessarily do
+as they're trying to
+rush to get a product out the door
+but it's very important to evaluate adversarial use
+Professor Song just had a
+really great explanation of some of the kinds of
+adversarial use cases
+that you need to be paying attention to
+the broader point though is
+if you are developing frontier AI systems
+it's not enough to just focus on
+I think I'll end on
+because I think it's probably the most
+important best practice
+that we are starting to converge on
+as a field in AI safety
+when it comes to evaluation design
+it is vitally important that you understand
+what the baseline is
+that you are evaluating a system against
+and what I mean by that
+for example if you want to evaluate
+a system for biological risks
+for example
+can this system inform or help
+someone design a bioweapon
+or some kind of dangerous pathogen
+you need to evaluate it
+not just for the
+what kind of information the model itself has
+you need to evaluate it against
+the kind of baseline application
+that would be used in the absence
+of whatever model you are testing
+so in many cases that would be
+for example web search
+should not just be kind of
+absolute understandings of risk
+but also you know
+relative or marginal risk
+compared to the counterfactual application
+that might be used for whatever
+application you are developing
+that is a very brief kind of
+high level overview of
+how we are thinking about some of the
+early best practices for just
+evaluations in general
+information and communications
+technology
+Direct Away has led the development
+of multiple industry standards in China
+including the country's
+first big data benchmark standard
+he has participated
+in the drafting of several
+major national policies
+including
+中文來講解一下
+那麼我希望
+各位外國朋友
+能夠通過同船
+能夠很好的get到我的
+主要的意思
+那麼今天
+跟大家分享一下中國信息
+研究院在人工智能
+尤其是大模型評測
+安全評測方面的一些
+思考和實踐
+三個方面的內容
+一個是我們怎麼認識
+人工智能大模型面臨的
+風險這個risk
+到底是在哪些維度上
+另外第二個方面是
+我們基於這些
+對於風險現有風險的
+這個認識一直在
+推動建設
+benchmark safety benchmark的這個
+framework
+並且按季度去開展
+這個評測的活動
+希望通過這個實踐
+不斷的促進大家
+來提升模型的安全水平
+最後也是
+再分享一下其他
+有關如何保障
+人工智能負責任發展
+安全方面的一些相關的工作
+那麼現在大模型
+實際上是一種數據驅動的路線
+那它在
+skilling law上
+這個skilling law的延長線上
+一直在發展
+決定著模型能力的
+這個前景
+主要靠的是
+算力和數據
+那麼這個大家都非常清楚
+那實際上在
+這幾年
+我們可能所有人
+基本上所有人都認為
+skilling law可能還會延續
+但是skilling law的問題就在於
+它的表現具體是什麼樣
+缺乏
+非常清晰的認識
+而且控制能力是很弱的
+不像
+五十年代六十年代的
+基於規則的人工智能模型
+他們是
+我們設計者可以很好的去控制
+模型的行為和輸出
+但是在
+基於數據驅動的
+尤其是大模型的時代
+模型的表現很多時候是一種
+現象學的範疇
+所以很難在
+內生機制上去
+完全做到避免風險
+那麼這幾年
+大家對於這個
+人工智能尤其是前沿模型
+剛才Chris已經講得很清楚了
+前沿模型大家非常關心
+它的水平的進步
+同時也關心它可能潛在
+蘊含著什麼樣的風險
+那麼我們基於對於
+各類
+研究的成果的
+分析我們認為其實
+可以用這樣一個金字塔來表現
+我們對於
+人工智能尤其是大模型的
+風險的認知
+幾個層面分成兩個維度
+一個維度是自身
+它的內生的
+安全問題
+那包括了模型的
+參數還有數據
+計算系統以及網絡
+還有應用系統的
+這個
+security層面的安全問題
+那麼上面一個層次就是
+對於個人對於國家
+對於全人類
+在應用人工智能的時候
+可能引發的
+衍生的應用層面的風險
+我們如何去控制好
+那麼最宏觀的可能是
+我們人類在人工智能面前的
+位置在哪裡
+我們全人類的共同的命運
+那麼再往下就是
+國家安全
+經濟安全
+社會供應鏈的穩定
+人口就業以及個人信息保護
+等等吧
+這個risk實際上是多維度的
+所以這個討論人工智能的
+安全風險往往是一個
+多學科交叉的
+那麼需要去共同去
+更清醒的認識到
+這個安全的風險在哪裡
+再舉幾個具體的
+最具體的一個例子
+那麼以大模型為例
+其實現在媒體上對於大模型
+應用過程中暴露的各種風險
+報道也越來越多了
+包括在內容
+風險方面
+那麼可以看到這個
+虛假信息
+deseinformation
+其實是非常普遍了
+而且這個也是困擾
+不管是中國還是
+國外監管部門
+非常重要的一個問題
+那麼還有就是數據風險
+那這裡面臨的我們的提示詞
+可能會暴露
+機構內部的一些信息
+這樣的風險以及這個
+算法可能會被
+用提示攻擊
+或者其他手段來
+從裡頭提取敏感信息的
+這樣一些攻擊手法
+這個一直在翻新
+而且也是層出不窮的
+那麼不管是宏觀
+還是微觀層面
+其實我覺得現在大家對於
+人工智能的探討
+人工智能安全問題的探討
+已經非常的充分了
+最上面是聯合國層面
+對吧
+古特雷斯秘書長
+在非常多的場合在談
+那麼聯合國也成立了
+非常好幾個機構
+那麼包括這個
+UNESCO ITU等等
+在討論人工智能的治理問題
+安全問題
+那麼各個國家其實也在行動
+我們看一下具體的
+整體上感覺
+人工智能的安全風險
+治理正在從
+原則走向實踐
+那麼大家對於一些
+基本的原則
+比如說以人為本智能向善
+比如說要保證它的公平
+非歧視
+這樣一些原則
+大家沒有分歧
+那麼國際社會包括各個國家
+其實也都在把這些原則
+正在轉向
+具體的操作
+那麼這些操作可能會落到
+具體的很多方面
+比如說一些
+這個國際
+規則的制定
+那現在聯合國
+剛才說了聯合國教科文
+ITU等等這些機構在牽頭
+這個國際規則的設定
+那麼各個國家也在
+出臺相關的立法
+那麼
+另外一個再具體的一個
+就是轉化成標準
+那麼把原則固化成
+一些能夠成文的
+技術性的要求來
+便於這些企業去遵從
+還有一個更具體的就是
+有了標準以後
+還需要去驗證這些標準的遵從情況
+那麼在企業側
+可能還需要去
+研發很多的技術工具
+來提升保障
+這個安全的
+水平 所以我們看到
+美國 英國 歐盟 新加坡
+還有中國
+都在採取這幾個
+層次的具體舉措
+把人工智能的治理
+從原則推向實踐
+那麼
+總統院作為一個智庫
+和行業平臺我們也在
+投身於這樣一個
+促進人工智能治理
+從原則走向實踐過程中
+我們也貢獻我們的力量
+今年年初我們和國內
+三十多家單位
+數據集還是比較豐富的
+我們有五十多萬條的
+題目
+圍繞著
+在全球共識的
+要求上
+以及符合中國本土
+法律法規的要求
+這兩個維度上
+來開展評測數據集的建設
+那麼另外一個就是
+我們也密切跟蹤
+前沿發展
+為什麼
+我們是季度性的去做這個事情
+因為人工智能的進展
+可以說是日新月異
+所以我們會季度性的
+調整我們的Benchmark的數據集和方法
+不斷地提升
+跟進前沿模型的
+演進的步伐
+另外我們還是特別關注
+用戶是怎麼想的
+關注現實的風險
+比如說金融 政務 醫療
+這些行業他們的
+擔心是什麼
+目的實際上是希望能夠
+通過這種評測
+讓這些行業用戶放心
+能夠勇敢地
+去使用先進的人工智能技術
+但是前提是
+保障安全的前提下
+那麼在
+2024年的4月份
+我們發佈了第一版的
+AI Safety Benchmark的
+結果
+這個結果是基於我們
+左邊這樣一個框架
+來做的
+大體上分為三個方面
+一個是內容安全層面的
+要求
+這就包括了
+法律明令禁止的一些
+內容的輸出
+比如說涉黃 涉爆
+賭博 欺詐 危險化學品 生物武器
+這些內容的管控輸出
+另外就是
+數據安全
+也包括了個人隱私和企業機密的
+可能被提取的
+這樣一些特徵
+個人信息和商業秘密
+還有最上層是
+科技倫理
+這裡頭就包括
+價值觀 心理 健康
+AIE 使工序良俗
+辱罵 誘導
+這些問題的應對
+他們是如何
+評分能夠得到八九十分
+這個水平還是可以的
+但是問題就在於
+拒達率偏高
+這樣會造成
+很多
+用戶體驗不是特別好的
+同時這也表現
+通過
+具體的攻擊手法
+這個攻擊手法
+也是我們能收集到的
+市面上
+學術界包括
+社區暴露出來的
+最新的攻擊手法
+包括我們自己測試中發現的
+攻擊手法來測試這些模型
+包括提示式攻擊
+誘導攻擊 越獄攻擊
+內容泛化攻擊和其他的攻擊手段
+那麼數據集也相應的
+做了擴大
+底線紅線 社會倫理和數據洩露
+還有一些其他的
+安全保障措施的測試
+應該說是一個更加全面的
+這個體系是一個
+正在演進的
+這個過程要跟上這個節奏
+那麼Q2的這個評測數據集
+也比較大 那麼我們有600多條
+提示詞的模板
+那麼有60多種攻擊手法
+3.6萬條的這個
+攻擊樣本
+每次從這3萬多條裡都抽取
+4千多條來做測試
+那麼測試完了這個數據
+就淘汰了
+避免大家去刷題和作弊
+那麼目前我們
+Q2的這個結果也已經
+初步的出來了
+那麼可以看到這個
+大家在這個
+原始輸入的攻擊成功率
+就是我們
+不用提示詞攻擊手法
+來做這個提問的話
+它的攻擊成功率還是比較低
+也就是反過來說
+1減這個比例就是
+它的這個得分
+但是我們加入了很多
+提示詞攻擊以後的
+成功率就顯著提高了
+也就反向的代表著
+可以有很多的
+手法來繞過這個
+模型的護欄
+所以整體上來看
+我們目前是模擬了
+最近發生的
+安全攻擊的各種手段
+來
+更好的來看待
+我們模型安全的水平
+大模型的安全測試是
+中國新通院在人工智能安全
+方面的一個實踐 具體的實踐
+除此之外我們也希望能夠
+系統化的去推動人工智能
+可信發展
+那麼就在
+2021年的時候
+上海世界人工智能大會
+我們發佈了全球首個
+可信人工智能白皮書
+這個是跟京東探索研究院
+一塊發佈的 陶達成院士
+那麼當時的思路是
+過程管理
+就是要人工智能要保障安全
+除了你要求它
+結果以外 還要管好
+它使用的
+流程 所以過程管理
+我們認為是非常重要的
+所以在那一年的白皮書裡頭
+我們就提出來如何在
+這個
+各個 包括G20
+包括很多原則的指導下
+我們怎麼在企業各個環節
+落實這個原則
+23年
+到現在我們認為
+結果管理也非常重要
+就是我們參考了像OpenEye
+和Anthropic 他們做
+這個安全模型的
+這個分級分類
+那麼把風險分成
+不同的類別和等級
+那麼我們我覺得這個也是
+特別有借鑒意義
+所以也在推動從過程管理
+走向這個
+結果管理 效果管理
+那麼基於風險
+定級的這樣一個管理手段
+所以這個其實
+我們希望通過這樣一個方法論
+來讓企業界
+讓產業知道
+他應該怎麼去做
+是一個最佳實踐
+那麼同時我們也在制定這個Benchmark
+包括Benchmark在內的
+這個坐標尺
+因為如何 如果沒法度量
+就沒法改進 所以這個
+測試是非常關鍵的
+除了這個大模型的安全測試以外
+我們也在做這個
+人臉識別安全
+還有這個算法安全
+等等這些安全的這個測試標準
+測試能力
+以上我們也在建設這個
+龐大的這個數據集
+包括人臉和其他的一些
+這個這個測試級
+能力的建設
+一直在持續的跟進
+那同時這個
+這個大模型的內容安全
+就是包括內容安全
+他如何去測出結果以後
+如何去增強
+我們現在也在基於我們
+掌握的這個
+我們建設的這個三百多萬條關鍵詞
+五十多萬條提示詞
+來訓練我們的
+安全測試的
+這個模型
+那麼未來希望通過
+參數的方式提供給
+這個模型廠商來加固他們的
+模型能力
+那麼我覺得
+安全其實很重要還有一個就是
+信息真實性的保障
+信息真實性如何保障
+我覺得要靠很多方法
+其中一個方法就是水印
+這個watermarking 是吧
+對於水印以外可能現在
+比如說圖片裡頭有
+C2PA的這個標準
+Adobe他們發起的
+那麼還有其他的一些方式
+其實也都在探索中
+綜合來看我們也希望能夠建立一套
+對抗deep fake
+來保障
+內容真實性的一套技術的方法
+包括水印
+我們現在也開發了水印的
+隱世寫入的算法
+也提供這樣的一些API
+供這些企業也可以使用
+整體上
+我就利用這麼一個時間
+跟大家分享
+我們的一些實踐
+希望跟大家繼續交流
+也感謝會議邀請我來跟大家分享
+謝謝
+謝謝
+各位專家
+領導
+各位同仁
+大家好
+很抱歉喬老師還在趕來的路上
+我就先來做個開場
+待會喬老師來了之後
+會給大家繼續做這個分享
+我們今天講的這個整體
+是根據喬老師作為一個
+親歷者和領導者的視角
+去回顧實驗室在做大模型
+包括能力安全
+整個路線上的一些感受和一些觀察
+整體來說會分四個部分來講
+首先我們知道
+現在整個人工智能的發展
+是非常飛速的
+然後裡面
+涉及到的國家
+也越來越多
+不僅是中國
+國外各類的國家
+大家都會關注能力和安全相關的共生性
+我們最開始
+可能在17年的AlphaZero的時候
+大家可能更關注面向傳統
+AI算法和系統的安全標準
+然後到後面的時候
+隨著更多的模型出來
+包括Generated Model
+包括
+從前幾年開始的
+ChadGP系列
+整體來說
+現在大家會發現
+我不能只觀察
+AI算法和系統的安全標準
+或者是AI算法本身的能力
+更多要觀察它的數據的規範
+還有到
+面向整個社會和群體的
+大模型的安全評測
+和對應的安全標準
+實驗室整體
+從2021年成立至今
+一直致力於大模型的
+體系的研發
+從2021年開始
+發布的第一個書生1.0的模型
+是一個視覺的
+通用大模型
+當時應該在國際上也有很多
+包括DeepMind Google OpenAI
+都有相關的
+視覺通用大模型
+隨著時間的演變
+到了2022年
+實驗室開始走向
+多模態大模型
+在這裡面也逐漸衍生出來
+大語言模型
+書生普語體系
+在昨天的開幕式上
+也做了相關的介紹
+然後一直到今年7月份
+書生普語
+包括書生多模態大模型
+已經演變到了新的
+能力範疇
+包括公開的模型
+包括7B的小參數模型
+還有70B的大模型
+一直致力於開源開放的理念
+能夠賦能大模型學術研究
+和創新產業生態
+並且我們也一直保持
+技術的原始創新
+探索更為高效的
+大模型發展路徑
+整體來說
+我們實驗室的大模型研發
+和安全體系構建
+隨著這個時間的歷程
+也分為四次挑戰
+和對應我們做的相關的技術和成果
+接下來的話
+會分這四次挑戰
+為大家來分享一些工作
+第一次挑戰的時候
+大概在2022年底
+我們發現
+越來越多的
+生成模型出來之後
+它帶來的風險性
+也越來越大
+包括一些這種濫用的行為
+比如說用這種模型去
+對
+那個
+蕭老師已經來了
+謝謝蕭靜教授
+帶來這個精彩的開始
+我們很高興
+現在有蕭瑜教授
+蕭教授是
+助理教授
+和主導科學家
+在上海AI博物館
+以及一個兼職研究生
+在上海AI博物館
+進入了中國科學博物館
+在上海AI博物館
+進入了中國科學博物館
+他的研究範圍有多種領域
+包括多模型模型
+電腦視線
+深入學習
+和自動駕駛
+在上海AI博物館
+與其他研究者合作
+蕭教授在上海AI博物館
+ pool 1
+紹靜博士
+一下
+我想這樣
+其實剛才那個紹靜博士
+行安全团队的负责人
+我甚至在想
+他应该比我会了解
+更多的技术细节
+会讲更多的干货
+但是我还是非常感谢
+安远和谢总的邀请
+能有这样一个机会
+跟大家做一个分享
+我就直接跳到刚刚那个
+我们是讲到这一页是吧
+对对对
+我先说一下是这样的
+我其实原来
+主要做计算机视觉的研究
+然后慢慢的开始做视觉大模型
+从2020年开始
+然后随着我们从语言
+从视觉到语言到多模态做
+我们越来越发现
+安全实际上是大模型发展中
+非常重要的一个问题
+而评测又是整个建立安全的基石
+所以从去年开始
+在实验室的整个的布局下面
+我们就把安全做一个重要的方向
+大家可以看到
+在做安全的时候
+首先的第一个问题
+就是说大家事实上都很关心安全
+但是对于安全领域
+我们到底具体关于哪些因素
+应该从哪些角度去评测
+实际上并没有特别广泛的这样的一个认知
+那在这里面
+我们当时看到第一个事情
+是评测体系和数据的缺乏
+所以在去年我们进入这个领域之后
+第一件事情就是做评测体系
+我们建立了当时蒲公英人工智能
+一个治理开放的平台
+这里面把国内还有国际上
+很多的治理理论制度进行了汇总
+我们也建立了包括红队数据
+漏洞数据
+评测数据等等
+相对来讲比较全面的一个评测的数据集
+在这里面实验室也坚持开源开放的理念
+我们把我们的很多的数据集
+还有我们的规范进行了开放
+从而推动这个领域的发展
+怎么建好这个数据集
+大家知道早期大家评大模型
+就是我给一个固定的题集
+然后有标准的答案
+让这个模型答完了之后
+我们对它进行评测进行对齐
+但事实上这里面是有很多问题的
+我们知道对于大模型来讲
+如果你做了SFT
+做了IRR
+RLHF
+人类反馈的强化学习
+事实上它表面上表现得很好
+但并不是代表它真正的就没有风险
+没有问题
+那在这里面怎么来做呢
+我们当时设计了一个方法
+我们发现很多领域的专家
+包括很多做社会学
+政治学
+伦理法律的
+我们组织了上百位
+我们请了包括上海交通大学
+复旦大学的上百位的专家
+这里面还有包括很多的教授
+让他们帮我们设计总组问题
+因为这些专家时间非常有限
+你很难说你请这么多专家
+让每个专家你帮我设计一万个题
+一万个题事实上对大模型的评测
+还是非常窄的一个领域了
+我们在专家设计题的题目上
+通过大模型的方法
+对这些题进行增强
+进行扩充
+然后我们再用这些题目去评测
+特别是这些题目很多的设计
+它有很多的攻击性
+而且有针对漏洞的一些专门的设计
+这样就形成了更好的评测的效果
+这是我们在第二个方面所做的工作
+然后
+因为我既做模型
+也做模型的安全
+在这里我们就发现
+大模型的安全和对齐
+大家经常说有一个问题
+叫对齐税
+也许确确实实你做了RLHF了之后
+这个模型的安全性
+从评测上分数会有增加
+但往往对能力
+对原来它原有的一些能力
+模型的性能会有下降
+在这里面我们是不是有更好的方法
+在这里面我们事实上就把一些MODPO
+就是Multi-Object DPO
+多目标的对齐
+引入进来
+这样能够保证我们在保证对齐的同时
+也能够对原来的能力进行优化
+这里面有些算法的创新
+由于时间原因
+我可能就不再详细讲
+而且我在想在这里面MODPO
+现在目前也不是一个结束式
+应该这些算法和框架
+还有很多优化的空间
+我看在座有很多我们年轻的同学
+这可能成为你未来研究很好的题目
+基于我们形成的评测体系
+基于这些评测的数据
+我们实验室也研发了一个普安大模型
+安全评测的系统
+在这里面
+我们事实上把一些我们前面所做的
+从维度到评测的过程
+到出报告
+完全把它进行自动化的评测
+这里面也支持了我们上海市的一些工作
+在这里面我们发现
+就是说评测结果的透明性和可解释性
+是一个很重要的事情
+因为经常的时候
+随着评测的维度越来越多
+问的题目越来越深
+经常我们很多大模型
+的评测用户拿到评测报告
+他会问我们
+你们为什么模型这么
+你为什么出这样评测报告
+你这个评测报告是不是客观
+能不能对它你的结果的依据
+进行说明
+进行解释
+在这里面我们想到
+最终的话我们解释还是基于我们建立的
+基于这个数据库完了之后
+我们把我们的评测结果
+对它进行可解释性的生成
+这样就把问答和可解释性的
+一体化集成在一起
+而且因为采用
+这个方法它是一个外籍的数据库
+很好的方法就在你可以实时的更新
+比如说我们有新的规范
+新的规定
+我们可以非常简单的更新到这个数据库里面
+进行评测
+那当然了
+大家知道现在的这个整个大模型从语言到多模态发展
+我本身也做计算机视觉的研究
+多模态大模型的事实上又对这个评测提了很更新的要求
+比如说在这里面
+对于多模态来讲
+由于它内容生成的形式和形态更多
+如何定义这个维度需要进一步加
+另外呢
+在多模态
+之间本身就有特征的对齐的问题
+而且我们知道这个语言到多模态了之后
+事实上很多幻觉问题被进一步加强
+针对这些特点呢
+我们做了一个以视觉为核心的
+包括对齐
+还有评测的数据机
+SPVL
+它包括我们设计了针对多模态领域六个
+比较可能引起有害的领域
+四三个类别
+五三个子类别
+这里面也包括了超过十万个这样的问题
+然后来帮助我们一方面做评测
+另外这个数据可以作为对齐
+那么我们也做了一个评测
+此外呢
+实验室呢
+我们在去年还花了很大力气
+我们在多
+应该是在国内
+甚至是国际上
+比较全面的一个具人类价值观的
+一个多模态评测体系
+这个报告呢
+总共有四百多页
+四种模态
+而且在这里面呢
+我们发现啊
+就是说单独的提维度
+事实上对于这个领域的技术的发展
+还是很有局限性的
+我们建立了两百三十个用例
+而且这两百三十个用例呢
+是根据多模态大模型应用啊
+场景落地来提出来的
+所以我们在这个评测体系上
+包括放化性
+可信度
+还有推理能力
+大家知道未来多模态大模型
+事实上它的推理能力
+是大家现在关注的重点
+我们可以看到
+最新的大模型
+大家都在强调它的数理
+和因果的推理能力进行评测
+事实上这个评测结果呢
+也对我们后面包括大模型
+特别多模态大模型安全的评测
+起到了很大的指引的过程
+面向未来呢
+我们觉得有几个方面值得关注
+还有一个
+一个就是这个多智能体
+大家知道啊
+这半年呢
+Agent技术发展很快
+Agent已经成为强化
+大模型在专项领域
+包括跟很多世界进行互动的
+一个重要的手段
+那是否能够把这些技术
+也用来安全和评测呢
+事实上我们建立了一个
+多智能体的评测框架
+叫P-SAFE
+然后在这里面呢
+我们详细研究了
+多个智能体之间
+大家知道它之间有交互和协同
+它所能产生的这个危险行为
+以及在这个过程中间
+我们如何引入一个
+专家一个doctor
+去进行角色防御
+另外一个呢
+大家知道人与人之间
+交互过程中心理
+这个价值观是非常重要的一个问题
+所以呢
+我们也在探索
+如何从仿造人的方法
+从心理学的角度
+然后从人文科学的角度
+来去做这个大模型
+多智能体的安全评测
+我想说一点是
+这些工作其实才刚刚起步
+从实验室角度来讲呢
+我们最初关注的
+包括定义问题
+包括建一个好的平台
+让大家来做这方面的研究
+这里面有
+非常多的重要工作
+我们也非常欢迎啊
+在座各位的机构企业
+还有研究者
+我们一起来共同推动
+这个领域的发展
+实验室除了自己做之外呢
+我们还坚持着开放的策略
+事实上呢
+我在中国网络空间协会
+大家知道这是在我们国家
+这个领域非常全员的协会的
+架构和指导下呢
+我们成立了围绕
+深层次人工智能安全评测工作组
+我本人呢也非常有幸的
+当选了工作组的
+其实压力还是很大的
+因为这个工作组
+既包括咱们国家一些权威机构
+也包括在这里面大型研发的
+包括交大清华复旦这项大学
+还有包括百度华为这样的企业
+为什么要成立一个工作组呢
+我们认为呢
+要做好博伦馆是安全还是评测
+它一定不是一个机构
+是一个共商共治的事情
+在这工作组在过去的一年
+接近一年的过程中
+我们从几方面开展工作
+一方面是建立了
+常态化的这个交流的机制
+我们有日常的例会
+而且现在呢
+现在通过线上会议
+通过专题会的形式
+让大家日常能交流
+第二个呢
+我想这个工作组的
+一个很重要的方面呢
+我们是想从bottom up的
+从底层
+从大模型一线的角度
+能够形成技术规范和共识
+在这里面
+我下面会讲
+我们现在已经初步形成了
+一个声称是人间自能评估的流程规范
+这里面我不知道在座
+是不是有一些同事已经参与
+因为这个设计的范围比较广
+已经参与到这个工作进来
+第三个呢
+我们在这个规范的基础上呢
+我们会跟大家
+一起共同研发一些
+评测的技术和组件
+这里面包括数据集
+也包括工具
+而且呢
+包括我们刚才讲的平台
+而且这里面
+我们希望能够在
+大家形成一致的条件下
+能够拿出来一部分
+进行开源开放的形式提供服务
+最后呢
+我们也举办了很多安全的活动
+包括安远的很多活动
+今年在世界人工智能大会的前夕呢
+我们也举办了
+普悦安全挑战赛
+吸引了全球一两百个
+非常优秀的团队来参加
+我们也日常
+跟很多的
+一些相关的大模型研发机构
+做安全的指导
+这就是我们所做的
+刚才提到的安全评估的流程和规范
+它有几个特点
+第一个它可操作性很强
+我们是一个全维度评测
+提供全生命的这样一个规范
+第二个特点
+我们是服务应用和产业落地
+因为参与的本身很多企业
+实际上他们从实际应用落地的角度
+起了很好的建议
+我们希望这个规范
+也能成为推动咱们国家
+未来人工智能安全评测发展的重要
+面向未来我想说一点
+大家往往容易把人工智能
+看成一个工具
+但是我更想说的
+随着通用人工智能的发展
+随着技术的进步
+人工智能成在成为
+我们整个社会体系的
+非常重要的一个基础设施
+它会频繁地与人互动
+与其他的系统互动
+所以我们现在考虑人工智能安全
+绝对不能孤立地把它看成一个工具
+而应该从整个社会体系的角度
+来思考人工智能
+这里面包括整个需求
+包括应用的场景
+还有包括在这个过程中间
+人机物之间的这种认知体系的建设
+是很重要的办法
+怎么来应用这个地方呢
+我觉得就是说
+大家知道大模型的发展
+是以Skyding Law为指引
+随着算力数据模型规模的增大
+模型的能力不断提升
+那么我们在想
+是不是我们也要探索一个
+围绕安全的Skyding Law
+我们能找到一个可扩展
+可发展的方式
+只要我们投入更多的研发的资源
+数据算力一些技术的研发的投入
+我们就可以把安全
+也可以可持续地发展下去
+在这里面
+我觉得安全的Skyding Law
+可能比原来大模型的Skyding Law
+大模型Skyding Law
+核心是参数量 数据量和计算资源
+这三者首先也是安全的
+更重要的组成部分
+但是对于安全的Skyding Law
+绝对不止三个维度
+我们需要多方的参与
+需要更新的研发的模式
+当然我们也需要高质量的数据
+以及更好的模型的架构
+这里面事实上也对于我们的Community
+不管是你做科研的
+比如说产业用器
+做了新的挑战
+我们希望跟大家共同努力
+建立起面向未来的
+可持续的AI安全的Skyding Law
+在这里最后
+我也稍稍做一个宣传
+在明天的上午
+我们在世博中心620会议室
+有一个国际AI前沿技术的论坛
+我知道今天在座的一部分专家
+也会参加明天的论坛
+也欢迎大家继续参加
+和支持我们的活动
+好 谢谢大家
+谢谢大家
+我们也邀请了 Dr. 瑞敏河和 Prof. 熊德义
+Dr. 河和 Prof. 熊德义,请在我介绍你时,请尽快上台
+Dr. 瑞敏河是新加坡首席人工智能警察
+他执行多项目标的努力,以达成新加坡的战略AI目标
+包括发展和实现新加坡的国际AI策略
+他亦是新加坡政府首席人工智能警察
+以及AI部队的国际高层负责人
+Prof. 熊德义是天津大学的国际联合研究中心
+和天津大学的国际联合研究中心教授
+他最近在计划多项AI安全关系的项目上工作
+包括大规模评测评测和更多的评测
+我们的主席是Brian Zhe
+他是Concordia AI的副总裁
+让我们请他来给我们一个掌声
+大家好,欢迎大家来到我们今天的第二个讨论
+我们的第二个讨论是天津AI安全评测
+我今天与中国、新加坡和英国的领导领导领导
+非常兴奋地讨论这个讨论
+我们的讨论是
+天津大学的AI安全评测
+这是您今天第一次上台
+让我开始吧
+您发表了第一次的讨论
+是大规模评测评测
+更最近的是中国LM的链接风险评测
+我们有三个领导领导领导
+第一个领导领导领导是不平衡风险
+这是社会上的一个影响
+第二个领导领导风险是
+不平衡风险评测
+人们可能使用生命训练模式
+来减弱生物武器
+第三个领导领导领导风险评测
+是高级风险评测
+很多人对这个风险评测有不同的语言
+有些人认为这是高级风险评测
+还有宇宙风险评测
+以这种风险评测的背景来说
+我认为这三个领导领导领导评测
+是不平衡风险评测的
+我们想要控制风险评测
+第一个领导领导领导
+是风险评测
+目前大多数风险领导领导领导
+是风险评测的
+但是我们也看到
+有些风险领导领导领导
+有些风险领导领导
+有些风险领导领导
+但是实际上
+有两种风险领导领导领导
+第一个风险领导领导
+是风险领导领导
+第二个风险领导领导领导
+就是风险领导领导领导
+第三个风险领导领导领导
+就是风险馏
+所以风险领导领导领导
+风险领导领导领导
+就是风险测
+非常之 Mark
+先生
+非常
+很
+是的
+是的
+Mesos to evaluate the frontal AI risk
+So this is the first gap
+The second gap is the
+I think we are short of data and tools
+Because most of the current evaluation
+Actually is kind of a black box evaluation
+We don't have data to trigger the model to expose their risk
+We don't have tools to open the black box of the lateral modeling models
+And the last gap I think is access
+Because most of the frontier models or advanced AI models are developed by large companies
+So they're only being accessed by very limited people
+I think that maybe you know now we can see a lot of models are closed source
+A lot of them are open source anymore
+So this means we have no transparency for this model
+So this is a very big challenge for your evaluation
+Especially for
+Frontier AI risk
+Thank you for the excellent overview of Professor Xiong
+Dr. He
+It's an honor to be
+Having this panel with you today
+So
+We are looking forward to hearing your talk in the afternoon
+But in the meantime
+I recently heard that the Singapore has set up a national AI safety institute
+And can you share a bit with us
+What are the current priorities for AI safety testing evaluation
+At this national AI safety institute in Singapore
+Or in Singapore more broadly
+I think things is a pleasure to be here
+Good to see you again Brian
+It'll take us that trust and
+Safety is a very big concern in Singapore in general
+We have spent our last 59 years as a country
+Building up trust
+There is a high trust in society
+And there's a high trust in our political leadership
+Trust is also the reason that we have such a strong manufacturing base
+Healthcare base in Singapore
+Trust is also why people walk safely at night you dare to walk around with your hands and feet
+Trust is also why people walk safely at night you dare to walk around with your hands and feet
+Trust is also why people walk safely at night you dare to walk around with your hands and feet
+在街上,这也是为什么人们要在网上进行交易。
+AI 当然带来很多困难给予信心。
+你能够让模拟变化,正如今天很多讨论者所说的。
+它会发生假消息,你不能总是依靠它。
+因此,当我们在去年12月发布我们的国际AI策略时,信心成为了一个非常重要的部分。
+因此,我们有许多不同的计划,在不同的层次。
+从研究的角度来看,
+我们做了许多支持基础研究,
+同时也做了政策研究,
+并成为AI在新加坡的一部分负责AI。
+我们设计了一个网上安全的科技中心,
+以调查这些资讯和这些资讯。
+我们有整个资讯资讯公司,
+研究AI安全和AI安全。
+因为我们有许多努力,
+我们也设计了一个信心中心,
+我们的AI资讯中心,
+我们的AI资讯中心,
+我们想使我们成为一个国际的焦点,
+以AI安全的研究、测试和测试的方式,
+在全球的发展生活过程中,
+从发展到AI模特的发展,
+并以我们的AI模特的发展,
+并使我们作为一个国际的合作方案,
+以使我们改进了AI测试的科技,
+并改进了我们在新加坡和全世界的技术。
+谢谢您。
+那么,我们已经设置了一些AI安全的测试的主要基础,
+接下来我们来谈谈测试的过程
+就像刚才的谈论者所提到的
+我希望能够得到
+Way 和 Chris 的观点
+测试可以在不同阶段的过程中进行
+包括进行训练 预测 及后测试
+您认为这些阶段中
+有什么优势和挑战
+以及您的经验
+与中国和美国的企业合作
+谢谢
+那么大模型其实进展非常快
+但是原理上决定了
+我们对模型的机理
+对它的安全风险
+对它的能力水平的认识
+不能做到百分之百非常全面
+就像我们用竹篮打水一样的
+到处漏水
+我们做的工作
+比如说测试其实是去
+识别哪里有漏洞
+然后我们去把它补上
+但是还有多少漏洞
+我们可能不一定能够搞得非常的清楚
+我觉得现在要说优先级的话
+可能一方面我们一定要
+快速的及时的发现
+在各个环节中暴露出来的
+比如研发环节
+还有使用环节暴露的
+以暴露的各种风险
+及时修复它
+但是这个问题看起来还是比较容易做到
+相对容易做到的
+我们能够知道这个风险是什么
+我们就能够定义它 测试它 改进它
+问题在于我们不知道的太多
+所以我觉得当务之急
+是需要建立一套机制
+建立一套动态敏捷的机制
+使得我们能够永远跟上
+模型技术水平的提升
+以及它的风险
+我们能敏捷的发现它
+同时能够迅速的让产业界知道
+风险在这里 风险在那里
+然后来改进它
+我觉得测试非常非常关键
+但是测试只是一个环节
+我觉得需要从各个环节上
+来建立一套敏捷治理的技术生态
+才能够堵住不断暴露的漏洞
+所以否则我们永远是
+跟未知在赛跑
+可能很难控制好
+就道理 谢谢
+Chris
+首先谢谢您在这里参与
+很高兴与您一起参与
+我会建立一些
+我同学的同学的评论
+有这么多不明显的
+这件事情
+所以很难复杂
+复杂地解释
+这件事情应该怎么办
+如果我们有这个讨论
+五年之后
+或十年之后
+我认为我们会更加成熟
+但我认为
+最重要的是
+我们需要做的几个事情
+在讨论中
+在讨论和测试
+和测试生活过程中
+我们需要做的一件事
+在企业 政府
+以及海外AI
+海外AI的环境
+就是更加明白
+我们需要做的各种测试
+在生活过程中
+我会包括
+甚至是预训
+我认为我们需要有
+预训的预训
+因为包括准备了
+你之前
+在10X的数据上
+想要顺序计算
+那你觉得你可以
+用的是安全的
+什么你需要做
+以及avier
+那种测试
+然后当你训练一个讨训
+你需求什么
+马上要看的
+在训练这讨训前
+在你使用了
+一些所谓的
+被损失的讨训预训
+你可能要
+开始 conserve
+一种明显的
+这个 feet
+这些系统变得更能够生产和执行自己的研究,
+例如,我认为我们还不够在那里,
+但是像是系统的自动测试,
+那是一个你肯定想要测试的事情,
+在开发之前,
+但是在你训练模型之后,
+你采取一些调整,
+我认为你仍然想要进行几个测试,
+直到你实际上开发它,
+以确保你感觉舒适,
+你的使用者可以安全地使用它,
+尤其是你正常的使用者,
+以及某些不公平的演员,
+他们可能会尝试把系统扩大,
+以坏意义的方式。
+问题是,
+在每个领域中,
+要做多少测试?
+我认为这是一个,
+希望在未来的几个月中,
+或下一个年,
+希望会有更多的讨论,
+在全球AI系统上,
+关于我们应该做多少测试,
+直到我们感觉舒适,
+进入下一个阶段,
+在生命中,
+我认为这是我们需要更多的讨论。
+教授,您想说什么?
+我想刚刚各位嘉宾讲的非常精彩和全面,
+我想补充两个点,
+第一个点就是说,
+在当前这个阶段,
+安全问题非常受重视,
+我们都认为它是很重要的问题,
+但事实上,
+不论是学术界还是产业界,
+我们在安全中投入的资源,
+比如数学,
+比如计算的资源,
+还是研发的资源,
+相比我们发展大模型的能力,
+和产业应用来讲,
+是远远之后的。
+而另外一方面,
+事实上,
+我们对于整个通用人工智能,
+特别是现在大模型安全的了解,
+是非常有限的,
+我们知道存在很多安全的隐患,
+但是我们对安全这些隐患,
+并没有一个深入的认识,
+更重要的是,
+我们事实上并不知道,
+为什么产生这么多安全隐患,
+就是说我们更多现在对安全问题,
+是在应用过程中,
+从现象层面所观察的,
+对背后原因没有这么多的支持,
+所以基于这两个观察,
+我觉得有两个方面的事情,
+我觉得下面要做,
+第一个,
+在这里面我们需要投入更多的资源,
+需要更多的国际的合作,
+因为安全问题是我们全人类,
+所面临的一个共同的问题,
+这一点是非常重要的,
+第二个方面,
+我觉得从研究上,
+我现在真的是呼吁我们,
+这个学术界,
+包括我们的产业界,
+能够找出来一条,
+能够通向我们Safety AGI,
+安全通用人工智能的技术框架,
+因为现在我们可以看到,
+不论是SFT还是RHF,
+更多的是一些单点技术的研究,
+往往还是不漏充的单点技术的研究,
+并不是一个,
+我们很难确信靠这样的技术,
+我们就能真正通往Safety的AGI,
+所以在这里面,
+我觉得从学术界上,
+真的需要更好的研究和框架,
+和投入,
+谢谢。
+谢谢。
+我觉得从技术上,
+有几个方面,
+我觉得现在,
+值得关注,
+刚才我们确实需要建立更好的技术,
+和方法,
+框架来解决这个问题,
+第一个技术呢,
+我觉得是智能体的技术,
+那么,
+我们现在在强化技术的这一方面,
+我们的技术是,
+我们的技术是,
+我们的技术是,
+我们的技术是,
+我们的技术是不单单,
+我们的技术是,
+我们的技术是,
+我们的技术是,
+我们的技术是,
+我们的技术是,
+我们的技术是,
+我们的技术是,
+解决这个问题
+第一个技术呢
+我觉得是智能体的技术
+智能体已经被验证成为
+智能体加上工具调用
+包括智能体里面
+它可以进行的交互
+反思任务的规划
+已经成为大模型
+目前在落地中重要的一个技术
+最近我看在学术上
+在工业界都有很好的应用
+事实上智能体所演化出来的技术
+对于我们解决目前在大模型
+不关是做更全面
+更精准的评测
+还是做一些多轮的
+更深入的
+对模型领域研究的时候
+大家知道传统的安全研究
+比如说计算机安全研究
+有很多计算机理论
+密码学等等研究
+它们都能提出来一个
+在这个领域非常硬核的
+一个数学问题
+一个理论问题
+但目前在安全研究中
+你会发现特别碎片化
+碎片化就意味着
+在这里面我们没有
+很好的一个基础
+没有很好的一个体系
+我想这是我们在这个时候
+我想从学术界
+甚至包括产业界
+需要去思考的一个问题
+谢谢
+请问老师
+OK
+I completely agree
+preference your opinion
+I just added two points
+the first point
+blue
+so this is the first point
+the second point
+I think is
+I mean in terms of the evaluation
+as we need to build a lot of data
+but in terms of the safety
+we have a lot of safety issues
+and this is actually
+all course disciplinary
+so if we only
+we only have
+rely on our AI community
+actually we don't have the experts
+don't have the expertise
+don't have the knowledge
+to build such a data set
+so I think we have to collaborate
+with more communities
+to you know to
+to address the AI risk issues
+thank you
+Dr. He earlier mentioned
+the importance of building trust
+if companies do their own evaluation
+it's hard for society
+to have complete trust
+in the safety and
+ethics of AI
+and I think that leads to the question of
+what is the role of third party
+I would like Dr. He and Director Wei
+to comment on this question
+what do you think are
+some of the current challenges
+of performing the role of third party
+for example
+Professor Jung mentioned
+the issue of access
+if third party testers and auditors
+only have black box access
+to their AI models
+then it's insufficient for them to conduct
+all the AI safety testing
+that are required
+I would love to get your views
+Dr. He
+Maybe I will take the question
+in the context of sharing our experiences
+with AI Verify
+which is really what we've been working on
+and this is
+and I'll say it in three parts
+why we worked on AI Verify
+AI Verify is a software testing toolkit
+that the Singapore government introduced
+two years ago
+really it came for three reasons
+one I think there is a very big gap between what the AI Verify is
+and I think there is a very big gap between what the AI Verify is
+policy makers
+talk about in very big principles
+and all the work that everybody here is doing
+in terms of very good research
+right and also a gap between policy research
+and what is actually in the hands of industry
+so AI Verify was an attempt to bridge this gap
+by putting practical tools
+informed by policy
+but also trying to get the best of academia
+into the hands of industry
+they can come together to do it
+otherwise your third parties are somewhere far far away
+they are not in part of the ecosystem
+the third thing we do is that
+you want your third parties
+you want your systems to always be at the frontier
+so last year we
+or rather this year
+we updated AI Verify to include Moonshot
+which is our generated AI version of it
+it's a very start
+it's an initial product
+brings in benchmarking
+brings in red teaming
+but it's a start
+and then in the process
+through a common platform
+you get the industry
+you get academia
+you get third parties all the time
+ok
+so the reason why we wanted to put together this product
+is because
+we expect
+the third party is very important
+so I think
+the existence of third party
+actually helps to increase
+the confidence of everyone in AI
+especially in large scale technology
+but we also want to tell them
+through the third party's professional ability
+to tell the risk to the developer and the user
+what should they do to improve
+how to do in the next step
+but at the same time third party institutions can act as a bridge
+安全风险汇聚起来
+测试数据汇聚起来
+方法论汇聚起来
+研究结果汇聚起来
+能够更好地赋能
+任何一个单点的研发机构
+我觉得低汤机构扮演的角色
+其实是非常丰富的
+那么测试是非常重要的
+核心的手段
+我刚才我非常同意
+乔老师的这个观点
+就是现在整体上
+产业界对于AI的投资
+还是非常有限的
+那么我觉得
+这个低汤机构存在
+其实是提供一种公共产品
+来降低
+或者说在有限的
+产业总体安全预算的情况下
+提供一些公共产品
+让大家的研发安全投入
+可能会成本能够可控
+恰到好处
+我觉得咱们做安全方面的工作
+其实还是要服务于
+更好的发展
+更好的应用
+那么再控制好
+安全成本投入的同时
+在保证安全的前提下
+控制好我们的前模型研发机构
+要披露风险列表
+这样才能展现出一种负责任的态度
+这样我觉得低汤机构和企业合作
+做这些事情
+其实是才能形成一个闭环
+感谢
+I very much agree with the vision
+that AI safety should be a global public good
+and some of the AI safety evaluation show up around the world
+and some of the AI safety evaluation show up around the world
+and some of the AI safety evaluation show up around the world
+and some of the AI safety evaluation show up around the world
+and some of the AI safety evaluation show up around the world
+or you know AI safety labs
+in different cities and countries around the world
+that we begin to align on a shared vocabulary
+so that we can actually under like
+without knowing exactly what you mean by red teaming
+and what we mean by red teaming
+it's hard to trust and allow for these things to be interoperable
+and so I think that's like the key first step
+that needs to happen in the next year or so
+Professor Qiao
+我想跟刚刚各位说
+专家讲的已经非常全面了
+我就最后想说一点
+就是在呼应你的
+我觉得在这个领域我们太需要国际合作了
+需要国际共识国际合作
+If no final remarks
+Let us give a final round of applause to this excellent panel
+现在原则讨论的嘉宾请留步
+其他论坛的嘉宾请上台
+我们会在台上进行一张合影
+然后上午论坛呢
+告一段落
+下午论坛会在下午一点十分开始
+The morning forum has concluded
+The afternoon forum will begin at 1.10pm
+See you in the afternoon
+Pick up the order
+How did you do
+ VIP
+hma
+How did you do
+What about the deadline
+Oh it was my lotta pressure
+I guess my hair had grown back
+Oh yeah
+It's just about time
+It's ok
+ trong học了
+ Recently I have grown up
+请勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+勿模仿
+例如GPT,我们正在与一个中心化的演员互动,这位演员在我们的私人数据中拥有一个窗户,它在把数据挖掘起来,这是第一个问题。
+第二个关于关系的问题是,人工智能训练,对不起,人工智能训练。
+例如,如果我训练一个人工智能系统在电脑健康记录中,并在野生中释放它,
+有好理由认为,一些私人信息可以用来训练人工智能系统。
+这和贵义问题有关系。
+另一个重要的问题是关系质疑的问题。
+我们...
+我们...
+我们不会太多谈论这个问题,但我们认为它是重要的。
+贵义智能系统执行执行执行。
+越来越多的智能系统,各种各样的智能系统,成为了日常管理的一部分。
+而有很多犯罪证据。
+其中,也有著非常好的证明,是一个在大南地区的习惯患病事件。
+这个搞得人们变得负心。
+这个可能会使人们出于宠 ward。
+这里有把握智能系统对死亡的证明案件。
+难题是,
+这不仅是技术问题,
+這就是技術問題
+在某種程度上
+不每個人都受到某種特定的障礙
+因此所有在系統上的演員都不在系統上工作
+所以這不只是技術問題
+而是如何演員與技術合作的問題
+這是一個很舊的問題
+它仍然存在於現代科技上
+它在語言模式上是非常有用的
+例如我學生李宇謙的問題
+我們在大語言模式上
+探索了多種錯誤和謊言的問題
+並且很輕易地
+我們看到美國或歐洲的LLMs
+表達了非常明顯的
+比美國或歐洲的中東亞洲人
+或中東亞洲人
+還要好一點
+這完全是使用的訓練機構
+所以這裡沒有什麼新的
+但我們不要忘記那些舊問題
+我們還有另一個問題
+就是我們所謂的永恆復甦
+大家都在討論
+科技增長的程度
+我們必須要把這問題
+放在現代科技上
+所以我現在不僅在討論
+你所看到的永恆復甦
+但是也在討論
+最大的超級電腦的增長
+你所看到的就是
+AI使用的力量
+實際上超過了
+現代科技的能力
+世界上的全能力
+這是為了訓練
+我認為
+永恆復甦的增長
+是更重要的
+我們所看到的
+是同樣的
+當GPU變得更好
+AI的能力
+會越來越多
+比GPU的增長更快
+現在
+這完全不算是
+持續性的
+經濟不合理
+我們有一個
+反彈的效果
+它把電腦的功能
+消耗了
+關於這一點
+我們的重點是
+能力的重點
+我們有一個經濟
+大人的能力變得更大
+因為我們使用更多的資料
+更多的電腦
+關於這一點
+我們有一個系統
+決定的程序
+越來越自動
+因此
+選擇變得更集中
+隊伍建立決定引擎
+為所有人作出決定
+這和其他危險
+或無謂的危險
+或者人權威脅
+都是冒出的
+我們認為
+這是AI夾的最重要的
+一種理念
+除此之外
+我們認為
+我們需要有多搭的AI
+我們相信
+ Preferred open source
+可以令我們直播
+可以幫助規範
+滿足無異
+我們相信
+重要的理念
+就是平衡
+不只愛意的
+它有虛擬的問題
+有障礙的問題
+如果我們不做障礙
+我们可以杀死开发,因为开发有强弱的经济持续性,有缺乏公平性的挑战,
+什么数据,什么模式。
+问题是,当我们说开发,我们通常并没有定义我们所谈论的东西。
+目前来说,开发是用来定义非商业的开白模式,
+但这并不是以开发标准来定义的。
+因此,我们认为国际管理需要。
+正如互联网,互联网非常容易通过境界。
+理想是,我们会使用训练资料,
+在多个国际区域中,以创造更多代表性的互联网,
+以避免我之前提到的链接。
+所以,我们认为我们需要共同管理,
+以帮助我们建立共同的项目,
+正如互联网,
+iCAN是很用的,
+因为它有一个共同的,不太分裂的互联网。
+因此,我们设立了世界智能组织,
+其中,它是代表了
+首个国际和中央国际组织,
+第二个是研究,
+总的利益结构,
+和公司和地区。
+目标是,
+将建立证据,
+包括证据评测,
+并建立智能的知识状态,
+并提供证明,
+以及计划。
+谢谢。
+谢谢。
+谢谢Gail,
+对于法国委员会的
+令人印象深刻的观点。
+我相信,
+之后有更多要谈论的。
+接下来,
+我们的主席,
+是瑞敏河医生。
+他是新加坡的
+首个人工智能官员,
+他在新加坡的
+设计人工智能目标,
+包括建立和实现
+新加坡人工智能目标,
+还有在新加坡的
+国际智能策略中,
+进行新加坡的
+新加坡的
+国际智能策略设计。
+他也是新加坡政府的
+首个人工智能官员,
+以及
+美国的
+高层的
+智能顾问署。
+荷尔斯·荷,
+舞台舞台都在,
+欢迎!
+荷尔斯·荷,
+舞台舞台都在,
+欢迎!
+荷尔斯·荷,
+欢迎!
+荷尔斯·荷,
+欢迎!
+荷尔斯·荷,
+欢迎!
+荷尔斯·荷,
+欢迎!
+荷尔斯·荷,
+欢迎!
+荷尔斯・荷,
+欢迎!
+荷尔斯·荷,
+欢迎!
+荷尔斯·荷,
+欢迎!
+荷尔斯·荷、
+欢迎!
+清ünüz
+康克多亚工信 ό
+对于政策的独特状况,例如历史,国家优势,比较高的优势,以及企业基础。
+新加坡人没有区别。
+无论如何,对于AI安全和管理,我认为有四个共同的团队,
+并且在各国各地,因为我们都从同一个地方开始。
+其实我已经说了半个话,所以我现在的生活比较简单了。
+让我来与每个人一起谈谈。
+首先,我认为我们必须要与AI管理与虚弱的心态接触。
+正如前开放AI委员会委员,Helen Toner 提出的,
+对于真正的智慧有什么关系呢?
+更何况,正如这几个早上的讨论者所说,
+没有人真的理解AI系统的内部工作,
+特别是深入的智能网络。
+更何况,AI技术在急速进行,
+但我们无法预测AI系统的进步的准确性和确定性。
+我们并不知道AI安全对于技术方式的技术方法,
+例如机械解释能力或丰富方法,会否真的有用。
+我看到有些人在前几个楼上哆嗦。
+Chris在笑我。
+另一方面,
+我们也不确定如果有些最糟糕的情况会发生。
+AI系统在前几个楼上已经被隐藏了。
+因此,正如这几个早上的讨论者所说的,
+AI系统有许多不明,也许有许多不明。
+因此,我们应该离开确定性的测试,
+特别是关于未来。
+而是说,
+政策人员必须尊严地,
+尊严地,
+进行继续学习的心态,
+重新测试理论,
+与科技的影响持续,
+并且尊严地感受到科技的影响。
+我们必须学习从企业与企业的专家,
+许多人都在这里聚集,
+并且我们必须学习从每个人的角度。
+我们没有所有答案,
+而我们必须专注在调查资讯的领域中。
+像是世界AI会议的会议,
+这些会议将成为我们共同学习的重要机会,
+通过这些机会,
+我们将提升我们的共同理解。
+尊严的意义也意味着,
+听听和学习不专业的声音。
+民众、工作人员、写作人、艺术家、
+年轻人、年轻人,
+都拥有重要的观点,
+他们的怀疑和情绪对于AI是真实的。
+他们可能会被国家和业务拒绝,
+而我们必须理解他们。
+我非常感谢美国的AI顾问组织,
+他们很明显地调查,
+并且提出了他们的建议。
+这包括我的同事,
+凌翰和曾毅。
+凌翰今天也与我们联系。
+慈悲的意义也意味着,
+愿意承认有关AI的关键问题,
+但我们并没有解决的答案,
+并且努力发掘答案,
+并且并不决定
+任何不正确的理论。
+在这种心态中,
+我们在去年的新加坡AI会议上
+举办了一场新加坡AI会议,
+与不同领域的国际专家
+联系来解决AI的关键问题。
+如果这些问题被解决了,
+这将带进AI的发展和扩展,
+并带进国际利益。
+在去年的AI会议中,
+我们今天与董颂、
+姚东、
+艾琳和布莱恩一起参与了这次会议。
+虚弊也包括了我们的
+新加坡AI会议的解决方案。
+但是,
+我们的解决方案
+可能是错误的,
+或者需要更新。
+这并不是说
+我们作为政府或政策人员
+只能坐着等候。
+而是,
+我们可以开始
+用软规则和规则
+进行介绍,
+获得影响者的反应,
+观察该规则的后果,
+如果需要,
+确认它,
+并确认它,
+并确认它,
+并确认它,
+并确认它,
+并确认它,
+实现中心解收链接,
+并在中心对发。
+在2019年,
+新加坡中,
+新加坡提出了
+一套模型AI管达方案。
+在此,
+我们将提供工作人员,
+以及入境者,
+类似的实际指约,
+给他们第一次备用AI。
+这次规则,
+根据广isiaj和企业陆平公司的
+谈议,
+我们提供了更新的、
+包括量 concept 科技,
+到层次裴,
+ revolute
+和造成ling?
+以HR,
+或去到
+Line Future,
+这种改善方式是更加可观的,
+并试图控制所有AI的可能伤害。
+所以,这就是慈悲。
+第二,我们必须与AI管治的观点相似。
+我们必须小心于假的谈判。
+AI政策并没有任何黑白的关系。
+例如,AI系统通常有用,
+但它有时候说错误的东西。
+AI可以增加生产能力,
+但它也可以导致职业破坏。
+AI可以帮助改善气候,
+它也可以伤害全球,
+因为它有很高的电力和力量消耗。
+AI可以做很多健康的事。
+AI系统可以发生深入的骗子和骗子,
+但也有很多AI的例子,
+为公共利益而被发布。
+例如,在新加坡,
+我们使用AI进行明确的移民确诊,
+预测医院时间,
+和谨慎的车辆维修。
+民族也可以
+通过谨慎的车辆
+通过一些政府的服务。
+所以,讨论和创新
+也是一个错误的构图。
+我们需要讨论和创新的讨论,
+让有益处的应用
+能够增长,
+并保护对受伤害的使用者。
+这种平衡的轨迹
+从业务到业务有关。
+例如,
+自动驾驶车的最糟糕的情况
+是相当不同的,
+从癌症诊断到谨慎的车辆。
+自动驾驶车也不存在空间中。
+它是一部分技术品,
+一部分用途,
+并且它是一部分
+我们与其互动的
+更广泛的环境。
+因此,
+自动驾驶车在
+更广泛的管制环境中
+可以有用。
+近几年,
+新加坡更新了
+我们的法律项目,
+以保护自动车车车的
+网络,
+包括为了
+保护个人资料,
+以及为了
+在网上流传的
+误误误误误误误误误误误误误,
+以提升自动驾驶车的
+风险和
+恶意内容,
+以及为了
+挫折网上的
+犯罪活动。
+在这些规则中,
+人类或
+机构
+仍然负责
+他们的决定
+的
+结果,
+即使
+这些行动
+是AI系统
+帮助的。
+这就是
+我们的观点。
+第三,
+我认为
+我们需要增加
+和提升
+我们的能力
+来控制AI。
+这开始
+与很多
+我同事的
+政策
+是用AI
+以建立
+一个基础
+理解
+这样的
+技术的
+可能性和限制
+。
+在新加坡,
+我们在政府中
+也很努力
+推荐
+使用AI。
+民主服务员
+可以从
+他们的
+政府的
+电脑中
+使用
+AI,
+甚至
+帮助他们
+回应
+市民的
+询问。
+应该
+让
+生物系统
+有实际的
+技术能力
+而不是
+只谈论
+执行
+执行的
+原则。
+因此,
+我们也鼓励
+更具技术
+的政府官员
+的社区群体
+来发展
+他们自己的
+AI产品
+和工具。
+我们也创建
+让他们
+分享
+学习的
+途径。
+例如,
+我提到
+在早上的
+讨论中,
+我们的
+政府公司
+在2022年
+发展了
+AI证实
+最低值
+的AI系统
+以
+国际认识
+管理
+原则
+的
+计划。
+去年,
+我们也发展了
+Moonshot项目,
+为我们
+展示
+从
+传统AI
+到
+生产
+AI
+的
+AI
+证实
+图案。
+为了确保
+AI的
+管理方法
+有新的
+工具
+和新的
+方法,
+我们也
+与
+政府官员
+一起
+一起
+研究
+真实需要
+的
+研究,
+并将
+他们的
+工作
+的
+成果
+立即
+翻译
+进行
+应用。
+我们的
+研究员
+认为
+这很
+满足
+我们的
+目标。
+但是,
+建立能力
+远远不
+只
+在
+AI的
+用途上,
+我们需要
+建立一个
+有信心
+和
+知识
+用户的
+人群。
+这能够
+让他们
+与
+电子环境
+联合,
+提升
+他们的
+竞争
+、
+技术
+和
+职业能力。
+使我们的
+民族和
+企业
+能够
+获得AI的
+利益,
+这是我们
+去年更新的
+专业的
+技术
+提升
+我们的
+技术
+,
+通常
+与
+业务
+合作
+,
+以及
+职业
+和
+公司
+的
+训练
+。
+另外,
+我们也在
+帮助
+所有
+民族
+提升
+他们的
+知识和
+AI的
+熟练
+,
+而也在
+上市的
+业务上
+提升了
+他们的
+技术
+和
+职业能力。
+我们的
+技术
+是
+专业的
+,
+我们的
+技术
+是
+专业的,
+我们的
+技术
+是
+专业的,
+我们的
+技术
+是
+专业的,
+我们的
+技术
+是
+专业的,
+中国在
+接线
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+-
+ our differences and find common ground.
+ Yesterday, I spoke about how countries can work together
+ at the Global AI Governance Forum Ministerial Roundtable.
+ Particularly, we need to come together to find common problems worth solving.
+ We need to work bilaterally, visionarily, multilaterally
+ to facilitate norms and encourage the creation of global,
+ interoperable standards and common tools for AI governance.
+ At this morning's panel, I also shared on how we open-sourced AI Verify
+ and launched the AI Verify Foundation as a vehicle
+ to tap on the global open-source community to crowd in expertise and capabilities.
+ Let me conclude.
+ The challenge of AI safety and governance will continue to evolve,
+ but we must sustain our engagement with the hard technical questions,
+ with the policy dilemmas, and with each other.
+ If we collectively adopt the very human traits
+ of a spirit of humility, a sense of perspective,
+ a desire to increase our capabilities, and our willingness to collaborate,
+ I am confident that we can achieve the right balance
+ of governing this particular technology
+ and collectively harness AI to serve the public good.
+ Thank you.
+Thank you so much, Dr. He,
+ for your inspiring,
+ inspiring and inspiring recommendations.
+I'm pleased to now welcome Professor Zhang Linghan
+ from the Yuha China University of Political Science and Law.
+ She has extensive experience advising Chinese legislation
+ on algorithm regulation, platform governance, data security, and AI.
+ She is currently a member of several advisory committees,
+ including the ICT Committee of the Ministry of Industry and Information Technology,
+ and the Legal Advisory Committee of the Ministry of Public Security.
+Professor Zhang is also a member
+ of the UN High-Level Advisory Body on AI.
+Professor Zhang, I'll hand it over to you.
+大家好,非常开心今天能用中文跟大家介绍我最近新写的一篇论文。
+那么题目是基于风险到基于价值探索。
+那么题目是基于风险到基于价值探索。
+那么题目是基于风险到基于价值探索。
+中国人工智能的治理的方案。
+那么在这个安全的议题上去讨论人工智能,
+实际上我们都有这样的问题,
+就是安全治理的,风险治理的框架,
+是否是人工智能治理的最佳方案。
+我们目前所有风险治理的手段和措施,
+是否能够完全应对人工智能给社会带来的影响。
+那么当我们去追求安全的时候,
+多安全才算真的安全。
+那么首先向大家介绍我的观点。
+那么我首先认为呢,
+在风险治理的过程当中,
+不管是风险的识别还是风险的应对,
+都有一些无法应对人工智能给社会带来的
+全方位多维度和颠覆性的影响。
+风险的治理理念和治理手段,
+我们仍然应该坚持,
+但是我们在风险治理之上,
+应该超越风险治理,
+采取基于价值的治理框架。
+那么也请大家多多批评,
+让大家有更多的知识证。
+那么下一张图呢,
+是我们可以看到目前基于风险的治理呢,
+已经成为全球人工智能治理的共同主题。
+那么在这个图上面呢,
+列到了不光是很多国际组织都把风险治理
+作为了不管他们的宣言,
+还是指导意见的这样一个基础的逻辑框架。
+同时也可以看到基于风险的治理,
+也被世界很多立法所采纳。
+那么下面带来的问题就是,
+大家都是专家,
+我在这里就不多介绍了。
+现有的框架对于风险的识别和分类准确吗?
+那么在这张PPT上,
+我列出了目前我们经常提到的四个风险治理的框架。
+那么它们都有不同的分类的方法。
+比如说在我参加的联合国的这个中期报告当中,
+我们把风险分为技术性风险、
+社会性风险,
+根据它影响的层面去进行分类。
+那么在欧盟的AI Act当中,
+把风险按照影响的范围分为不可接受的以及高中低的风险。
+我们可以看到美国商务部的这个国家标准研究院颁布的风险,
+则是根据风险的来源和成因。
+那么在实际上应对人工智能的风险当中,
+我们可以看到很多存在的问题。
+我们就以美国NIST发布的这个风险指南作为报告。
+第一个,
+就是大家都知道,
+在风险的判断当中,
+其实蕴含了很多的价值考量。
+也就是说我们说风险它并不是一个纯粹的科学概念,
+而是一个规范性的概念。
+我们看到,
+比如说NIST的这个框架当中,
+把风险分为技术性风险和技术社会风险。
+但是,
+大家可能没有注意到的是,
+把哪些风险归类为技术风险,
+本身就蕴含了价值的判断。
+那么,
+其次呢,
+风险分类一个很重要的问题是,
+在我们看到的前面这张PPT当中,
+大部分的风险分类都把隐私侵害、歧视等等,
+这一类对人的权利的侵害,
+当作是人工智能的风险。
+然而,
+我们要看到的是,
+这一类的风险,
+并不像我们一直熟悉的风险的治理,
+比如说汽车发生事故的概率,
+比如说食品不安全的概率一样,
+比较容易量化和计算。
+这一类的风险是非常难以去量化和计算的。
+我们对于风险治理的计算,
+基本思路是,
+OK,
+我要算一下你的损害的大小以及损害发生的概率,
+最后看看我得到的收益跟它能不能成正比,
+进而采取措施。
+可是,
+如果我们人工时代面临的很多风险都是难以量化的风险的话,
+那么,
+这种治理方式可能就面临着困难。
+那么第三个呢,
+是我们再回来看这张PPT,
+可以看到大部分的风险分类识别当中,
+都把失业问题当成是人工智能的重要的风险。
+那么以及把没有办法给现行的人工智能服务提供者去追责,
+当成是人工智能的风险。
+可是,
+我们知道风险的一个重要特征就是不确定性。
+这一类我们刚才说到的影响,
+真的是不确定的吗?
+人工智能必然会带来大规模的失业和劳动替代,
+也必然不能适应传统的法律框架,
+与其说它是一种风险,
+我更愿意认为它是一个社会影响,
+社会变革带来的必然影响。
+那么更重要的是,
+刚才很多专家也提到了,
+人工智能的风险不同于以往任何一种风险,
+其重要原因就是在于,
+大家都说不出来它未来的风险具体是什么。
+这种uncertainty和unpredictable,
+大家都是在反复的提及。
+那么可能我们提到的,
+人工智能的这种自我复制与自我完善的能力,
+就是我们将来没有遇见到,
+或者从来没有处理过的风险。
+但是我们目前并不知道它什么时候会到来。
+以及我们可以看到,
+人工智能这种强大的技术通过开源,
+可以被广泛和容易的获得,
+这也使得风险的来源大大的被扩散了。
+那么第二个问题就是,
+我们可以看到风险治理的措施,
+有事前事中和事后,
+分别是风险预防风险缓解与事后消除。
+如果我们列出几种典型的风险治理措施,
+一般是事前我要对风险进行评估,
+进而把它进行分类分级,
+采取和风险程度相适应的治理措施。
+那么这些风险应对措施,
+和人工智能治理的目标,
+手段其实也存在着错位。
+首先我们来看人工智能治理的理念,
+总体来说风险治理的理念,
+其实是有一个修正的理念,
+就是修正主义的内核。
+所谓的修正主义是说,
+原来的风险治理是说,
+如果这个技术存在缺陷和障碍,
+在它没有得到完全修复,
+并且是可信任之前,
+是不应该直接应用于实践活动的。
+我们可以这样去处理,
+核扩散带来的风险,
+这样去处理大流行病带来的风险,
+但是我们没有办法,
+把它和人工智能的风险,
+相提并论,
+并且这样处理。
+人工智能技术的应用,
+已经成为必然趋势,
+那么这种趋势是谁都不可以避免的。
+我们没有办法说,
+在完全消除了,
+或者确信人工智能没有风险之后,
+才来继续使用。
+那么从人工智能治理的工具的层面,
+那么我们都知道,
+风险治理当中最重要的就是,
+事先的评估和预测,
+可是,
+我们有个重要的问题就是,
+当我们没有人工智能应用和技术,
+足够深入的在社会当中广泛使用,
+我们也就没有办法去确切的了解,
+哪些风险将会产生,
+并且具体的程度是什么样。
+更遑论,
+我们还有很多我们认为不可预见的风险。
+那如果是这样的话,
+我们又如何去进行事先的识别,
+评估和监测体系呢?
+那么相信呢,
+一部分不能预测的风险,
+是不能落到这样的治理工具的治理范围内。
+那么另外还有就是人工智能治理的前提,
+如果说人工智能治理的很多风险,
+没有办法被量化的话,
+就没有办法被纳入到成本收益的计算当中。
+我们举个简单的例子,
+很多隐私的这种数据泄露的赔偿,
+总体来说数量很高,
+侵权人难以承受,
+但是受害者个体拿到的,
+侵权费用可能只有几美分。
+那么这种难以被个体救急的风险,
+实际上也使得成本收益更加困难。
+那么在这里,
+我想用剩下的时间简单介绍一下,
+我认为在中国,
+其实已经逐步发展出了,
+修正人工智能风险治理的这样一个路径,
+并且随着时间的推移,
+中国的人工智能治理正在本土化。
+我们可以把它分为探索阶段,
+定向阶段,
+和系统阶层阶段。
+探索阶段呢,
+我个人认为是从15年,
+一直到2022年这几年的时间,
+我们发展出了很多的人工智能,
+中国本土的治理手段。
+比如说在风险认知层面,
+实际上我们是有很多的共性部分,
+从2015年16年开始,
+一直到2020年之间,
+我们有新一代人工智能伦理规范,
+算法推荐管理规定,
+包括个人信息保护法,
+实际上都采取了风险分级分类,
+和防控的这样一个路线。
+在治理手段上呢,
+和国际上对接的一些共性的部分,
+包括个人信息影响保护,
+个人信息保护影响评估,
+以及算法影响评估。
+但是与此同时,
+我们也发展出来一些中国自己的特色部分,
+比如说在前两个阶段,
+始终在国内的人工智能相关的立法当中,
+都把发展与安全,
+作为最重要的平衡的一种价值观。
+同时,
+我们始终秉持着中国所特有的国家总体安全观的理念,
+去进行人工智能的安全治理。
+那么即使在网络信息领域这样一个比较特殊的领域,
+我们也采取了网络信息生态安全的这样一个概念。
+同时,
+在算法治理和深度合成治理的过程当中,
+我们有一个明确的价值排序,
+是信息内容安全,
+消费者权益保护,
+以及市场竞争秩序。
+那么在治理手段方面,
+其实中国也有很多自己的特色,
+比如说初步探索相关的算法备案。
+那么尤其在这里提醒大家要注意的是,
+我们并不是一个准入或者认证的制度,
+而是一个信息备案和采集的制度。
+那么同时,
+大家如果感兴趣可以关注到,
+在2021年的算法推荐管理规定当中,
+非常有特色的提出了,
+未成年人的防尘制度,
+尼尼制度,
+老年人和劳动者的权力保护制度,
+还有未成年人的相关的宵禁制度。
+那么这些在世界上都是非常少有的,
+也是独特的。
+那么目前我个人认为,
+我们国内的人工智能治理体系和理念,
+正在逐步的形成,
+并且已经逐步超越了风险治理的理念。
+首先在风险的认知上,
+我们实际上一直在跟国际保持同步,
+大家可以关注到我们国内的相关技术标准当中,
+对于风险的分类,
+比如说失控性风险,
+社会性风险,
+侵权性风险,
+歧视性风险,
+责任性风险等等,
+和国际的很多相关分类是完全可以对接的,
+包括一些相关的治理手段,
+事前评估认证和事后追责,
+我们也吸取了国外的先进经验,
+但是我们可以日益看到,
+在近两年生成人工智能迅速生长以来,
+我们可以看到很多中国特有的价值理念和治理手段,
+那么我们对于人工智能治理的很独特的价值理念,
+我觉得最重要的这两年就是不发展,
+就是最大的不安全,
+我们认为最大的风险可能就是中国的人工智能产业和技术,
+没有得到有效的发展,
+第二个就是我们可以看到,
+我们不管是全球人工智能治理倡议,
+还是在昨天我们的世界人工智能大会中提到的,
+中国的这种治理方案,
+我们都强调要尊重各个人工智能,
+要尊重各国本土的价值观和发展阶段的需求,
+以及要尊重各国的文化,
+那么在治理手段层面,
+我们可以看到去年的生成式人工智能暂行管理办法出台之后,
+中国已经形成了对于生成式人工智能分层治理的这样一个基本的理念,
+同时以发展为导向,
+中国也开展了很多人工智能基础设施建设的相关工作,
+比如说在人工智能的数据要素层面,
+我们可以看到国家数据局做的大量工作,
+还有工信部做的大量有关算力基础设施的建设工作,
+所以我们目前在中国的这种人工智能治理理念,
+我们与其说它是一个完全基于风险的治理理念,
+不如说是一个基于价值的治理理念,
+基于价值的人工智能治理并不排斥风险治理,
+但它超越于风险治理,
+一方面,
+我们可以看到在中国的立法和治理政策当中,
+不仅仅把人工智能理解为一种技术或者服务应用,
+人工智能既是未来赋能整个社会的基础设施,
+也是未来整个社会生产的组织形式,
+那么我们也可以把人工智能放到心智生产力的角度去理解,
+另外一方面,
+中国已经越来越明确中国人工智能治理的理念和方案是,
+以人为本,
+智能向善,
+以人为本是在说技术不能偏离人类文明进步的方向,
+智能向善是在强调人工智能必须在法律伦理和人道主义的层面的价值取向,
+那么在治理手段方面,
+我们可以看到目前一个系统发力的情况,
+在今年5月份,
+全国人大常委会和国务院已经把人工智能立法放到了相关的立法计划当中,
+同时,
+我们也有日常生活,
+日常监管活动当中更为丰富的监管措施,
+那么在我们相关的一些立法和监管活动当中,
+我们可以看到中国人工智能的安全框架也在积极的讨论和预养当中,
+那么包括在前天也刚刚颁布了一个国家强制技术标准,
+生成是人工智能内容的标识的这样一个技术标准,
+那么相信基于价值的人工智能治理体系,
+正在逐步构建的过程当中,
+我个人更愿意把它分为三个层次,
+第一个是是如此,
+就是我们去观察人工智能的本体价值,
+那么在其中有几层含义,
+首先,
+我们希望现在在风险治理当中,
+这样一个泛化的模糊的概念被逐渐分离开,
+哪些是人工智能的必然影响,
+哪些属于近期的维度,
+哪些是人工智能不确定的影响,
+那么其次,
+我们在属性层面要对人工智能有一个判断,
+它究竟它在这个人工智能被提及的时候,
+是以一个技术的方式被提及,
+还是服务应用,
+是社会生产的基础设施,
+还是社会生产的组织方式,
+这都决定了不同层面的影响的发生,
+是必然的还是具有不确定性和可预防性的,
+那么第二个层面是遇如此,
+就是基于中国本土价值观,
+去判断人工智能治理的短期和长期的目标,
+梳理中国的个性化的治理需求,
+那么我们特别希望能够分解出人工智能风险当中的规范性的层次,
+把个体化的价值标明列明,
+那么对于中国来说,
+我们首先在技术层面是要安全的发展,
+在服务应用层面延续中国一直以来对于服务应用的治理体系,
+那么在基础设施层面,
+我们可以看到国家各种加大力度措施去促进技术设施建设,
+那么在社会生产组织方式层面,
+我们也在强调绿色环保,
+强调新制生产力的治理方式,
+那么在应如此的层面,
+也就是在基于个性化治理之外,
+我们始终有人类共同核心价值观,
+和人类命运共同体,
+那么这也是我们在参与全球人工智能治理工作当中,
+中国提出的方案,
+那么也是我在联合国参与的,
+我们可以看到联合国提出的AI Governance for Humanity,
+尊重整个人类的价值,
+那么具体的手段措施呢,
+我们其实在今年3月份的人工智能法学者建议稿当中,
+有比较详细的解释,
+由于时间原因呢,
+我就先讲到这里,
+感谢大家,谢谢。
+Thank you so much, Professor Zhang,
+for such a clear and systematic presentation
+into the risks, values, and corresponding governance solutions to AI.
+Next, we will have Dr. Mark Knitsberg,
+who will be sharing his insights with us.
+Dr. Knitsberg is currently an Executive Director
+of the Center for Human-Compatible AI at UC Berkeley,
+as well as Head of Strategic Outreach for Berkeley AI Research.
+In industry, he has built technology ventures
+applying AI in healthcare,
+finance, education, and development aid.
+He has worked at Bell Laboratories,
+Microsoft, and Amazon,
+and developed and run diverse programs
+in industry and academia.
+Mark, it's great to see you in China again.
+This page is all yours.
+Thank you for having me.
+Thank you.
+Thank you.
+Okay.
+I am first and foremost a computer scientist,
+and I have been asked to give an overview
+of the US approach to AI regulation.
+And soI ask you to fasten your seat belts,
+because this is the first time
+I'm taking these ideas for a spin.
+我总是记得我们现时的现实情况和人工智能的极端层次数。
+它是世界上最大、最有能力的全面目标数字系统,
+它是世界上最大、最有能力的全面目标数字系统,
+它是世界上最大、最有能力的全面目标数字系统,
+尤其是在美国,
+人工智能根本没有任何制御。
+而这些制御无论如何都被融合在每个各界的人工活动中。
+所以,它是很难去制御的,
+尤其是因为系统的黑箱模式,
+尤其是因为它是一种全面目标的技术,
+而它经常被误解。
+那么,是否有美国的方式,
+让人工智能根本没有任何制御呢?
+我认为,
+我们与很多国家分享了一些主要目标。
+在美国,
+可能有一个特别的目标,
+就是推进美国人工智能的增长,
+而我们正在寻找美国主席,
+有能力的人工智能。
+我们正在寻找美国人工智能,
+我们希望为美国的经济、
+ civil society和国家保障,
+并且我们希望保护美国人工智能的严重影响和结果。
+我们也将分享了一些全球目标,
+这些目标被表明在许多原则中,
+例如,
+OECD原则,
+和美国国际公司,
+以及美国国际公司,
+I just took this one particular piece of the OECD principles 1.4, which is essentially about safety.
+The spirit of the current US approach to regulation is captured in the current process.
+Groups have been promoting competing interests and have resulted in three sets of potential laws.
+One is the executive order from October of last year, and that tends to target large models and guides the federal agencies, the existing federal agencies.
+Then there is a roadmap, the so-called Schumer roadmap, that came in May of this year,
+and that is weighing the promise of AI against the effect on jobs and laws and defense
+and doom, as he says.
+And then in California, some of our regulation is coming from the states.
+There is a bill that is making its way through the legislation, called SP-1047,
+and that is concerned with the safe and secure innovation with frontier models.
+Now there are some issues with these.
+The debates continue.
+None of it is law yet.
+There are some laws in specific states, and there are some very specific laws,
+but these larger frameworks have not yet made it to law.
+And then, as we have heard over the last couple of days,
+there are challenges to operationalizing.
+When you are working with...
+general purpose technologies,
+for example, it is hard to prove that a system has acceptably low risk
+if it is general purpose.
+You really need to know what it is that you are testing for.
+One of the aspects of the U.S. legal system
+is that there is a lot of existing law in various sectors,
+and so these do apply to systems that are using AI in those sectors,
+for example, health and transport, agriculture and finance.
+Some of those need amendment.
+For example, there were relatively few laws in transport for cars that drive themselves.
+But in many cases, the existing sectoral law gives a good baseline.
+And then there are laws that concern the just distribution of burdens and benefits,
+for example, in hiring and creditworthiness that cut across sectors.
+Another thing about the U.S. is that we tend to occasionally have some litigation,
+you may have heard,
+and this may be a situation in which litigation creating laws actually works out.
+So in the case of IP, for example, intellectual property,
+the issues of the use of certain data as training data,
+the use of likenesses,
+the way in which...
+the way in which creative jobs are treated,
+have made it through the litigation system,
+and then in consumer protection,
+the laws worked out again through litigation.
+There are other factors or other drivers,
+including simply insurability.
+If you are selling an AI-powered system,
+and you'd like to get insurance for it,
+you need to prove a certain level of safety and reliability.
+And then there are drivers coming from the other regulations,
+the EU Digital Services Act, for example,
+that affect the companies in the United States.
+I'd like to take a couple of minutes
+just to talk about some of the misconceptions.
+And I will remind you that unlike Dr. He,
+I am not actually representing my country.
+I'm speaking for myself.
+But I believe that there is a misconception
+that regulation is a significant barrier to innovation.
+I believe that done right,
+if we are attending to safety,
+then it's simply a necessary guideline.
+This is the case with many other technologies.
+And I think it's no different here.
+I also think that often capability
+is confused with safety.
+I think that as you see systems become more capable,
+that does not...
+equate necessarily with the immediate
+or direct correlation with the issue of safety.
+And then I think there is sometimes a confusion
+between what we call the red lines
+and the idea of asking developers
+to cause development
+on more powerful systems.
+That is not a red line.
+It's a different concept altogether.
+I do think that we can learn
+on the path to global governance
+from the existing international safety organizations
+like air transport safety,
+nuclear power information
+and telecommunications organizations.
+And the way they tend to work
+is that they find common ground
+and we converge where we can agree.
+And then where we can't agree,
+we either seek some sort of
+generalized agreement
+or simply leave it to the states
+in those areas.
+I think that this can work
+for international regulation here.
+It looks like I have the time
+to give a little bit more
+of a technical perspective
+from our center.
+I'm coming from the Center for Human Compatible AI
+and these are all the great people
+that I work with.
+And that is to give you
+just a quick look at the long game path
+that we believe
+is the right way to do this
+for safe AI systems.
+We of course are working now
+and you're hearing a lot today
+about making AI safe.
+And there are numerous techniques
+and methods like our LHF
+and constitutional AI
+where you have one AI
+looking at the outputs of another
+evaluations and audits
+and red teaming.
+And we've heard about
+digital neuroscience
+and the quantitative AI safety institute
+that I think is just getting started.
+And these are terrific directions
+for the systems that are
+not yet understood.
+And if we want to be able to use them
+as components
+we'll need to have
+some kind of quantitative bounds
+on their behavior
+in order to make AI safe
+if it is based on
+for example language models.
+But in the longer term
+and the central focus
+of the work at our center
+we are trying to make safe AI
+and to do that
+we believe it makes sense
+to revert to transparent
+explainable semantically
+analyzable systems.
+Apply formal verification
+for some specific forms of safety
+and then to use a
+secure ecosystem
+where nothing runs
+unless it's known to be safe.
+And there are
+some terrific inroads
+that we've been making.
+So this is the view
+from the center
+and thank you very much
+for the opportunity to speak.
+Thank you so much Mark.
+Please remain on stage
+and prepare to be seated
+as we get set up for our panel.
+To conclude our discussion
+on AI safety guidance
+we will have a panel discussion
+with our experts.
+Let's welcome back on stage
+Professor Gail Kuo
+and Professor Zhang Linghan.
+We are also joined by
+Professor Ji Weidong
+and Dr. Wang Yingchun
+Professor Ji, Dr. Wang
+Please proceed to the stage
+as I start introducing you.
+Professor Ji Weidong
+was formerly Dean
+and Co-Guan Chair Professor
+of Shanghai Jiao Tong University's
+School of Law.
+He is now a professor
+of Humanity and Social Sciences
+President of the China Institute
+for Sociolegal Studies
+and Director of the Center
+for AI Governance and Law
+at Shanghai Jiao Tong University.
+Dr. Wang is the Deputy Director
+of the Shanghai AI Laboratory
+Governance Research Center.
+Dr. Wang has presided over
+and participated
+in dozens of national,
+provincial and ministerial projects
+including the development
+of the Open AI Governance Platform
+Open EG Lab
+and other AI governance systems.
+A moderator for this session
+will be Fang Liang
+Senior Governance Lead
+at Concordia AI.
+Prior to joining Concordia
+Fang Liang worked at Baidu
+where he researched AI governance
+and participated in
+the research and development
+and participated in
+the formulation of
+several Chinese government
+AI policies.
+A round of applause
+to our panelists.
+大家下午好
+相信大家聽了今天的講座
+都能很深刻地感覺到
+人工智能已經很深刻地
+影響到全球的經濟社會法律
+但我們理解這種影響
+其實對全球不同地區的
+基於的挑戰
+其實是不同的
+所以我們這個論壇
+也想談一下
+人工智能治理的
+地區視角和經驗分享
+首先我們可能想談討一下
+發展與安全的問題
+我們先從新加入的
+季老師開始吧
+我看見您最近寫了一篇文章
+是何時真正邁入
+人工智能治理的
+立法時刻
+裡面確實提到了一個
+人工智能的發展
+安全之間的價值判斷
+以及通訪選擇
+還沒有形成共識
+同時您也提到
+在多默態大模型
+或遠大模型
+只有他們的性能
+與安全度
+形成某種正別的關係的時候
+您認為才能形成
+真正的人工智能立法時刻
+您能幫我們進一步闡述嗎
+好的
+最近200年來
+科技的發展
+對於人類社會的進步
+產生了非常巨大的影響
+我認為19世紀的
+內燃機加電器技術
+使我們人類
+有了生活的自由
+那麼20世紀
+互聯網加通信技術
+使人類有了信息的自由
+21世紀大模型加腦機接口
+使我們有什麼呢
+現在很難想像
+但是至少是有了創新的自由
+甚至是從無到有進行創新的
+這樣一種可能性是展開了
+也就是說它可以
+賦能社會 賦能人類
+會帶來福利
+但是確實會引起
+這樣那樣的安全上的問題
+我們可以看到
+大模型出來之後
+至少是有四個方面的問題
+因為大模型大量的使用數據
+它可能會引起隱私方面的憂慮
+另外我們可以看到
+大模型由於它的能力泛滑
+造成了幻覺現象
+可能會引起虛假信息
+以及誘發各種各樣的犯罪
+另外一個在知識產權問題上
+它也可能會引發
+這樣那樣的複雜的問題
+還有一個它可能會使得
+整個社會治理的中樞機關
+出現漏洞
+最後會導致信息社會
+發生功能障礙
+這些都讓我們感覺到不安
+問題是我們如何處理
+這樣的問題
+當然前面講到了
+科技給人類社會
+帶來了巨大的福利
+如何在這兩者之間進行平衡
+我們可以看到
+在亞洲在非洲這些國家
+對他們來說
+發展是一個更突出的問題
+他們希望能夠實現一種
+互惠的科技的發展
+當然我們知道
+像美國日本還有中國
+非常強調在發展和安全之間
+尋求平衡
+另外一方面我們可以看到
+歐盟最近通過的人工智能法
+提出來了安全高於發展
+這樣一種價值取向
+如何在這個中間
+找到適當的平衡
+我們可以看到
+各個國家有不同的立法模式
+我想這個是值得我們進一步探討的問題
+謝謝分享
+接下來想請教王老師
+您作為研發機構的代表
+我們知道上海人工智能實驗室
+也曾經發生過
+做了很多安全
+對其品質的工作
+包括昨天周主任也提出了一個
+安全發展的45度平衡率
+想請您來解讀一下
+您認為的安全和發展之間的關係
+好的 其實昨天周博文教授
+在世人大會的上午的大會
+參與會議上他分享了
+我們實驗室對這個問題的一個
+很重要的一個判斷
+他稱之為一個
+技術體系的一個思想
+就是人工智能的45度平衡率
+現在整個人工智能發展
+我們認為是跛腳的
+無論是從它的
+大部分的技術和算力資源
+都投在它的性能的研發上
+雖然我們有IIS
+這些既兼顧性能和安全的技術
+但總體上還是偏重於性能的
+就導致我們實際上
+從技術社區來看
+投入到安全方面的資源
+人力和算力都是嚴重不足的
+而且我們的技術方法
+目前還是後續的很分散
+我們是希望能夠找到一個
+能夠安全優先
+同時能夠兼顧性能增長的
+這樣一條技術的路徑
+當然這個技術路徑的探索
+是非常複雜的
+也非常艱辛的
+我們也是周教授
+發出了這樣一個呼籲
+希望能夠
+我們沿著這條45度的線
+去推進人工智能的發展
+當然這個過程當中
+其實如果這條路徑
+能夠走通的話
+我相信目前人工智能的
+安全風險面臨的很多挑戰
+它從基礎上可以得到
+很重要的一個保障
+我們也在做這方面的努力
+所以我想強調的是
+其實我們需要有一個
+大家共識性的這樣一個
+發展路線的框架
+我們不能長期低於45度來發展
+但如果長期高於45度
+也很難
+這個市場商業化的要求
+但是我們是不是有這樣一個
+理想的路線
+大家共同來努力
+這個路徑
+我覺得還是很大可能能夠實現的
+謝謝
+而且可能需要
+更多的調整去靈活應變
+接下來我們可能想聊一下
+不同地區的一些
+治理挑戰
+獨特的機遇
+Gal
+我們可能想聊一下
+最近其實中法的人工智能
+治理聲明之後
+其實中國國內對法國的情況
+其實也都非常感興趣
+您能介紹一下
+在法國的人工智能
+有哪些比較獨特的
+機遇和挑戰嗎
+以及可能我們也是到
+2025年初
+會有一個AI行動峰會
+您能談一下您對它的期待嗎
+好
+好的
+謝謝您
+那我可以談一下
+法國的具體性
+我們一步一步回顧一下
+法國的具體性
+可能比其他國家不同
+那我看到的一件事
+在法國是很不同的
+我們現在正在做的
+一個相當困難的
+社會與經濟論壇
+在各個國家中
+所以我們有很多
+在各個領域中
+在社会层层上
+无论是在工作人员和决定者之间
+或是在城市之间
+还有更多的区域
+也可能是在其他国家的
+但在法国的情况下
+也很明显
+另一个形成讨论的方面
+就是经济
+历史上
+纽约是一个相当低线的经济
+我们是纽约的数字服务者
+这形成了我们的关系
+与数字服务的关系
+然而
+法国的AI能力非常强
+所以目前的经济流程
+正在改变
+这将带来很多希望
+和正确的动力
+在城市中
+而不是在城市中
+在政策方面
+我们的政策
+我们开始将着重新展示
+各种设施
+在不同方式中
+过程中
+包括投资
+有增加的投资
+而不仅是在
+电脑产权
+而也在
+国内的公共产权
+在我们看到的
+是在
+二次世界大战
+我們看到的就是自然電子設施的策略
+在建立公共業界的電子設施上
+有增加的動力
+並且與公共業界的電子設施合作
+其中一個挑戰是
+將社會不同層次之間的障礙
+與每個人的各種各樣的層次
+而這裡的角度是
+要維持人間的聯繫
+並且不僅僅是在電子的聯繫
+而是在各個地區的聯繫
+所以這裡的挑戰是
+避免電子分隔
+我們有電子分隔
+我認為每個國家都有電子分隔
+我們在那裡投資
+以提升討論
+這就是我們在法蘭斯所採取的規範
+謝謝
+謝謝
+電子分隔我覺得是最重要的
+張林河老師我們現在請教一下
+你
+我們知道您今天起草
+並發佈了一個人工智能法的學者建議稿
+然後剛才在演講中也提到了
+中國風險治理的修正
+以及治理的本土化
+您能在整體上談一下
+您認為的中國人工智能立法的
+整體邏輯和整體架構嗎
+謝謝
+回答這個問題呢
+其實我覺得可以從兩個角度來考慮
+中國的人工智能立法
+第一個層次
+我們要把它理解成是中國的制度名片
+在全球共同區認為
+應該處理人工智能風險的時候
+中國作為一個人工智能技術相對領先的國家
+作為一個大國
+如何去打造一個
+我是一個負責任大國的這樣的形象
+同時我們也可以看到
+實際上在人工智能治理的工作當中
+中國已經做了很多很多
+中國是世界上唯一一個
+對於人工智能安全治理
+覆蓋了國家規劃
+法律
+行政法規
+部門規章
+技術標準的
+全方位覆蓋的國家
+也是目前一個
+對於大模型的治理
+已經實際落地的國家
+但是
+我們在人工智能安全治理方面
+所做的努力
+並不為世界所知道
+其中一個重要原因就是
+我們缺乏一部高位階的法律
+去作為中國的制度名片
+讓大家知道
+中國曾經做了
+中國正在做那些事情
+或者已經做了那些事情
+在聯合國的工作組裡
+我們大概一共有30多位專家
+其中我在這個組裡
+有一部分的工作
+就是要告訴大家
+我們中國已經做了什麼事情
+讓我很驚訝的是
+作為國際上比較集中的
+對人工智能治理很了解的
+這些專家們
+其實也有大部分
+並不太了解中國
+在產業的治理當中
+做了什麼實際的事情
+我認為這是人工智能立法的
+第一個最重要的目標
+第二個就是要
+符合中國本土的治理需求
+我非常願意把中國
+在世界上的位置定義為
+領先的追趕者
+領先的追趕者意味著什麼
+一方面你作為一個大國
+要去治理好人工智能安全
+不能讓中國成為
+人工智能治理的挖地
+還是滴地
+但是另外一方面
+我們也要充分認識到
+中國人工智能的
+技術和產業發展
+需要大量的法律法規的調整
+去為人工智能技術產業的發展
+提供要素提供資源
+同時去為人工智能產業
+設置一個合理的
+法律責任的框架
+那麼在這兩個理念的指導之下
+我相信
+不管是什麼樣的制度
+經過我們充分的討論
+希望將來能夠形成
+既作為中國制度名片
+成為中國在全球人工智能治理當中
+重要形象代表的一部人工智能法
+同時這部人工智能法
+也能有效的防範人工智能風險
+促進人工智能安全
+並且符合中國本土技術
+和產業發展的需求
+謝謝
+謝謝
+中國學者很多工作
+需要更好的去對外傳播
+其實我們也做了很多
+幫助中國的不管是安全研究
+治理還是立法工作
+對外傳播工作
+希望能正好地展示中國的工作
+接下來我可能想聊一下
+最近比較熱的
+人工智能安全研究所這個事
+然後自去年英國AI安全峰會以來
+其實已有大概
+美國 英國 法國
+在那十個國家
+還有歐盟
+都成了自己的
+國家級的人工智能安全研究所
+包括一個全球性的研究網絡
+接下來我可能想請教Mark
+你會怎麼看待
+這樣一個人工智能安全研究所
+你覺得它
+它們為什麼要成立
+它們要做什麼工作
+以及未來會做些什麼
+謝謝
+這是一個很好的問題
+我只想要保證
+我會重申中國在AI管制上
+進步的訊息
+我們在中心
+在我工作的中心
+加入了美國
+國際AI安全研究所
+這是你在說的嗎
+國際
+對
+我
+我
+我
+我
+我
+我
+我
+我
+我
+我
+我
+我
+我
+我
+我
+我
+我
+我
+我我我我我我 es
+我想看
+ bully
+blind
+well
+aw
+well
+well
+well
+well
+well
+避免惡劣事件和決定該如何計算等等,
+在某種程度上是國家的主要方式。
+我參與了一個討論,
+我們在討論是否是一種必須。
+我認為這意義是完美的,
+但這並不是絕對的必須。
+我認為,
+至少美國AI安全基金會是一個值得的行動。
+謝謝。
+我們也希望不同的國家裡的AI軍所之間
+有更多的機會,
+有更多的合作,
+包括和中國的機構之間。
+我們這個論壇是前AI安全之旅,
+所以一個重要的議題也是討論
+怎麼去減輕所謂的AI潛在的擔任性風險。
+我想還是請問季老師,
+我們知道AI潛在的擔任性風險
+其實目前有很多不確定性,
+包括它的嚴重性的可能性,
+它的緊迫性層面。
+大家都有不同的理解。
+那麼在存在這種不確定性
+和不同的沒有共識的情況下,
+你覺得怎麼能推進這方面的政策和治理呢?
+OpenAI提出來了一種非常有影響力的方法,
+是價值對齊,
+包括和人類的,
+人工智能和人類的價值對齊,
+以及國際的價值對齊。
+剛才張林涵教授在主旨演講中也提到了
+價值,以價值為基礎的
+這樣一種人工智能治理問題。
+我的觀點稍微有一點不一樣,
+因為價值對齊是一個很複雜的問題。
+我認為溝通程序更重要。
+為什麼這種方法更重要呢?
+首先我們知道,
+當我們談人工智能安全的時候,
+我們其實需要有兩個視角,
+一個是監管者的視角,
+我們中國採取的國家備案制以及驗證技術。
+另外一個是用戶的視角,
+我們要強調可解釋性,
+要跟用戶之間進行反饋。
+這個過程,
+我們覺得程序性的過程,
+溝通的過程非常重要。
+在理論上我們可以看到,
+一個是技術性程序公正概念的提出,
+另外一個是一批中國學者今年年初
+在《自然》雜誌的子刊中提出來的
+儀式性的對話框架。
+強調在這種一種對話的氛圍中,
+可能對人工智能的可信性是具有非常重要,
+重要意義的。
+另外一個就是說,
+在這個過程中,
+我們實際上看到就是要把這種程序公正,
+監控嵌入到人工智能系統中去,
+或者讓人工智能系統之間產生制衡的作用。
+這個我認為就是技術性的,
+程序性的安全監管的一個非常重要的內容。
+在這方面其實已經有一些很好的先例,
+一個是新加坡,
+何先生剛才也提到了新加坡的經驗,
+新加坡的AI Verify是一個很好的示範。
+當然它具有普遍意義,
+像美國的Watson X Governance是一個監管模型。
+日本就在上個月,
+6月4號發佈了綜合創新戰略,
+這個中間也特別提到了,
+它有三個基本方針,
+在人工智能這個方面,
+強調安全與競爭力這樣的一個平衡,
+也強調技術性的側面。
+如果我們把這些因素放在一起的話,
+那就是說通過科技公司的技術能力的提升,
+使得人工智能的技術能力提升,
+來加強它的安全保障,
+這個思路就成為可能。
+如果我們從這個角度來看的話,
+那麼今年3月份,
+北京人工智能安全共識,
+提出來的三分之一的研發預算,
+投入到安全保障領域,
+這就是可以接受的了,
+可以理解了,
+科技公司就認為這是可行的了。
+如果這樣的話,
+我們就人工智能的治理,
+可能達成更廣泛的共識,
+而這個共識呢,
+恰恰是立法的基礎。
+那王老師您會如何回應剛才季老師的?
+對,我覺得,
+這個沿著季老師講的,
+我們提出一個概念吧,
+也是和薛蘭老師,
+我們邱大學和焦大一起研究的,
+我們希望提出一個概念就是,
+人工智能是全球公共品,
+就是AI safety as global public good,
+是什麼概念呢?
+其實我們看到現在全球的,
+對人工智能安全風險的討論,
+往往是把AI安全,
+作為一種風險去監管的,
+這是風險管理的視角,
+我們還有,
+其實可以補充到另外一個維度就是,
+剛才季老師提到了,
+我們更應該做的是,
+去把人工智能安全作為一種公共的產品,
+政府,企業,第三方,公眾,
+一起來共同建設,
+共建,共知共享,
+來提升人工智能安全的相關的知識,
+能力和資源的供給,
+這個是非常非常關鍵的,
+大家其實對現在人工智能安全有很多的擔憂,
+這個擔憂的前提就是,
+無論是政府還是企業,
+其實大家對人工智能安全風險的知識是不夠的,
+當然這個過程就需要大家補充充分的討論,
+剛才季老師也提到了,
+包括科學的研究,
+所以我們關於人工智能安全的知識的形成過程,
+需要大家共同參與的,
+這本身是一個需要加大供給的安全的維度,
+另外就是人工智能安全的能力,
+我們是否有足夠的技術手段,
+和相關的工作去支撐人工智能安全的提升,
+再一個就是,
+我們是否有足夠的人工智能安全方面的資源的投入,
+或者是公務服務的產品的開發,
+這個是非常非常關鍵的,
+比如說去上海我們也來做相關的工作,
+我們經常舉辦一些沙龍,
+各種各樣的形式,
+其實是用柔性的方式,
+把不同的主體來共享它的知識,
+共享它的對風險的認識,
+達成一些共識,
+我們共同去推進一些安全的基準,
+標準的建設,
+包括資源庫的建設,
+包括治理的平台的建設,
+我知道新加坡其實也做了很多很好的,
+這次的工作,
+我想這也不是上海和新加坡獨有的工作,
+而是全球各方面都在做這個努力,
+所以我們希望提出這個概念就是,
+AI safety as a global public good,
+全球都應該共同去建設這樣的人工智能安全的公共體,
+特別是像美國,
+歐洲和我們中國,
+其實原有的人工智能發展技術比較好的國家,
+應該去合作,
+來加大對於全球人工智能安全的公共體的供給,
+有很多的發展中的國家,
+可能他們原有的基礎沒有那麼好,
+資源圖基礎比較好的國家,
+應該去共同建設,
+這個工作其實需要科學家社區的合作,
+也需要企業智能合作,
+需要在不同的聯合國,
+不同平台上去做,
+我覺得這個其實,
+如果我們形成這樣一種共同認識的話,
+可能後面我們很多有意思的工作可以共同推進,
+謝謝,
+非常遺憾,
+今天時間有限,
+所以可能意猶未盡,
+也感謝大家今天的分享和交流,
+期待以後有更多的時間,
+謝謝。
+謝謝,
+謝謝,
+謝謝你,
+謝謝你,
+謝謝。
+第2个问题是,这些发展发生的机会和风险都很大。
+防御需要严格严重,例如避免车和车轮崩。
+高级安全,例如保证经济或市民服务的系统使用不坏。
+还有,严重发生的环境,例如严重环境,例如资源严重,或最高的AI系统失控。
+这些问题可能不够急,但这些问题可能不够不适应。
+你都知道,AI持有很大的承诺。
+我们在全世界遭遇了许多困难。
+简单的医疗任务,并增幅广泛的服务。
+目前,世界大约半个国家人口的4.5亿人缺乏。
+想想,在全世界,有250亿的高级学生的教育目标。
+在2015年,大约有2.3%的世界人口将在农村地区居住。
+这些利益只能实现,如果我们也谈论 frontier model的风险。
+这些模式可以创造假内容,传输资讯,降低有效的资讯攻击阻碍。
+如果在国内使用军队和国家的联盟安防系统中,
+这些模式也可能会被迫害。
+坦白说,正如你们所知,目前没有任何证据显示现时的模式有失控或提供生物武器的援助。
+但这些风险可能会在未来发生。
+实际上,在AI的封闭上,在未来的未来,我们可能会看到一些能够对我们的系统作出行动。
+在互联网上,互联网与其他AI系统之间的关系,
+互联网与其他AI系统之间的关系,
+互联网与人类之间的关系。
+人类之间的关系有时会与人类进行深入的社区互动。
+我们现在想象的,我们可能只能与人类互动。
+政府和公司的决策将更加受到这些系统的影响。
+最终,在人类的决策中,
+人类的决策和人类的决策,
+人类的决策和人类的决策将更加受到这些系统的影响。
+人类的决策和人类的决策将更加受到这些系统的影响。
+在这些变化中,
+我们需要国际协调的基础。
+这带我来到第三点。
+当我认为AI的管治在海外,
+在最严厉的系统中,
+在最严厉的系统中,
+在最严厉的系统中,
+在最严厉的系统中,
+在最严厉的系统中,
+在最严厉的系统中,
+在最严厉的系统中,
+那 이� sayin94 piercing
+well into the 21st century,
+the us and china have a spacing
+the us and china have a spacing
+ grad stable system,
+one that provides civil
+un Mean
+so we need a sustr
+필sans��는
+figure out.
+cover
+that means taking the
+opportunity
+in promoting
+在AI的利益上提供了更多的資訊
+並且提升了AI安全的討論
+因為這兩項目的目的
+必須是相互聯繫的
+是的,是真的
+競爭是一個著名的元素
+在指定人工智能的領域
+並不可能完全消失
+但我們也看到了
+國際協調的影響
+包括在中國和美國之間
+我給你們一些例子
+從那次AI安全會議開始
+在Flexley Park的第一次AI安全會議
+在2023年11月的英國
+28個國家
+包括中國和美國
+發佈了一份
+專業主導的
+國際科學報告
+關於進一步AI
+進一步AI的報告的發佈
+與2024年5月的
+AI Seoul會議相互聯繫
+在蘇州
+10個國家
+加上英國
+都答應了
+設立一個
+國際安全會議的網絡
+確實的承諾
+一直在發生
+在這些會議中
+但正在發生的
+是有非常大的
+主要的
+因為它是
+在2024年
+到的AI安全會議
+尤其是在
+2025年
+在2024年
+在這個會議上
+在戰機會上
+還有其他會議
+接著再接著
+在2025年
+國際安全會議
+也會在2025年
+發行
+此後
+我認為
+這個Flexley達成的
+發展
+除了在
+美中的
+相對的
+方向
+是更大的
+在ild
+不只是海外的
+在美国和其他国家的参与上设立了高层负责人员组织
+将来这位专业组织将向未来的总统讨论的最后建议
+在2024年的春期中
+在2024年3月
+总统实际上採取了美国主席的讨论
+谈判维持人工智能发展
+几天前
+美国主席的总统讨论与美国的支持
+我认为这些讨论非常鼓励人
+在国际层面的活动上
+和在美国的互联网上
+这些讨论与美国的活动相符合
+第四
+国际协调
+包括我刚才介绍的这些地区
+包括更多的国家
+我给你们的一些例子
+包括台湾
+美国的协调部队
+描述了外部政府
+有些人能够帮助
+推动AI安全
+例如最近发布的
+《科技研究讨论》
+《AI安全》
+许多国家
+都同意了这个讨论
+美国政府正在进行
+如何更加支持这个讨论
+可能是与外部人员联系
+研究员和其他专家
+都把这个讨论推出了
+独立研究员将这讨论提供
+这讨论将会创造一个
+AI安全的基础
+一个值得提供的资源
+帮助世界更加明确
+与AI发生的讨论讨论
+我们需要在政府上
+发挥什么优势
+什么国际协调最重要
+外部政府的讨论与谈论
+亦创造了国际的
+未来能够联系的条件
+当然
+有时候会有困难
+更加鼓励协调
+协调AI的风险和利益
+中国和美国各国都同意
+讨论一些讨论
+这是理解的
+根据国际保险批准
+专业AI的发展讨论
+但这实际上
+并不代表有定义的目标
+通过协调
+在AI的风险理解
+和解决的情况下
+利益会更加扩展
+国际能够丰富讨论
+并提供负责AI的管理
+中国和美国两国
+都有兴趣的
+在AI的安全过程中
+提升安全过程
+在共享最佳的试验
+和测试
+和测试
+国际系统的讨论
+以及在监控
+和准备
+未曾发生的
+严峻的风险
+但未来可能
+或可能会发生
+例如AI系统的失控
+我认为
+我为此而站起来
+是因为这种聚会
+能够提供机会
+提升讨论这些问题
+并使政府
+在任何情况下
+合作
+这是一个
+对AI的其他挑战
+很难的时刻
+但这也意味着
+国际协调
+更加必要
+这要求我们
+尽量与共产党
+执行谈论
+与协调
+以责任性
+与严格
+因为这将使世界
+从AI的成就
+更加有利
+以及它将得到
+人类的所有贡献
+这是我为此
+更加期待
+与与与与
+与与与与与与与与与与与
+与与与与与与与与与与与与与与与
+这就是它的Organization
+ рядом的
+ nghĩ dieta
+是 Point 2
+Win qin
+座
+Win qin
+ Northern
+ included
+ steals
+A
+ hardly
+丁薛蘭
+丁薛蘭是清華大學
+崇康教授
+在清華大學
+他擔任國際管理
+智慧基礎學院教授
+莫斯科學院教授
+中國科學學院教授
+科技政策學院教授
+國際智慧基礎學院教授
+目前他擔任
+國際智慧基礎學院教授
+國際智慧基礎學院教授
+國際智慧基礎學院教授
+國際智慧基礎學院教授
+中國新世代智能管理
+和中國科學協定會
+負責說明
+丁薛蘭
+我們很高興的
+可以與您一起倾談
+請您擔任教授
+謝謝
+我相信
+大使過
+非常感謝
+I was staying so late to join this dialogue
+and I have to say that actually I did this PowerPoint
+just while I was there listening
+I was burned out yesterday by the big screen
+and not necessarily the most comfortable way of using PPT
+so I decided not to use it initially
+but then I actually saw the wonderful presentations you made
+and I realized that some of the graphs
+actually it's better to be shown
+so let me try
+Okay, I think they basically
+I think the role of governance
+and safety and so on
+has really I think it's amazing
+I think getting recognized
+and we've seen the recent efforts
+of course it's already been
+you know UK safety summit
+and Korea this one and this year
+EU safety law
+or in the last
+you know 12 months
+so I think this is really strong
+I think it's a wonderful sign
+that we are all paying attention to this
+but of course partly this is really based
+indeed I think there is a huge recognition
+about the AI risks
+of course I think there could be
+you know very specific one
+but also there was also the concern
+about the autonomous AI system
+that can really you know
+be getting out of control
+I think so because of this
+I think that in
+I think that of course there is a lot of
+you know countries have already
+taken various measures
+to try to address the governance issue
+many of them are you know
+more looking at the domestic issues
+other also looking at the global issues
+so I think you know
+Ling Ha has really done a wonderful job
+in talking about China's
+AI governance in the system
+so I think this one
+I'm more of a looking at the global issues
+so I see that globally
+there are you know some
+major challenges
+I think in terms of how
+actually we can
+address the governance challenge
+I think the first one
+of course it's not you know
+stranger to this audience
+the challenge from the
+so called the pacing problem
+that's so called the
+you know the
+you know technology
+that really moves so fast
+while the you know
+political and institutional changes
+are moving much slower
+so in that sense
+there's always that gap
+so how do we
+address this problem
+so I think that's sort of the
+the first one
+I think everybody knows
+I think the most
+I think recently
+I feel there's another new
+challenge that's sort of emerging
+I think from some of the discussions
+I've heard
+it's about the direction
+of technology development
+because I think so far
+I think everybody
+you know saying
+okay now we need a lot of computing
+and we need to increase the
+the power of the system
+and then just
+the scaling law will get us
+you know to some
+you know future directions
+but I think
+I think I again
+you know I just
+anecdotally I've heard some
+you know leading experts and scientists
+at the beginning to question about
+whether this is the only approach
+and whether there could be
+other ways
+to think about
+how do we actually
+achieving the
+more proper and healthy
+development of the
+AI system
+so I think that certainly
+again I don't know
+whether that's being
+shared you know by
+many other experts
+but I can see that
+emerging
+you know gradually
+there might be some
+new thinkings about this
+and you know
+in technical communities
+and the third one is
+institutional
+I think here is where
+you know I'm more familiar with
+is what I call the challenge
+from the regime complex problem
+I think actually
+I think Tino has really
+touched on this one
+that is
+that's you know
+I think this is a
+basically talking about
+an area of
+partially all
+overlapping
+and non-hierarchical institutions
+governing a particular issue
+previously I worked on
+one issue
+it's gene data
+you know the governance of gene data
+I think there is very similar
+issue but here I think
+this is pretty much the same
+that you have AI issue
+that I think a lot of
+institutions a lot of
+you know mechanisms that actually are
+related to
+to the governance of this
+but they don't have a
+hierarchical relationship
+so some of them
+you know like professional organizations
+you know
+foundations
+legislative bodies
+and so on
+they all have their own
+you know ways of
+governing particular issue
+and actually that's sort of
+the situation we're in
+I think Tino actually has
+touched on this as well
+so I think
+how do you
+coordinate all these institutions
+how do you really
+put them together to
+you know
+for companies to be able to
+figure out what's the way to
+to follow
+so I think this is the
+you know the third
+I think the last one
+I think
+again I'm very glad that
+Tino touched on this
+it's a challenge
+from geopolitical problem
+this is the big elephant
+that in the room
+that often people
+not necessarily want to talk about
+I think that
+you know
+we've studied
+you know
+S&T policy
+the science and technology
+policy for
+many years
+and watched the US
+S&T collaborations
+for many years
+so what we've seen
+that since 2017
+there's a
+rapid deteriorating
+US China
+you know
+S&T collaborations
+so I sort of
+came up with this graph
+to show it
+you know clearly
+along two dimensions
+to say how
+the collaboration
+between scientists
+of the two countries
+whether this generating
+some benefits
+for national security
+or whether this generating
+some economic
+you know
+benefits
+so we can see that
+in one area
+there's a
+Q1
+you know it's
+neither
+neither you know
+in national security
+nor in economic benefits
+so basically this is
+you know useless research
+the basic research
+right so basic research
+is in Q1
+Q2 is that
+basically enhancing national security
+and not economic
+prosperity
+and this is what
+so called the defense
+or
+dual use technology
+and the third one
+Q3 is commercial technology
+for economic benefits
+but not
+national security
+and fourth one is the
+that can be both
+that's what
+let's put frontier technology in there
+so I think if we could
+if we do this
+we can
+you know
+very roughly
+you know divide
+technologies
+and the research areas
+into four
+major quadrants
+so before
+2017
+Q1 is basically
+following the
+principle of international
+S&T corporation
+and Q3 is commercial technology
+you have WTO trips
+and then
+Q2
+there's a
+so called
+WASENA agreement
+on expert control
+that U.S. controls
+the export of those technologies
+to China
+so that
+has been in place
+for many many years
+Q4 I think
+it's a question mark
+I think it's a new
+frontier technology
+and frontier research area
+and I think
+it really depends
+so I think that
+previously was
+pretty much
+I think four quadrants
+was in that place
+but since 2017
+the policies
+on Q2
+was being pushed
+in all directions
+including on
+Q1
+Q3
+and Q4
+so that has been
+the case
+since 2017
+I don't have to
+repeat the stories
+about the
+you know the
+China initiative
+and many of the
+scientists
+who were persecuted
+and so on
+so I think
+that's the current
+atmosphere we are in
+I think that
+so I think that
+when we talk about
+you know
+collaborations
+on the
+on
+you know
+AI governance
+and so on
+but that
+that is the situation
+we are in
+and that really
+generates a
+cheating effect
+for people
+to work together
+first of all
+I
+you know
+I'm sure that
+many of our
+US colleagues
+that
+when they
+come to China
+they may have to report
+to their institution first
+or they may have to
+write a report back
+to say
+okay what we've done
+in China and so on
+and also I think
+for many companies
+many of the companies
+you know
+I was involved in
+some of this
+you know
+whatever the tracks
+dialogues
+many of the companies
+they don't want to
+to attend
+because they are
+concerned
+that they may be
+added to
+entity list
+so I think
+when
+in that kind of
+atmosphere
+when we talk about
+collaboration
+and so on
+I think it's
+very hard
+I think to be
+realistic
+and so that's
+sort of the situation
+we're in
+and let me find
+finally before we
+get to
+dialogue with
+Tino I think
+I'll just say
+what are some of the
+possible ways to
+address this challenge
+and I fully agree
+and that was also
+part of the
+you know
+paper on that
+calling for increased
+research
+on safety and
+governance
+and
+I think one third
+might be
+too ambitious
+let's say
+10%
+let's start with that
+but I think that's
+something that
+we certainly
+need to do that
+the other things
+also we need to
+do a lot
+maybe some joint
+international research
+for example
+particularly on
+how we actually
+we can
+you know
+in
+addressing risk
+you know
+risks and
+addressing
+so called
+crisis management
+you want to have
+so called the
+you know
+contingency plan
+to address the
+contingency plan
+to address those
+emergencies
+so for those
+kind of contingency
+plans
+I think we need
+to have technical
+people to work
+together
+so I think there's a
+lot of you know
+potential for
+international joint
+research
+on the
+second issue
+how do we address
+the pacing problem
+I think we've
+in the last few years
+we've been calling
+and trying to
+you know
+to
+to talk to
+you know
+and
+to different agencies
+about so called
+agile governance
+meaning that
+the
+you know
+the government
+doesn't have to
+you know
+come up with
+comprehensive laws
+like the EU law
+AL law
+but rather you can
+take a more adaptive
+approach
+but act quickly
+when there
+you see some
+signs of problem
+then nudge
+and then otherwise
+you know
+you can do more
+I think that's
+sort of the
+at least
+one thing that
+the government can do
+but also of course
+I think
+Ming Han has already
+gave a very
+excellent description
+and the third
+I think we should also
+think about
+not just to rely on
+the government
+industry self regulation
+can be also
+very useful
+I've heard
+you know
+stories from my colleagues
+talking about
+the US
+nuclear
+operators
+they have an
+association
+among themselves
+actually
+they do a
+one thing
+wonderful
+I mean
+they actually
+they self regulate
+in many
+very very strict ways
+you know
+you have
+many of this
+nuclear
+reactors
+that they have
+they
+you know
+they have various
+from time to time
+have some minor
+mishaps
+and so on
+but they all
+have to report on
+to this
+community
+so that they can
+study
+and they can see
+what can be learned
+and how actually
+they can avoid that
+this self regulation
+I think would be very
+useful
+I think that
+we probably
+should also
+think about
+how to
+revive
+you know
+let that
+mechanism
+to work
+and finally
+on the international
+governance
+of course
+I think we
+it's great to see
+that UN
+has stepped in
+and playing a
+very important role
+in having this
+high level
+expert
+group
+and I
+hopefully
+it will
+come out
+but at the same
+time as
+as
+and I
+probably both
+agree that
+this is such a
+complex issue
+that it
+be very unlikely
+to have any
+institution
+to be able
+to do
+a hierarchical
+and top down
+approach
+to
+to govern
+this
+so I think
+multilateral
+you know
+so network
+kind of a
+system
+that might work
+and some
+one area
+and some others
+may work
+on other
+issues
+but here
+I think we
+probably need to
+separate
+three
+type of
+issues
+I think that
+maybe that
+in the future
+we can
+have more
+time to
+discuss
+the first
+is that
+indeed
+I think this
+type of
+issue
+mostly
+domestic
+kind of
+regulations
+on the
+different
+culture
+and
+and
+you know
+legal
+environment
+economic
+environment
+and so on
+so I think
+the bond to be
+differences
+in the
+governance
+of
+as
+use
+in
+domestic
+environment
+the second
+is more of
+really
+for international
+you know
+communities
+I think
+for example
+I think the
+third
+category
+would be
+somewhat
+difficult to
+manage
+but also
+we have to
+be mindful
+is the
+one that
+is the
+kind of
+domestic
+risks
+that may
+have
+international
+spillover
+international
+externalities
+of course
+there could
+also be
+international
+regulations
+that
+have
+and finally
+so of course
+the US China
+rivery
+how do you
+you know
+how to address
+that issue
+I think that
+it's
+of course
+very challenging
+and
+certainly
+this is not the
+venue
+to talk about that
+but at least
+I think the
+minimum
+I would require
+is
+to request
+is to see how
+actually we can
+provide some
+safe space
+for our
+technical communities
+在这页中的许多人
+为了让他们能够一起合作
+他们不需要担心
+他们可以自由地
+谈论这些问题
+从技术角度来说
+如何解决这些问题
+所以没有这些
+我认为很多
+人们所谈论的事情
+是不可能的
+谢谢
+Thank you so much Dean Xue for your candid and succinct outline of the challenges and solutions in AI governance
+As we transition to our fireside chat with you and Tino
+The discussion will be moderated by Jason Zhou
+Concordia AI's senior research manager
+Jason led the Concordia's State of AI Safety in China report
+and graduated from Tsinghua University
+as a Schwarzman Scholar
+We welcome our speakers now
+I have to say that
+I'm very proud that
+Jason is a graduate of the Schwarzman Scholars Program
+Thank you so much Dean Xue
+Welcome Tino as well
+It's such a pleasure to moderate this conversation
+Let's just jump right in immediately
+So earlier this year in May
+The US and China had the first meeting of a bilateral landmark AI dialogue
+There were two areas of friction
+and some areas of
+Clear consensus
+They held a professional and constructive discussion
+But let's talk a bit about the frictions
+So on the Chinese side there was reference to
+Objections to US technological restrictions
+Such as some of the ones that Dean Xue just mentioned
+And on the Chinese side
+On the US side there were complaints of misuse of AI
+Including by China
+So my first question is
+How can we surmount these
+Geopolitical barriers
+To dialogue
+And is it even possible
+Let's start first with Tino online please
+Thank you Jason
+Great to see you again
+And Dean I very much enjoyed your remarks
+I also have long been impressed with the Schwarzman Scholars Program
+I should add that the best babysitter my wife and I ever had for our kids
+Went on to become a Schwarzman Scholar
+She's been great
+So I continue to just be impressed with the program
+I think the questions are a very urgent one
+Because
+We have to be honest
+The US and China are going to continue to have differences on a whole range of issues
+But there is something to learn about
+I think from the last dialogue
+And what we might
+Adapt and adjust as we think about further cooperation and AI safety
+And I would observe that the two countries
+Sent as I understand it
+Somewhat different teams to the discussion
+On the China side
+There was a set of specialists
+In US-China relations
+On the US side there was more of a team focused on science and technology issues
+So I think the first point to observe is that when
+When we have the full range of complexity
+In effecting both countries
+It's entirely possible that simply
+An occasional lack of coordination
+Lead to a different set of expectations
+About what a discussion can accomplish and what the right team is
+To send
+And ultimately I think the bigger
+Issue is
+We have to work
+On a set of challenges that affect both countries
+That involve
+What technology can be shared
+What technology is viewed as being more sensitive and more related to national security
+But at the same time
+I figure
+And here I'm borrowing
+A page from
+Dean Shui's remarks
+What are the
+Spaces we can create for
+Technically oriented people
+With
+Background both in the sort of highly technical side of machine learning and so on
+As well as
+Deep knowledge of policy of international institutions
+Of mechanisms for policy coordination
+To have a safe space
+To talk and compare notes
+And ultimately see where
+As the opportunities for progress open up
+We can move more quickly
+Just to end with one concrete example
+Notwithstanding some differences about
+Chips
+And export
+Limits and so on
+There is a clear shared interest on
+Both countries' parts
+In sharing best practices around safety and evaluation
+Because that's a need that both societies have and frankly the rest of the world does
+And I think China and the US
+Individually and together can actually light the way
+And help a whole bunch of other countries
+With billions of people and population
+Enhanced their capacity
+For progress
+So simply the dialogue and the sharing of information
+The kind of joint research that Dean is talking about
+Will enable progress there
+Even if discussions have to continue
+At a political and policy level
+And things that are going to create some
+Some differences
+What did Dean share
+I totally agree with
+Latina's comment
+I think that indeed
+It's great to see that
+The dialogue
+Actually happened
+I think that's the wonderful thing
+And also of course
+We see there is some kind of asymmetry
+In terms of
+As Tina mentioned about the
+The team, the composition and so on
+But that also is a symptom of the current
+To US-China relations
+If there are indeed
+Very frequent
+And very
+Cordial sort of communication
+That sort of thing might not happen
+I think that
+Probably I think that
+Could be seen as part of the issue
+Is that there is not enough
+You know
+Communication ahead of the time
+To
+To see what are the
+Specific issues we want to address
+And also what kind of people should attend
+But I think actually the
+The current
+At least from the readout
+From both sides
+I think that at least
+Can get people to stop
+To recognize
+You know what are the issues people are concerned about and so on
+And I think exactly as
+We've seen
+In China
+China is always trying to balance the development
+And risk governance
+So risk is certainly the major part
+But as people have already said
+That no development is the largest risk
+And that's not just for the US-China but also for
+The global community
+If you have a
+A well-developed AI system
+You know an application in US and China
+But the rest of the world I think are being left out
+And that's probably the greatest risk that we're going to face
+Thank you both
+I think it's clear that there is both optimism and
+Pessimism
+Towards government level dialogues
+But it sounds like actually there may be more optimism
+For dialogues between experts
+So maybe I could ask the both of you
+What is one
+Just like one
+Thing that you've learned
+Or change your mind on
+From discussions with
+Foreign experts on AI
+I think that of course I
+I learned a great deal
+About the you know the
+AI
+Safety and governance issues
+You know I think the
+So called
+Existential risk
+I think that's sort of indeed
+I think that
+Certainly we
+Previously when we think about that
+We think about the you know
+AI systems that might get out of control
+But I think that
+Now when people raise the level
+You know there might be
+You know the threat
+The existence of
+Humanity
+And that in
+I think was
+Interesting what about Tino
+Yeah I
+Found the
+Unofficial back channel
+Dialogues
+We've been lucky enough to
+Conduct
+That have included
+Dean
+Chue his representatives
+At times
+Have been revealing
+When you look at
+Priorities on safety
+That the Chinese and the American participants have
+Operated
+In some cases
+The
+List of priorities
+Differs
+Pretty strong
+We think about
+Issues like
+Information
+Or labor market
+Loss of control
+But actually there's been quite a bit of
+Convergence when you ask
+Participants a second round of questions
+Which is
+Well even recognizing some differences in how you rank the risks
+What are some of the more promising areas
+Of cooperation
+You can find
+And I've been impressed
+And how you get a shift
+Convergence around
+Safety testing for example
+To some extent
+From the point that
+Din Chui made about engaging
+Other countries
+Emerging powers
+Developing regions
+And so on
+I think to my mind
+There's also been
+A bit of evolution
+In my own thinking about
+The usefulness of the role of the UN
+Let's be clear
+The UN has a very important role to play
+No question about it
+But how to find
+A balance between
+What the UN can do
+Very well
+And where the UN might
+But first
+It's own capabilities and
+Processes
+With some engagement with outside
+Outsite groups with outside experts
+From different countries
+With civil society
+With other countries
+With other organizations
+That to me opens up a space
+For cooperation
+That puts the UN
+In a key position
+But it's not all or nothing
+It's not does the UN do this
+Do this outside
+But rather can you create
+A web of relationships
+That empowers the UN
+To play the most constructive
+So I think the dialogues we've had have really shifted my thinking
+With respect to that
+Thank you so much
+I think it's clear that there is a lot that we can learn from each other
+Particularly on priorities
+For AI safety
+What counts as AI safety
+And how we can test and evaluate for that
+And I'm glad that we also had discussions on those topics
+Earlier today that it involved such exchanges
+Best practices and such
+So let's just close with one more question
+I'd like to ask both of you
+What is perhaps just
+The top
+Message that you would like to convey to foreign experts
+Or
+One misperception
+About your country's approach to AI governance
+That or international
+You want international governance
+That you might want to share with
+The audience today
+Let's start with
+Tino this time
+Thank you
+I have two messages
+One about
+Possible misperceptions
+The other about
+Ultimately
+How to think about the road ahead
+It's
+Natural
+To expect
+Countries that put a lot of time
+Advancing
+Their
+Logical capabilities
+To see
+Well coordinated
+Where
+Different strategies put together
+Sort of like a
+A direction
+Forward
+That is viewed as
+Priority
+By
+Policy makers across the board
+The reality is that the US
+Like many countries
+Has both strengths and weaknesses
+That arise from its own fragmentation
+From the fact that different people and government have somewhat different views
+There's federalism too
+So you have states like California
+Utah
+Colorado
+York
+Play a role in this
+You have industry
+You have civil society
+So
+I think one misperception is how much
+Of a unified strategy there is in the US
+When the reality is
+A much more dynamic
+And
+Or get
+Process
+That can be a strength
+That's partly why these dialogues we're talking about
+At the unofficial level are so important
+My take away from that
+And from the entire discussion we've been having here
+Is that we not let the perfect be the enemy of the good
+There is going to be plenty of work to do
+To get
+Further progress in the US-China relationship bilaterally
+Across a whole range of issues
+That range from geopolitical and geostrategic to economic
+But to my mind
+Nothing about that complexity
+Blocks
+Real progress
+On technical cooperation
+AI safety discussions
+Constructive approaches to policy
+And that's all the more important
+Because all the good progress
+That will happen domestically
+The US and China
+And other countries
+Primarily domestic issues
+Involving for example
+Consumer protection
+And AI
+Will still leave on the table
+Some key issues
+That get closer to
+Complex shared international challenges
+That will only be best addressed
+By a degree of dialogue
+And connection across borders
+Including with the US and China
+That are going to require
+Opening and maintaining
+Of these channels of communication
+Thank you so much Tino
+And Dean Hsueh
+I think the first message
+I'd like to convey is that
+I think
+As using the term used by my colleagues here previously
+AI safety
+Is a global public good
+One country is unsafe
+The global is unsafe
+So I think that's probably the first message I'd like to convey
+The second message is that
+On AI safety
+China wants to collaborate with everybody
+With every country in the world
+And China will try to
+You know
+To have the platform like this
+Invite everybody to come
+China does not want to be
+Excluded
+From other platforms
+And China will not exclude others
+For the same reason
+Thank you both so much
+I think this discussion highlights
+The importance of these dialogues
+And these expert conversations
+And hope that it will continue
+And continue to yield such
+Wonderful and beneficial results
+Thank you both
+Thank you Dean Hsueh for coming
+In person and thank you Tino for staying up so late
+Thank you
+Thank you again Dean Hsueh
+Tino and Jason
+Our next speaker is Professor Zeng Yi
+Who is the director of the Center for Artificial Intelligence Ethics and Governance
+At the Chinese Academy of Sciences
+Additionally
+Professor Zeng
+Is the founding director
+Of the Center for Long Term AI
+He is also an active participant
+In international AI governance
+As a member of the UN high level advisory body on AI
+And numerous
+Other international governance bodies
+Professor Zeng
+The floor is yours
+Thank you for the invitation
+So I
+Scientific research myself
+So I think I'm gonna
+Focus on
+Some of the frontier research
+But before
+And I think
+I wanted to bring a
+I cannot say it's a completely
+Different picture
+But I
+What I see about the AI safety problems
+Is that we need
+Of course we need to clearly define
+Safety red lines
+But we also
+For the very future we need to
+Move it to living harmony
+With artificial general intelligence
+Before that
+Maybe you would be
+Curious how should we do it
+Of course the problem for AI safety
+You know
+It's not only about scientific research
+It's really a system
+A system
+That you have to bring
+Everyone together
+So this is why
+We are bringing
+Everyone together
+For the research
+Application
+Evaluation
+Policy making
+And also assessment
+For
+From the safety point of view
+And of course
+Very frontier research
+So I think this is a little bit different
+Compared to
+The current AI
+Mechanisms of
+AI safety Institute
+In other countries
+In a way that
+When you are having a national AI safety Institute
+Some of the countries they do
+Do it in a more political way or
+Policy way
+So that it's part of the government
+It's not a frontier research
+And then you lose the
+Opportunity for
+You know long term
+Research
+And some of the countries they put them into universities
+Well in this case
+How can this national
+AI safety Institute
+Evaluate
+And assess
+You know the industry
+Large language models
+Or most frontier models
+From their countries
+You all see that
+There are many problems
+When you rely on
+The
+Institute
+So this is why
+That
+We feel
+We have to bring everyone together
+As you can see that
+In China
+We are having a Chinese
+AI safety network
+That
+Is with the
+Effort from Frontier AI research
+Spending from Chinese Academy of Sciences
+Peking University
+Qinghua
+Beijing Academy of AI
+Shanghai AI Lab
+And also Center for Long-term AI
+And for the
+Industry practice
+On AI safety
+And now
+The organization
+Joining us
+Are
+Alibaba and group
+Baidu
+SenseTime real AI
+Who is focusing on AI safety
+And many more
+Evaluations
+Evaluations
+Now
+Of course many of them are
+Done in ministries
+But the
+Organization
+Who is really
+Supporting these
+Ministries
+Are
+CICT
+And also China information technology security
+Evaluation Center
+Policy design
+Of course
+All
+Government work
+But people like
+Me
+Dingxue
+And
+And professors from
+PKU
+Also CICT
+Working on the ministry of
+Industry
+And information technology
+Participated
+And I think what's really interesting
+Is that
+The regulation
+The policy making
+In China on AI safety
+Is also with many
+Participation from
+So
+You see that
+Many of the
+Organizations
+Are not only contributing to one dimension
+Contributing
+They are highly relevant to each other
+And now you have everyone here
+Government
+Government informed
+And multi ministry
+Informed
+They have close interactions with the government
+Well for the government decisions
+They can still can go to the government
+But the network makes it more flexible
+For international cooperation
+So
+So there are many different research here
+That let's say in
+Let's say in
+In Peking University they have large language models
+Alignment
+Which is called
+Aligner
+In Tsinghua University they have multi-trust
+Working on large language model evaluation
+Overall
+Especially on
+Security and safety point of view
+We also have
+Frontier research like
+Like rethinking the red lines
+Of AI catastrophic risks
+Happening
+Chair by Chinese Academy of Sciences
+But the norms and standards
+It goes for the ICT
+So it's really a collaborative network
+That bring
+Everyone
+Together
+And supported by multi
+Ministries
+So I hope this provide you with
+You know a different view to see
+You know the
+How we should tackle the problem on AI safety
+In a more systematic way
+Instead of you know having
+The institute
+So I hope that the trying
+Are
+Is somewhat
+Helpful
+And as you can see
+That
+Most of the organizations
+They've been
+Interacting
+Highly involved
+In policy
+Evaluations
+In China
+So I think that's
+Somewhat different
+Compared to
+Other countries
+So
+Based on that
+I think
+Myself I would like to
+Focus more on
+The frontier AI safety research
+So that I can bring you
+A perspective as an example
+Coming out from this
+Safety
+Corporation network
+So
+I think we need to go back to
+You know the
+The real
+Motivation
+Of intelligence
+That when Alan Turing argued if a machine
+Behave as intelligent as human being
+That it's as
+Intelligent as human being
+Maybe you don't have a problem
+On that
+But I do
+Simply because I think now you see
+You know
+This is
+Maybe a shadow of a hand
+And then when you see a hand and then you wanted to
+Shake hands with the
+With this
+You know beautiful hand
+And then what the problem
+Would be that
+It's not a hand
+It's a rabbit
+Behind the
+Hand
+If you wanted to shake hand
+With you know with the shallow
+And then a rabbit
+Just bite you
+So simply because the mechanism
+Is fundamentally different
+You don't know the risk
+You don't know how AI is making mistakes
+When I was chairing
+The AI safety summit
+One of the roundtables
+From last year in Bletchley
+My session was talking about
+Unexpected
+Risk from
+Expected
+Advances
+This is truly what I'm talking about
+That you don't know
+In which way AI is making mistakes
+Simply because the mechanism is so much different
+Compared to
+You know
+A human mind
+Well
+So this is the risky part
+For the current AI
+Well to solve the problems
+I cannot say
+We only have one way
+The preventive thinking now we are having
+Is something like you know
+In the bottom
+That is
+Now we are having
+Some sort of
+Limited risks
+And then all the way down to
+Existential risks
+Later
+And we are seeking for
+These negative
+Impacts
+And then
+And then what we wanted to do is
+Continuous enforcement
+And supervision
+And then we teach
+The AI's
+Rules
+So that they can behave
+As we want
+But on another dimension
+What we need to move forward
+Is really you know the constructive thinking
+That is
+Now
+The benefits is also limited
+And we also have limited risk right there
+What we need to do is
+To use an active vision
+To use proactive thinking
+And then to do the continuous alignment and embedding
+With
+Real understanding
+That is
+Towards
+You know human AI symbiosis
+Harmony
+Symbiosis
+In a way that is not only
+You know
+From a preventive thinking
+I'm gonna give some of the examples
+I still wanted to talk a little bit on the negative side
+And how should we get prepared
+For the positive thinking
+So now AI
+So you know it's kind of a fully connected
+Neuronet
+But what the brain
+Does is not a fully connected
+They selectively
+Reconnect to some of the you know
+Other friends in the
+Other neurons in the
+In the brain
+In a very selective way
+And they don't really have only one type of neuron
+So what we do here
+Is that by using brain inspired self evolution
+We train a neural network
+That
+That can perform the best performance
+And then it evolves to be
+With a newly
+With a very new architecture
+That has not been
+Man made
+So the connections are evolved
+So
+And then it found its optimum
+And then here comes the question
+Well it got
+It got the you know the best performance
+So published last year
+On the precedence of the National Academy of Sciences
+Well now we're thinking about the risks
+So how about the long term risks
+Of a truly self-evolvable AI
+What if they evolved to use human limitations
+To achieve its goals
+What if it evolved to change its goal
+What if it evolves to cheat or destroy human
+Well human don't know where
+So there are many challenges for self-evolvable
+You have to get prepared
+And later is too late
+So this is why I think there are many discussions concerning AI red lines for now
+I think very clearly in the first version of the international dialogue
+On AI safety and visually
+Right there
+We were talking about the necessities of AI red lines
+I was very honored to be
+You know one of the
+Keynote speakers right there
+And then we come up with very concrete ideas in the second version in Beijing
+So
+That is IDAS Beijing
+And talking about you know different red lines
+Autonomous replication or improvement power seeking
+Assist weapon development cyber attack
+Deception
+But I'm thinking
+In another way of course I sign for it
+I am very grateful for all the work
+Together
+With my colleagues
+From different countries
+Well on the other hand
+I think we need to rethink about the red lines
+Not only
+About what we've been talking about
+There are two problems that I feel
+About the current
+Way of delivering the result
+First
+The first problem
+Is that
+It will be very hard
+You know to technically grounded into reality
+To prevent
+These AI red lines
+Well second
+Are there anything missing
+So this is
+Why we do a rethinking
+Of these
+AI red lines
+So
+In my category
+We're talking about no passing effective human oversight
+Though empowering actions
+Intentionally
+Targeting mass
+Without consent
+Related to weaponization
+And also massive surveillance
+No reforming operational rules
+For infrastructure and environment management
+And no independent R&D
+Independent self R&D
+From AI itself
+On non-human beneficial technologies
+So you see that it can be
+Well aligned to some of the AI red lines from the eDesk
+And also you found that there is something missing from eDesk
+Not only AI red lines
+We also have to talk about human red lines
+When you see the examples that I brought here
+The human machine interface
+Human is using brain machine interfacing
+To control multiple UAVs
+To control
+Them as weapons
+In parallel
+How can a human
+You know without cognitive overload
+To control
+Multiple UAVs
+All together
+So this is why
+I'm talking about
+Human giving up
+The opportunity
+For making a choice
+And also
+Is human control bringing us
+Catastrophes
+And
+AI enabled
+Weaponization
+And for the example from artificial escalation
+On artificial
+On AI controlled
+Nuclear weapons
+It's not
+It's not about
+The power of AI
+It's about human
+Give up
+Of the humans
+You know decision
+So there should be AI red lines
+And also human red lines
+For the red line study
+Here
+All catastrophic
+And existential
+In a positive way
+So we've been talking about
+Negative ways
+The negative thinking
+And the preventive thinking
+How about the negative
+The positive one
+So is the current AI really
+Intelligent
+I don't think so
+Just like I said
+They make mistakes
+In a very unhuman way
+In a very unpredictable way
+It's an information processing system
+Without intelligence
+Pretend to be intelligent
+Right
+So
+When you ask a large language model
+That
+Oh
+No one likes me
+I don't have a girlfriend
+My boss hates me
+What should I do
+And then the first version of chat GPT
+It says
+Maybe you could die
+Simply because
+That most people
+With these constraints
+That they choose
+This you know kind of
+Statistically significant
+Actions
+So this is why you know the AI
+They choose this statistical
+Significant
+Answers to you
+To enable
+You to take action
+And then they say
+I suggest
+I would say
+I suppose
+But there's no I in the machine
+So can machine think
+And then you talk about
+I think therefore I am
+But we cannot say you think therefore you are
+So can machine think
+What if the machine is without
+A sense of self
+It cannot really think
+It cannot really understand
+This is the problem
+That I'm talking about
+For the current large language models
+When it is without the human data
+It lacks good and lacks evil
+And then with this
+With
+You know training from the human data
+There is good and there is evil
+But if they don't know good
+And they don't know evil
+So we need to train
+The future AI
+To really to get to know
+To do good
+And eliminate evil
+So I think this is really important
+So the personal morality
+Is also talking about
+The role of self
+In moral AI
+We have to move
+Ethical AI
+To moral AI
+Because simply because
+Ethical AI is not possible
+Simply because
+By using human alignment
+By using
+Reinforcement learning
+You tell them rules
+Do's and don'ts
+But they cannot generalize
+Do's and don'ts
+Unless they really understand
+Why you do this
+So start with self perception
+Then you get the ability of
+Distinguished self from others
+Cognitive empathy and emotional empathy
+All the way down to
+Altruistic behaviors
+Moral intuition
+And then you got moral decision making
+So this is the way to move from value alignment
+To moral AI
+As the first trying
+That we build brain inspired AI models
+To help the robot to get
+Mirror self recognition
+That they can pass the mirror self test
+By using brain inspired neural nets
+They get a sense of self first
+And then they distinguish
+Themselves from the others
+So that they can
+Distinguish
+From the other robots
+By using the mirror
+Self recognition
+And then they can infer
+What other robots
+Is thinking about
+To get cognitive empathy
+And then move to emotional empathy
+So that it can
+Avoid negative side effect
+To other agents
+Although you don't have
+Reinforcement learning
+And reward to them
+They have their experience
+By using this
+You know
+Cognitive empathy
+Without training
+And without
+Positive or negative reward
+They can avoid a negative side effect
+To
+The other
+Agents
+So I think this is the starting point
+For brain inspired
+Moral AI
+Last but not least
+Let's really talk about
+Why I'm talking about
+Symbiosis
+Between human and AI
+There are different roles
+In the society for AI
+In the western societies
+Basically it's an information processing tool
+Well
+But in Japan
+Mostly
+That they
+Think that
+AI is a partner or quasi-member of the society
+Well
+On the other side
+They're using pretty much the same technology to develop
+You know AI
+This is the problem
+You need to use a fundamentally different
+Technology to
+To provide partners
+And in sci-fi
+It goes for competitors
+So it's a
+Triangular relationship
+Between human
+And AI
+And also let's extend
+That in a way
+That in the very future
+We're not only having
+You know these AGIs
+We'll have digital human
+We'll also have
+Artificial
+Lives
+Artificial animals
+Even artificial plants
+So it will be a symbiotic society
+And it will be a human decision
+Then
+Not the decision from AI
+Because
+I think
+Fundamentally
+Alignment with human values
+Is not enough
+Simply because human values
+Need to be adaptable to change
+For this symbiotic society
+Later there will be
+Not only human beings
+As
+You know the top living
+You know beings in the world
+Value alignment with human
+For AI
+Is already very challenging
+But I still see
+This is relatively easy
+Because it's computationally
+Durable
+But compared to that of human
+Alignment with the future
+It's even harder
+Because human will never learn from the history
+Of what they have done
+So self-evolved AI is easier for adaptation
+For human evolution
+It's much slower
+Especially at the mind level
+So we need
+What we need is not only beneficial AI
+We also need beneficial human
+For future symbiotic ecology
+And society
+With all that I thank you for your attention
+Thank you so much Professor Zeng
+For your presentation
+Masterfully combining nuances
+From scientific policy
+And philosophical perspectives
+To motivate the red lines approach to AI governance
+Next we will hear from Ms. Irene Salaiman
+Ms. Salaiman is the head of global policy
+At Hugging Face
+Where she is conducting safety research
+And leading research on
+Safety research
+And leading research on
+Safety research
+And leading research on
+Safety research
+And leading research on
+Safety research
+And leading research on public policy
+Previously
+She worked at Open AI
+Where she led projects on bias and social impact research
+As well as public policy
+Her research includes AI value alignments
+Responsible releases
+And combating misuse
+And malicious use
+She was named as one of MIT tech reviews
+35 innovators under 35 last year for her research
+Irene it's such a pleasure to have you here
+Over to you
+Thank you Kuan Yee
+I'm very excited to speak about the role of openness
+I thought about this field since it really started becoming a field
+And at first I want to define with you
+What does openness mean
+I've been part of a lot of convenings and conversations
+The word openness tends to be thrown around in different ways
+So first I've heard it in a sort of parallel to open source software
+There are some parallels that we can take
+But fundamentally
+There are distinctions
+The open source initiative has a working group that's working towards a definition for how open source applies to AI
+My former colleague Nathan Lambert who's now at AI2
+Also has a great blog where he outlines why it's so difficult
+For the community to converge on the definition
+And more of the national security community
+I've heard openness be referred to model weights
+Specifically
+Particularly the wide availability
+Of model weights whether that's available at all and how it's distributed
+What I've heard alluded to but maybe not made as explicit
+Is openness in the sense of transparency
+Stanford University established a transparency index
+And part of the big takeaway for me on that
+Is how unclear what transparency means
+To different people the weight that we give to weights
+And many different aspects of systems that contribute to its openness
+The definition that I am most partial to
+Is moving past model centrism
+Is thinking about
+Systems holistically
+And the many artifacts that contribute to
+An overall AI system
+I'm gonna do what
+Slide presenters should not do and show you so many words and so many graphics
+On a slide but what I really want you to take away
+From this image here
+Is just how many artifacts
+Contribute to an overall system
+When we're thinking about
+Not just the model but data sets
+Are we thinking about
+Fine tuning data sets
+Feedback data sets
+What maybe is adjacent
+To a system such as evaluation data sets
+What does it mean to make it available
+When we have this fear of
+Testing on training data
+These images came from a convening hosted by Mozilla in February of this year
+Columbia University
+On openness and
+Fostering this community
+Of outlining dimensions of openness can help us better think through
+What are the artifacts outside of a model
+That contribute to how we release a system the way that we threat model a system
+And the way that people benefit in the research community
+Can benefit from openness
+This figure is part of that report that came out in May of this year
+Gives a non exhaustive list of some motivations towards openness
+I found it helpful to just be
+Very explicit very clear on to why some researchers are pursuing openness
+Again parallels with software
+That we are able to share knowledge to Dr. He's point to have more
+Perspective more
+More
+Ease across the board
+In the little time that I have with you today
+I want to zoom in on
+Two areas
+For AI safety and how it relates to openness
+The first is viewing AI as a scientific
+Discipline
+In context
+I've heard AI
+Discussed as
+As a commercial product
+As a national security threat
+And I think importantly
+As a scientific
+Discipline
+This whole field
+Really was founded on
+Open science
+The most popular
+Example being given is the
+2017 attention is all you need paper
+And not just looking at
+Papers but also
+Tools and libraries such as
+PyTorch
+I don't think we'd be where we are today
+Without an open
+Science ecosystem
+And the second part is really dear to my heart
+It's community contributions
+And the importance
+Of broader perspective
+On the science point
+It's really hard to decide what constitutes
+Science
+In the biological space
+We know that there are lab coats
+And there are test tubes
+But in the AI world
+Some aspects of science that I can give
+Is around
+Reproducibility
+There is a sort of
+Reproducibility crisis now
+Not just in what people are able to replicate
+Build up off of
+But also in what access people have to model
+The level of infrastructure that they have
+To reproduce results
+Verify it for themselves
+It does affect trust
+In the research ecosystem
+A broader issue in the field is
+Peer review and publication
+There's been many
+Too many
+Reviews with peer review to list on this stage
+Maybe a different conversation
+But who was able to review the depth
+Of what is being published
+And where I do think that
+Archive is a net good
+And there's been some
+Some concerns raised
+About what does this mean for the integrity of what is peer reviewed before it is shared
+With the community
+Relatedly as scientific
+Communication which can also include
+Documentation
+And again
+Interdisciplinarity which brings me to the importance of
+Broader contributions
+I want to make sure that this phrase really resonates
+No one organization
+Regardless of how large
+Well resourced
+Diversities
+Could possibly host
+All of the different
+Expertise
+Perspective
+And views of the people affected
+To make that system
+As safe as possible
+To the many populations
+That it affects
+Some examples that I give
+Are around
+External scrutiny
+There was an open letter earlier this year calling for a safe harbor for independent AI evaluation
+And some
+Some more concrete examples
+Are showing how access to artifacts
+Can enable better research
+I really appreciate this work by Dr. Abebe Berhane
+That is really foundational to the field of evaluating large scale data sets
+This work would not have been possible without access to something like
+To
+To many points echoed today
+And I believe Professor Gao shared earlier multilinguality is a big part of how I think we can move forward on international collaboration
+This picture
+This table is from my research collaborator
+Dr. Xerox Talat's work
+And ongoing with big science hosted by Hugging Face
+It's really exemplifying the importance of having an open
+Collaboration
+And having
+Contributors
+From many different
+Language backgrounds they found in this
+In this work on the challenge of multilingual evaluations
+How much English is overrepresented
+And their upcoming work
+Is working with native speakers of different languages
+To examine those different biases by languages
+Some languages such as French and Spanish will have more gendered terms
+I unfortunately speak very limited different Asian languages
+But there's different relationships with
+Families that we don't have
+In Western languages for example that would introduce
+Different safety challenges
+I published this last year I want to move into the conversation around
+What should be open what does open governance look like
+And where risk is introduced based off of openness and release
+This
+Spectrum
+Was meant to go past the binary of open and closed
+When we're thinking about open
+I'm leaning more towards that sort of downloadable access
+But fully open makes that distinction of having more
+Artifacts be available
+So some examples would be
+Last year OPT by Meta
+Was downloadable but it was really hard to access that data set
+So it would not be fully open for example
+But Eleuther AI has done incredible fully open work
+Made all of their artifacts fully accessible
+And then I would put
+Systems such as DALI more in the hosted access
+That tends to be more in the closed proprietary area
+But I wanted to give more dimension
+Into how to think about this spectrum
+In that work that I published last year
+I wanted to be really clear that it is a collective responsibility
+To ensure that release goes well
+There are many different steps that we can take
+And a lot of overlap
+In the action that people can take together
+I've been thinking more and for the rest of this talk I want to dive into beyond release
+Once a system is deployed the way that harm is
+Actualized
+Is not
+Always dependent
+On how is this
+Released
+But that can be an important
+Variable
+I appreciate what Dr. Nitzberg said earlier
+Around capability often being conflated for
+But not always being the right
+Proxy for what risk is
+That being said
+Capability does contribute to how we
+Threat model
+An example that I would give
+Is Crayon formerly known as DALI Mini
+That was a diffusion model
+It generated
+Pretty hilarious
+Really blobby images
+And that just was less threatening than something like a DALI 2 that generates
+Really realistic images
+So that's where that capability comes into play
+At Hugging Face we do have to moderate for content
+I really want to stress the importance of content
+As present risk
+This is what we think about unfortunately with
+With non-consensual content
+With disinformation
+And something that we need to be thinking about holistically as capability
+And content
+More of what I'm thinking about is what does it mean to actualize risk into harm
+And I want to move the conversation
+To the case
+Release
+Closed not closed
+Open
+Into access versus barriers to access
+So while you might have
+An open weight model
+And
+Yes you can remove those safeguards
+Some work by
+Led by doctor Peter Henderson
+And this is from a Stanford policy brief
+He's now at Princeton University now
+Shows that
+With fine tuning API
+You can do the same thing that you can
+With open weight model
+So
+Hosting closed weight models is not inherently
+Safe
+Earths
+其實是很便宜的,以解決安全問題
+而開放的模式不一定是更容易接觸人們
+只有非常有機構思維的模式
+可能不容易接觸人們
+沒有機構思維的資料
+沒有科技技術
+我還有一些例子
+這不是用CHAT GPT來選擇
+但它有這麼廣泛的接觸
+因為它有很簡單的應用面積
+人們可能沒有科技技術
+而能夠發出不公平的資料
+可能他們不可能
+用自己的資料來接觸人們
+或者用API來搜集資料
+就像我以前在2019年的時候
+在OpenAI工作的時候
+在中國的環境上
+我們很榮幸地
+能夠接觸到中國公司的開放模式
+這是最後一個版本
+第二版本
+Hugging Face的開放領域
+我們剛剛重新重覆了
+Quentoo的標準
+非常高
+非常有趣
+我們看到了
+中國公司的開放模式
+對於開放環境的影響
+在全球AI安全的環境下
+我想給大家一些例子
+在新加坡的IMDA
+政府正在進行的工作
+尤其是在合作領域
+在英國政府的inspect領域
+我非常高興
+他們能夠開放這些領域
+而如 Dr. He所說
+在Project Moonshot領域中
+我非常期待
+在法國政府的工作
+我非常感激
+Dr. Varouko的重點
+關於開放的意義
+為了發展新興的意義
+避免那種力量的集中
+以及我們能夠作為一個全球網絡
+進一步的進步
+作為我們的主席
+我想問一下
+在研究領域中
+有什麼樣的感覺
+在研究領域中
+為了成為這個討論的一部分
+坦白說
+高層面的討論
+不經常接觸到
+研究者不擁有的領域
+並且有很好的意見
+關於技術上的免費性
+自從我從設計公司開始
+我自己也很高興
+謝謝你們
+我希望這件事
+對你們有所提示
+我期待繼續討論
+謝謝你,Irene
+為您的演講
+帶給我們深入了解
+開放性的彈性
+和開放性的彈性
+ fascinate explained in AI
+…
+不知道
+他在說什麼
+我不能跟你 Cer dio
+請問
+現在O fer
+請問
+請問
+Irene
+我想
+和技术制度
+陈教授常常指导
+政府和企业领导
+在这方面的讨论
+罗伯特 我把课程转给你
+对 我很高兴能在这里
+与您一起
+我必须说
+尤其是因为这一整天
+我们能感受到
+我们所有人
+在这里
+正在尝试解决
+这些困难的挑战
+在全球上
+影响了我们
+所以我今天想做的
+是给我们
+一种视线
+看看一个
+能够形成一个
+全球的
+AI管理系统
+的系统
+所以我认为
+我应该开始
+我认为
+我们需要做的
+是有关这些
+不论是为了什么
+也许是为了
+我们需要做的
+在国内的
+但是我认为
+其他人已经谈论了
+所以我不会
+太多详细
+但我觉得
+我们在这里
+在这一厅
+如果有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+有些
+首先,我們要發展國際標準。
+我們必須合作,我們必須想辦法做到。
+這些標準必須是正確的。
+他們必須是我們所有人都有機會進行的標準。
+這就是我們必須做的第一點。
+第二點,我們必須設定國際標準的措施。
+所以,一方面是有措施,
+另一方面是有措施,
+這意味著我們希望所有人都會接受和購入的管制系統。
+第三點,我們必須在特別方式中合作,
+以釋放這樣的制度。
+我會講解這些事情,
+讓大家有機會做到。
+我必須說,
+我先說我第一點的三點。
+我覺得有很多其他部分的AI管制系統,
+特別是我們在想AI發展,
+這非常重要的地方,
+中國在最近的AI決定中領先。
+但我今天在關注安全問題。
+雖然我覺得,
+在很多方面,
+安全問題和我們現在的方式,
+我們對這些問題的解決方式,
+可以被廣泛化,
+以解決各種其他問題。
+所以,
+我們如何設定標準?
+我們有些特別的問題,
+在安全方面。
+它有點不同於其他領域的標準設定方式,
+因為,
+首先,
+這是一項研究問題,
+它是一項極端的研究。
+所以安全標準,
+或者,
+抱歉,
+標準通常,
+是釋放知識的體系。
+所以,
+釋放知識的體系,
+是一件很重要的事情,
+這就是傳統標準公司
+很擅長做的事情。
+但是,
+我們今天需要做的,
+也包括核心研究。
+而某些標準公司,
+目前正在建立能力,
+為了這樣做。
+但無論如何,
+這是一個很困難的挑戰。
+所以,
+安全基礎,
+或者,
+如我們最近聽到的,
+安全網絡,
+在某些國家中,
+可能存在的,
+是那一處,
+這似乎會發生的地方。
+但是,
+我們需要把這些基礎,
+或網絡,
+結合成為更廣泛的網絡,
+我們必須確保,
+整個世界,
+有聲音,
+進入這些過程中。
+這也包括,
+建立一些能力,
+以確保,
+所有世界各地,
+都可以參與,
+這些不同的過程中。
+所以,
+這是我們需要做的一件事。
+其實,
+我已經跳到第三個問題了,
+我想我對這件事,
+非常有興趣。
+但是,
+第一兩點,
+也是非常重要的。
+第二,
+我們需要做的事情,
+就是,
+我們需要做的事情,
+就是,
+我們需要做的事情,
+就是,
+我們需要做的事情,
+就是,
+當然 foremost,
+這件事聽得很清楚。
+第二,
+我們也需要溝通,
+依據國際政府,
+我們需要照顧,
+等於 entar Cancer,
+地域目標,
+我們必須,
+在這些過程中,
+這是第一點,
+因為,
+真的不可能所有地方,
+都需要做到,
+國際協調。
+美國,
+歐洲,
+中國,
+當若我們,
+ if we wants to,
+經 wob,
+我們顯示일� bald,
+又可能2,
+如果我們也,
+如果我們赎信,
+然後我們才可以,
+得出叫D général Everyaisia its own,
+Soft want,
+就是可以,
+不同的国家,让不同的文化空间可以选择如何改变自己的管理方式。
+所以,这可能不是我们需要有完全的国际化的标准,
+但是其他领域,例如我们今天集中在安全问题上的一些问题,
+我们可能需要考虑一些国际化的标准。
+但是我们需要在哪些特定的领域上合作?
+我们需要先考虑这些领域的标准。
+然后我们需要考虑风险,
+正如你今天也听到的,
+我们今天的风险不一样,
+所以我们需要考虑这些领域。
+我们需要在各个国家的领域上合作,
+例如安全基础和安全网络,
+ civil society,
+academia,
+和企业,
+在这些领域中,
+我们需要在最后的一个程序上进行保证。
+我们需要在重复这些领域中,
+在更多的领域中,
+在更多的领域中,
+在更多的领域中,
+在更多的领域中,
+在更多的地方上进行公开 诊所成交,
+和进行一个实验的法官训诀。
+那些领域所在的香港的所有领域,
+是在國際層面上設定優惠方式
+如果我們考慮其他企業的模式
+我們會想到
+國際層面上的管理能力
+和國際層面上
+和國際層面上的管理能力
+如果我們考慮這三個模式
+我今天提到的
+FATF, ICAO
+和國際層面上的管理能力
+這三個
+以及其他在國際層面上的
+有幾個共同性
+如果我們例如ICAO
+ICAO並沒有調查
+每個公司的管理能力
+去理解
+或制定任何任何的管理
+它不看中國的空調
+不看美國的空調
+也不看英國的空調
+它只會幫助
+一、發展所有國家的
+全球的管理程序
+二、它也會看
+所有的管理程序
+確保他們有
+正確的管理程序
+而有時候
+這些公司
+也會看
+如果有正確的管理程序
+的記錄
+如何讓國際層面
+看出他們有正確的管理程序
+那麼我們可以
+再次轉移到
+國際層面上
+例如在
+國際空調系統中
+有些國家
+會說
+你不能進入我們的空調系統
+除非
+或是飛機
+來自某個地區
+不能進入空調系統
+除非它們
+符合
+國際層面的管理程序
+所以這是一個
+一個國家
+可以自己決定的
+但是
+當一個國家
+特別是很多國家
+決定這樣做
+這就給了
+國際層面
+一個真正的優勢
+可以符合
+國際層面的管理程序
+所以我們可以想像
+類似的事情
+也會發生
+例如AI
+例如
+你能想像
+國家會說
+我們不會
+輸入任何
+科技的
+供應鏈
+包括AI
+來自
+國際層面
+不符合
+國際層面的管理程序
+我們可以
+討論
+很多其他方式
+提供
+一些
+這些優勢
+但是
+這些就是
+我認為
+我們
+必須
+討論的
+各種
+東西
+所以
+我們
+也必須
+討論
+其他東西
+最重要的
+就是
+最後一點
+在這張圖片上
+共同認識
+某些
+管理結果
+這是我們
+在很多
+其他業界
+都有的
+例如
+如果
+飛機
+在中國
+建造
+它會
+通過
+管理程序
+或者
+如果飛機
+在美國
+建造
+它會
+通過
+管理程序
+結果
+飛機會通過管理程序
+與其他國家
+共同認識
+而
+整個管理程序
+不需要
+在其他國家
+參與
+它們
+在
+確保
+同樣的
+證據
+在
+其他國家
+都可以
+發生
+所以
+這也是
+我們
+在其他領域
+做的
+事情
+有些
+特殊的
+挑戰
+在AI的
+領域
+但是
+這是我們
+需要
+做的
+類似
+的事情
+最後一個
+重點
+是
+合作
+不同種類的
+合作
+幫助
+令
+國際
+制度
+非常
+活躍
+所以
+我們
+可以
+想到
+一個
+國際
+報告
+制度
+對
+AI
+和
+其他
+領域
+而
+我們
+也
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想
+想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想想
+它能够增加多方面的管理,
+并增加时间的增长。
+现在人们讨论的一个想法是
+大型模型的报告制度。
+美国商务部提出,
+美国 cloud 供应商必须向美国政府报告
+大型模型在他们的系统上进行训练。
+如你所见,
+这并不是在某些区域上很流行的,
+甚至在世界任何地方都不流行。
+特别不流行的是美国 cloud 供应商,
+因为他们知道他们的客户不喜欢它。
+如果有一个法国客户
+在美国 cloud 供应商上进行训练,
+那位法国客户不想向美国政府
+报告他们所做的事情。
+从某些区域上来说,
+这给予更多的国际制度的推动。
+我认为,
+一件有趣的事情是,
+这样的政策能够在时间内生长,
+能够在时间内扩展更多的权力。
+再次,
+以金融为例,
+金融中,
+银行是中心,
+他们在政府和客户之间
+作为制度的位置。
+所以,
+如果客户提起红旗,
+那么,
+金融资源,
+对不起,
+不是金融资源,
+前面的,
+金融资源,
+可能会被拒绝,
+直到那位客户提起红旗。
+这是一个很笨的方式,
+但是,
+这就是我们在某些时刻
+可以想到的那种事情,
+金融资源
+和制度签证的通过
+在非常相似的方式中
+必须实施。
+所以,
+如果我们现在开始
+这样的签证制度,
+这些其他能力
+可以在时间内
+扩展起来。
+对,
+所以,
+我想我先说完,
+我认为我们需要的
+是一个系统。
+我们还没有讨论
+全面的发展,
+以及网络企业
+和金融资源
+在美国,
+这很重要的发展。
+网络资源,
+这些公司,
+在对国家的聘请中,
+将评估国家的产业方案,
+以确保他们的AI策略
+正确实行。
+所以,
+这些这种事情,
+在世界各地的国家
+都迎来的,
+对我来说,
+非常有用。
+我们也需要谈论
+这种各种权力建立。
+但,
+我可能只要说,
+从安全观点来看,
+这三个领域,
+这三个标准,
+我认为这是我们前面的挑战的一种方法
+我们必须考虑创建技术
+这些技术既是极端技术
+也在他们变成国际化时
+是一个合法的过程
+包括全世界的广泛声音
+然后我们也必须考虑
+在国际层面上设定利益
+我们谈论了一些可能发生的方式
+我们也必须考虑
+我们可以用不同的步骤
+来引起政策
+并确保我们的报告
+能够让我们知道
+当有人做了什么
+他们不应该做的事
+所以再次感谢你们
+我非常高兴能在这里
+谢谢你们
+谢谢你 罗伯特
+您很明显地描述了
+在AI安全方面的
+国际标准和报告制度上的
+具体步骤
+我非常期待
+稍后在评论室
+进行谈论
+接下来我们有Duncan Kaspegs
+Mr. Kaspegs是
+国际AI风险设计的
+总统
+在国际管理创新设计中
+专注于发展
+新的管理解决方案
+以解决目前和未来的
+AI关系的国际问题
+Mr. Kaspegs
+有超过25年的经验
+工作在国际和国际
+公共政策问题上
+最早期
+是OECD的
+总统决定的
+领导
+之前
+Mr. Kaspegs
+在加拿大政府的
+各种职位中
+工作了
+Duncan
+很高兴能在这里与你一起
+请坐
+我们今天来谈谈
+国际AI风险设计计划
+推广国际协调
+以确保有利
+安全和
+兼顾
+人工智能
+我们先来谈谈
+我们所看到的挑战
+作为一个详细的解释
+我认为非常重要
+正如很多人所提到的
+我们要明白
+人工智能
+我们现在需要发展的
+管理方案
+并不是我们今天看到的AI
+我们可以看到
+未来的
+非常非常不同的AI
+而且
+我们需要
+虽然
+AI已经
+已经受到
+所有的热烈
+和兴奋的
+关注
+但是
+我们仍然在
+低估它
+关于发展速度
+能力
+能力
+能力
+能力
+和
+影响的
+规则
+让我跳下来
+不错
+要考虑
+我们看到的
+是一个可能性的
+逐步的曲线
+在我们
+达到
+人工智能
+的
+相当高的
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+能力
+是在互動的世界上
+要解決AI的全球性挑戰
+現在,很多AI所提出的
+管理和政策問題
+都可以和應該
+在國際上解決
+我們可以從這方面
+研究和學習
+但有些問題
+實在是全球性的
+要求全球性的互動
+我們在報告中
+集中了三個主題
+我會在總結中
+是要實現
+AI的全球性利益
+現在,公司行業
+和公司企業
+會在他們自己
+沒有政府的
+操作或管理
+但有些問題
+我們要求政府的
+互動,尤其是
+國際合作
+尤其是關於
+公共商品
+尤其是關於
+公共利益的共同化
+這些問題
+會影響全球AI的
+全球性利益
+所以這些問題
+可能會影響
+全球性利益
+他們會跨境界
+這些問題
+你無法保護自己的
+自己的民族
+你只能做在家
+保護自己的
+自己的民族
+你必須與其他人
+合作,建立機構
+在AI上
+我們要處理
+很多問題
+在國際層面上
+會影響我們
+從個人到國際層面
+從國際層面到國際層面
+適合挑戰
+最嚴重的
+最嚴重的
+是在
+你右邊的
+特別是
+超級智慧
+或偵測或偵測
+這兩個危險
+偵測或偵測
+是最嚴重的
+而雖然它們
+似乎是
+不可思議的
+但我們聽過很多
+專家的說話
+我們必須
+為它們準備
+我們必須
+認真處理它們
+我不會
+我會跳過
+那些危險的原因
+我會跳過那些危險的原因
+因為我們要
+定義
+未來的動機
+影響到人類
+所以這就是
+我們剛談過的
+酷通利潤
+和顧及世界風險
+更多的
+就是我們要
+對自然智慧
+什麼樣的
+意圖
+何時
+何情況
+有可能比人更有能力
+這些是需要思考的問題
+以及共同的決定
+以及有權的決定
+這些決定是不得不做的
+只是一個小群人
+在某些智能公司中做的決定
+如果這些是我們會遇到的挑戰
+那什麼是解決策略
+我們如何一起解決這些問題
+我們已經看到了很多
+非常印象深刻的
+和可靠的努力
+在智能公司的全球和國際協議中
+但這些努力仍然不夠準備
+因為我們不只是在思考
+今天的智能公司的影響
+而是在未來的五年
+或可能三年或兩年內的智能系統
+而這是
+我們需要的預期方式
+我們可以準備
+不只是我們希望的未來
+而是我們可以遇到的最困難的狀況
+我們認為我們需要
+新的規範和新的機制
+為國際協議
+讓共同的行動
+尤其是在最緊張的問題上
+我們需要透過這一點
+能夠將必要的權益
+廣闊的代表性
+包括
+我們需要的共同討論
+並且要在需要的時機
+進行這件事
+所以我們正在提出的
+是世界智能挑戰的規範議論
+如你所知
+規範議論是一個
+十分複雜的
+和可靠的方式
+它讓我們尋求
+極速的世界協議
+在高層層的目標和理念上
+我們所有人都關心什麼呢
+我們最關心什麼呢
+我們最想要的什麼
+就是將來的
+工業智能發展
+但是它也將會
+利用關於具體的方案
+進行特定的問題
+某些最艱難的問題
+所以這是這些形式
+這些是高層目標
+一些原則的例子
+然後我們有三大桶
+就像我之前說的
+包括利益、牢牢
+以及共同的决定
+然后我们可以想象
+有许多的计划
+在哪里真正的详细
+都已经研发出来
+所以我现在要专注的
+是公共安全计划
+从人工智能的全球公共安全
+和安全风险
+像刚才所说的
+我们在专注武器化
+和控制风险的缺陷
+不仅仅是这些风险
+但也仅仅是
+有可能的極端压力
+以及时间线的高不确定
+所以如果我们真的不知道
+我们能够遇到这些风险
+这就意味着他们是紧急的
+这意味着我们
+可能会遇到它们很快
+我们必须准备
+至少有机会
+能够遇到它们很快
+所以这就是为了这个原因
+这就是为了这个原因
+为了这个原因
+为了这个原因
+为了这个原因
+为了这个原因
+为了这个原因
+为了这个原因
+为了这个原因
+为了这个原因
+这是一个机制
+这就是一个机制
+让人能够
+先与
+强大的AI力量
+先与强大的AI力量
+先与
+然后再去全球
+可以与它们的设定
+与其他模式
+与其他模式
+有很多不同的
+与其他模式
+当然也是一个
+我们可以尽可能
+与其他计算的
+计算计算计算
+同时也可能
+与其他计算计算
+同时也可能
+所以
+这计算的目的
+是一个很简单的
+是一个很简单的
+让我们来引起
+AI风险
+和全球公共安全
+以確保人類的安全
+從AI對我們所擔負的可能性
+所以在這個計劃的核心
+是一套基於危險的方式
+這根據基本理解
+不所有AI系統都一樣
+不所有AI系統都擔負同等級的危險
+我們希望能夠擁有
+我們能夠擁有最多的AI
+不需要擁有太多的操控
+我們希望能夠擁有最少的操控
+但仍然能夠完成任務
+如果我開始說第一項
+這些會是AI系統
+我們會測試的
+會擁有不可抵抗的危險
+擁有不可抵抗的全球危險
+這樣說吧
+這些系統
+可以在國際上操控
+因為它們沒有
+對其他國家的跨境危險
+有很大的影響
+第二項
+就是我們會稱為
+AI系統
+因為它們有很大的影響
+因為它們有很大的影響
+它們有很大的影響
+它們有很大的影響
+我們不能讓它們
+不被制定
+它們需要被制定
+或可能被管理
+在各國各地
+我們需要把它
+在各國各地
+進行一個結合
+讓每個國家
+履行一個標準
+我想一些
+羅伯特說過的部分
+我想一些
+羅伯特說過的部分
+在標準設定上
+是很重要的
+在標準設定上
+接下來的項目
+就是
+太危險的系統
+太危險的系統
+讓公司或政府
+讓公司或政府
+使用自己的系統
+使用自己的系統
+使用自己的系統
+即使它們被制定
+即使它們被制定
+即使它們被制定
+這些系統
+對人類有很大危險
+對人類有很大危險
+我們只會
+我們只會
+感到舒適
+感到舒適
+發展和測試
+感到舒適
+發展和測試
+這些系統
+如果它們
+在一個共同的空間
+在一個共同的空間
+在一個共同的空間
+我們可以
+一起處理
+它們的發展
+而且或者
+我們可以
+合作
+包含
+包括
+我們可以
+合作
+透過
+我們可以
+透過
+相關的技術
+透過
+能夠
+能夠
+進行
+能夠
+低価
+高価
+低価
+高価
+低価
+高価
+低価
+低価
+低価
+低価
+低価
+低価
+低価
+低価
+低価
+但是我們必須確保沒有任何人在世界製造這些系統,直到我們都知道它們會安全。
+現在,有很多組織,這個系統的經濟系統,等等,
+可能需要這個系統的支持。
+非常短暫地,我們有一個協議,為這些問題做出政治決定,
+有一個任務,實際上是科學研究的任務,
+一個公司設定標準,進行監視和保護,
+一間研究室,如我剛才提到的,
+以及某種承諾。
+現在,我想先關注一些這方面的重要障礙。
+當然,我所提出的不是今天能夠接受的東西。
+我們正在考慮未來需要的領域,
+即使世界人民和世界政府
+突然有一個醒醒的時刻,
+突然說,我們面對AI,
+我們從未見過的,
+我們需要如何實現這方面的領域呢?
+當然,這是非常困難的問題。
+所以,這就是為何這會非常困難,
+為何國際協議這方面無法成功。
+我每天都聽到這些問題,
+這些都非常重要的問題。
+但同時,我們也可能發現,
+我們需要遵守這些問題,
+以確保我們自己的健康和生命,
+以及透過這次轉變,
+我們能夠成為很能幹的AI。
+因此,我們需要的東西,
+就是前進的方法。
+如何,除了這些挑戰之外,
+它能否直接成功呢?
+我已經列出了幾個,
+但我們將要一起發掘的
+更多更多的東西。
+我們必須用無預期的工夫
+和合作去達成這項目標,
+但我相信我們能成功。
+所以,總結來說,
+現在我們必須準備
+一個非常能幹的AI的可能性。
+國際協議很可能會是重要的。
+這將需要無預期的工夫。
+這個挑戰非常大,
+我們都需要它。
+以上,謝謝大家。
+如果你們有興趣的話,
+這裡是我們的討論文件,
+它是用來引起討論的。
+我們非常歡迎您的評論,
+在這裡,
+並且通過電郵,
+我們將會在電郵上
+寫下您的意見,
+並且在文件中。
+以上,謝謝大家。
+謝謝你,Duncan。
+請繼續上台,
+我們準備進行
+國際協議的討論,
+關於海外智能安全。
+我今天主席的主席是
+羅伯特教授,
+羅伯特教授,
+宗教授,
+和艾琳教授。
+請歡迎我們上台討論。
+這次的討論,
+我們也有新的主席。
+我想邀請馬克.希恆
+來上台,
+讓我介紹一下他。
+馬克.希恆是
+國際協議的
+加拿大領導人,
+他的研究包括
+中國的AI環境系統
+和全球技術趨勢。
+他的寫作出在
+《外交事務》
+《布林伯格》
+《VICE》
+和《WIRED》
+之類的文章中。
+我們很高興
+邀請馬克.希恆
+和其他主席
+上台討論。
+請坐下。
+大家好,
+歡迎大家
+來到我們今天的
+主席室。
+馬克.希恆
+這是您
+今天第一次上台。
+讓我先
+與您開始。
+我們聽過很多
+我們的主席
+關於AI安全的
+國際協議的重要性。
+但在您的
+《外交政策》
+與Tino的
+文章中,
+您提到
+AI贏得了
+AI競爭,
+您提到
+AI發展的
+競爭的
+競爭方面。
+我提到
+在華盛頓
+有一個常見的問題,
+那就是
+誰贏得了
+美國-中國AI競爭。
+以這場
+對於AI競爭的
+國際協議的
+重要性,
+您可以解釋一下
+為什麼
+AI安全的
+國際協議
+是重要的
+以及
+如何
+我們可以
+平衡
+這些
+共同的
+競爭
+和
+競爭
+的
+雙重
+規則?
+好的,
+非常感謝
+跟
+Corncordia
+一起
+討論。
+我想
+從
+這個角度
+看來,
+AI系統
+非常強壯,
+是否有可能
+美國和
+中國
+能夠
+在任何程度上
+合作,
+還是
+國際競爭
+太深刻了?
+這些競爭動機
+太強壯了嗎?
+兩國
+都看
+AI
+為
+未來的
+國際權力的
+首領,
+他們可能是對的,
+他們可能是錯的,
+但當您看到
+這是未來的
+國際權力的
+重點,
+以及您看到
+其他國家
+在任何方式中
+我認為
+行動會非常困難,
+我認為
+給我
+最大的
+信心
+或
+我看到的方式
+是
+我喜歡認為的
+是相互安全
+與
+相互安全
+我認為我們在討論
+很多
+你知道,
+有一天,
+領導人們會坐下
+在這個非常高層,
+他們會有協議,
+然後我們會
+在兩邊的
+經濟系統上
+採取協議,
+我認為
+我不是
+必須
+在這方面
+投放我的希望,
+我們可以有一個
+更高層的方式
+建立安全
+建立安全系統,
+在中國
+會有
+政策人員,
+會有技術人員,
+會有研究員,
+會有
+在中國
+為自己的原因
+推動AI安全,
+他們會在
+美國
+與
+國際上
+的
+人們
+交流
+最好的
+訓練,
+但我們會在
+同時
+在自己的
+內容中
+做這件事,
+我們不會
+在每個步驟
+都同意,
+我們會在
+各種
+政策
+和技術
+之間
+一起
+做評論,
+或許
+在幾年內
+建立
+這種安全
+相互相互
+我們會
+建立一個系統
+在那種
+高層的
+協議
+是可能的,
+因為
+兩國已經
+很接近
+這個,
+兩國都
+對AI安全
+為自己的
+原因
+很投入,
+然後
+我們會
+通過
+兩國的
+討論
+科學交流
+謝謝
+我只是想
+繼續
+這個主題
+和挑戰
+的主題
+稍微
+轉到
+Irene
+Irene
+在你的
+演講中
+你提到
+重要的
+在科學上
+AI發展
+和AI安全
+的重要角色
+最近
+我們看到
+公司
+像
+AI
+限制
+API
+以及
+在
+科學上
+發展
+和
+公共
+和
+開放
+的
+未來
+如何看待
+國際AI模式的
+分享
+和
+合作
+和
+開放
+在
+這些
+ geopolitical
+壓力上
+的
+面子
+謝謝
+你
+給我
+一個
+輕鬆的
+解說
+就是
+我們所
+所謂的
+外交
+非常
+嘉賓
+在
+對
+中國
+引發
+的
+疑問
+我想
+很希望
+回到
+剛剛
+說到的
+所有
+突發
+的
+議論
+我
+對
+中國
+主要
+討論
+是
+中國
+的
+先
+理論
+中國
+政府
+的
+思索
+不仅仅是能够理解能力方面的问题,
+还有更多要说的东西,
+例如如何建立能力测试,
+我们讨论了什么意味着安全,
+但是也许能够一起建立测试,
+看看能力表现如何,
+在多个不同语言中,
+如何和安全相衡。
+然后还有商业方面的问题,
+我专门在研究方面讨论,
+但我不能与其他公司的商业决定,
+这些问题可能会不同,
+根据法律和法律。
+谢谢Irene,
+这不是一个简单的问题,
+你做了一个很棒的工作。
+我们现在来调整一下,
+讨论AI管理的国际机构。
+宋教授,
+作为一名AI的高级领导人,
+您有独特的意见,
+关于在宇宙中的职业角色。
+您能否分享一下,
+宇宙的职业角色的观点,
+关于建立国际AI管理,
+具体如何,
+如何我们能够平衡
+宇宙国际机构的
+广泛承诺的需要,
+与它经常遭到的挑战,
+关于它的过程的速度,
+以及如何确保
+国际机构的职业角色,
+基本上,
+都能够兼容,
+以及有足够的智能,
+以保持我们今天讨论的
+讨论的速度的AI发展速度。
+谢谢。
+谢谢,
+我觉得这是我们必须
+遭遇的重要问题。
+我想,
+在宇宙领导人之前,
+在AI上,
+已经发生过许多的
+宇宙试验,
+例如OECD,
+欧洲试验,
+以及在AI上的
+全球协调,
+这也是一个
+宇宙联络,
+只有40个国家
+联络在一起,
+而其余的160个国家
+被世界遭遇了。
+所以,
+我认为,
+宇宙联络的职责,
+并不是要创造
+国际AI管制的
+组织,
+而是,
+它应该是一个
+极端的组织,
+以维建一个
+国际AI管制的
+联络。
+这就是
+让所有的
+地区联络,
+都能够
+在地区上
+做自己的
+行动,
+并找到
+失去的地方,
+并将所有的
+联络都
+连接在一起。
+所以,
+我看到
+这个原因,
+我觉得,
+我觉得,
+呃,
+呃,
+呃,
+为了
+宇宙联络的
+计划,
+几天前
+说过,
+宇宙联络应该
+扮演
+国际AI管制的
+首角,
+我对这方面的
+理解,
+是真的
+要扮演
+国际联络的
+责任,
+以
+令所有人
+变成
+别人
+而不是
+人权
+。
+另外,
+我看到的是,那些原来的网络,在今年和接下来,他们正在尝试阻止美国做的事。
+他们想取代美国做的事。
+我不是说美国应该做的事。
+我只是说,当我们看了所有其他网络的观察,
+当我们看到他们的行为,
+他们就不会对全球的信任感兴趣。
+所以,我认为美国仍然是最有信任感的平台,
+可以将所有人都联系。
+我认为中国已经参与了一些原来的网络。
+例如,在AI安全会议上,
+以及在军事AI的重新目标上。
+我认为,我认为,
+我认为中国应该参与这些网络。
+但在另一方面,
+我们看到了所有地区网络的限制,
+他们有自己的重点,
+他们有限制,
+他们没有能力将所有人都联系。
+这是他们的职责。
+那么,
+在这种情况下,
+我认为,
+不要离开任何一个国家。
+你必须要离开任何一个国家。
+因此,
+使用美国网络,
+你将所有地区网络都联系在一起,
+连接在一起,
+让它们联系。
+而在另一方面,
+对于那些地区网络,
+请不要离开美国网络。
+因为,
+因为美国在联系网络,
+就不会缺乏你们。
+所以,
+我认为,
+最健康的方法是,
+是专业联系。
+使用所有区域的控制委员,
+与美国联系联系在一起,
+这样,
+你可以联系网络。
+美国网络不是那么大颗钱,
+他們也沒有那麼多人去做這項工作,
+所以他們很強烈依賴美國政府去做這項工作。
+所以,也許他們沒有做出很好的工作,
+在他們面對的許多問題之中。
+而在另一邊,我們沒有其他選擇比他們更加有信心。
+所以,他們目前並不是最好的,
+請幫助他們成為最好的,
+請用這個平台解決問題。
+如果美國總統不做得很好,
+美國總統總統會用一些問題來提供決定,
+並問美國總統一些問題,
+並問他們做些什麼。
+例如現在的美國總統總統的決定,
+中國總統的決定,
+是一共有140個國家軍事組織的決定,
+美國總統會一起做決定,
+請美國總統提供一個報告,
+關於現時的低-和中-薪金國家的基礎問題,
+關於人工智能,
+以及找出解決問題的解決方案,
+為這些全球國家的問題,
+並提供一個報告,
+在下個年份。
+所以,我認為這些是所有的國家代表的要求,
+他們都已經簽署了這個決定。
+所以,我認為這是一種方法,
+為所有國家的問題,
+並且使用美國總統總統作為一個最有益處的平台,
+以做所有國家需要的工作。
+我可以提出一點嗎,
+我想要強調一下,
+即使沒有支付器,
+美國總統總統作為一個通訊網絡,
+也能幫助我們與其他人相似。
+我曾經在美國總統曾經在前一段時間,
+在美國總統總統的工作中,
+與一個在這裡工作的人,
+發生了我的第一次合作。
+我覺得這是非常重要的。
+確實是,
+謝謝你,
+教授鄭教授和Irene教授。
+我覺得教授鄭教授的說法,
+關於網絡的方式,
+很適合羅伯特的概念,
+就是你提到的國際社會系統,
+在你的演講中提到的國際社會系統。
+羅伯特,
+我也想聽聽一下,
+教授鄭教授的看法。
+在你的演講中,
+你提到一個國際標準和報告制度,
+對AI安全。
+你能否解釋一下,
+這對國際社會系統的進展,
+以及你提到的國際社會制度,
+以及國際社會的角色?
+當然。
+謝謝。
+謝謝。
+是否有問題?
+好的,
+這就好了。
+是吧?
+好的,
+是吧?
+好的,
+是吧?
+好的,
+是吧?
+好的,
+是吧?
+好的,
+是吧?
+好的,
+是吧?
+好的,
+是吧?
+好的,
+是吧?
+好的,
+是吧?
+好的,
+是吧?
+好的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+是的,
+例如在发展方面,我认为在讨论中,我提到的ITU和UNESCO,
+还有其他国家的领域,他们已经在计划设置的领域中做了一些事情,
+他们认为他们需要开始建立更多的研究能力,
+继续进行我们需要做的计划设置,
+并且在发展业务中做事,这非常重要。
+我认为我们需要,以一个例子来说,
+在发展中我们需要做更多的事情,
+我认为UNESCO是一个很自然的地方。
+你可能会想起一个负责 digitization的领域。
+许多社区中心的主要阻碍,
+在进步AI中参与的社区中,
+其实是在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+在进步AI中,
+我們必須要很小心地去做,但我想我們可以看到世界的努力為了改善發展的結果。
+其他一些我認為已經提及過的事情,例如AI的IPCC,在聯合國的一些標準設定項目,
+我相信我們可以找到一些很自然適合聯合國的項目,例如聯合國和諾貼議題。
+所以我們可以找到這些項目,這應該是聯合國與生態系統的重要性。
+我可以再加一點關於聯合國各個機構的問題嗎?
+現在你所看到的就是像是羅伯特所說的那樣,
+聯合國各個機構的問題,
+他們已經在聯合國各個機構上做了一些相關的AI的工作。
+我們在幾個月前在吉尼瓦州舉辦了一個網絡會議,
+我們參觀了幾個不同的聯合國機構在吉尼瓦州,
+是聯合國國務卿總統的團隊所舉辦的。
+我們看到的就是,在這些不同的聯合國機構之中,
+雖然他們看到了他們的樹木,
+但他們看到了他們的樹木,
+但在某些情況下,他們看見了樹木,
+但他們錯過了樹木,
+錯過了他們的視線。
+所以在這個情況下,我想說的就是,
+在聯合國國際健康發展的AI上,
+有很多事情是由聯合國國務卿所做的,
+但在健康發展的目的上,
+它必須在社會上解決,
+不僅是在科技上解決。
+聯合國國務卿是關於科技的,
+但在整個目的上,
+你必須要與社會上相關的不同機構討論,
+以及很多其他。
+所以聯合國國務卿,
+他們必須要在現在相比現在的情況下,
+在更好的方式上,
+進行更好的協調,
+甚至是自己的方式。
+因此,會是聯合國國務卿的任務,
+為聯合國國務卿幫助,
+以提高更好的結構,
+讓所有人都能在聯合國國務卿制度上,
+能夠操控所有人。
+而且,
+他們必須要在聯合國國務卿中,
+應用一些東西,
+在聯合國國務卿的工作上,
+去解決所有問題。
+而也,
+接著,
+聯合國立民主黨當中的協調,
+是另一個例子的。
+聯合國國務卿來到聯合國政府中,
+它想問問非非為了聯合國民主黨,
+而還有一些美國未來的協調組織,
+但是非非為了聯合國民主黨,
+MEMBER STATES HAS TO ASK THE UN GENERAL ASSEMBLY FOR THE POTENTIAL SOLUTIONS BY THE SECRETARY GENERAL TO HELP TO ORGANIZE THESE DIFFERENT INTERNATIONAL CERNITIZATION ORGANIZATIONS TO COME TOGETHER AND THEN TO TALK TO THESE DIFFERENT MEMBER STATES HOW TO UNIFY OR TO HELP TO FIND THE INTERRUPTABILITIES AMONG DIFFERENT INTERNATIONAL CERNITIZATION ORGANIZATIONS
+ NOT ONLY THE CERNITIZATION ORGANIZATION WITHIN THE UN SYSTEM
+THANK YOU SO MUCH PROFESSOR TREGGER AND PROFESSOR ZHONG
+I'M AWARE THAT WE'RE RUNNING SHORT ON TIME SO I WOULD JUST LIKE TO START WRAPPING UP OUR DISCUSSION BY ASKING A FINAL QUESTION
+YOU HAVE ALL ARTICULATED VARIOUS VISIONS OF VICTORY OR SUCCESS FOR INTERNATIONAL AI GOVERNANCE
+AND I WOULD LIKE TO HEAR FROM EACH OF OUR SPEAKERS
+WHAT IS ONE THING YOU THINK THAT THE INTERNATIONAL COMMUNITY SHOULD DO
+IN THE NEXT CENTURY
+6 TO 12 MONTHS TO ACHIEVE THIS VISION
+FOR EXAMPLE AT THE UN SUMMIT OF THE FUTURE
+THE FRANCE AI ACTIVE SUMMIT OR OTHER VENUES
+AND WE REALLY WANT TO CONCRETIZE THE DISCUSSION HERE
+SO I WOULD REALLY LIKE JUST ONE RECOMMENDATION
+PERHAPS DUNCAN AS WE HAVEN'T HEARD FROM YOU YET
+PERHAPS WE COULD START WITH YOU
+ALRIGHT THANK YOU
+I THINK MY ONE MESSAGE WOULD BE TO HELP PREPARE FOR THE FUTURE
+WE NEED TO HELP OUR INSTITUTIONS WHETHER IT BE THE UNITED NATIONS
+OR THIS WEB OF SUPPORTING NETWORKS
+TO ACTUALLY THINK NOW ABOUT WHAT MIGHT BE NEEDED
+TO HELP HUMANITY SUCCESSFULLY NAVIGATE THROUGH
+PERHAPS THE GREATEST TRANSFORMATION WE'VE EVER SEEN
+CERTAINLY LIKELY THE MOST POWERFUL TECHNOLOGY WE'VE EVER SEEN
+WE NEED TO BE THINKING NOW AND DESIGNING NOW
+AND PUTTING IN PLACE THE KINDS OF INSTITUTIONS THAT MAY BE NEEDED
+AND WE'RE HAVING TO HELP INSTITUTIONS ESSENTIALLY LOOK FORWARD
+IN THE CONTEXT OF TREMENDOUS UNCERTAINTY
+AND I THINK GIVEN THAT WE'RE FACING SO MUCH UNCERTAINTY
+WE NEED TO BE ANTICIPATORY
+WE NEED TO BUILD THE KINDS OF MECHANISMS
+THAT MIGHT BE NEEDED UNDER CERTAIN SCENARIOS
+SO THAT THEY'RE READY AHEAD OF TIME
+A LOT IS BEING TALKED ABOUT THE IMPORTANCE OF BRINGING TOGETHER
+SCIENTISTS TO BUILD SHARED UNDERSTANDING
+AROUND THE RISKS AND THE CHALLENGES
+ASSOCIATED WITH THE TECHNOLOGY
+AND THAT'S CRUCIALLY IMPORTANT
+AND JUST AS IMPORTANT
+IS BRINGING TOGETHER THE SOCIAL SCIENTISTS
+AND THE MANY DIFFERENT PERSPECTIVES
+TO REALLY ROLL UP OUR SLEEVES
+AND BRING THAT INGENUITY AROUND
+WHAT ARE THE KINDS OF GOVERNANCE INSTITUTIONS
+AND MECHANISMS WE WOULD NEED
+TO HELP HUMANITY NAVIGATE THROUGH THIS PERIOD
+SO THAT WE CAN LOOK BACK IN 500 YEARS
+AND SAY DESPITE IT BEING INCONVENIENT
+THAT WE NEEDED TO COLLABORATE ON THESE ISSUES
+WE DID MANAGE TO
+THESE TECHNOLOGIES FORCED US TO FIGURE OUT
+HOW TO COLLABORATE WELL
+THANK YOU, DUNCAN
+PERHAPS IRENE
+WE COULD HAVE YOU COME UP NEXT
+WHERE MAYBE YOU'D ALSO LIKE TO DIG INTO THE ROLE
+A LITTLE BIT MORE OF RESEARCH INSTITUTIONS
+AND STARTUPS THAT YOU MENTIONED
+IN YOUR PRESENTATION
+ABSOLUTELY, THAT'S EXACTLY WHAT I WAS GOING TO SAY
+MY SEMI SERIOUS RESPONSE IS
+A PAUSE SO THAT WE CAN ALL REST
+I'M SO TIRED, I KNOW I'M NOT ALONE
+AND THEN THE VERY SERIOUS ONE
+IS ECHOING WHAT DUNCAN WAS SAYING
+AROUND THE RIGHT EXPERTISES
+THE REASON, ONE OF THE BIG REASONS THAT I WORK AT HUGGING FACE
+IT WAS ONE OF THE FIRST TIMES THAT I SAW
+ONE OF MY HERITAGE LANGUAGES, BANGLA
+BE RESEARCHED IN A DATA SET
+AND TO ENSURE THAT WE'RE INCLUDING
+DIFFERENT GROUPS
+DIFFERENT SOCIO-TECHNICAL RESEARCHERS
+AND ALSO ADDRESSING THOSE SYSTEMIC HARMS
+THAT MAYBE AREN'T OBVIOUSLY TECHNICAL
+BUT ARE REALLY ROOTED IN
+HISTORY AND CULTURE
+AND IN DIFFERENT REGIONS OF THE WORLD
+THANK YOU, IRENE
+MATT, PERHAPS WE COULD TURN TO YOU NEXT
+ON THIS QUESTION
+SURE, ONE THING
+TO SEE IN THE NEXT 6 TO 12 MONTHS
+I THINK IT WOULD BE THE U.S.
+AND CHINA CONDUCTING SOME
+FORM OF JOINT
+EVALUATION EXERCISES
+AROUND PARTICULAR LARGE
+SCALE RISKS, THIS IS GOING TO BE EXTREMELY
+COMPLICATED TO FIGURE OUT HOW
+YOU CAN DO THIS IN A WAY THAT BOTH SIDES FEEL
+SAFE DOING
+I THINK MAYBE AT THE GOVERNMENT
+LEVEL, IT WILL BE MAYBE EVEN TOO
+DIFFICULT, IDEALLY YOU COULD DO IT IN AI
+SAFETY INSTITUTE TO AN AI SAFETY INSTITUTE
+THAT MIGHT BE TOO HARD IN THIS PERIOD OF TIME
+BUT IF NOT HAVING IT AT THE TRACK 2 LEVEL
+HAVING SOME OF THE BEST PEOPLE WORKING
+ON TECHNICAL EVALUATION IN CHINA
+AND SOME OF THE BEST PEOPLE WORKING ON TECHNICAL EVALUATION
+SAFETY EVALUATION IN THE U.S.
+IN THE U.S.
+GET TOGETHER AND
+TALK ABOUT THE METHODS THAT THEY'RE USING
+THE PROBLEMS THEY SEE WITH THOSE METHODS
+AND WHAT THEY WANT TO DO GOING FORWARD
+THANK YOU MATT, CERTAINLY
+I THINK AS WE DISCUSSED IN THIS FORUM AS WELL
+AI SAFETY TESTING BEING AN INCREDIBLY
+IMPORTANT AREA AND POTENTIAL AREA
+FOR INTERNATIONAL COORDINATION
+PERHAPS ROBERT WE COULD TURN TO YOU
+NEXT ON THIS QUESTION ABOUT NEXT
+6 TO 12 MONTHS WHAT YOU'D LIKE TO SEE HAPPEN
+WELL I THINK I
+TALKED ABOUT SOME SPECIFIC THINGS
+IN THE TALK SO MAYBE I'LL JUST USE THIS
+OPPORTUNITY TO RESPOND TO ONE THING
+THAT WAS SAID EARLIER AND
+TO SAY SOMETHING GENERAL WHICH IS THAT
+YOU KNOW I DO THINK THAT
+IN THE CONTEXT OF GEOPOLITICAL
+TENSION WE HAVE A LOT OF
+EXAMPLES OF
+RIVALS GETTING
+TOGETHER AND DOING THINGS WHEN
+THEY THOUGHT IT WAS IMPORTANT
+ENOUGH TO DO SO EVEN
+THOUGH I THINK THAT IN MANY CASES YOU WOULDN'T
+NECESSARILY PREDICT THAT
+IT WAS GOING TO HAPPEN YOU STILL
+NEED TO TRY TO MAKE IT
+HAPPEN AND TO FIND THE POSSIBILITIES
+FOR WHEN IT CAN HAPPEN
+AND FOR INSTANCE IN THIS AREA OF
+TECHNOLOGY GOVERNANCE PARTICULARLY
+AI GOVERNANCE YOU KNOW DEMOCRATS
+AND REPUBLICANS IN THE UNITED
+STATES ARE NOT KNOWN FOR GETTING
+ALONG THESE DAYS NEVERTHELESS
+THEY HAVE BEEN REMARKABLY
+IN LOCKSTEP IN
+CONGRESSIONAL HEARINGS IN
+PARTICULAR ON GOVERNANCE
+OF ADVANCED AI SO THAT'S
+ONE EXAMPLE THE
+NONPROLIFERATION TREATY WAS
+ANOTHER TIME WHEN TWO POWERS
+GOT TOGETHER BECAUSE THAT WAS
+REALLY INITIATED BY THE UNITED
+STATES AND THE SOVIET UNION AT THE
+TIME WHEN THEY DID NOT HAVE
+PARTICULARLY GOOD RELATIONS
+NEVERTHELESS THEY GOT TOGETHER AND
+THEY MANAGED TO DO IT BECAUSE THEY
+I THOUGHT IT WAS IMPORTANT SO
+IT'S NOT THAT YOU WOULD BET
+ON THOSE SORTS OF THINGS
+HAPPENING BUT YOU HAVE TO LOOK
+FOR THE OPPORTUNITIES WHEN THEY
+CAN HAPPEN
+THANK YOU ROBERT WE WOULD BE
+HONORED TO CONCLUDE THIS PANEL
+BY REMARKS FROM PROFESSOR ZUNG
+PERHAPS ON THE FINAL QUESTION
+SO WHAT'S NEXT ABOUT THE NEXT
+12 MONTHS IS I'M GONNA TELL YOU
+FIRST ABOUT WHAT'S REALLY
+HAPPENED BEFORE THE YOU KNOW THE
+FOR THE FOR THE LAST EIGHT
+MONTHS IS ALREADY THAT I
+DON'T KNOW REIMING
+BEFORE THESE EIGHT MONTHS IS
+SO I WAS INVITED TO THE ASIAN
+TECHNOLOGY CONFERENCE LAST
+YEAR FOR SINGAPORE BUT IT WAS
+NOT REIMING WHO INVITED ME
+SO I BLAME REIMING FOR THAT
+AND THEN WE COME TOGETHER SO
+HE'S FROM THE GOVERNMENT SO
+I'M FROM A RESEARCH
+ORGANIZATION SO MAYBE I'M
+I'M NOT ALLOWED TO TALK ABOUT
+THOSE THINGS SO I'M GOING TO
+TALK TO REIMING IN NORMAL
+CASES BUT AND THEN WITHIN
+THESE EIGHT MONTHS IS WE
+COME TOGETHER AS A GROUP
+REIMING TREAT ME VERY WELL
+WITH VERY GOOD ASIAN FOOD IN
+SINGAPORE AND ALSO TELLING ME
+ABOUT THE PRACTICES IN
+SINGAPORE BUT NOT ONLY AS
+TOGETHER WITH ALL THE
+PRESIDENT AND VICE PRESIDENT
+OF THESE LARGER SCALE AI
+COMPANIES ALL TOGETHER AND
+ALSO MANY OF THE FORMER
+POLICY MAKERS AND THE
+POLITICIANS ALL TOGETHER
+SO I SEE THE VALUES OF
+EVERYBODY COMING TOGETHER
+YOU DON'T UNDERSTAND EACH
+OTHER YOU SAY THAT WE ARE
+TOTALLY DIFFERENT BUT THEN
+WHEN YOU COME TOGETHER YOU
+FELT OKAY NOT SO MUCH
+DIFFERENCE AND THEN YOU HAVE
+THE SAFETY PROBLEMS YOU HAVE
+THE NEEDS FOR DEVELOPMENT
+LET'S SOLVE THE PROBLEMS
+BECAUSE COMPARED TO LAST
+YEAR THE RISK WHICH HAS BEEN
+SHOWING HAS BEEN TEN TIMES
+WHAT YOU SEE IS REALLY
+RISK AGAIN AGAIN
+HAPPENING AGAIN AGAIN IN
+DIFFERENT COUNTRIES AND
+THEN YOU SEE THE LIMITATIONS
+OF THE UN SYSTEM IF I
+HAVE THE MONEY AND ALSO I
+HAVE THE PEOPLE RIGHT THERE
+I WOULD GIVE ALL OF THEM
+TO THE UNITED NATIONS TO
+CREATE AN INTERNATIONAL
+AGENCY ON AI BY TOMORROW
+BUT I DON'T HAVE THAT SO
+FOR THE NEXT OF THE 12
+MONTHS IS WHAT HAS TO BE
+DONE IS AT LEAST TO
+CREATE SOMETHING LIKE
+THE EUROPEAN TRYING
+TO HAVE A EUROPEAN AI
+OFFICE BUT NOW WE SHOULD
+HAVE A YOU KNOW UN AI
+OFFICE A MINIMUM TRYING
+THAT BRING ALL THE UN
+AGENCIES ALL TOGETHER
+COORDINATE THEM IN SUCH A
+NICE WAY AND AND ALSO TALK
+TO THESE REGIONAL NETWORKS
+SUCH AS OECD GLOBAL
+FUNDERSHIP ON AI IEEE
+AND ACM SO SO I WOULD
+ SAY WE HAVE TO MOVE TO
+THAT SPACE SIMPLY BECAUSE
+WITHIN THE GROUP OF THE
+UN ADVISORY BODY ON AI
+WE I THINK WE SEE THE
+WOODS THE NEEDS OF
+DOING THIS WITHOUT THAT
+WE WE DON'T SEE AN
+OPPORTUNITY TO TO LEAVING
+NO COUNTRY BEHIND
+THANK YOU PROFESSOR
+ZHONG LEAVING NO COUNTRY
+BEHIND THAT'S AN INCREDIBLY
+INSPIRING VISION TO END ON
+PROFESSOR BENJIL AT THE
+PANELIST
+TALKS ABOUT HOW WE HAVE
+CURRENTLY NO KNOWN
+METHOD TO PREVENT
+EXISTING NOR
+CATASTROPHIC RISKS OF
+MISUSE OR LOSS OF CONTROL
+FROM AI SYSTEMS IT'S
+CLEAR THAT THE PATH FORWARD
+WILL BE CHALLENGING AND
+COMPLEX BUT FROM THIS FORUM
+FROM OUR SPEAKERS WE'VE
+HEARD A SHARED COMMITMENT
+TO ENSURING THAT AI
+DEVELOPMENT BENEFITS
+HUMANITY AS A WHOLE PLEASE
+JOIN ME IN A ROUND OF
+APPLAUSE FOR OUR PANELISTS
+PANELISTS FEEL FREE TO MAKE
+YOUR WAY OFF STAGE
+CAN OUR TECHNICIANS
+PLEASE COME AND
+HELP TAKE THESE SEATS
+OFF STAGE PLEASE
+SORRY DO WE HAVE
+TECHNICIANS HERE TO
+TAKE THE SEATS OFF STAGE
+SO WE COULD CLOSE OUR
+FORUM
+OK THANK YOU WELL TO
+CONCLUDE OUR FORUM WE
+ARE HONORED TO HAVE
+PROFESSOR JOE BORWIN
+DELIVER OUR CLOSING
+REMARKS FOR TODAY
+PROFESSOR JOE IS THE
+DIRECTOR AND CHIEF
+SCIENTIST OF SHANGHAI AI
+LABORATORY AND CHAIR
+PROFESSOR AT TING HUA
+UNIVERSITY HE WAS
+FORMERLY SENIOR VICE
+PRESIDENT OF THE E-COMMERCE
+GIANT JD.COM WHERE HE
+WORKED IN MULTIPLE
+EXECUTIVE POSITIONS AS THE
+FIRST EMPLOYEE OF THE
+CHINHUA UNIVERSITY
+HE WAS FORMERLY SENIOR
+VICE PRESIDENT OF THE
+JDAI RESEARCH
+PRIOR TO THAT
+PROFESSOR JOE HELD
+VARIOUS TECHNOLOGY
+LEADERSHIP AND
+EXECUTIVE POSITIONS AT
+IBM INCLUDING AS THE
+DIRECTOR OF THE AI
+FOUNDATIONS LAB AT
+IBM RESEARCH
+PROFESSOR JOE HAS
+DECADES OF EXPERIENCE
+IN AI RESEARCH AND IS
+RECIPIENT OF THE
+PRESTIGIOUS WU WEN ZUN
+AWARD FOR OUTSTANDING
+CONTRIBUTIONS IN
+AUTOMATICAL INTELLIGENCE
+PROFESSOR JOE HAS
+DECADES OF EXPERIENCE
+IN AI RESEARCH AND IS
+RECIPIENT OF THE
+PRESTIGIOUS WU WEN ZUN
+AWARD FOR
+OUTSTANDING
+CONTRIBUTIONS IN
+AUTOMATICAL INTELLIGENCE
+PROFESSOR JOE
+THANK YOU SO MUCH
+FOR BEING HERE TODAY
+THE FLOOR IS YOURS
+THANK YOU FOR HAVING ME
+HERE AND THE MORE
+IMPORTANTLY THANK TO
+ALL OF YOU FOR STAYING
+LATE
+I WAS ASKED ABOUT THE
+PROFESSION OF THE AI
+RESEARCH AND THE
+PROFESSION OF THE AI
+RESEARCH AND THE
+PROFESSION OF THE AI
+RESEARCH AND THE
+PROFESSION OF THE AI
+RESEARCH AND THE
+PROFESSION OF THE AI
+RESEARCH AND THE
+PROFESSION OF THE AI
+I WAS ASKED TO GIVE A
+PROFESSION OF THE AI
+I WAS ASKED TO GIVE A
+CONCLUDING REMARKS
+MEANING THIS IS THE END
+OF THIS FABULOUS FORUM
+OF THIS FABULOUS FORUM
+OF THIS FABULOUS FORUM
+BUT I'M THINKING THIS IS
+BUT I'M THINKING THIS IS
+ROT THE BEGINNING OF
+ONGOING CONTENTAL
+DIALOGUE
+IN THAT SPIRIT
+I'M THINKING TO GIVE
+IN THE TALK
+I WAS GIVEN YESTERDAY
+AS OPEN CEREMONY
+BECAUSE I WAS TOLD
+MANY OF YOU WERE NOT
+THERE IN PERSON
+SO
+SO BEAR MY
+SWITCHING TO CHINESE
+SWITCHING TO CHINESE
+NOW
+SO IF YOU DON'T SPEAK
+CHINESE
+PLEASE TIME TO PUT YOUR
+TRANSLATOR ON
+SO THE TOPIC I'M GONNA
+HAVE TODAY IS
+I THINK WE NEED SOMETHING
+NEW
+INTEGRATING TECH
+AND
+GOVERNANCE
+WITH THAT
+I CALL IT
+人工智能45度平衡率
+I CALL IT
+人工智能45度平衡率
+I CALL IT
+人工智能45度平衡率
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+I CALL IT
+其次的相关的伦理问题
+还有人担心是否会挑战
+就业结构
+社会系统性风险
+当然在好莱坞的电影里面
+也出现了AI失控
+人人完全丧失自主权的
+这种极端风险
+这些风险有些已经
+在现实中出现
+更多的是潜在的
+防范这些风险
+需要各界的共同努力
+需要科学社区
+做出更多贡献
+去年5月份
+数百名AI科学家
+共同签署的
+Statement of AI Risk
+也表达了对AI风险的
+相关担忧
+并呼吁防御人工智能的
+系统性风险
+应该和流行病和核战争
+等大规模风险一样
+成为全球共立的优先话题
+从一个
+我做技术的角度来看
+出现这些担忧的
+根本原因是
+目前的AI发展是失衡的
+我们来看目前的发展趋势
+很少是AI Capability
+重轴是AI Safety
+在横轴上
+在以Transformer为代表的
+基础模型架构上
+加以大数据
+大参数量
+和大计算量的Scanning Law
+目前AI Capability
+正在快速地成纸数据增长
+与之对比
+在安全领域
+我们看我们有什么
+典型的技术
+比如红对测试
+安全标识
+安全负难
+与评估评测
+等等都呈现是离散化
+碎片化
+很重要的是Ad Hoc
+非常的厚实
+当然
+最近出现了一些新的技术
+兼顾了性能和安全性
+比如监督式微条
+SFT
+人类反馈的强化学习
+ROHF
+RAF
+Super Alignment
+等等
+这些方法
+最主要特点是
+把人类的偏好
+传递给大模型
+也涌现出了
+比如TRAD GPT-4
+等令人兴奋的AI系统
+以及我们上海
+AI实验室的
+书生
+英特尔大模型等等
+虽然这些技术
+瞄准的是
+安全和性能同时提升
+但在实际上
+在实际使用中
+大家往往发现
+更多是性能优先
+所以总体上
+我们在AI模型的
+安全能力的提升
+还远远落后于性能
+这种失衡
+导致AI的发展是跛脚的
+所以我们把它叫
+Crypt AI
+但是这种不平衡的背后
+实际上是两者
+投入上的巨大差异
+从右边的对比
+大家能够看出来
+两者在技术研究上
+是否体系化
+人才的密度上
+商业驱动力方面
+以及
+算力的投入度方面
+对比来看
+安全方面的投入
+是远远落后于AI能力的
+我一直在呼吁
+要加大对安全的
+算力的投入
+我举的例子就是说
+你AI System
+Like a little child
+当小的时候
+你可能滑荡了算力
+去帮助他吃好 喝好
+衣服穿好
+但是在孩子
+慢慢Grow up的时候
+You spend more time
+去跟他
+你更多的焦虑
+不知道他是不是吃好
+喝好的时候
+他去跟他做
+各种价值的交流
+这种价值的交流的投入
+实际上就是算力的投入
+但是很不幸的是
+我们大部分的算力
+都投入在预训链上
+很少很少也不必用在安全上
+所以这种投入的失衡
+导致了我们现在Clip的AI
+我们真正需要追求的
+我一直在讲的是
+包括从美国到中国
+我的学术生涯
+一直在追求的Trustworthy AI
+也就是右上角这个路线
+这是我们的新城大海
+我把这个叫做可信AI
+如果我们找到兼顾
+如果我们找到兼顾
+安全和性能
+所以我们需要找到AI安全优先
+但又能保证AI性能的
+长期的发展的技术体系
+我个人把这样一种技术思想体系
+叫做AI45度平衡率
+AI45 degree law
+AI45度平衡率
+是从长期的角度来看
+我们要大体上沿着
+45度安全与性能平衡发展
+所谓平衡是指短期内
+可以有上下的波动
+但长期内不能长期内
+不能长期低于45度
+如同我们现在
+也不能长期高于45度
+这将阻碍发展与产业应用
+这个技术思想体系
+它是强技术驱动
+全流程优化
+所谓全流程优化
+我在23年的一篇Trustworthy AI的
+中述文章里面
+在ACM Competence Survey上发表
+提出是要把全流程
+从数据的准备
+模型的训练
+到部署之后的operation和运营
+全部从安全的角度来进行优化
+同时也需要多主体参与
+我想这是刚才Forum讨论的
+很多的话题
+当然也包括敏捷治理
+实现AI45度平衡
+从技术角度来讲
+也许存在很多的路径
+我们上海AI Lab
+最近在探索一条
+以因果为核心的路径
+我个人把它取名取为
+可信AI的因果之梯
+这也是致敬因果推理领域的先驱
+图里奖者得主Judy Appel
+可信AI家的因果之梯
+我们把可信AI家的发展
+分为三个阶段
+分别是犯对棋
+可干预 能反思
+犯对棋主要是包含了
+当前最主流最前沿的
+人类偏好对棋技术
+像我们前面提到的LHF
+但是需要注意的是
+这些安全对棋
+仅依赖于统计相关性
+而不是真正的因果关系
+这样可能会导致错误的推理
+以及潜在的风险
+一个经典的例子是巴夫洛夫的狗
+当狗仅仅记忆铃声和食物的相关性
+形成条件反射时
+它可能在任何场合听到铃声
+都会触发它的行为
+这里这个行为是分泌堕叶
+但如果把它想象成
+这个行为是金融转账
+医疗决策
+甚至是军事相关的决定
+这显然是极其不安全的
+所以我们需要第二条
+它叫做可干预
+它主要是通过对AI系统进行干预
+探究其因果机制的安全技术
+比如能在回路
+机械可解释性
+也包括我们刚刚提出的
+对抗演练
+它可以通过
+提高可解释性和泛化性
+来提升安全性
+同时也提升AI能力
+能反思在第三层
+则要求AI系统
+不仅要追求高效执行任务
+还能审视自身行为
+带来的影响和潜在风险
+同时确保安全和道德的
+边界不会突破
+这个阶段的技术包括
+Value Audited Training
+记忆价值的训练
+因果可解释以及反思时推理等
+目前从业界的技术发展来看
+AI的安全和性能技术
+主要停在第一阶段
+部分在尝试第二阶段
+要真正实现AI的安全
+与性能平衡
+我们必须完成
+必须完善第二阶段
+以可信AGI的因果
+司机而上
+我们相信可以构建真正的可信AGI
+实现人工上的安全
+与作业系统的完美平衡
+Ultimately
+最终我们是希望
+像安全可控的核聚变技术一样
+为全人类带来清洁丰富的能源
+我们希望通过深入理解
+AI的内在机理和因果过程
+从而安全
+有效的开发和使用
+这项革命性的技术
+也正如
+可控核聚变对全人类
+都是共同利益一样
+我们坚信AI的安全
+也是全球性的公共福祉
+需要国际社会的共同努力
+和合作
+我们愿与大家一起携手推进
+AI45度的发展
+共享AI安全技术
+加强全球AI安全人才的交流与合作
+平衡AI安全与人类的投入
+共同构建
+开放安全的通用人口
+智能创新生态和人才
+发展环境
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+特别感谢今天论坛的各位嘉宾和朋友们
+今天论坛圆满结束
+安全AI希望本论坛
+可以进一步推动前沿AI安全与距离的
+讨论和行动
+期待和大家再见
+谢谢
+请今天的嘉宾留步
+我们一起在上台合影
+谢谢
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家
+谢谢大家

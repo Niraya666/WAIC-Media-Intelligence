@@ -1,0 +1,57 @@
+{
+    "name": "人工智能前沿技术的治理挑战与应对措施论坛",
+    "addr": "世博中心515会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-17/04f27966b3c24cf4a51f9890e6a71d1b.png",
+    "desc": "随着通用人工智能的广泛应用和深入研究，前沿人工智能的发展潜力和安全风险更加直观地展现出来。各国政府、研究机构和国际组织加强对话与互动，如何通过国际合作防范快速发展人工智能所带来的极端风险已经变得刻不容缓。“2024世界人工智能大会·人工智能前沿技术的治理挑战与应对措施论坛”将围绕人工智能前沿技术的发展与治理，交流人工智能的最新研究进展，探讨人工智能治理挑战与应对措施，探索构建人工智能治理全球框架。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/04/434413980745728.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "14:00",
+            "endTime": "14:15",
+            "speechGuest": null,
+            "speechTheme": "嘉宾致辞"
+        },
+        {
+            "startTime": "14:15",
+            "endTime": "15:15",
+            "speechGuest": null,
+            "speechTheme": "主旨报告"
+        },
+        {
+            "startTime": "15:15",
+            "endTime": "15:20",
+            "speechGuest": null,
+            "speechTheme": "《中国人工智能重大应用场景白皮书》及“智能向善全球伙伴计划”启动仪式"
+        },
+        {
+            "startTime": "15:20",
+            "endTime": "15:30",
+            "speechGuest": null,
+            "speechTheme": "茶歇"
+        },
+        {
+            "startTime": "15:30",
+            "endTime": "16:30",
+            "speechGuest": null,
+            "speechTheme": "圆桌对话: 人工智能前沿技术的治理挑战与应对措施"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "齐利德齐·马瓦拉",
+            "company": "联合国大学",
+            "position": "校长"
+        },
+        {
+            "name": "薛澜",
+            "company": "清华大学人工智能国际治理研究院",
+            "position": "院长"
+        },
+        {
+            "name": "姚期智",
+            "company": "清华大学交叉信息研究院、人工智能学院院长",
+            "position": "院长"
+        }
+    ]
+}

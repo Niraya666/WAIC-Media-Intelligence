@@ -1,0 +1,143 @@
+{
+    "name": "前沿人工智能安全与治理论坛 (上午场)",
+    "addr": "世博展览馆1A号会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-19/9163ae51e2a04ed3ace7fabf9a14f5e2.jpg",
+    "desc": "2024年7月5日，在前沿人工智能安全与治理论坛上，共同塑造人工智能的未来！作为世界人工智能大会上专注于讨论AI安全与治理前沿问题的论坛，汇聚全球顶尖专家学者，其中近半数为国际嘉宾。论坛内容丰富， 包括超过18场主题演讲、4场圆桌会议和炉边谈话。Yoshua Bengio开幕主旨演讲、高文院士、张亚勤院士、薛澜院长、周伯文老师、Dawn Song，以及来自法国国家计算机科学研究中心、Frontier Model Forum、Hugging Face等20多位国内外知名专家参与。\n\n加入这一具有里程碑意义的盛会，成为这一前所未有的学习与交流的一部分，引导未来AI安全向善发展！",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434777895337984.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "09:00",
+            "endTime": "09:05",
+            "speechGuest": "",
+            "speechTheme": "领导致辞 "
+        },
+        {
+            "startTime": "09:05",
+            "endTime": "09:25",
+            "speechGuest": "",
+            "speechTheme": "开幕主旨演讲：先进人工智能安全 - 最新进展和未解决的问题"
+        },
+        {
+            "startTime": "09:25",
+            "endTime": "09:40",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：《针对强人工智能安全风险的技术应对策略》"
+        },
+        {
+            "startTime": "09:40",
+            "endTime": "09:55",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：人工智能安全的挑战和未来方向"
+        },
+        {
+            "startTime": "09:55",
+            "endTime": "10:10",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：《人工智能飞速进步时代的风险管理》"
+        },
+        {
+            "startTime": "10:10",
+            "endTime": "10:40",
+            "speechGuest": "",
+            "speechTheme": "圆桌讨论：前沿人工智能安全的研究议程"
+        },
+        {
+            "startTime": "10:45",
+            "endTime": "11:00",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：大语言模型和多模态模型的安全基准 "
+        },
+        {
+            "startTime": "11:00",
+            "endTime": "11:15",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：推进前沿人工智能安全的行业实践 "
+        },
+        {
+            "startTime": "11:15",
+            "endTime": "11:30",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：全面的人工智能安全与安保基准 "
+        },
+        {
+            "startTime": "11:30",
+            "endTime": "11:45",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：DEFCON 31的AI红队经验"
+        },
+        {
+            "startTime": "11:45",
+            "endTime": "12:15",
+            "speechGuest": "",
+            "speechTheme": "圆桌讨论：前沿人工智能安全评测的探索"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "约书亚·本吉奥",
+            "company": "Mila - 魁北克人工智能研究所",
+            "position": "创始人和科学主任"
+        },
+        {
+            "name": "高文",
+            "company": "鹏城实验室",
+            "position": "主任"
+        },
+        {
+            "name": "宋晓冬",
+            "company": "加州大学伯克利分校",
+            "position": "计算机科学教授"
+        },
+        {
+            "name": "张亚勤",
+            "company": "清华大学",
+            "position": "智能产业研究院院长"
+        },
+        {
+            "name": "黄民烈",
+            "company": "清华大学",
+            "position": "基础模型中心副主任"
+        },
+        {
+            "name": "邵婧",
+            "company": "上海人工智能实验室",
+            "position": "大模型安全团队负责人"
+        },
+        {
+            "name": "张倬胜",
+            "company": "上海交通大学",
+            "position": "长聘教轨助理教授"
+        },
+        {
+            "name": "杨耀东",
+            "company": "北京大学",
+            "position": "AI安全与治理中心执行主任"
+        },
+        {
+            "name": "乔宇",
+            "company": "上海人工智能实验室",
+            "position": "领军科学家"
+        },
+        {
+            "name": "克里斯·梅塞罗尔",
+            "company": "前沿模型论坛",
+            "position": "执行董事"
+        },
+        {
+            "name": "魏凯",
+            "company": "中国信息通信研究院 ",
+            "position": "人工智能创新中心主任、云计算与大数据研究所副所长"
+        },
+        {
+            "name": "鲁曼·乔杜里",
+            "company": "Humane Intelligence",
+            "position": "首席执行官"
+        },
+        {
+            "name": "熊德意",
+            "company": "天津大学",
+            "position": "自然语言处理实验室负责人"
+        }
+    ]
+}

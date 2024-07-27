@@ -1,0 +1,79 @@
+{
+    "name": "“AI+领航 智绘未来” ——智能计算与强化学习论坛",
+    "addr": "518会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-20/40b82ee502d8424fb82f40f70c9f727f.jpg",
+    "desc": "当前，智能计算正成为时代刚需：电网、交通、金融、先进制造、供应链、工业等重要行业对智能计算软件的需求剧增。论坛旨在深入探讨基于强化学习的智能算法研发历史与进展，展望智能计算的未来——如何与优化技术、GPU计算、强化学习、统计等方法结合，以及其在世界范围内的领先应用。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/06/435140949999616.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "14:00",
+            "endTime": "14:05",
+            "speechGuest": "",
+            "speechTheme": "论坛开幕"
+        },
+        {
+            "startTime": "14:05",
+            "endTime": "14:35",
+            "speechGuest": "",
+            "speechTheme": "求解超大规模数学规划问题的新进展"
+        },
+        {
+            "startTime": "14:35",
+            "endTime": "15:10",
+            "speechGuest": "",
+            "speechTheme": "智能计算与大模型决策：理论与实践"
+        },
+        {
+            "startTime": "15:10",
+            "endTime": "15:50",
+            "speechGuest": "",
+            "speechTheme": "生成式人工智能的机遇和挑战及在量化交易中的应用"
+        },
+        {
+            "startTime": "15:50",
+            "endTime": "16:25",
+            "speechGuest": "",
+            "speechTheme": "生成式人工智能的应用：面向生成优化的引导扩散模型"
+        },
+        {
+            "startTime": "16:25",
+            "endTime": "16:55",
+            "speechGuest": "",
+            "speechTheme": "人工智能和数据科学的经济展望"
+        },
+        {
+            "startTime": "16:55",
+            "endTime": "17:00",
+            "speechGuest": "",
+            "speechTheme": "论坛闭幕"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "叶荫宇",
+            "company": "斯坦福大学",
+            "position": "管理科学与工程系及计算数学工程研究院李国鼎讲席教授"
+        },
+        {
+            "name": "葛冬冬",
+            "company": "上海交通大学",
+            "position": "智能计算研究院院长"
+        },
+        {
+            "name": "王梦迪",
+            "company": "普林斯顿大学",
+            "position": "电子计算机工程系和统计与机器学习中心终身教授"
+        },
+        {
+            "name": "苏炜杰",
+            "company": "宾夕法尼亚大学",
+            "position": "沃顿商学院终身教授"
+        },
+        {
+            "name": "陈溪",
+            "company": "纽约大学",
+            "position": "斯特恩商学院Andre Meyer冠名终身教授"
+        }
+    ]
+}
