@@ -1,0 +1,150 @@
+{
+    "name": "前沿人工智能安全与治理论坛（下午场）",
+    "addr": "世博展览馆1A号会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-19/9be3a1d6d02f414ca9ab6f3e615841b9.jpg",
+    "desc": "2024年7月5日，在前沿人工智能安全与治理论坛上，共同塑造人工智能的未来！作为世界人工智能大会上专注于讨论AI安全与治理前沿问题的论坛，汇聚全球顶尖专家学者，其中近半数为国际嘉宾。论坛内容丰富， 包括超过18场主题演讲、4场圆桌会议和炉边谈话。Yoshua Bengio开幕主旨演讲、高文院士、张亚勤院士、薛澜院长、周伯文老师、Dawn Song，以及来自法国国家计算机科学研究中心、Frontier Model Forum、Hugging Face等20多位国内外知名专家参与。\n\n加入这一具有里程碑意义的盛会，成为这一前所未有的学习与交流的一部分，引导未来AI安全向善发展！",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434777895337984.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "13:15",
+            "endTime": "13:30",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：人工智能的影响、未来利害关系和治理–法国人工智能委员会的分析"
+        },
+        {
+            "startTime": "13:30",
+            "endTime": "13:45",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：新加坡的AI治理方法"
+        },
+        {
+            "startTime": "13:45",
+            "endTime": "14:00",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲: 《中华人民共和国人工智能法（学者建议稿）》"
+        },
+        {
+            "startTime": "14:00",
+            "endTime": "14:15",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：美国的AI治理方法"
+        },
+        {
+            "startTime": "14:15",
+            "endTime": "14:40",
+            "speechGuest": "",
+            "speechTheme": "圆桌讨论：人工智能治理的地区视角和经验分享"
+        },
+        {
+            "startTime": "14:45",
+            "endTime": "14:55",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：人工智能安全–全球挑战、共同机遇"
+        },
+        {
+            "startTime": "14:55",
+            "endTime": "15:10",
+            "speechGuest": "",
+            "speechTheme": "炉边对话：人工智能安全国际对话的作用"
+        },
+        {
+            "startTime": "15:10",
+            "endTime": "15:20",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：人工智能安全的国际治理"
+        },
+        {
+            "startTime": "15:20",
+            "endTime": "15:35",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：人工智能安全的国际科学红线"
+        },
+        {
+            "startTime": "15:35",
+            "endTime": "15:50",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：开源治理的国际影响"
+        },
+        {
+            "startTime": "15:50",
+            "endTime": "16:05",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲：人工智能安全国际机构"
+        },
+        {
+            "startTime": "16:05",
+            "endTime": "16:35",
+            "speechGuest": "",
+            "speechTheme": "圆桌讨论：前沿人工智能安全国际合作的优先事项"
+        },
+        {
+            "startTime": "16:35",
+            "endTime": "16:45",
+            "speechGuest": "",
+            "speechTheme": "闭幕致辞"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "盖尔·瓦罗夸克斯",
+            "company": "法国国家计算机科学研究中心 ",
+            "position": "研究主管"
+        },
+        {
+            "name": "张凌寒",
+            "company": "中国政法大学",
+            "position": "数据法研究所教授"
+        },
+        {
+            "name": "马克·尼兹伯格",
+            "company": "加州大学伯克利分校",
+            "position": "人类兼容人工智能中心执行主任"
+        },
+        {
+            "name": "季卫东",
+            "company": "上海交通大学",
+            "position": "人工智能治理与法律研究中心主任"
+        },
+        {
+            "name": "王迎春",
+            "company": "上海人工智能实验室",
+            "position": "治理研究中心副主任"
+        },
+        {
+            "name": "马里亚诺·弗洛伦蒂诺·奎利亚尔",
+            "company": "卡内基国际和平研究院",
+            "position": "主席"
+        },
+        {
+            "name": "薛澜",
+            "company": "清华大学",
+            "position": "人工智能国际治理研究院院长"
+        },
+        {
+            "name": "曾毅",
+            "company": "中国科学院",
+            "position": "自动化研究所类脑认知智能实验室"
+        },
+        {
+            "name": "艾琳·索莱曼",
+            "company": "抱抱脸",
+            "position": "全球政策主管"
+        },
+        {
+            "name": "罗伯特·特拉格",
+            "company": "牛津大学",
+            "position": "马丁学院人工智能治理计划联合主任"
+        },
+        {
+            "name": "马特·希恩",
+            "company": "卡内基国际和平研究院",
+            "position": "研究员"
+        },
+        {
+            "name": "周伯文",
+            "company": "清华大学",
+            "position": "惠妍讲席教授"
+        }
+    ]
+}
