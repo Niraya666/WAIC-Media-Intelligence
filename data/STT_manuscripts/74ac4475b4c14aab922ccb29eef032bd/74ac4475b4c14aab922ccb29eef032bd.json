@@ -1,0 +1,68 @@
+{
+    "name": "办公新质生产力：探索 AI 办公最佳实践",
+    "addr": "世博中心517会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-20/76b8f880e8a04d7a96c97cc30523c656.jpg",
+    "desc": "当前新质生产力在实践中展现出对高质量发展的强劲推动力和支撑力。人工智能作为引领新一轮科技革命和产业变革的战略性技术已成为发展新质生产力的重要使能者。AI办公作为未来的企业智能核心将为企业带来前所未有的发展机遇，但也面临诸多挑战。因此我们需要不断探索和创新，通过AI技术为企业创造更大的价值。\n此次议题涵盖AI办公的定义、应用领域、挑战与机遇及未来趋势，旨在为与会者提供全面、深入的交流平台。金山办公在今年4月全新推出的WPS AI企业版，聚焦打造企业大脑，包括AI Hub、AI Docs、Copilot Pro三个部分。通过这次论坛，希望激发更多思考和创新，推动企业AI大脑技术的发展和应用。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434690515402752.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "09:10",
+            "endTime": "09:30",
+            "speechGuest": null,
+            "speechTheme": "AI办公时代"
+        },
+        {
+            "startTime": "09:30",
+            "endTime": "09:50",
+            "speechGuest": null,
+            "speechTheme": "AI驱动的办公生产力变革"
+        },
+        {
+            "startTime": "09:50",
+            "endTime": "10:20",
+            "speechGuest": null,
+            "speechTheme": "效率为先——WPS AI：打工人的灵感搭子"
+        },
+        {
+            "startTime": "10:20",
+            "endTime": "10:50",
+            "speechGuest": null,
+            "speechTheme": "生产力起飞——WPS AI 在企业组织的最新应用"
+        },
+        {
+            "startTime": "10:50",
+            "endTime": "11:20",
+            "speechGuest": null,
+            "speechTheme": "落地实践——如何构建一站式AI办公"
+        },
+        {
+            "startTime": "11:20",
+            "endTime": "11:50",
+            "speechGuest": null,
+            "speechTheme": "AI技术如何重塑办公生产力"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "晁云曈",
+            "company": "北京金山办公软件股份有限公司",
+            "position": "助理总裁"
+        },
+        {
+            "name": "陈波",
+            "company": "北京金山办公软件股份有限公司",
+            "position": "助理总裁"
+        },
+        {
+            "name": "于叶舟",
+            "company": "北京金山办公软件股份有限公司",
+            "position": "WPS365解决方案总监"
+        },
+        {
+            "name": "章庆元",
+            "company": "北京金山办公软件股份有限公司",
+            "position": "首席执行官"
+        }
+    ]
+}
