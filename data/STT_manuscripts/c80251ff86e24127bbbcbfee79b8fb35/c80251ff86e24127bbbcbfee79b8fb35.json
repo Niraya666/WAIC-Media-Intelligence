@@ -1,0 +1,35 @@
+{
+    "name": "Future Tech 未来之星创新项目路演",
+    "addr": "世博展览馆H3蓝舞台",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-17/0cc913ff5cd04b68a63a1e7a70851182.png",
+    "desc": "7月4日-6日，30场创新项目路演发布，同步开启线上直播；4场主题演讲+3场圆桌对谈，来自联合投资机构、产业龙头企业将分享行业洞察和未来展望，为参会者提供丰富的行业信息和投资参考；3天投融资对接会，为投资者和企业搭建沟通桥梁，促进产业合作和资本对接。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/08/435791004237824.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "13:30",
+            "endTime": "14:50",
+            "speechGuest": "",
+            "speechTheme": "Future Tech 未来之星创新项目路演开幕式"
+        },
+        {
+            "startTime": "14:50",
+            "endTime": "15:00",
+            "speechGuest": "",
+            "speechTheme": "中场休息"
+        },
+        {
+            "startTime": "15:00",
+            "endTime": "16:00",
+            "speechGuest": "",
+            "speechTheme": "项目路演"
+        },
+        {
+            "startTime": "16:00",
+            "endTime": "17:00",
+            "speechGuest": "",
+            "speechTheme": "投融资对接会"
+        }
+    ],
+    "guestVisitList": []
+}

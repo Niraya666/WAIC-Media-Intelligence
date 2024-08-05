@@ -1,0 +1,145 @@
+{
+    "name": "产业发展主论坛",
+    "addr": "世博中心银厅",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-28/c274b029bd6d4f208807dc2883621da0.jpg",
+    "desc": "WAIC产业发展主论坛汇聚二十余位国内外人工智能及相关交叉领域顶尖专家、业界领军人物、科技新锐力量及产业链各方代表，聚焦大模型、AI基础设施、智能终端等重点领域，着重剖析当下AI产业的全球性战略趋势，深度探讨人工智能应用前景、产业治理、生态建设等热点议题，为打造具有国际竞争力的数字产业集群注入新活力、增添新动能。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/04/434414773469184.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "13:30",
+            "endTime": "13:45",
+            "speechGuest": "",
+            "speechTheme": "领导致辞"
+        },
+        {
+            "startTime": "13:45",
+            "endTime": "13:55",
+            "speechGuest": "",
+            "speechTheme": "仪式环节"
+        },
+        {
+            "startTime": "13:55",
+            "endTime": "16:30",
+            "speechGuest": "",
+            "speechTheme": "演讲+对话"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "安德雷斯·韦思岸",
+            "company": "社交数据实验室",
+            "position": "创始人"
+        },
+        {
+            "name": "傅盛",
+            "company": "猎豹移动",
+            "position": "董事长兼CEO"
+        },
+        {
+            "name": "井贤栋",
+            "company": "蚂蚁集团",
+            "position": "董事长兼首席执行官"
+        },
+        {
+            "name": "李彦宏",
+            "company": "百度",
+            "position": "创始人、董事长兼首席执行官"
+        },
+        {
+            "name": "马克·尼兹伯格",
+            "company": "加州大学伯克利分校人工智能研究实验室人类兼容人工智能中心",
+            "position": "执行主任"
+        },
+        {
+            "name": "孟樸",
+            "company": "高通公司",
+            "position": "中国区董事长"
+        },
+        {
+            "name": "王坚",
+            "company": "中国工程院",
+            "position": "院士"
+        },
+        {
+            "name": "杨杰",
+            "company": "中国移动通信集团有限公司",
+            "position": "中国移动通信集团有限公司董事长"
+        },
+        {
+            "name": "张平安",
+            "company": "华为",
+            "position": "常务董事"
+        },
+        {
+            "name": "彼得·韦恺哲",
+            "company": "施耐德电气",
+            "position": "全球执行副总裁、首席数字官"
+        },
+        {
+            "name": "蒋颖",
+            "company": "德勤",
+            "position": "中国主席"
+        },
+        {
+            "name": "柯瑞文",
+            "company": "中国电信集团有限公司",
+            "position": "董事长"
+        },
+        {
+            "name": "罗伯特·特拉格",
+            "company": "牛津大学马丁人工智能治理计划",
+            "position": "联合主任"
+        },
+        {
+            "name": "孙元浩",
+            "company": "星环信息科技（上海）股份有限公司",
+            "position": "创始人、CEO"
+        },
+        {
+            "name": "肖松",
+            "company": "西门子",
+            "position": "全球执行副总裁"
+        },
+        {
+            "name": "谢陵",
+            "company": "御风未来",
+            "position": "创始人兼首席执行官"
+        },
+        {
+            "name": "徐立",
+            "company": "商汤科技",
+            "position": "董事长兼CEO"
+        },
+        {
+            "name": "徐子阳",
+            "company": "中兴通讯股份有限公司",
+            "position": "执行董事、总裁"
+        },
+        {
+            "name": "许彬",
+            "company": "国家地方共建人形机器人创新中心",
+            "position": "总经理"
+        },
+        {
+            "name": "闫俊杰",
+            "company": "MiniMax",
+            "position": "创始人、首席执行官"
+        },
+        {
+            "name": "曾毅",
+            "company": "中国科学院",
+            "position": "中国科学院自动化研究所研究员"
+        },
+        {
+            "name": "张鹏",
+            "company": "智谱AI",
+            "position": "首席执行官"
+        },
+        {
+            "name": "周鸿祎",
+            "company": "360集团",
+            "position": "创始人"
+        }
+    ]
+}

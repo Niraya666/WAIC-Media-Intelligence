@@ -1,0 +1,149 @@
+{
+    "name": "科学前沿主论坛",
+    "addr": "世博中心红厅",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-07-02/91f9c9bc4cc14081948fbcdc642b98ab.png",
+    "desc": "7月4日，2024年世界人工智能大会（WAIC）主论坛科学前沿全体会议（Main Forum · Scientific Frontier）将在上海世博中心举办。科学前沿全体会议由上海人工智能实验室和全球高校人工智能学术联盟（GAIAA）联合承办，邀请多位全球人工智能及相关交叉领域顶尖科学家、高校教授和青年科学家齐聚上海，围绕 “下一代可信AI的技术探索”进行探讨，设置主旨演讲、AI for World圆桌对话、“下一代人工智能架构的革新与挑战”圆桌论坛等板块，聚焦AI基础前沿问题，希望为人工智能的可持续发展沉淀真正有价值的议题。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/04/434427960262657.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "13:30",
+            "endTime": "13:45",
+            "speechGuest": "",
+            "speechTheme": "欢迎致辞"
+        },
+        {
+            "startTime": "13:45",
+            "endTime": "14:05",
+            "speechGuest": "",
+            "speechTheme": "开场报告"
+        },
+        {
+            "startTime": "14:05",
+            "endTime": "14:40",
+            "speechGuest": "",
+            "speechTheme": "年度成果发布"
+        },
+        {
+            "startTime": "14:40",
+            "endTime": "15:50",
+            "speechGuest": "",
+            "speechTheme": " 圆桌对话：AI战略科技力量的协同发展与创新探索"
+        },
+        {
+            "startTime": "15:50",
+            "endTime": "16:40",
+            "speechGuest": "",
+            "speechTheme": " 主旨报告"
+        },
+        {
+            "startTime": "16:40",
+            "endTime": "16:55",
+            "speechGuest": "",
+            "speechTheme": "发布仪式"
+        },
+        {
+            "startTime": "16:55",
+            "endTime": "17:50",
+            "speechGuest": "",
+            "speechTheme": "圆桌论坛：下一代人工智能架构的革新与挑战"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "Juergen Schmidhuber",
+            "company": "阿卜杜拉国王科技大学",
+            "position": "AI研究院院长"
+        },
+        {
+            "name": "钱锋",
+            "company": "中国工程院",
+            "position": "院士"
+        },
+        {
+            "name": "王耀南",
+            "company": "中国工程院",
+            "position": "院士"
+        },
+        {
+            "name": "Dawn Song",
+            "company": "加州大学伯克利分校",
+            "position": "教授"
+        },
+        {
+            "name": "文勇刚",
+            "company": "南洋理工大学 ",
+            "position": "教授"
+        },
+        {
+            "name": "黄铁军",
+            "company": "北京大学",
+            "position": "教授"
+        },
+        {
+            "name": "潘纲",
+            "company": "浙江大学",
+            "position": "教授"
+        },
+        {
+            "name": "胡国平",
+            "company": "科大讯飞",
+            "position": "高级副总裁"
+        },
+        {
+            "name": "吕卫锋",
+            "company": "北京航空航天大学",
+            "position": "教授"
+        },
+        {
+            "name": "万鹏飞",
+            "company": "北京快手科技有限公司",
+            "position": "视觉生成与互动中心负责人，快手“可灵”视频生成模型负责人"
+        },
+        {
+            "name": "代季峰",
+            "company": "清华大学",
+            "position": "副教授"
+        },
+        {
+            "name": "许华哲",
+            "company": "清华大学",
+            "position": "Tsinghua University"
+        },
+        {
+            "name": "林达华",
+            "company": "上海人工智能实验室",
+            "position": "教授"
+        },
+        {
+            "name": "赵志耘",
+            "company": "中国科学技术信息研究所",
+            "position": "党委书记 "
+        },
+        {
+            "name": "张弘扬",
+            "company": "滑铁卢大学",
+            "position": "助理教授"
+        },
+        {
+            "name": "陆超超",
+            "company": "上海人工智能实验室",
+            "position": "青年科学家"
+        },
+        {
+            "name": "周博磊",
+            "company": "加州大学洛杉矶分校",
+            "position": "助理教授"
+        },
+        {
+            "name": "陈恺",
+            "company": "上海人工智能实验室",
+            "position": "青年科学家"
+        },
+        {
+            "name": "白磊",
+            "company": "上海人工智能实验室",
+            "position": "青年科学家"
+        }
+    ]
+}

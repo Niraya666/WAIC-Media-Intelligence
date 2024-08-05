@@ -1,0 +1,153 @@
+{
+    "name": " AI for Science：十问论坛",
+    "addr": "世博中心618会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-21/1211cbd8081c4e559450d5b672940640.jpg",
+    "desc": "当前，我们正处于人工智能与科学研究的交叉点，人工智能的飞速进步正逐渐打破传统的学科界限，开创全新的研究范式。有没有全新的科学因为AI和科学的结合而涌现？在科学领域，AI取得的重大突破有哪些特点？未来，人工智能技术能否在科研中扮演类似科学家的角色？这些问题已成为AI专家和科学家共同关注的焦点。 \n2024年7月5日，上海人工智能实验室AI for Science中心联合复旦大学复杂体系多尺度研究院承办论坛AI for Science：十问。围绕科学智能十大问题，探索人工智能如何重新定义我们对科学的理解和实践之路。论坛不仅展示科学智能的实际成就，同时探讨如何利用AI推动科学理论的革新及技术突破。\n",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434780533456896.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "13:30",
+            "endTime": "13:40",
+            "speechGuest": null,
+            "speechTheme": "开场致辞"
+        },
+        {
+            "startTime": "13:40",
+            "endTime": "14:00",
+            "speechGuest": null,
+            "speechTheme": "生物智能（BI）、人类智能（HI）和机器智能（AI）：科学的集合体"
+        },
+        {
+            "startTime": "14:00",
+            "endTime": "14:20",
+            "speechGuest": null,
+            "speechTheme": "全链条AI-赋能新药创新研究"
+        },
+        {
+            "startTime": "14:20",
+            "endTime": "14:40",
+            "speechGuest": null,
+            "speechTheme": "发布环节"
+        },
+        {
+            "startTime": "14:40",
+            "endTime": "15:00",
+            "speechGuest": null,
+            "speechTheme": "AI驱动的分子设计"
+        },
+        {
+            "startTime": "15:00",
+            "endTime": "15:20",
+            "speechGuest": null,
+            "speechTheme": "理实交融的机器化学家探索"
+        },
+        {
+            "startTime": "15:20",
+            "endTime": "15:40",
+            "speechGuest": null,
+            "speechTheme": "书生·风乌气象海洋预报大模型体系"
+        },
+        {
+            "startTime": "15:40",
+            "endTime": "16:00",
+            "speechGuest": null,
+            "speechTheme": "地理空间智能生态系统创新"
+        },
+        {
+            "startTime": "16:00",
+            "endTime": "16:20",
+            "speechGuest": null,
+            "speechTheme": "设计师与智能体：共生进化的民机设计"
+        },
+        {
+            "startTime": "16:20",
+            "endTime": "16:30",
+            "speechGuest": null,
+            "speechTheme": "中场休息"
+        },
+        {
+            "startTime": "16:30",
+            "endTime": "17:30",
+            "speechGuest": null,
+            "speechTheme": "圆桌论坛"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "Michael Levitt",
+            "company": "斯坦福大学",
+            "position": "美国国家科学院院士、斯坦福终身教授"
+        },
+        {
+            "name": "吴光辉",
+            "company": "中国商用飞机有限责任公司",
+            "position": "中国工程院院士、中国商飞首席科学家"
+        },
+        {
+            "name": "鄂维南",
+            "company": "北京大学",
+            "position": "中国科学院院士、北京大学讲席教授"
+        },
+        {
+            "name": "李朋德",
+            "company": "联合国全球地理信息知识与创新中心",
+            "position": "主任"
+        },
+        {
+            "name": "马剑鹏",
+            "company": "复旦大学",
+            "position": "复杂体系多尺度研究院院长、上海人工智能实验室教授"
+        },
+        {
+            "name": "周如鸿",
+            "company": "浙江大学",
+            "position": "生命科学院院长、求是讲席教授"
+        },
+        {
+            "name": "李鹏",
+            "company": "中国南方电网有限责任公司",
+            "position": "首席专业技术专家"
+        },
+        {
+            "name": "夏广新",
+            "company": "上海医药集团股份有限公司",
+            "position": "中央研究院副院长"
+        },
+        {
+            "name": "江俊",
+            "company": "中国科学技术大学",
+            "position": "教授"
+        },
+        {
+            "name": "欧阳万里",
+            "company": "上海人工智能实验室",
+            "position": "教授"
+        },
+        {
+            "name": "张娅",
+            "company": "上海交通大学",
+            "position": "教授"
+        },
+        {
+            "name": "李琳",
+            "company": "爱思唯尔",
+            "position": "全球高级副总裁兼大中华区总裁"
+        },
+        {
+            "name": "马明",
+            "company": "联合国全球地理信息知识与创新中心",
+            "position": "副主任"
+        },
+        {
+            "name": "白磊",
+            "company": "上海人工智能实验室",
+            "position": "青年科学家"
+        },
+        {
+            "name": "杨帆",
+            "company": "崖州湾实验室",
+            "position": "青年科学家"
+        }
+    ]
+}

@@ -1,0 +1,149 @@
+{
+    "name": "隐私计算：助力大模型与数据可信融合发展论坛",
+    "addr": "世博中心金厅A",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-21/7247a483bc6b434d908b2174f4a13a55.png",
+    "desc": "凭借大数据、大算力的「大力出奇迹」，各类大模型「智能涌现」，再一次诠释了「数据是新时代的石油」。然而 AI 大模型是把双刃剑，随着 ChatGPT 等智能化工具产品的应用，暴露出的用户隐私泄漏、存储敏感信息、未授权访问等隐私安全问题也再次引发广泛关注。作为平衡数据流通与隐私安全的关键技术路径，隐私计算技术和产业迎来突破发展新动力。因此，本论坛聚焦探讨隐私计算如何为大模型规模化应用以及数据跨行业流通提供可信安全底座。\n",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434787189817344.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "14:00",
+            "endTime": "14:10",
+            "speechGuest": "",
+            "speechTheme": "领导致辞"
+        },
+        {
+            "startTime": "14:10",
+            "endTime": "14:30",
+            "speechGuest": "",
+            "speechTheme": "【主题分享】从通算、智算到密态算力演进与展望"
+        },
+        {
+            "startTime": "14:30",
+            "endTime": "14:50",
+            "speechGuest": "",
+            "speechTheme": "【主题分享】"
+        },
+        {
+            "startTime": "14:50",
+            "endTime": "15:10",
+            "speechGuest": "",
+            "speechTheme": "【主题分享】"
+        },
+        {
+            "startTime": "15:10",
+            "endTime": "15:25",
+            "speechGuest": "",
+            "speechTheme": "【主题分享】大模型时代里的数据保护欧洲法律实践"
+        },
+        {
+            "startTime": "15:25",
+            "endTime": "15:40",
+            "speechGuest": "",
+            "speechTheme": "【主题分享】数字时代的丝绸之路——探索新时代数据流通的可信路径"
+        },
+        {
+            "startTime": "15:40",
+            "endTime": "15:55",
+            "speechGuest": "",
+            "speechTheme": "【主题分享】破解数据流通症结：匿名化技术与法律"
+        },
+        {
+            "startTime": "15:55",
+            "endTime": "16:10",
+            "speechGuest": "",
+            "speechTheme": "【主题分享】隐私计算产品通用安全分级：标准与实践"
+        },
+        {
+            "startTime": "16:10",
+            "endTime": "16:25",
+            "speechGuest": "",
+            "speechTheme": "【重磅发布】“隐语 Cloud” 大模型密算平台"
+        },
+        {
+            "startTime": "16:25",
+            "endTime": "16:40",
+            "speechGuest": "",
+            "speechTheme": "【主题分享】"
+        },
+        {
+            "startTime": "16:40",
+            "endTime": "16:55",
+            "speechGuest": "",
+            "speechTheme": "【主题分享】基于 Multi-Agent 的智能家庭医生问题和挑战"
+        },
+        {
+            "startTime": "16:55",
+            "endTime": "17:30",
+            "speechGuest": "",
+            "speechTheme": "【圆桌讨论】大模型大规模数据应用的问题和挑战"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "刘健",
+            "company": "浙江大学网络空间安全学院",
+            "position": "研究员"
+        },
+        {
+            "name": "Christoph Krönke",
+            "company": "维也纳经济与商业大学",
+            "position": "公法全职大学教授"
+        },
+        {
+            "name": "陈俊琰",
+            "company": "中国信息通信研究院华东分院",
+            "position": "总工程师"
+        },
+        {
+            "name": "刘敬谦",
+            "company": "中国电信集团有限公司",
+            "position": "大模型首席专家、大模型团队负责人"
+        },
+        {
+            "name": "彭晋",
+            "company": "蚂蚁集团科技有限公司",
+            "position": "技术战略与执行部副总经理"
+        },
+        {
+            "name": "王磊",
+            "company": "浙江蚂蚁密算科技有限公司",
+            "position": "蚂蚁密算CEO"
+        },
+        {
+            "name": "韦韬",
+            "company": "蚂蚁集团",
+            "position": "副总裁，首席技术安全官"
+        },
+        {
+            "name": "许可",
+            "company": "对外经济贸易大学",
+            "position": "数字经济与法律创新研究中心主任"
+        },
+        {
+            "name": "杨波",
+            "company": "北京银联金卡科技有限公司（国家金融科技测评中心）",
+            "position": "副研究员、研发中心负责人"
+        },
+        {
+            "name": "余超凡",
+            "company": "蚂蚁集团",
+            "position": "隐私计算部-技术总监"
+        },
+        {
+            "name": "郁昱",
+            "company": "上海交通大学计算机科学与工程系",
+            "position": "教授"
+        },
+        {
+            "name": "袁博",
+            "company": "中国信息通信研究院",
+            "position": "云计算与大数据研究所副主任、隐私计算联盟副秘书长"
+        },
+        {
+            "name": "张超 ",
+            "company": "北京左医科技有限公司",
+            "position": "首席执行官"
+        }
+    ]
+}

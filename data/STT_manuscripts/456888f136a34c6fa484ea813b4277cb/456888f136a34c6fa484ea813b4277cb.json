@@ -1,0 +1,97 @@
+{
+    "name": "未来生产力：千行百业的AI落地实践论坛",
+    "addr": "世博中心617会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-07-01/9e033395c17745b9a88e2af64c96b748.jpg",
+    "desc": "钉钉主办的“未来生产力：千行百业的AI落地实践”分论坛将集中展示钉钉在智能组织构建和产业互联网创新方面的先进经验，分享AI在实际生产工作场景中的创新应用案例，旨在激发企业和社会各界对AI赋能工作的深入思考和积极行动，推动AI技术在各行业的广泛应用和深度融合。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434777920405504.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "14:00",
+            "endTime": "14:10",
+            "speechGuest": "",
+            "speechTheme": "未来生产力"
+        },
+        {
+            "startTime": "14:10",
+            "endTime": "14:30",
+            "speechGuest": "",
+            "speechTheme": "全球人工智能发展及应用趋势"
+        },
+        {
+            "startTime": "14:30",
+            "endTime": "15:15",
+            "speechGuest": "",
+            "speechTheme": "企业智能化实践"
+        },
+        {
+            "startTime": "15:15",
+            "endTime": "15:50",
+            "speechGuest": "",
+            "speechTheme": "人人都是超级助理创造者"
+        },
+        {
+            "startTime": "15:50",
+            "endTime": "17:00",
+            "speechGuest": "",
+            "speechTheme": "钉钉AI助理实践分享"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "杨猛",
+            "company": "钉钉（中国）信息技术有限公司",
+            "position": "钉钉全球商业总裁"
+        },
+        {
+            "name": "程操红",
+            "company": "钉钉（中国）信息技术有限公司",
+            "position": "钉钉首席技术官"
+        },
+        {
+            "name": "张成奇",
+            "company": "悉尼科技大学",
+            "position": "副校长"
+        },
+        {
+            "name": "陈志永",
+            "company": "金牌厨柜家居科技股份有限公司",
+            "position": "效能信息部总监"
+        },
+        {
+            "name": "史炎平",
+            "company": "深圳航空有限责任公司",
+            "position": "项目经理"
+        },
+        {
+            "name": "王今非",
+            "company": "杭州市公安局",
+            "position": "四级主任科员"
+        },
+        {
+            "name": "周子超",
+            "company": "铁骑力士食品有限责任公司",
+            "position": "基础架构总监"
+        },
+        {
+            "name": "崔峻",
+            "company": "横琴人寿保险有限公司",
+            "position": "销售赋能产品团队负责人"
+        },
+        {
+            "name": "李刚",
+            "company": "上海环世物流(集团)有限公司",
+            "position": "数字化解决方案总监"
+        },
+        {
+            "name": "赵泓宇",
+            "company": "北京华夏幸福数字科技有限公司",
+            "position": "首席执行官"
+        },
+        {
+            "name": "林琚",
+            "company": "杭州墨见科技有限公司",
+            "position": "总经理"
+        }
+    ]
+}

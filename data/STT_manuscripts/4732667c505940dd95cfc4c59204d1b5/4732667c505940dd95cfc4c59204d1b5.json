@@ -1,0 +1,83 @@
+{
+    "name": "可信大模型助力产业创新发展论坛",
+    "addr": "世博中心金厅A",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-25/adabacc424274ff39d0d93817c27c41c.jpg",
+    "desc": "近年来，人工智能技术的飞速发展已经深刻改变了社会的方方面面，大模型作为其中的重要分支，其影响力也日益凸显，大模型技术正迎来前所未有的发展机遇和应用前景。然而，大模型在医疗、金融等产业实际落地时仍面临领域专业知识薄弱、复杂决策能力弱等多重“不可信”的挑战。在此背景下，由新一代人工智能产业技术创新战略联盟主办、蚂蚁集团单位承办的“可信大模型助力产业创新发展论坛”，将邀请大模型领域产学研用专家学者、企业代表，围绕如何打造准确专业、真实严谨、可控透明、安全合规的可信大模型，推动可信大模型助力千行百业高质量发展展开探讨，形成行业共识。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434705216307200.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "09:00",
+            "endTime": "09:20",
+            "speechGuest": null,
+            "speechTheme": "开场介绍和领导致辞"
+        },
+        {
+            "startTime": "09:20",
+            "endTime": "09:40",
+            "speechGuest": null,
+            "speechTheme": "大模型产业应用的机遇和挑战"
+        },
+        {
+            "startTime": "09:40",
+            "endTime": "09:55",
+            "speechGuest": null,
+            "speechTheme": "ChatGPT席卷，人工智能发展新机遇"
+        },
+        {
+            "startTime": "09:55",
+            "endTime": "10:10",
+            "speechGuest": null,
+            "speechTheme": "大模型可信应用架构研究报告"
+        },
+        {
+            "startTime": "10:10",
+            "endTime": "10:15",
+            "speechGuest": null,
+            "speechTheme": "（生成式）人工智能能力评估标准发布"
+        },
+        {
+            "startTime": "10:15",
+            "endTime": "10:30",
+            "speechGuest": null,
+            "speechTheme": "大模型与智能体技术创新与发展"
+        },
+        {
+            "startTime": "10:30",
+            "endTime": "10:45",
+            "speechGuest": null,
+            "speechTheme": "蚂蚁百灵大模型最新研发成果发布"
+        },
+        {
+            "startTime": "10:45",
+            "endTime": "11:25",
+            "speechGuest": null,
+            "speechTheme": "备选题目： chatgpt后，下一个AI爆款应用在哪？ 大模型爆款应用的n种可能"
+        },
+        {
+            "startTime": "11:25",
+            "endTime": "11:40",
+            "speechGuest": null,
+            "speechTheme": "蚂蚁百灵大模型医疗生态伙伴共建计划启动"
+        },
+        {
+            "startTime": "11:40",
+            "endTime": "11:55",
+            "speechGuest": null,
+            "speechTheme": "大模型在金融行业的应用探索"
+        },
+        {
+            "startTime": "11:55",
+            "endTime": "12:00",
+            "speechGuest": null,
+            "speechTheme": "大模型应用典型案例征集启动仪式"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "高文",
+            "company": "鹏城实验室",
+            "position": "主任"
+        }
+    ]
+}
