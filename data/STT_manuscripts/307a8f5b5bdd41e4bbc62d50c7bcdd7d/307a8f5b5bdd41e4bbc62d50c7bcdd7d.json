@@ -1,0 +1,67 @@
+{
+    "name": "新质生产力：AI Infra 构筑企业新动能论坛",
+    "addr": "世博中心517会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-19/f6039c6796974572aebb8981ac12e9a3.jpg",
+    "desc": "大模型的应用正在改变我们与数据的互动方式。企业内部，数据处理流程正经历变革，AI能力成为技术实力的重要评判标准。过去，数据呈现多模态、碎片化，存在孤岛问题。现在，大模型将多样化数据编码为高维向量，实现统一处理，升级了企业级数据库为知识库。借助知识库平台，内部、个人经验及公开信息数据转化为高价值知识，提升数据智能化和安全性。个人经验数据的知识转化和模型微调使知识库更具个性化，实现个人化、专家级大模型应用。随着大模型发展，企业基础设施需升级至AI infra，涉及多模数据库、大模型、LLMops、语料工具等。本次会议展望AI基础设施建设趋势，探讨基于大模型、多模数据库构建知识库，实现生产力变革。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434772270678016.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "14:00",
+            "endTime": "14:30",
+            "speechGuest": null,
+            "speechTheme": "AI Infra技术趋势热点观察"
+        },
+        {
+            "startTime": "14:30",
+            "endTime": "15:15",
+            "speechGuest": null,
+            "speechTheme": "从Data Infra到AI Infra：大模型时代的新型基础设施"
+        },
+        {
+            "startTime": "15:15",
+            "endTime": "15:45",
+            "speechGuest": null,
+            "speechTheme": "赋能大模型基础设施，释放每个人的生产力"
+        },
+        {
+            "startTime": "15:45",
+            "endTime": "16:15",
+            "speechGuest": null,
+            "speechTheme": "人工智能赋能水运交通行业——“数”海“智”行"
+        },
+        {
+            "startTime": "16:15",
+            "endTime": "16:45",
+            "speechGuest": null,
+            "speechTheme": "普联软件&星环科技基于大模型的财务管理智能化应用"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "白晶",
+            "company": "交通运输部水运科学研究院 ",
+            "position": "大数据中心主任"
+        },
+        {
+            "name": "刘斌",
+            "company": "英特尔中国",
+            "position": "软件技术合作事业部高级总监"
+        },
+        {
+            "name": "刘萌",
+            "company": "",
+            "position": "普联软件首席架构师"
+        },
+        {
+            "name": "孙元浩",
+            "company": "星环信息科技（上海）股份有限公司",
+            "position": "CEO，创始人"
+        },
+        {
+            "name": "中信证券",
+            "company": "",
+            "position": ""
+        }
+    ]
+}

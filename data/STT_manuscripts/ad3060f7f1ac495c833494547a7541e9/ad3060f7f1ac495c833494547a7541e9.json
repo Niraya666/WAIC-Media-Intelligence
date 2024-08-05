@@ -1,0 +1,75 @@
+{
+    "name": "“ AI+赋能    智算未来 ”  联通人工智能论坛",
+    "addr": "世博中心430会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-17/18578226c4624b17b77f5cb11c5d7f6e.jpg",
+    "desc": "人工智能作为当今科技革命和产业变革的重要驱动力，正在深刻改变着我们的生产生活方式和经济社会发展格局。由中国联通主办的人工智能+论坛将围绕“AI+赋能 智算未来”主题展开，旨在推动人工智能产业发展，进一步助力上海人工智能产业生态集聚。\n本次论坛大咖云集、亮点纷呈！多位科学家、博士以及顶尖行业专家，分享人工智能领域的最新研究成果，开启一场“思维碰撞”之旅。论坛上还将重磅发布智算中心、推介元景大模型、首发多项AI+场景创新能力，并联手产学研各界，共建全产业链生态。\n",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/04/434399166398465.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "14:05",
+            "endTime": "14:20",
+            "speechGuest": null,
+            "speechTheme": "领导致辞"
+        },
+        {
+            "startTime": "14:20",
+            "endTime": "14:35",
+            "speechGuest": null,
+            "speechTheme": "主旨演讲一"
+        },
+        {
+            "startTime": "14:35",
+            "endTime": "14:40",
+            "speechGuest": null,
+            "speechTheme": "发布仪式"
+        },
+        {
+            "startTime": "14:40",
+            "endTime": "14:55",
+            "speechGuest": null,
+            "speechTheme": "主旨演讲二"
+        },
+        {
+            "startTime": "14:55",
+            "endTime": "15:05",
+            "speechGuest": null,
+            "speechTheme": "揭牌仪式及主题演讲"
+        },
+        {
+            "startTime": "15:05",
+            "endTime": "15:25",
+            "speechGuest": null,
+            "speechTheme": "应用场景发布"
+        },
+        {
+            "startTime": "15:25",
+            "endTime": "15:50",
+            "speechGuest": null,
+            "speechTheme": "战略合作发布及分享"
+        },
+        {
+            "startTime": "15:50",
+            "endTime": "15:55",
+            "speechGuest": null,
+            "speechTheme": "联合倡议仪式"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "堵炜炜",
+            "company": "联通（上海）产业互联网有限公司",
+            "position": "总经理"
+        },
+        {
+            "name": "范俊捷",
+            "company": "中国联合网络通信有限公司上海市分公司",
+            "position": "工业互联网事业部总经理"
+        },
+        {
+            "name": "叶强",
+            "company": "中国联合网络通信有限公司上海市分公司",
+            "position": "网络部总经理"
+        }
+    ]
+}

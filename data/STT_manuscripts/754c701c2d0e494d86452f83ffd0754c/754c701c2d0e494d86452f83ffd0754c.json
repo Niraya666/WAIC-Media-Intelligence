@@ -1,0 +1,67 @@
+{
+    "name": "国际AI安全前沿技术论坛（下午场）",
+    "addr": "线上",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-07-02/af593036d71742248784bf1b03d64ba5.jpg",
+    "desc": "随着大模型技术的深入发展，其安全性和可信性已经成为行业关注和研究的热点。本次国际AI安全前沿技术论坛聚焦大模型安全领域的关键技术问题，包括生成内容安全、价值对齐、数据安全等多个方面。论坛邀请到了中美两国的顶尖专家，共同深入探讨如何构建具有社会责任感的通用人工智能，探索国际合作的新途径，确保AI技术的健康发展和广泛应用。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/media/segment/2024/07/06/1ZygCXAAO/1ZygocjiU_1ZygCXAAO_Origin.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "14:00",
+            "endTime": "14:30",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲"
+        },
+        {
+            "startTime": "14:30",
+            "endTime": "15:00",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲"
+        },
+        {
+            "startTime": "15:00",
+            "endTime": "15:30",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲"
+        },
+        {
+            "startTime": "15:30",
+            "endTime": "16:00",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲"
+        },
+        {
+            "startTime": "16:00",
+            "endTime": "16:30",
+            "speechGuest": "",
+            "speechTheme": "总结致辞"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "Dan Hendrycks",
+            "company": "人工智能安全中心",
+            "position": "主任"
+        },
+        {
+            "name": "Jimmy Ba",
+            "company": "多伦多大学",
+            "position": "助理教授"
+        },
+        {
+            "name": "Max Tegmark",
+            "company": "麻省理工学院",
+            "position": "教授"
+        },
+        {
+            "name": "Peter Railton",
+            "company": "密西根大学安娜堡分校",
+            "position": "教授"
+        },
+        {
+            "name": "Stuart Russell",
+            "company": "加州大学伯克利分校",
+            "position": "教授"
+        }
+    ]
+}

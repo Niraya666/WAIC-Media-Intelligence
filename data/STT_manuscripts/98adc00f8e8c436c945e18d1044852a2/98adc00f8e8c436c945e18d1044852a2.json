@@ -1,0 +1,152 @@
+{
+    "name": "人形机器人与具身智能发展论坛",
+    "addr": "世博展览馆1A号会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-15/4fb7ca5947bb49e3bb2a55936eba0ba7.jpg",
+    "desc": "本场人形机器人与具身智能发展论坛由国家地方共建人形机器人创新中心及中国电子学会承办，机器之心及机器人技术与应用杂志协办。本论坛将见证全球首个全尺寸开源公版人形机器人青龙以及全球首个全尺寸人形机器人开源社区OpenLoong的重磅发布，并启动世界人形机器人与具身智能大赛。\n与此同时，本次论坛将聚集国内外产业、学术、开发者代表，深入研讨技术创新、开源生态建设，引领中国人形机器人产业扬帆远航! ",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/04/434435283484672.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "14:30",
+            "endTime": "14:45",
+            "speechGuest": null,
+            "speechTheme": "领导致辞"
+        },
+        {
+            "startTime": "14:45",
+            "endTime": "15:25",
+            "speechGuest": null,
+            "speechTheme": "人形机器人青龙、开源社区OpenLoong、机器人大赛发布"
+        },
+        {
+            "startTime": "15:45",
+            "endTime": "16:05",
+            "speechGuest": null,
+            "speechTheme": "人形机器人在东盟制造业的潜能与前景"
+        },
+        {
+            "startTime": "16:05",
+            "endTime": "16:25",
+            "speechGuest": null,
+            "speechTheme": "穹彻具身大脑与具身scaling law"
+        },
+        {
+            "startTime": "16:25",
+            "endTime": "16:40",
+            "speechGuest": null,
+            "speechTheme": "具身智能是实现AGI最有效途径"
+        },
+        {
+            "startTime": "16:55",
+            "endTime": "17:10",
+            "speechGuest": null,
+            "speechTheme": "机器人自监督学习和人形机器人发展"
+        },
+        {
+            "startTime": "17:10",
+            "endTime": "17:25",
+            "speechGuest": null,
+            "speechTheme": "通过自监督实现AI终生学习"
+        },
+        {
+            "startTime": "17:25",
+            "endTime": "17:55",
+            "speechGuest": null,
+            "speechTheme": "关于人形机器人的场景落地及产业应用的讨论"
+        },
+        {
+            "startTime": "15:25",
+            "endTime": "15:45",
+            "speechGuest": null,
+            "speechTheme": "人工智能的希望与危险"
+        },
+        {
+            "startTime": "16:40",
+            "endTime": "16:55",
+            "speechGuest": null,
+            "speechTheme": "面向通用机器人的具身多模态大模型系统"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "卢策吾",
+            "company": "穹彻智能联合创始人",
+            "position": "教授"
+        },
+        {
+            "name": "王鹤",
+            "company": "北大-银河具身智能联合实验室",
+            "position": "北京大学助理教授、北大-银河具身智能联合实验室主任"
+        },
+        {
+            "name": "Chee-Fai Tan",
+            "company": "东盟智慧产业联盟",
+            "position": "主席"
+        },
+        {
+            "name": "丁亮",
+            "company": "哈尔滨工业大学",
+            "position": "教授"
+        },
+        {
+            "name": "高峰",
+            "company": "上海交通大学",
+            "position": "教授"
+        },
+        {
+            "name": "胡宇航",
+            "company": "哥伦比亚大学",
+            "position": "博士研究生"
+        },
+        {
+            "name": "江磊",
+            "company": "国家地方共建人形机器人创新中心",
+            "position": "首席科学家"
+        },
+        {
+            "name": "罗杰·瑞迪",
+            "company": "美国国家工程院",
+            "position": "院士"
+        },
+        {
+            "name": "苏航",
+            "company": "清华大学",
+            "position": "研究员"
+        },
+        {
+            "name": "孙逸凡",
+            "company": "卡耐基梅隆大学， 机器人研究所，智能控制实验室",
+            "position": "博士研究生"
+        },
+        {
+            "name": "王宏涛",
+            "company": "浙江大学",
+            "position": "教授"
+        },
+        {
+            "name": "王兴兴",
+            "company": "宇树科技",
+            "position": "创始人"
+        },
+        {
+            "name": "谢少锋",
+            "company": "工业和信息化部科技司",
+            "position": "司长"
+        },
+        {
+            "name": "邢伯阳",
+            "company": "国家地方共建人形机器人创新中心",
+            "position": "技术负责人"
+        },
+        {
+            "name": "徐晓兰",
+            "company": "中国电子学会",
+            "position": "理事长"
+        },
+        {
+            "name": "许彬",
+            "company": "国家地方共建人形机器人创新中心",
+            "position": "总经理"
+        }
+    ]
+}

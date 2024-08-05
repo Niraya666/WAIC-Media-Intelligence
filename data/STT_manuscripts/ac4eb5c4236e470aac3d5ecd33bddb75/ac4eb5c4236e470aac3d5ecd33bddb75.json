@@ -1,0 +1,71 @@
+{
+    "name": "智造数字劳动力，打造新质生产力",
+    "addr": "世博中心518会议室",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-17/856633d5e2dd44e3980aded69591517d.jpg",
+    "desc": "中国太保将在2024世界人工智能大会（WAIC 2024）举办“智造数字劳动力，打造新质生产力”高端论坛。论坛将聚焦数智科技在生产力革新中的作用。\n1、中国太保大模型数字劳动力成果发布，保险大模型应用深度探索。\n2、中国太保与浦发银行联合发布白皮书，开创金融科技创新新路径。\n3、业界大咖云集，来自复旦、华为、阿里、科大讯飞、普华永道、上海科学智能研究院等大咖共商大模型发展。\n7月5日下午隆重开启，让所有人有机会共同见证并参与到这一推动行业进步的高质量对话。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434777295486976.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "12:40",
+            "endTime": "13:15",
+            "speechGuest": null,
+            "speechTheme": "暖场视频"
+        },
+        {
+            "startTime": "13:15",
+            "endTime": "13:20",
+            "speechGuest": null,
+            "speechTheme": "主持人开场"
+        },
+        {
+            "startTime": "13:20",
+            "endTime": "13:30",
+            "speechGuest": null,
+            "speechTheme": "领导欢迎致辞"
+        },
+        {
+            "startTime": "13:30",
+            "endTime": "13:50",
+            "speechGuest": null,
+            "speechTheme": "大模型下一阶段的技术突破方向"
+        },
+        {
+            "startTime": "13:50",
+            "endTime": "14:05",
+            "speechGuest": null,
+            "speechTheme": "中国太保&浦发银行\n数字合作生态白皮书"
+        },
+        {
+            "startTime": "14:05",
+            "endTime": "14:30",
+            "speechGuest": null,
+            "speechTheme": "伏羲气象大模型及在减灾领域应用前景展望"
+        },
+        {
+            "startTime": "14:05",
+            "endTime": "14:30",
+            "speechGuest": null,
+            "speechTheme": "合作备忘录签约"
+        },
+        {
+            "startTime": "14:30",
+            "endTime": "15:15",
+            "speechGuest": null,
+            "speechTheme": "太保数字劳动力实验室成果发布\n产险在线理赔数字劳动力\n寿险业务员陪练数字劳动力\n健康险理赔审核数字劳动力"
+        },
+        {
+            "startTime": "15:15",
+            "endTime": "15:35",
+            "speechGuest": null,
+            "speechTheme": "金融行业下的新质生产力"
+        },
+        {
+            "startTime": "15:35",
+            "endTime": "16:20",
+            "speechGuest": null,
+            "speechTheme": "圆桌讨论：\n大模型助力各行业打造新质生产力的展望"
+        }
+    ],
+    "guestVisitList": []
+}

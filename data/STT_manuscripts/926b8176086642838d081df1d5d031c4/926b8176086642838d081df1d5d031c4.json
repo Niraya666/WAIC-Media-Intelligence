@@ -1,0 +1,41 @@
+{
+    "name": "智能向善 开放共治",
+    "addr": "世博中心银厅",
+    "coverImgUrl": "https://static.worldaic.com.cn/IMAGE2024/2024-06-12/7a4823b1e10248298513a233808df124.jpg",
+    "desc": "为贯彻落实习近平总书记“加快建设金融强国”，做好金融“五篇大文章”的重要指示和精神，发展新质生产力，聚焦AI前沿技术健康发展，构建可持续的数字金融核心驱动力，提升金融服务水平及风险防范能力，交通银行举办“智能向善 开放共治”论坛。 \n新一轮科技革命持续推动金融智能化发展。以生成式AI为代表的人工智能前沿技术正在进入应用落地新阶段，激发金融数字化转型新浪潮，同时仍存在技术、安全、伦理等多方面挑战。本论坛邀请政府机构、知名高校、金融机构、研究机构、科技公司等各界嘉宾，探讨并协力推进金融科技向善，构建开放、公正、有效的治理机制，充分发挥新质生产力的牵引作用，赋能高质量可持续发展，助力金融强国建设。",
+    "chinaVideoUrl480pCh": "https://pull0109ise.mudu.tv/library/100000000000000/291981548879899/file/upload/2024/07/05/434780411822080.m3u8",
+    "chinaVideoUrl720pCh": "",
+    "scheduleInfoList": [
+        {
+            "startTime": "14:00",
+            "endTime": "14:20",
+            "speechGuest": "",
+            "speechTheme": "领导致辞"
+        },
+        {
+            "startTime": "14:20",
+            "endTime": "16:00",
+            "speechGuest": "",
+            "speechTheme": "主旨演讲"
+        },
+        {
+            "startTime": "16:00",
+            "endTime": "16:15",
+            "speechGuest": "",
+            "speechTheme": "发布仪式"
+        },
+        {
+            "startTime": "16:15",
+            "endTime": "17:00",
+            "speechGuest": "",
+            "speechTheme": "圆桌论坛"
+        }
+    ],
+    "guestVisitList": [
+        {
+            "name": "任德奇",
+            "company": "交通银行股份有限公司",
+            "position": "党委书记、董事长"
+        }
+    ]
+}
